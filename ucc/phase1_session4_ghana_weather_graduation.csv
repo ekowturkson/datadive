@@ -1,0 +1,2001 @@
+﻿record_id,year,region,district,school_name,school_type,rainfall_mm,average_temperature_c,attendance_rate_pct,graduation_rate_pct,teacher_student_ratio,electricity_outage_days
+1,2025,North East,Walewale,Apam SHS,mission,101.5,30.6,86.1,87.2,0.047,6
+2,2019,Bono East,Kintampo,Wesley Girls,public,55.5,31.7,82.7,90,0.043,7
+3,2020,Eastern,Nsawam,Mfantsipim School,private,36.3,32.1,89.3,89.1,0.054,5
+4,2023,Ahafo,Tano North,Adisadel College,mission,61.7,33,78,79.1,0.032,5
+5,2024,Western,Tarkwa,Mfantsipim School,mission,113.6,32.6,69.3,87.1,0.047,3
+6,2024,Bono,Berekum,Ghana National College,mission,47.9,32,64.2,79.5,0.044,5
+7,2019,Upper East,Navrongo,Adisadel College,public,38,28.6,65.1,74.2,0.053,2
+8,2021,Central,Cape Coast,St Augustine's College,private,44.4,28.5,80.9,79.7,0.052,5
+9,2020,Ashanti,Mampong,Mfantsipim School,private,47.9,27.7,64.5,77.1,0.045,5
+10,2023,Ahafo,Goaso,Ghana National College,public,21.2,26.9,77.5,93.1,0.039,7
+11,2018,Northern,Tamale,Apam SHS,public,33.9,24.6,74.9,67.1,0.031,3
+12,2024,Upper West,Wa,Mfantsipim School,mission,32.4,30.7,72.4,85.8,0.05,7
+13,2023,North East,Chereponi,Ghana National College,mission,26.6,28.9,82.8,88.8,0.05,4
+14,2020,Bono,Wenchi,Apam SHS,private,74.9,29.5,73.7,87.3,0.037,6
+15,2023,Western,Sekondi-Takoradi,Mfantsipim School,mission,80,31,72.9,81.7,0.033,3
+16,2023,Eastern,Nsawam,Apam SHS,mission,34.5,29.1,76.7,81.3,0.054,5
+17,2024,North East,Nalerigu,Ghana National College,public,59.1,28,75.8,91.5,0.04,6
+18,2018,Volta,Ho,St Augustine's College,private,110.3,28.5,77.1,75.4,0.048,4
+19,2022,Eastern,Koforidua,UCC Practice School,mission,14.5,27.3,86.9,80.1,0.044,5
+20,2024,North East,Chereponi,Ghana National College,mission,39.5,31.9,75.4,70.8,0.047,0
+21,2023,Bono,Sunyani,UCC Practice School,mission,56.2,25.2,82,82.5,0.027,3
+22,2022,Western,Axim,Cape Coast Technical University,public,36.7,30.2,72.8,96.9,0.045,5
+23,2023,Western,Sekondi-Takoradi,Wesley Girls,private,132.6,29.3,68.1,74.5,0.042,4
+24,2024,Upper East,Bolgatanga,UCC Practice School,public,128.8,25.2,76.4,85.9,0.048,4
+25,2023,Bono East,Atebubu,Mfantsipim School,mission,64.5,28.5,75.6,80,0.054,5
+26,2022,North East,Nalerigu,UCC Practice School,private,96,30.8,70.5,79.9,0.051,6
+27,2022,Savannah,Damongo,UCC Practice School,mission,41.4,28.5,81.9,79.5,0.039,2
+28,2024,Oti,Dambai,Apam SHS,private,52.3,26.8,62.9,75.7,0.044,1
+29,2024,Savannah,Bole,Adisadel College,public,50.8,29.1,79.9,79.2,0.033,4
+30,2024,Oti,Jasikan,Adisadel College,public,19,25,74.6,92.4,0.026,6
+31,2023,Western,Tarkwa,Apam SHS,mission,80,27.4,72,80.1,0.031,4
+32,2022,Upper West,Jirapa,Apam SHS,mission,156.8,25.8,88.3,78.4,0.028,3
+33,2020,North East,Nalerigu,Apam SHS,mission,90.2,29.7,85.1,94.1,0.048,8
+34,2018,Eastern,Koforidua,Adisadel College,public,26.3,32,82,75.2,0.032,6
+35,2022,Oti,Jasikan,Ghana National College,public,79.7,30.2,71.2,85.9,0.03,3
+36,2025,Western,Axim,Cape Coast Technical University,private,60.6,33.8,63,78.4,0.035,6
+37,2022,Volta,Kpando,Adisadel College,private,47.4,31.9,91.7,95.7,0.054,2
+38,2018,Upper West,Jirapa,Ghana National College,private,70.1,26.5,65.8,73.9,0.034,2
+39,2024,Volta,Keta,Apam SHS,public,48.6,28.4,86.5,93.3,0.046,4
+40,2020,Eastern,Nsawam,UCC Practice School,private,79.5,30.1,78.6,87,0.051,6
+41,2023,Northern,Tamale,Adisadel College,mission,85.6,27,75,84,0.051,4
+42,2024,North East,Nalerigu,Adisadel College,mission,48.4,30.3,76.6,84.5,0.054,8
+43,2022,Bono,Sunyani,Apam SHS,public,77.1,30.1,84,80.3,0.037,6
+44,2023,Greater Accra,Tema,Apam SHS,public,84.4,29.8,89.5,99,0.041,3
+45,2023,Upper East,Navrongo,Cape Coast Technical University,private,33.4,28.8,86.1,86.8,0.033,3
+46,2024,Northern,Savelugu,St Augustine's College,public,22.8,26.2,80.6,83.5,0.028,4
+47,2025,Upper East,Navrongo,St Augustine's College,public,81.6,30.1,93.3,86.6,0.055,1
+48,2025,Oti,Dambai,St Augustine's College,mission,72.2,29.2,82.1,87.1,0.052,5
+49,2020,Savannah,Damongo,Apam SHS,private,145.5,26.9,72.4,84.2,0.036,1
+50,2025,Bono,Berekum,Mfantsipim School,public,33.1,29.2,84.3,89.7,0.049,2
+51,2022,Savannah,Salaga,Ghana National College,private,31.3,28,78.4,82.5,0.051,4
+52,2020,Northern,Savelugu,UCC Practice School,public,57.2,30.4,80.6,88.6,0.033,4
+53,2023,Central,Kasoa,Ghana National College,private,16.7,30.4,86,92.2,0.054,2
+54,2021,Oti,Kadjebi,St Augustine's College,mission,50.7,27.5,81,95.5,0.036,3
+55,2022,Northern,Tamale,Apam SHS,mission,69.6,28.9,78.7,85.8,0.043,6
+56,2022,Ahafo,Asunafo North,Cape Coast Technical University,mission,65.1,27.7,72.4,87.7,0.05,7
+57,2025,Upper West,Jirapa,St Augustine's College,mission,65.4,33,94.5,83.3,0.044,4
+58,2023,Bono East,Nkoranza,Apam SHS,mission,47.9,28.1,80,82.8,0.034,4
+59,2023,Upper East,Paga,UCC Practice School,private,67.1,29.8,76.3,75.4,0.054,4
+60,2023,Savannah,Bole,Apam SHS,public,65.5,34.1,83,78.3,0.026,6
+61,2019,Northern,Yendi,UCC Practice School,mission,27.1,21.9,86.8,87.1,0.042,4
+62,2024,Upper West,Tumu,Apam SHS,public,79,30.8,77.9,87.3,0.028,4
+63,2019,Western,Sekondi-Takoradi,Adisadel College,private,70.3,30.4,69.8,84.2,0.045,3
+64,2024,Upper West,Jirapa,Adisadel College,public,73.7,27.3,73.1,78,0.028,5
+65,2023,Upper East,Bolgatanga,Adisadel College,public,20.5,25.1,67.9,85.2,0.028,1
+66,2023,Upper West,Tumu,Mfantsipim School,public,26.1,27.8,75.9,76.4,0.041,5
+67,2023,Upper East,Bolgatanga,St Augustine's College,public,100.5,28.2,76.2,79.4,0.046,4
+68,2020,Upper East,Navrongo,St Augustine's College,mission,29,29.9,75.9,82.6,0.039,6
+69,2019,Western,Shama,Cape Coast Technical University,mission,30.9,25.2,86.1,81.5,0.053,5
+70,2020,Volta,Kpando,UCC Practice School,public,29.2,26.3,67.6,76,0.053,5
+71,2022,Northern,Savelugu,Apam SHS,public,56.5,27.7,80.9,86.6,0.039,3
+72,2022,Eastern,Koforidua,Cape Coast Technical University,private,35.3,34.7,68.8,78.3,0.044,5
+73,2023,Oti,Dambai,St Augustine's College,private,35.3,27.9,86.2,85.6,0.055,5
+74,2025,Eastern,Akim Oda,Adisadel College,public,9,26.8,61.6,88,0.05,3
+75,2021,Bono,Wenchi,Mfantsipim School,mission,35.3,31.2,78.8,88.7,0.03,7
+76,2021,Oti,Dambai,Wesley Girls,mission,132.6,24.4,83.1,85.5,0.028,5
+77,2019,Western,Shama,Wesley Girls,mission,32.9,26.6,80.6,81.1,0.043,2
+78,2023,Central,Mfantsiman,Adisadel College,mission,62.4,23.4,68,86.8,0.051,4
+79,2023,Volta,Hohoe,Adisadel College,public,105.8,28.7,79.7,78.2,0.048,2
+80,2022,North East,Bunkpurugu,Cape Coast Technical University,mission,50.2,27.4,78.2,81.6,0.045,9
+81,2020,Ashanti,Mampong,St Augustine's College,private,29.2,32.7,64.2,79.2,0.051,6
+82,2019,Ashanti,Ejisu,Ghana National College,mission,55,29.6,70.2,80.6,0.03,5
+83,2021,Bono East,Nkoranza,Apam SHS,public,12.8,28.8,72.7,71.6,0.04,6
+84,2018,Northern,Savelugu,UCC Practice School,private,52.6,26.2,66.2,81,0.049,3
+85,2020,Western North,Bodi,UCC Practice School,private,79,28.3,78.7,89.8,0.031,4
+86,2023,Central,Kasoa,Apam SHS,private,29.4,31.6,95.4,91.5,0.037,2
+87,2025,Bono,Sunyani,Adisadel College,public,77.5,26.3,76.2,88.9,0.04,3
+88,2018,Western,Shama,Adisadel College,mission,95,31.4,70.5,80.8,0.029,5
+89,2019,North East,Bunkpurugu,Wesley Girls,private,89.2,25.8,72.2,86.9,0.027,10
+90,2025,Western,Tarkwa,Cape Coast Technical University,public,60.1,28.4,59,69.4,0.041,5
+91,2019,Western North,Sefwi Wiawso,Apam SHS,mission,56.9,31,63.6,88.6,0.053,6
+92,2018,Western,Shama,Adisadel College,private,105.1,30.7,80.7,93.4,0.029,2
+93,2019,Upper East,Bolgatanga,UCC Practice School,mission,39.2,26.6,74.3,86.9,0.03,5
+94,2019,Western North,Bodi,Ghana National College,public,82.6,27.4,63.4,82.1,0.028,3
+95,2022,Savannah,Salaga,UCC Practice School,public,49.8,28.8,78.4,71.6,0.037,1
+96,2023,Greater Accra,Accra,St Augustine's College,public,65.8,33.9,74.4,76.3,0.038,2
+97,2020,Northern,Tamale,Ghana National College,private,57.3,33.8,82.1,87.2,0.055,5
+98,2021,Western North,Bibiani,Mfantsipim School,public,18.4,32.2,71.7,77.1,0.05,4
+99,2023,Oti,Kadjebi,UCC Practice School,mission,45.7,31.5,93.6,93.7,0.037,1
+100,2022,Eastern,Suhum,Apam SHS,private,62,25.2,66,78.7,0.037,9
+101,2019,Ashanti,Kumasi,Adisadel College,mission,38.8,32.4,69.9,77.5,0.038,3
+102,2021,Western North,Bibiani,Adisadel College,public,23.9,26,63.7,79.7,0.044,2
+103,2019,Ahafo,Goaso,Ghana National College,public,34.7,26.3,72.4,71.4,0.052,1
+104,2023,Central,Mfantsiman,Cape Coast Technical University,mission,73,29.9,75.6,73.2,0.033,5
+105,2025,Upper East,Navrongo,Mfantsipim School,private,79.6,29,82.5,82.9,0.033,5
+106,2025,Greater Accra,Madina,UCC Practice School,public,146.7,28.9,73.8,80,0.055,5
+107,2020,Greater Accra,Tema,St Augustine's College,private,20.4,25.5,81.9,83.3,0.041,3
+108,2019,Ashanti,Mampong,Ghana National College,public,46.5,27.9,83.3,83.9,0.046,5
+109,2018,Western North,Sefwi Wiawso,Cape Coast Technical University,mission,65.4,25.4,71.8,64.5,0.05,6
+110,2018,Eastern,Nsawam,Apam SHS,mission,84.8,32.2,66.3,81.4,0.041,4
+111,2018,Ahafo,Asutifi South,Wesley Girls,private,48,23.6,77.6,91.2,0.027,8
+112,2018,Upper East,Paga,Mfantsipim School,private,63.7,30.6,85.3,81,0.048,6
+113,2021,Upper East,Bawku,St Augustine's College,private,59.6,27.9,88.9,88.5,0.043,5
+114,2023,Ahafo,Tano North,Mfantsipim School,public,18.7,25.2,61.4,85.1,0.052,1
+115,2024,Ashanti,Mampong,UCC Practice School,mission,62.9,30.6,63.4,75.5,0.05,4
+116,2018,Central,Mfantsiman,Wesley Girls,public,79,31,64.2,68.3,0.038,4
+117,2025,Oti,Kadjebi,Mfantsipim School,private,121.3,28.2,85.2,93.5,0.028,4
+118,2019,Oti,Kadjebi,Apam SHS,public,47.5,32.9,86.4,80.6,0.042,7
+119,2025,Ashanti,Mampong,Ghana National College,private,50.5,27,75.7,81.9,0.055,6
+120,2024,Volta,Kpando,Ghana National College,public,133.3,32.6,75.1,76.5,0.031,7
+121,2024,Oti,Jasikan,Mfantsipim School,public,94.2,32.3,81.4,78.9,0.041,3
+122,2022,Volta,Hohoe,Adisadel College,private,19.1,24.2,81,79.7,0.03,3
+123,2019,Volta,Ho,UCC Practice School,public,34.5,35.6,91.8,91.3,0.054,6
+124,2019,Bono,Sunyani,Mfantsipim School,private,46.8,29.6,73.9,87.2,0.051,3
+125,2025,Northern,Savelugu,Apam SHS,mission,47.1,30.4,81.9,91,0.042,3
+126,2025,Central,Komenda,Apam SHS,private,45.8,25.3,77.5,86.2,0.045,6
+127,2025,Volta,Hohoe,Apam SHS,private,62,34.1,85.8,80.7,0.045,4
+128,2019,Upper West,Lawra,UCC Practice School,mission,49.2,28.8,82,80.8,0.054,7
+129,2019,Bono,Berekum,Ghana National College,public,61.3,27.4,76.3,81.3,0.055,2
+130,2022,Central,Cape Coast,St Augustine's College,private,38,29.6,73.1,89.6,0.046,2
+131,2024,Bono,Sunyani,Mfantsipim School,public,44.9,28.3,75.2,85.9,0.035,4
+132,2024,Savannah,Damongo,Wesley Girls,public,63.3,30.5,67.3,80.6,0.045,4
+133,2018,Volta,Ho,Wesley Girls,private,41.4,26,84,88.9,0.043,2
+134,2020,Central,Komenda,St Augustine's College,private,31.3,32.4,73.3,74.2,0.049,5
+135,2024,Upper West,Wa,St Augustine's College,private,88,32.9,77.5,98,0.052,4
+136,2021,Western,Tarkwa,St Augustine's College,private,68.3,30,64.4,74.4,0.045,7
+137,2022,Oti,Kadjebi,UCC Practice School,mission,75,30.7,79.4,81.6,0.041,3
+138,2022,Eastern,Akim Oda,St Augustine's College,private,25.9,25.6,73.5,76,0.051,2
+139,2024,Savannah,Bole,Mfantsipim School,mission,40.3,25.9,98.2,82.9,0.039,6
+140,2022,Upper East,Bawku,St Augustine's College,private,67.4,28.9,82,81.4,0.04,3
+141,2021,Western North,Sefwi Wiawso,St Augustine's College,public,57.1,26.3,59.8,80,0.027,4
+142,2025,Northern,Tamale,Apam SHS,private,63.5,20.7,86.4,87.2,0.028,1
+143,2019,Ashanti,Mampong,Adisadel College,public,65.5,30.4,78.4,76.9,0.039,4
+144,2023,Western,Shama,Apam SHS,mission,25,33.6,64.9,70.1,0.027,6
+145,2025,Western North,Bibiani,Wesley Girls,public,94.4,30.5,66.4,70.3,0.032,5
+146,2021,Volta,Kpando,UCC Practice School,mission,102.4,29,67.5,86.3,0.046,7
+147,2024,Western North,Bodi,Mfantsipim School,private,35,32.2,89.1,95.2,0.045,4
+148,2022,Bono,Wenchi,UCC Practice School,private,40.9,30,66.8,80.6,0.043,4
+149,2019,Eastern,Akim Oda,Ghana National College,public,114.9,26.7,76.1,84.3,0.05,3
+150,2025,Ashanti,Obuasi,Cape Coast Technical University,public,76.4,26.2,69.3,73.8,0.037,4
+151,2022,North East,Nalerigu,Apam SHS,public,101.5,26.1,70.8,83.7,0.046,2
+152,2025,Oti,Dambai,Cape Coast Technical University,public,30.4,27.9,80.7,82.1,0.045,4
+153,2025,Volta,Hohoe,Adisadel College,mission,35.2,31.1,81.1,63.9,0.046,2
+154,2025,Greater Accra,Accra,Adisadel College,mission,49.2,30.1,67.8,72.2,0.046,2
+155,2024,Western North,Bodi,Ghana National College,public,74.8,33,59.9,86.2,0.05,7
+156,2020,Volta,Hohoe,UCC Practice School,private,47.7,28.5,66.8,85.9,0.044,2
+157,2018,Ahafo,Tano North,Adisadel College,public,83.1,26.9,73.4,81.6,0.052,4
+158,2018,Central,Komenda,Mfantsipim School,mission,71.5,31.9,81.1,86.5,0.039,4
+159,2022,Central,Komenda,Wesley Girls,mission,53.6,27.6,80.9,81.8,0.055,4
+160,2019,Volta,Hohoe,UCC Practice School,private,45.3,30,88.7,84.8,0.027,6
+161,2020,Ahafo,Goaso,St Augustine's College,mission,51.5,30.6,82.2,83.9,0.03,3
+162,2020,Eastern,Koforidua,Adisadel College,public,26.9,35,71.5,74.7,0.029,5
+163,2023,Ashanti,Ejisu,Cape Coast Technical University,mission,44.4,27.7,79.4,87.6,0.039,3
+164,2019,Bono,Dormaa,Mfantsipim School,public,22.7,32.3,61.4,84.4,0.044,4
+165,2019,Central,Kasoa,Adisadel College,private,20.6,28.5,83,88.8,0.039,4
+166,2020,Western,Shama,Mfantsipim School,mission,49.6,32.5,82.3,90.5,0.032,4
+167,2018,Upper East,Paga,Adisadel College,private,70.1,28,67.5,80.2,0.033,5
+168,2018,Western North,Bibiani,Apam SHS,public,54.8,30.8,91.3,80,0.05,4
+169,2020,Eastern,Akim Oda,Mfantsipim School,private,140.8,36.2,81.6,85.7,0.028,2
+170,2021,Volta,Hohoe,St Augustine's College,public,51.8,25.4,87.6,92.9,0.055,8
+171,2020,Savannah,Salaga,UCC Practice School,public,72.7,31.7,84.8,93.1,0.047,2
+172,2022,Ashanti,Kumasi,Mfantsipim School,mission,35.9,32.5,72.1,87,0.053,2
+173,2023,Bono East,Nkoranza,Ghana National College,mission,67.1,27.8,72.8,83.9,0.032,7
+174,2021,Bono,Wenchi,UCC Practice School,mission,24.6,33.4,70.5,92.5,0.043,2
+175,2019,Ahafo,Asutifi South,Adisadel College,public,49.1,25.7,57.9,78.6,0.042,1
+176,2020,Bono East,Kintampo,St Augustine's College,public,38,31.4,82.2,77.3,0.044,2
+177,2024,Eastern,Koforidua,UCC Practice School,public,41.5,30,87.9,83.8,0.049,8
+178,2020,Oti,Kadjebi,UCC Practice School,private,15.6,31.5,77,84.1,0.047,5
+179,2021,Greater Accra,Madina,Cape Coast Technical University,public,78.8,28.6,100,78.8,0.038,3
+180,2020,Eastern,Suhum,Adisadel College,mission,55,31.8,72.2,79.9,0.052,3
+181,2022,Upper East,Paga,Mfantsipim School,mission,23.8,32,67.3,86.8,0.027,3
+182,2025,Ahafo,Tano North,Adisadel College,private,99.4,23.8,79.1,92.1,0.034,7
+183,2018,Central,Mfantsiman,Apam SHS,mission,76.2,27.8,77.1,84.9,0.042,5
+184,2020,Central,Mfantsiman,UCC Practice School,public,63.1,29.2,83.8,84.4,0.051,7
+185,2018,Eastern,Koforidua,Cape Coast Technical University,public,59.5,28.3,80.1,88,0.038,1
+186,2019,Western,Sekondi-Takoradi,Wesley Girls,mission,15.9,30.5,87.9,88.9,0.049,3
+187,2019,Central,Cape Coast,Cape Coast Technical University,mission,16,23.7,65.3,72.1,0.034,5
+188,2020,Northern,Yendi,Mfantsipim School,public,31.4,28.2,77.2,81.8,0.055,1
+189,2019,Eastern,Akim Oda,Cape Coast Technical University,public,85,29.6,73.4,84.8,0.027,2
+190,2020,Western,Axim,Apam SHS,public,33.6,29.6,84.5,63.2,0.031,4
+191,2018,Savannah,Damongo,Cape Coast Technical University,mission,41.8,26,70.6,80.4,0.027,5
+192,2021,Northern,Savelugu,Apam SHS,mission,86.6,34.7,68.4,80.1,0.027,0
+193,2020,Bono East,Nkoranza,UCC Practice School,public,40.1,26.5,76.8,88,0.053,2
+194,2023,Bono,Sunyani,Mfantsipim School,mission,122.4,29.6,77.4,76.8,0.034,5
+195,2025,Upper West,Tumu,Adisadel College,private,79.2,27.6,80.4,85.2,0.033,5
+196,2024,Western North,Juaboso,St Augustine's College,mission,23.8,31.6,70.2,68.9,0.034,1
+197,2021,Eastern,Akim Oda,Ghana National College,mission,129.7,33,81.5,81.7,0.05,5
+198,2018,Ahafo,Asutifi South,St Augustine's College,public,26.9,30,67.8,80.7,0.035,4
+199,2018,Oti,Nkwanta South,Ghana National College,mission,24.6,30.5,71.9,72.6,0.044,4
+200,2025,Central,Cape Coast,Cape Coast Technical University,public,50.9,27.6,76.2,79.4,0.051,5
+201,2024,Ashanti,Ejisu,UCC Practice School,mission,58.2,27.1,85.2,89.3,0.036,8
+202,2021,Eastern,Nsawam,Wesley Girls,mission,19.8,22.5,67.4,84.7,0.031,6
+203,2023,Western North,Bibiani,Ghana National College,mission,100.6,26.7,82.7,89.3,0.028,3
+204,2020,Bono,Dormaa,St Augustine's College,public,37.3,26.6,77,74.3,0.043,3
+205,2021,Western North,Sefwi Wiawso,Ghana National College,mission,55.9,30.1,80.9,77.7,0.044,1
+206,2020,Upper West,Wa,Ghana National College,mission,59.4,25.5,71.3,80.8,0.052,3
+207,2023,Volta,Kpando,Wesley Girls,private,223.3,27,72.6,79.2,0.04,5
+208,2020,Northern,Tamale,Ghana National College,public,24.8,31.9,80.4,83.2,0.052,2
+209,2025,Ashanti,Obuasi,Adisadel College,public,59.9,26.2,91.3,83.6,0.041,2
+210,2025,Ahafo,Asunafo North,UCC Practice School,mission,62.4,25.9,65.2,90.2,0.044,3
+211,2021,Greater Accra,Accra,Cape Coast Technical University,mission,98.5,34,70.9,74.6,0.042,5
+212,2018,Central,Mfantsiman,Wesley Girls,private,87.5,34.4,71.9,86.4,0.035,5
+213,2022,Ahafo,Goaso,UCC Practice School,public,48.1,28.6,78.7,91.7,0.051,5
+214,2019,Central,Komenda,Wesley Girls,private,35,31.3,65.2,74.1,0.052,3
+215,2022,Bono East,Nkoranza,Adisadel College,public,47.7,30.8,66.1,88.4,0.051,2
+216,2018,Ahafo,Asutifi South,UCC Practice School,private,32.9,30.8,92.6,99,0.029,4
+217,2019,Western North,Juaboso,Wesley Girls,mission,61.1,27.8,75.3,80.7,0.046,11
+218,2024,North East,Nalerigu,Apam SHS,public,72.2,29.7,73,84.8,0.039,2
+219,2024,Western North,Bodi,Wesley Girls,public,68.3,29.7,97.1,85.5,0.029,3
+220,2023,Bono East,Techiman,St Augustine's College,mission,63.5,30.3,72.8,90.4,0.028,5
+221,2023,Oti,Nkwanta South,Cape Coast Technical University,public,172.9,29.4,70.9,70.5,0.047,5
+222,2021,Greater Accra,Kasoa East,UCC Practice School,mission,18,29.9,78.5,78.1,0.038,4
+223,2024,Eastern,Suhum,St Augustine's College,mission,45.4,27.6,83.8,90.8,0.037,3
+224,2022,Northern,Savelugu,Cape Coast Technical University,private,109.3,27.2,62.9,82.8,0.033,3
+225,2025,Ahafo,Goaso,Cape Coast Technical University,mission,10,31.5,93.1,89.5,0.044,2
+226,2020,Oti,Kadjebi,UCC Practice School,public,77.3,28.8,83.8,91.3,0.031,4
+227,2018,Northern,Tamale,Apam SHS,public,32.1,27.3,82.4,73.6,0.026,5
+228,2018,North East,Walewale,Cape Coast Technical University,public,52.2,35.6,72.2,87,0.027,4
+229,2023,Western,Axim,Mfantsipim School,mission,71,35.1,75.6,84.6,0.037,6
+230,2018,Upper West,Tumu,Mfantsipim School,mission,53.8,25.6,82.7,89.8,0.047,4
+231,2023,Upper East,Bawku,Wesley Girls,public,84.1,28.3,71.9,79.4,0.044,5
+232,2022,Savannah,Bole,UCC Practice School,private,80.7,33.1,84.4,93,0.034,6
+233,2020,Central,Mfantsiman,UCC Practice School,mission,114.3,26.6,77,89.2,0.029,4
+234,2022,Bono,Dormaa,Wesley Girls,public,47.7,26.7,64.8,78.3,0.037,4
+235,2020,Oti,Kadjebi,Cape Coast Technical University,public,18.5,29.5,69.8,77.6,0.053,3
+236,2019,Ashanti,Ejisu,UCC Practice School,public,71.4,30.9,71.8,82.7,0.036,4
+237,2021,Northern,Tolon,Adisadel College,public,82.2,26.2,74.5,76.6,0.03,7
+238,2023,Upper West,Wa,UCC Practice School,public,46.5,31.4,75.9,81.2,0.052,5
+239,2025,Volta,Keta,Cape Coast Technical University,public,56.3,33.4,72.1,88.7,0.036,2
+240,2018,Bono,Dormaa,Adisadel College,public,63,26.7,71.2,77.1,0.049,2
+241,2020,Bono East,Atebubu,Wesley Girls,private,13.2,27.6,76.5,77.1,0.034,3
+242,2022,Eastern,Koforidua,Apam SHS,public,66.7,30.9,75.1,91.7,0.052,4
+243,2023,Central,Mfantsiman,Ghana National College,public,112.5,27.4,65.1,81.9,0.029,2
+244,2024,Eastern,Suhum,St Augustine's College,mission,135.4,22.9,76,85.2,0.034,6
+245,2023,Ashanti,Ejisu,Ghana National College,public,43.3,28.5,81.6,85.9,0.048,4
+246,2025,Central,Cape Coast,Cape Coast Technical University,public,103.7,28.2,78.1,78.9,0.038,3
+247,2023,Bono East,Techiman,Cape Coast Technical University,private,88.9,26.2,72.7,91.4,0.042,0
+248,2022,Upper West,Jirapa,St Augustine's College,private,21.9,31.7,80.1,82.6,0.034,4
+249,2018,Ahafo,Tano North,Cape Coast Technical University,private,87.8,28.4,79.2,71.7,0.037,5
+250,2018,Volta,Ho,Wesley Girls,private,64.2,32.1,80.5,81.8,0.044,4
+251,2025,Bono East,Nkoranza,UCC Practice School,public,57,23.2,80.7,93.4,0.049,5
+252,2018,Savannah,Salaga,St Augustine's College,private,26.2,22.4,81.2,84.1,0.052,4
+253,2019,Ashanti,Ejisu,Mfantsipim School,public,30.3,31.1,66.3,87.8,0.037,5
+254,2021,Western,Axim,Apam SHS,public,23.9,24.7,73.7,83.3,0.045,5
+255,2023,Greater Accra,Accra,Cape Coast Technical University,private,42.2,25.6,69.6,77.6,0.041,1
+256,2020,Greater Accra,Madina,Wesley Girls,private,65.1,26,64.1,75,0.046,11
+257,2018,Central,Mfantsiman,Apam SHS,private,33.7,34.1,62,84.8,0.044,5
+258,2020,Upper East,Paga,Wesley Girls,public,86.7,30.9,87.8,90.7,0.044,2
+259,2022,Ahafo,Tano North,Wesley Girls,public,85.7,23.8,73.8,75,0.039,2
+260,2021,Western North,Bibiani,Cape Coast Technical University,mission,39.4,28,89.4,91.8,0.035,4
+261,2021,Ahafo,Asutifi South,Adisadel College,public,93.7,28.7,86.4,84.9,0.039,3
+262,2020,Western,Shama,Cape Coast Technical University,private,128.3,25.3,69.8,79.7,0.051,7
+263,2024,Savannah,Sawla,Wesley Girls,public,51,28,82.2,94.5,0.036,6
+264,2022,Greater Accra,Kasoa East,Wesley Girls,private,85.5,26.4,85.5,98.3,0.052,5
+265,2025,Oti,Jasikan,Cape Coast Technical University,private,24.3,33.2,76.6,78.8,0.031,1
+266,2022,Western,Sekondi-Takoradi,Wesley Girls,private,86.8,28.5,81.6,72,0.043,1
+267,2019,Ahafo,Asunafo North,Cape Coast Technical University,mission,56.9,24.5,79.8,85.3,0.03,2
+268,2023,Ashanti,Mampong,Cape Coast Technical University,public,73.3,29.4,88.9,93.7,0.039,3
+269,2018,Western,Tarkwa,Ghana National College,mission,58.2,30.2,74.7,81.2,0.055,2
+270,2022,Bono East,Nkoranza,St Augustine's College,private,40.1,26.9,82.2,81.5,0.045,8
+271,2018,Central,Mfantsiman,Mfantsipim School,mission,26.4,30.4,74.3,76.4,0.027,6
+272,2018,Savannah,Salaga,Wesley Girls,mission,19.2,29.1,69.6,81.3,0.05,5
+273,2024,Ahafo,Goaso,St Augustine's College,mission,68.6,27.4,66.4,71.4,0.041,2
+274,2024,Upper West,Lawra,Mfantsipim School,public,53.9,28.2,84.7,84,0.046,5
+275,2024,Ahafo,Tano North,St Augustine's College,private,62,28.7,83.6,83.5,0.045,2
+276,2020,Bono,Wenchi,Wesley Girls,mission,26.8,20.5,81.9,88.1,0.032,4
+277,2023,Ahafo,Asunafo North,St Augustine's College,mission,58.8,28.5,83.5,90.6,0.038,3
+278,2018,Bono,Berekum,St Augustine's College,private,67.4,31.6,76.8,80.7,0.033,2
+279,2020,Central,Kasoa,St Augustine's College,public,46.5,28,77.4,76.3,0.032,5
+280,2024,Upper East,Bawku,Apam SHS,private,43.6,31.8,82.2,77.4,0.043,2
+281,2025,Bono,Wenchi,Wesley Girls,private,83.4,25.3,78.8,89.6,0.032,8
+282,2021,Upper East,Paga,Adisadel College,public,48.9,24.5,70.8,90.2,0.032,3
+283,2022,Oti,Nkwanta South,Adisadel College,private,79,24.9,80.3,77.2,0.045,4
+284,2024,North East,Nalerigu,St Augustine's College,mission,44.8,29.5,83.9,97,0.038,3
+285,2020,Western North,Bibiani,Cape Coast Technical University,public,58.7,30.1,72.4,93.1,0.032,2
+286,2019,Central,Komenda,Cape Coast Technical University,private,42,25.4,76.1,78.1,0.038,4
+287,2020,Western,Axim,UCC Practice School,public,40.9,29.4,89.4,86.6,0.043,6
+288,2018,Savannah,Sawla,Wesley Girls,mission,62.9,28.2,74.2,86.9,0.044,4
+289,2025,Western,Tarkwa,Apam SHS,mission,28.3,28,72.5,81.7,0.053,1
+290,2025,Central,Mfantsiman,Apam SHS,public,37.6,27.5,89.8,85.4,0.054,7
+291,2024,Eastern,Nsawam,UCC Practice School,public,5.6,29.4,76.7,89.9,0.032,2
+292,2019,Upper East,Paga,Cape Coast Technical University,public,37.6,22.8,83.3,89.9,0.041,4
+293,2023,Bono East,Kintampo,St Augustine's College,mission,27.2,23.4,66.7,74.7,0.039,4
+294,2018,Central,Cape Coast,Adisadel College,mission,47.1,28.4,77.1,86.8,0.049,3
+295,2019,Upper West,Lawra,Ghana National College,mission,71.2,31,73.5,84.2,0.032,5
+296,2020,Eastern,Nsawam,UCC Practice School,mission,36.5,29.7,83.3,84.6,0.033,7
+297,2018,Upper East,Bolgatanga,Cape Coast Technical University,private,44.3,31.4,83.8,83,0.031,1
+298,2020,Eastern,Nsawam,Ghana National College,mission,34.4,30.6,68.1,74.7,0.048,2
+299,2022,Volta,Kpando,Apam SHS,public,88.7,22.4,84.6,84.4,0.033,3
+300,2023,Central,Komenda,Cape Coast Technical University,public,120.8,26.3,80.5,81.6,0.039,5
+301,2019,Volta,Hohoe,St Augustine's College,private,54.3,34.6,86.5,89.7,0.034,7
+302,2024,Upper East,Paga,Adisadel College,private,67.6,27.7,83.1,93.3,0.055,4
+303,2021,Oti,Kadjebi,Cape Coast Technical University,private,71.6,32.9,85.5,83.9,0.045,3
+304,2023,Upper East,Bolgatanga,Ghana National College,public,66.6,22.4,66.7,81.7,0.035,4
+305,2021,Eastern,Nsawam,Ghana National College,private,51,25.7,79.6,78.9,0.03,5
+306,2020,Northern,Yendi,St Augustine's College,private,70.3,28.5,90.5,87.4,0.039,5
+307,2019,North East,Bunkpurugu,St Augustine's College,public,84.1,30.8,74.4,86.7,0.032,9
+308,2019,Bono East,Kintampo,Adisadel College,public,112,25,78.2,83,0.031,8
+309,2025,Ashanti,Kumasi,Apam SHS,mission,38.8,28.9,78.7,82,0.035,2
+310,2020,Bono East,Atebubu,Cape Coast Technical University,private,65.6,28.8,87.6,84.7,0.055,6
+311,2021,Upper West,Jirapa,Mfantsipim School,public,55.4,31.1,81.6,87,0.038,3
+312,2023,Eastern,Nsawam,Cape Coast Technical University,private,46.6,28.6,62.6,78.1,0.032,2
+313,2022,Oti,Dambai,UCC Practice School,mission,52.9,26,74,77.4,0.036,1
+314,2023,Greater Accra,Kasoa East,Ghana National College,private,105.8,29,68.8,87.2,0.04,5
+315,2021,Savannah,Damongo,Apam SHS,private,51.4,33.1,76.9,79.7,0.028,6
+316,2018,Bono East,Techiman,Mfantsipim School,mission,16.2,26.6,76.1,90.6,0.035,1
+317,2021,Upper West,Wa,UCC Practice School,private,72.6,28.8,80.2,77.3,0.031,4
+318,2018,Savannah,Sawla,Apam SHS,mission,77.6,26.3,93.1,99,0.029,2
+319,2018,Savannah,Sawla,Ghana National College,mission,31.7,32.8,73.1,89.8,0.053,3
+320,2025,Bono,Sunyani,Ghana National College,mission,61.7,27.1,62.2,71.8,0.035,7
+321,2025,Ahafo,Asutifi South,Ghana National College,private,57.5,31.8,77.2,83.7,0.032,4
+322,2022,Volta,Kpando,St Augustine's College,private,58.1,30.4,74.7,83.1,0.047,1
+323,2022,Upper West,Wa,UCC Practice School,public,57.4,23.4,70.5,77,0.028,6
+324,2023,Greater Accra,Kasoa East,Mfantsipim School,private,66.9,30.6,75.9,90.9,0.055,6
+325,2021,Ahafo,Asunafo North,Wesley Girls,private,36,27.1,66.1,85,0.055,2
+326,2023,Western North,Bibiani,Apam SHS,mission,42.6,28.8,71.9,87.5,0.049,5
+327,2024,Upper West,Wa,St Augustine's College,mission,47.1,26.2,68.9,86,0.055,4
+328,2025,North East,Nalerigu,Ghana National College,private,58.1,37,67.5,76.6,0.034,5
+329,2024,Central,Mfantsiman,Mfantsipim School,private,48.7,30.1,77.6,85.8,0.034,4
+330,2020,North East,Chereponi,Mfantsipim School,private,57.8,31.7,74,85.6,0.052,2
+331,2021,Volta,Ho,Adisadel College,public,51.2,27.9,84.6,79.6,0.044,5
+332,2024,Ashanti,Ejisu,St Augustine's College,public,72,28.6,80.5,81.9,0.047,3
+333,2022,Bono,Sunyani,Wesley Girls,mission,62.7,23.6,79.7,86.7,0.027,7
+334,2023,Bono East,Atebubu,UCC Practice School,private,70,29.9,88.8,79.5,0.04,1
+335,2018,Ashanti,Obuasi,Adisadel College,mission,67.3,25.3,73.5,83.5,0.034,4
+336,2024,Bono East,Nkoranza,Apam SHS,public,89.1,27.3,86.9,86.1,0.031,4
+337,2018,Western,Tarkwa,Mfantsipim School,public,42.9,27,77.6,74.8,0.041,9
+338,2025,Eastern,Suhum,Adisadel College,public,93.2,24.3,79.7,88.9,0.034,3
+339,2020,Savannah,Bole,Ghana National College,mission,93.4,27.7,88.9,98.2,0.042,6
+340,2021,Western North,Bibiani,St Augustine's College,public,55.7,31.3,86.9,85.1,0.029,4
+341,2020,Upper West,Wa,Wesley Girls,private,62.5,25.1,75.7,79.9,0.05,3
+342,2020,Greater Accra,Tema,Cape Coast Technical University,mission,49.1,30.2,81.2,85.8,0.054,5
+343,2021,Eastern,Nsawam,Wesley Girls,public,52.6,29,73.8,85.8,0.045,5
+344,2024,Greater Accra,Madina,Mfantsipim School,mission,58,28.7,80.9,77.9,0.03,3
+345,2019,Ashanti,Mampong,Adisadel College,mission,68.2,23.2,82.4,88.9,0.048,5
+346,2021,Ahafo,Asutifi South,Wesley Girls,mission,45.1,27,70.6,81.7,0.052,2
+347,2020,Upper West,Jirapa,UCC Practice School,public,58.7,33.8,75,72.7,0.037,2
+348,2023,Volta,Ho,Wesley Girls,public,30.8,26.9,92.3,85.3,0.041,6
+349,2019,Western,Shama,Ghana National College,private,22.2,30.3,79.2,84.1,0.028,7
+350,2024,Northern,Savelugu,Ghana National College,private,54.9,27.4,81.1,82.3,0.042,5
+351,2023,Greater Accra,Accra,Mfantsipim School,private,21,25.2,78.6,85.4,0.028,2
+352,2020,Upper West,Jirapa,Cape Coast Technical University,private,40.7,27.1,68.9,80.8,0.037,6
+353,2020,Upper West,Tumu,Adisadel College,private,59,32.7,60.2,73.8,0.034,7
+354,2024,Savannah,Salaga,Ghana National College,mission,79.6,32.2,80.1,93.5,0.032,6
+355,2020,Ashanti,Ejisu,Adisadel College,private,41.7,25.1,65,69.9,0.051,1
+356,2023,Volta,Kpando,UCC Practice School,public,28.8,27.2,76,78.8,0.044,2
+357,2018,Volta,Keta,Cape Coast Technical University,mission,84.3,25.5,80.3,90.2,0.046,2
+358,2021,Volta,Kpando,UCC Practice School,private,113.1,27.5,73.4,85.9,0.041,2
+359,2022,Greater Accra,Kasoa East,Mfantsipim School,private,99.6,30.6,69.2,80.6,0.048,9
+360,2024,Bono East,Atebubu,St Augustine's College,mission,119.6,29.6,78.2,93,0.037,2
+361,2024,Bono,Dormaa,Apam SHS,mission,51.9,32.5,73.2,77.3,0.039,2
+362,2024,Bono East,Techiman,Mfantsipim School,mission,120,35.8,83.2,90.1,0.029,4
+363,2018,Central,Cape Coast,UCC Practice School,mission,100.7,29.7,75.5,74.4,0.036,8
+364,2021,Northern,Tamale,Apam SHS,private,143.6,31.5,76.1,82.1,0.029,2
+365,2018,Bono East,Kintampo,St Augustine's College,mission,111.7,34.7,85,88.2,0.04,5
+366,2021,Northern,Savelugu,Ghana National College,mission,24.1,26.3,75.3,86.1,0.054,5
+367,2024,Western,Shama,Apam SHS,private,52.4,32.8,67.4,77.1,0.05,3
+368,2019,Bono East,Atebubu,Wesley Girls,mission,51.8,27.4,65.5,72.5,0.039,1
+369,2023,Ahafo,Tano North,Mfantsipim School,public,38.5,30.8,79.2,95,0.035,4
+370,2022,Savannah,Damongo,Adisadel College,private,73.5,26.8,78.1,83.6,0.036,5
+371,2019,Upper East,Navrongo,Apam SHS,private,15.3,33.2,79.4,78.2,0.04,4
+372,2019,Savannah,Salaga,UCC Practice School,mission,56,30.2,83.1,82.3,0.033,2
+373,2021,Western North,Bodi,Adisadel College,private,107,28.7,74.9,88.2,0.036,5
+374,2020,Savannah,Damongo,UCC Practice School,private,50.2,28.9,95.6,96.8,0.041,4
+375,2023,Ahafo,Asutifi South,Cape Coast Technical University,private,38.3,36.8,82.5,81.6,0.051,2
+376,2024,Bono East,Atebubu,St Augustine's College,public,48.9,28.8,75.3,94.8,0.029,3
+377,2020,Bono East,Atebubu,Apam SHS,private,69.9,24.4,64.3,76.1,0.038,3
+378,2020,Oti,Dambai,Apam SHS,public,51.5,27.6,71.2,77.9,0.032,5
+379,2020,Greater Accra,Tema,Adisadel College,public,67.2,31.9,86.7,82.2,0.045,5
+380,2023,Ahafo,Tano North,Ghana National College,private,41.7,34.2,88.5,82.2,0.043,6
+381,2022,Upper East,Navrongo,Apam SHS,private,67.5,31,85.9,88.1,0.043,2
+382,2019,Central,Kasoa,St Augustine's College,mission,89.1,24.6,69.8,77.8,0.042,3
+383,2018,Oti,Kadjebi,Wesley Girls,public,56.9,27,77.6,77.9,0.048,5
+384,2022,North East,Bunkpurugu,Mfantsipim School,private,53.1,27.8,80.8,82,0.031,2
+385,2024,North East,Chereponi,St Augustine's College,private,44.7,29.8,88.1,92.6,0.032,3
+386,2023,Greater Accra,Accra,UCC Practice School,public,84.3,29.1,78.3,71.9,0.047,2
+387,2021,Bono East,Atebubu,Cape Coast Technical University,public,77.6,31.7,72.8,85.6,0.03,3
+388,2022,Greater Accra,Accra,Cape Coast Technical University,private,23.7,27,69.3,75.2,0.048,5
+389,2022,Ahafo,Asutifi South,Ghana National College,public,37.2,28.8,82.1,93.5,0.031,2
+390,2023,Western,Shama,Apam SHS,private,68.5,27.2,60.8,88.8,0.055,3
+391,2021,Eastern,Suhum,St Augustine's College,private,81.1,29.8,76.8,81.7,0.028,5
+392,2025,Western,Axim,Apam SHS,public,48.1,26.8,86.8,97,0.049,3
+393,2018,Upper West,Tumu,Ghana National College,private,30.3,30.1,81.5,80.3,0.033,0
+394,2019,Greater Accra,Accra,UCC Practice School,private,37.9,30.9,81.4,77.1,0.036,3
+395,2025,Upper East,Navrongo,Cape Coast Technical University,public,22.1,30.5,68.8,70.7,0.053,2
+396,2024,Bono,Dormaa,Apam SHS,mission,31.6,27.7,66.7,70.8,0.035,2
+397,2025,North East,Nalerigu,St Augustine's College,private,58.5,32.8,74.6,82.8,0.037,3
+398,2022,North East,Bunkpurugu,St Augustine's College,private,27.2,29.6,70.5,74.3,0.032,5
+399,2024,North East,Chereponi,UCC Practice School,public,41.4,31.9,75.4,97.9,0.029,7
+400,2025,Savannah,Sawla,Wesley Girls,public,69.5,34.7,82.1,82,0.029,1
+401,2021,Western North,Bodi,St Augustine's College,public,70.8,33.7,80.2,79.9,0.044,3
+402,2021,Western,Sekondi-Takoradi,Ghana National College,public,30.8,28,74.7,79.3,0.028,2
+403,2018,Central,Cape Coast,St Augustine's College,public,38.8,32.4,75.4,85.5,0.033,4
+404,2024,Western North,Bibiani,Adisadel College,mission,50,35.7,73.3,85.5,0.038,4
+405,2022,Upper West,Tumu,Apam SHS,mission,60.1,34.7,80.6,90.6,0.029,7
+406,2021,Greater Accra,Tema,Wesley Girls,private,45.9,25.7,97.5,91.9,0.048,4
+407,2023,Western North,Sefwi Wiawso,Ghana National College,private,58.6,27.8,71.6,89.7,0.055,3
+408,2024,Central,Komenda,Mfantsipim School,mission,68.1,31.8,70.5,81.5,0.052,4
+409,2023,Upper West,Lawra,UCC Practice School,mission,65,32.2,77.9,85.1,0.054,3
+410,2018,North East,Bunkpurugu,UCC Practice School,public,100.1,30.8,67.8,82.9,0.042,2
+411,2024,Northern,Savelugu,Cape Coast Technical University,private,28.8,29.8,81.8,84.4,0.031,6
+412,2024,Savannah,Damongo,St Augustine's College,public,37.1,33.4,95.6,89.7,0.046,2
+413,2025,Bono East,Techiman,UCC Practice School,public,66.3,28.3,93.1,83.9,0.028,7
+414,2018,Western North,Bibiani,Ghana National College,public,117.4,30.3,72.3,73.2,0.04,2
+415,2021,Bono East,Kintampo,Adisadel College,private,50.9,29.5,69.5,88.3,0.049,6
+416,2021,Western North,Bibiani,Apam SHS,private,48.2,26.2,85.2,85,0.051,8
+417,2022,Savannah,Salaga,Apam SHS,public,67.1,30.5,82.9,80.4,0.035,4
+418,2025,Greater Accra,Madina,St Augustine's College,private,34.4,26.9,81.1,86.6,0.033,2
+419,2022,Greater Accra,Kasoa East,Apam SHS,mission,65.1,32.7,75.5,90.8,0.046,5
+420,2019,Upper East,Paga,Adisadel College,public,23.7,26.6,81.8,89.8,0.03,2
+421,2021,Volta,Keta,St Augustine's College,public,19.4,26.3,75.8,88.8,0.055,4
+422,2024,Savannah,Sawla,St Augustine's College,public,88.2,28.5,81.5,79,0.036,3
+423,2020,North East,Walewale,Cape Coast Technical University,public,27.2,32.6,80.2,79.3,0.048,2
+424,2023,Western North,Juaboso,Cape Coast Technical University,public,43.5,28.2,76.4,80,0.048,2
+425,2020,Western North,Juaboso,Mfantsipim School,mission,55.9,29,83.3,88.3,0.035,1
+426,2023,Greater Accra,Tema,Apam SHS,public,100.2,30.6,66.4,83.3,0.038,1
+427,2019,Greater Accra,Accra,Mfantsipim School,private,44.9,28,83.8,86.1,0.051,2
+428,2021,Eastern,Suhum,Adisadel College,private,66.5,21.5,84,94.1,0.033,4
+429,2018,Western,Axim,Wesley Girls,mission,74,28.8,69.9,81.8,0.028,5
+430,2023,Eastern,Nsawam,Cape Coast Technical University,public,57.8,28.4,69.7,86.5,0.031,3
+431,2024,Oti,Kadjebi,St Augustine's College,mission,41.1,27.8,63.3,67.7,0.046,8
+432,2020,Bono,Wenchi,Mfantsipim School,mission,30.5,28.8,84.4,89.2,0.033,3
+433,2022,Bono East,Kintampo,Wesley Girls,private,34.5,28.8,77.8,96.6,0.043,1
+434,2025,Western,Sekondi-Takoradi,Adisadel College,public,35.5,27.5,69.2,82.5,0.038,3
+435,2020,Oti,Dambai,Cape Coast Technical University,public,60.8,28.5,85,85.8,0.052,6
+436,2021,Bono East,Kintampo,Ghana National College,public,67.9,30.6,73.4,83.7,0.041,4
+437,2023,Northern,Tamale,Cape Coast Technical University,mission,10.2,32.6,72.1,82.4,0.03,4
+438,2020,Eastern,Suhum,Cape Coast Technical University,public,57.1,27.4,86.6,80.1,0.051,7
+439,2019,Upper East,Navrongo,Mfantsipim School,mission,26.5,32.1,70.5,83.3,0.029,5
+440,2024,Oti,Nkwanta South,UCC Practice School,mission,49.3,30.3,76.3,80.5,0.051,6
+441,2024,Bono,Berekum,St Augustine's College,private,55.1,25.1,74.5,81.7,0.028,3
+442,2022,Upper East,Bolgatanga,UCC Practice School,public,59.2,30.4,74.9,78.6,0.026,6
+443,2019,Savannah,Salaga,Mfantsipim School,mission,49.3,29.9,71.5,85.8,0.048,3
+444,2018,Bono East,Nkoranza,St Augustine's College,private,25.9,30.7,85.1,78,0.043,5
+445,2018,Upper West,Jirapa,Cape Coast Technical University,private,72.3,27.3,75.3,80.6,0.033,5
+446,2018,Eastern,Nsawam,Cape Coast Technical University,public,53,25.3,73.8,89,0.055,5
+447,2018,Upper East,Bolgatanga,Mfantsipim School,private,79.4,23.9,75.9,89.3,0.045,5
+448,2021,Eastern,Akim Oda,Adisadel College,private,22.3,29.8,72.2,80.7,0.033,3
+449,2021,Upper West,Lawra,Adisadel College,mission,36.8,31.5,82.2,74.3,0.038,5
+450,2021,Upper East,Bolgatanga,UCC Practice School,private,32.9,30.6,75.2,91.8,0.053,4
+451,2019,Upper East,Bolgatanga,Apam SHS,mission,38.7,30.8,85.9,84.8,0.032,3
+452,2025,Central,Komenda,Adisadel College,public,67.7,33.4,93.4,85.9,0.053,1
+453,2019,Volta,Hohoe,Adisadel College,mission,36.3,30.3,70.4,82.4,0.033,3
+454,2024,Volta,Hohoe,Adisadel College,mission,43.8,28.5,60.3,79.2,0.027,3
+455,2025,Ahafo,Goaso,St Augustine's College,private,20.8,34.2,76.3,81.8,0.034,8
+456,2020,Savannah,Bole,UCC Practice School,public,40.7,27.7,70.7,81.9,0.028,3
+457,2025,Oti,Jasikan,St Augustine's College,private,103,27,68.8,82.7,0.033,6
+458,2022,Eastern,Nsawam,Apam SHS,mission,135.8,32.5,70.3,73.7,0.034,4
+459,2025,Volta,Kpando,Ghana National College,mission,37.7,24,79.9,80.7,0.038,6
+460,2019,Bono East,Atebubu,Cape Coast Technical University,mission,70.1,26.3,60.3,82.4,0.035,1
+461,2020,North East,Chereponi,Adisadel College,public,47.8,27.2,85.4,94.1,0.047,3
+462,2018,Oti,Kadjebi,Wesley Girls,public,14.8,25.8,88.4,93,0.055,2
+463,2025,Ahafo,Asunafo North,St Augustine's College,public,75.1,29.3,69.2,77.1,0.028,7
+464,2018,Western North,Bodi,St Augustine's College,private,33.4,34.4,70.8,86.2,0.041,3
+465,2024,Upper East,Navrongo,Ghana National College,private,43.5,28.2,77.2,79.2,0.034,4
+466,2019,Upper West,Lawra,St Augustine's College,private,59.2,24.6,74.8,79.9,0.04,9
+467,2021,Central,Mfantsiman,Mfantsipim School,private,117.2,24.9,75.3,76.7,0.047,2
+468,2024,Bono East,Kintampo,Cape Coast Technical University,public,88.5,30.3,76.1,81.6,0.052,2
+469,2020,Central,Komenda,St Augustine's College,public,43.9,28.9,71.4,78.5,0.052,1
+470,2023,Northern,Yendi,Mfantsipim School,mission,22.2,31.5,76.7,90.1,0.031,3
+471,2024,Greater Accra,Kasoa East,Apam SHS,public,55.3,29.8,70.4,73.9,0.043,3
+472,2022,Bono,Berekum,Ghana National College,private,99.8,27.1,80.2,88.4,0.035,4
+473,2025,Bono,Sunyani,Mfantsipim School,private,29.6,26.1,73.1,91.8,0.041,4
+474,2020,Greater Accra,Madina,Cape Coast Technical University,private,53.5,26.5,66,78.1,0.053,2
+475,2021,Ahafo,Tano North,UCC Practice School,public,36.5,29.2,65.3,88.7,0.028,1
+476,2025,Upper West,Lawra,Wesley Girls,public,83.7,24.4,76.5,74.5,0.044,8
+477,2023,North East,Chereponi,Apam SHS,public,45,25.1,76.5,91.2,0.037,5
+478,2021,Bono,Berekum,UCC Practice School,public,49.3,28.6,71.1,74.6,0.052,3
+479,2019,Upper West,Jirapa,St Augustine's College,private,34.1,27.8,84.2,86.2,0.033,4
+480,2024,North East,Chereponi,Wesley Girls,public,37.7,30.3,89.6,79.9,0.036,5
+481,2024,North East,Nalerigu,Apam SHS,mission,41.6,28.4,87,89.6,0.027,4
+482,2024,Upper West,Wa,Adisadel College,mission,109.6,27.8,87.4,99,0.039,2
+483,2021,Ashanti,Mampong,Ghana National College,public,29.5,30.1,85,83.2,0.045,3
+484,2021,Volta,Keta,Ghana National College,mission,28.8,29.3,82.9,76.7,0.032,4
+485,2022,Bono,Dormaa,St Augustine's College,public,57.6,29.5,82.9,83.1,0.045,3
+486,2021,Upper West,Tumu,Cape Coast Technical University,mission,40.3,21.2,82.6,90.7,0.048,8
+487,2023,Oti,Jasikan,UCC Practice School,public,53.6,27.9,77.8,86.2,0.032,5
+488,2018,Ahafo,Asutifi South,St Augustine's College,public,68.3,28.4,79.2,99,0.048,6
+489,2021,Eastern,Suhum,Ghana National College,public,24,30.3,79.4,84.3,0.054,4
+490,2018,Bono,Dormaa,St Augustine's College,private,60.2,33.1,92.1,96.7,0.033,2
+491,2025,Northern,Tamale,Mfantsipim School,mission,48.7,26.2,77.6,72.8,0.03,5
+492,2025,Ahafo,Goaso,Apam SHS,mission,43.4,26.9,78.1,93.9,0.036,3
+493,2022,Volta,Ho,Cape Coast Technical University,public,137.6,32.2,84.2,85.6,0.032,4
+494,2023,Western,Sekondi-Takoradi,Cape Coast Technical University,private,72.9,28.6,79.6,83.8,0.049,3
+495,2019,North East,Bunkpurugu,Mfantsipim School,private,49.6,29.8,82.1,75.4,0.03,7
+496,2025,Volta,Keta,Cape Coast Technical University,private,84.6,25.9,77.4,79.8,0.027,4
+497,2018,Western North,Bodi,Apam SHS,private,51.1,27.4,77.6,81.9,0.037,2
+498,2019,Greater Accra,Madina,Mfantsipim School,mission,47.1,28.3,84.6,89,0.049,4
+499,2023,Upper East,Bolgatanga,Ghana National College,private,41.1,34,63.6,78.2,0.045,2
+500,2023,Greater Accra,Accra,Ghana National College,mission,33.6,31.2,79.1,97.3,0.042,3
+501,2024,Savannah,Sawla,Cape Coast Technical University,public,20.2,27.6,63.6,67.6,0.04,3
+502,2023,Western North,Bodi,Wesley Girls,public,24,28.5,64,82.2,0.045,5
+503,2025,North East,Bunkpurugu,Adisadel College,public,28.9,29,59.6,62.3,0.041,3
+504,2025,Northern,Tolon,St Augustine's College,private,49,27.9,81.3,84.4,0.049,6
+505,2023,North East,Bunkpurugu,UCC Practice School,mission,103.5,28.9,66,82.5,0.052,4
+506,2019,Eastern,Nsawam,Ghana National College,mission,99.8,34.4,70.7,79.7,0.031,2
+507,2018,Ahafo,Goaso,Apam SHS,private,70,32,83.3,94,0.033,5
+508,2020,Western North,Bibiani,Wesley Girls,mission,72.1,28.6,73.7,86.6,0.041,4
+509,2021,Ahafo,Tano North,UCC Practice School,private,26.3,32.5,73.1,84.6,0.052,5
+510,2024,Upper West,Lawra,Adisadel College,private,27.6,26,86.7,88.7,0.053,3
+511,2022,Savannah,Salaga,Mfantsipim School,private,70.1,31.5,80,80.5,0.03,1
+512,2023,Greater Accra,Madina,St Augustine's College,mission,13.8,25.3,74.4,81,0.035,4
+513,2019,Savannah,Salaga,Apam SHS,private,61.7,23.6,79.4,97.6,0.049,4
+514,2020,Bono,Berekum,Ghana National College,private,44.7,29.2,67.8,78.8,0.054,5
+515,2025,Bono,Sunyani,Wesley Girls,public,30.6,29.2,72.3,75.4,0.029,3
+516,2019,Savannah,Sawla,Apam SHS,public,35.1,31,89.2,96.7,0.04,2
+517,2020,Northern,Tolon,UCC Practice School,private,46.3,31.1,66.4,86,0.041,5
+518,2022,Western,Tarkwa,Mfantsipim School,private,36.7,33.1,71.7,80.8,0.027,2
+519,2024,Oti,Nkwanta South,Adisadel College,public,34.2,28.9,74.2,76.5,0.051,5
+520,2020,Bono East,Techiman,Cape Coast Technical University,public,13.8,29,72.7,90.4,0.029,6
+521,2025,Western North,Juaboso,Wesley Girls,mission,87.5,32.2,79.1,81.9,0.051,4
+522,2024,Bono,Sunyani,Apam SHS,mission,57.6,25.7,78,87.9,0.027,4
+523,2024,Upper West,Lawra,Adisadel College,public,38.3,28.6,81.5,90.9,0.055,3
+524,2024,Ashanti,Mampong,Cape Coast Technical University,mission,94.8,27,81.3,84.3,0.042,3
+525,2025,Central,Mfantsiman,Ghana National College,mission,60.7,26.1,81.1,90.4,0.035,1
+526,2022,Northern,Savelugu,Cape Coast Technical University,mission,42.7,30.3,88.1,85.4,0.044,5
+527,2021,Volta,Hohoe,Wesley Girls,private,22.9,26.6,85.3,82.1,0.035,3
+528,2023,Western,Axim,St Augustine's College,public,31.9,27.5,75.5,73.4,0.029,8
+529,2023,Upper East,Bawku,Mfantsipim School,mission,29.3,29,88.9,93.3,0.034,6
+530,2024,North East,Bunkpurugu,Wesley Girls,public,13.7,30,72.9,79.5,0.051,4
+531,2023,North East,Bunkpurugu,UCC Practice School,private,47.9,32.5,73.5,83,0.034,5
+532,2025,Ahafo,Asutifi South,Ghana National College,mission,66.5,31.5,77.3,85.1,0.038,3
+533,2020,Northern,Yendi,Ghana National College,private,114.1,31.3,82.3,86.3,0.042,1
+534,2025,North East,Bunkpurugu,Adisadel College,private,38.2,26.5,79.6,81.9,0.052,3
+535,2023,Volta,Hohoe,Adisadel College,mission,78.2,34.4,75.2,80.1,0.027,4
+536,2019,Savannah,Bole,St Augustine's College,private,59.4,28.1,75.7,83.5,0.052,4
+537,2025,Volta,Hohoe,Ghana National College,public,18.8,26.8,86.8,72.2,0.048,2
+538,2021,Volta,Ho,UCC Practice School,private,55.5,26.9,76.4,69.5,0.038,2
+539,2019,Upper West,Lawra,Ghana National College,private,54.1,23,82.6,89.4,0.055,1
+540,2019,Bono,Berekum,Ghana National College,mission,51.6,30.3,59,86.8,0.028,4
+541,2021,North East,Nalerigu,Mfantsipim School,public,105,24,61.1,81.6,0.048,8
+542,2021,Northern,Yendi,Mfantsipim School,public,122.3,25,85.9,96,0.047,2
+543,2022,Western,Tarkwa,Ghana National College,mission,32.8,33.9,58.2,81.4,0.054,7
+544,2025,Upper East,Bolgatanga,Apam SHS,mission,80.5,33.2,61.7,81,0.05,3
+545,2024,Ashanti,Mampong,Mfantsipim School,mission,59.7,25.6,76.8,75.7,0.043,4
+546,2025,Western,Axim,Ghana National College,public,39.1,26.2,84.2,87.7,0.033,4
+547,2020,Ahafo,Asunafo North,Apam SHS,mission,37.1,31.4,59.8,73.2,0.041,4
+548,2022,Western,Shama,Adisadel College,mission,31.5,24.4,77.1,75.3,0.029,4
+549,2018,Western,Shama,Adisadel College,public,56.2,27.6,83,89.2,0.041,5
+550,2018,Ahafo,Goaso,Apam SHS,mission,27.3,28.2,73.1,83.5,0.032,2
+551,2025,Ahafo,Asutifi South,UCC Practice School,mission,28.6,25,75.2,84.5,0.054,6
+552,2022,Central,Cape Coast,Mfantsipim School,private,52.5,25.9,83.3,83.8,0.038,2
+553,2022,Ashanti,Mampong,Adisadel College,private,54.1,23.7,78.4,93.9,0.031,3
+554,2020,Bono East,Atebubu,Cape Coast Technical University,public,103.3,30.2,75.1,87,0.027,3
+555,2021,Ahafo,Asutifi South,Adisadel College,private,41.5,27.2,70.7,77.2,0.036,5
+556,2018,Ashanti,Mampong,Apam SHS,mission,46.2,23,71.4,81.2,0.028,4
+557,2024,Greater Accra,Kasoa East,UCC Practice School,public,53.6,31.3,79.3,75.2,0.04,1
+558,2024,Western,Sekondi-Takoradi,UCC Practice School,mission,60.3,31.2,74.3,75.1,0.028,2
+559,2021,Northern,Yendi,St Augustine's College,private,93.2,29.9,68.5,77.6,0.051,5
+560,2019,Eastern,Koforidua,St Augustine's College,private,40.1,32.9,67.8,81.5,0.04,2
+561,2019,Oti,Nkwanta South,Ghana National College,private,78.5,31.7,58.5,77.6,0.049,3
+562,2021,Oti,Dambai,Apam SHS,mission,81.8,30.3,70.7,80.9,0.037,3
+563,2019,Upper West,Lawra,Wesley Girls,public,60.1,26.9,76.7,62.4,0.049,1
+564,2018,Central,Mfantsiman,Wesley Girls,mission,77.8,31.7,86.3,78.7,0.038,6
+565,2018,Oti,Jasikan,St Augustine's College,private,24.2,28.4,84.4,82.2,0.046,3
+566,2025,Savannah,Bole,Cape Coast Technical University,public,119.8,26.3,72.6,85.9,0.047,2
+567,2019,Greater Accra,Madina,Ghana National College,mission,99,29.6,72.1,79.5,0.044,2
+568,2018,Northern,Yendi,St Augustine's College,public,36,29.2,72.3,82.3,0.028,3
+569,2019,Upper West,Wa,Adisadel College,mission,67.4,29.7,63.7,77,0.037,5
+570,2020,Volta,Keta,Ghana National College,private,35.5,29.5,66.8,89.1,0.049,3
+571,2020,Ashanti,Mampong,Cape Coast Technical University,public,23.3,26.4,74,84,0.053,7
+572,2021,Eastern,Koforidua,Ghana National College,mission,76.1,26.4,74.9,80.8,0.046,3
+573,2024,Bono,Berekum,Wesley Girls,public,17.6,31.2,74.4,91.3,0.055,4
+574,2024,Oti,Kadjebi,Wesley Girls,mission,50.7,28.8,67.7,77.1,0.034,4
+575,2019,Upper East,Bolgatanga,Wesley Girls,mission,26.6,24.6,73.4,80.5,0.03,10
+576,2020,Oti,Nkwanta South,Mfantsipim School,public,49.3,26.4,69.2,71.9,0.036,8
+577,2025,Bono East,Techiman,Adisadel College,mission,15.3,24.6,87.5,91.3,0.046,4
+578,2020,Central,Mfantsiman,UCC Practice School,public,18.8,30,83.7,85.6,0.038,4
+579,2018,Central,Cape Coast,Adisadel College,private,30.3,30.1,75.9,86.3,0.046,2
+580,2021,Oti,Kadjebi,Adisadel College,mission,27.5,25.3,86.8,95.1,0.047,2
+581,2021,North East,Bunkpurugu,Adisadel College,mission,36.8,26.1,80.5,95.4,0.044,4
+582,2025,Central,Cape Coast,Cape Coast Technical University,private,65.3,29.8,78.1,81.8,0.049,1
+583,2020,Ashanti,Obuasi,Adisadel College,public,14.1,27.3,78.3,85.1,0.033,5
+584,2020,Volta,Keta,Apam SHS,mission,54.3,25.4,64.5,80.5,0.03,2
+585,2021,Ashanti,Kumasi,Cape Coast Technical University,public,55.9,31,80.4,86.2,0.028,6
+586,2023,Upper East,Bolgatanga,Adisadel College,public,46.3,28.5,84.4,85.6,0.055,2
+587,2025,Ahafo,Asutifi South,Mfantsipim School,mission,32.1,22.7,81.8,92.1,0.047,3
+588,2018,Ashanti,Mampong,Ghana National College,mission,23.3,28.4,78.3,81.4,0.033,4
+589,2022,Ahafo,Asutifi South,Apam SHS,private,22.9,35.2,80.5,95.7,0.04,2
+590,2018,Western,Axim,Wesley Girls,public,27.7,30,81.9,82.7,0.028,2
+591,2022,Bono,Sunyani,Wesley Girls,private,42,29.2,84,81.3,0.046,2
+592,2021,Central,Mfantsiman,Wesley Girls,private,72.6,29.8,80.5,79.9,0.055,2
+593,2021,Bono,Sunyani,Cape Coast Technical University,private,44.4,27.4,88.2,84,0.047,4
+594,2025,Savannah,Salaga,Adisadel College,public,25.5,26.9,73.5,82.2,0.045,4
+595,2025,Greater Accra,Madina,Wesley Girls,public,55.9,24.3,74.9,73,0.053,8
+596,2021,Oti,Jasikan,Cape Coast Technical University,private,28.1,25.7,83.9,74.9,0.041,4
+597,2019,Western North,Bibiani,Mfantsipim School,private,18.4,32.5,81.9,80.1,0.048,5
+598,2019,Savannah,Damongo,UCC Practice School,private,33.2,28.2,80.5,85.4,0.054,5
+599,2019,Ashanti,Obuasi,Adisadel College,public,50.5,31.7,86.3,87.6,0.045,2
+600,2021,Central,Mfantsiman,UCC Practice School,private,34.5,22.9,66.4,78.3,0.042,2
+601,2020,Upper West,Wa,Apam SHS,mission,42.6,28.6,80.6,85.3,0.043,3
+602,2021,Bono,Sunyani,Adisadel College,mission,82,34.7,72.1,79.8,0.049,6
+603,2022,Ashanti,Mampong,Mfantsipim School,private,23.7,28.7,83.1,81.9,0.028,4
+604,2025,Bono East,Techiman,Ghana National College,public,127.8,30.2,71.2,85.7,0.036,4
+605,2018,Upper East,Paga,Apam SHS,private,75,26.5,83.9,86.8,0.028,6
+606,2023,Northern,Savelugu,Mfantsipim School,mission,106.7,27.8,85.4,88.4,0.049,3
+607,2022,Northern,Yendi,Mfantsipim School,private,20.9,28.2,72.1,81.7,0.053,5
+608,2025,Eastern,Nsawam,UCC Practice School,private,56,27.9,67.3,81.3,0.038,2
+609,2024,Greater Accra,Kasoa East,UCC Practice School,mission,14.2,26.9,80.7,88,0.034,8
+610,2018,Ahafo,Goaso,Mfantsipim School,public,82.9,29.9,86.4,98.1,0.028,3
+611,2024,Bono,Sunyani,UCC Practice School,mission,36.9,23.3,89.3,84.8,0.027,4
+612,2025,Western,Tarkwa,Ghana National College,private,80.2,34.3,90.1,84.1,0.042,4
+613,2025,Ashanti,Ejisu,Cape Coast Technical University,public,64.8,27.9,69.1,89.3,0.036,4
+614,2022,Western,Shama,Wesley Girls,public,31.8,25.8,74.7,78.9,0.055,4
+615,2018,Northern,Tolon,Mfantsipim School,public,44.5,27.5,71.3,81.5,0.05,5
+616,2023,Oti,Nkwanta South,Adisadel College,mission,39.1,26,76,79.5,0.04,6
+617,2020,North East,Walewale,Wesley Girls,public,50.7,26.3,78.6,90,0.032,2
+618,2018,Bono,Sunyani,Wesley Girls,public,55.8,28.3,84,83.8,0.038,6
+619,2021,Oti,Nkwanta South,Cape Coast Technical University,mission,52.2,31.4,81.7,79.9,0.028,2
+620,2022,Volta,Hohoe,St Augustine's College,public,58.7,32.4,86.7,83.4,0.045,3
+621,2025,North East,Chereponi,Mfantsipim School,mission,71,30.3,73.7,86.6,0.052,1
+622,2019,Oti,Nkwanta South,Wesley Girls,mission,46.7,26.5,88.6,87.4,0.039,2
+623,2024,North East,Walewale,Adisadel College,mission,31.9,28.8,77.1,83.5,0.04,4
+624,2020,Savannah,Sawla,Ghana National College,private,48.3,26.1,80,87.1,0.054,3
+625,2023,Volta,Ho,Ghana National College,private,117.7,29.3,88.1,80,0.035,3
+626,2022,North East,Bunkpurugu,Cape Coast Technical University,public,36.5,30.3,62.3,81.3,0.029,11
+627,2020,Bono East,Kintampo,Wesley Girls,public,92.3,32,76.7,91.5,0.028,3
+628,2019,Greater Accra,Kasoa East,Ghana National College,mission,53.6,29.6,63,84.5,0.049,7
+629,2019,Oti,Kadjebi,UCC Practice School,public,60.1,27.9,65.4,76.1,0.033,3
+630,2019,Western,Shama,St Augustine's College,public,36.3,29.7,77.7,81.7,0.056,7
+631,2019,North East,Chereponi,Ghana National College,public,22,27.7,69.9,72.9,0.054,5
+632,2019,Oti,Nkwanta South,Ghana National College,public,43,28.1,80.6,84.4,0.051,5
+633,2021,Western,Shama,Ghana National College,private,17,31.2,78.3,73,0.041,3
+634,2018,Upper West,Wa,Adisadel College,private,11.8,30.2,72,74.7,0.041,5
+635,2024,Central,Komenda,St Augustine's College,public,65.6,28.5,64.2,76.7,0.054,3
+636,2019,Volta,Kpando,St Augustine's College,public,43.7,28.4,86.3,82,0.035,4
+637,2025,Northern,Yendi,Ghana National College,public,91.3,27.3,77.5,86.9,0.041,7
+638,2022,Western,Shama,Wesley Girls,mission,57.7,32.7,70,89.4,0.038,1
+639,2022,Northern,Tolon,Cape Coast Technical University,private,70.7,32,70.4,82.5,0.037,6
+640,2025,Bono,Sunyani,UCC Practice School,public,73.8,32.2,67.9,86.5,0.052,2
+641,2019,Bono,Sunyani,Cape Coast Technical University,mission,90.4,28.6,76.9,83.1,0.047,4
+642,2020,Upper West,Jirapa,Adisadel College,private,22.6,29.9,83.8,88.3,0.054,2
+643,2019,North East,Chereponi,Wesley Girls,private,34.9,30,80.7,84.2,0.028,11
+644,2025,Upper West,Lawra,Mfantsipim School,private,21.9,30.3,87.3,91.7,0.051,2
+645,2023,Greater Accra,Tema,Adisadel College,public,72.9,26.1,78.9,93.2,0.036,3
+646,2024,Northern,Tolon,Cape Coast Technical University,private,57,34.3,88.9,92.4,0.044,4
+647,2021,Upper West,Wa,Ghana National College,public,59.5,22.3,76.4,74,0.047,6
+648,2023,Ashanti,Obuasi,Adisadel College,public,108.6,25.7,60.8,71.5,0.03,3
+649,2018,Western,Shama,Adisadel College,private,28.9,24.5,67.1,81.9,0.048,7
+650,2025,Western North,Bodi,Wesley Girls,public,55.2,28.5,74.1,83,0.036,5
+651,2022,Ashanti,Kumasi,Cape Coast Technical University,mission,20.8,29.6,75,89,0.034,5
+652,2024,Greater Accra,Kasoa East,Mfantsipim School,mission,50.4,29,71.3,80.3,0.04,6
+653,2024,Upper West,Jirapa,Apam SHS,mission,79.9,23.9,80.6,79.9,0.049,6
+654,2019,North East,Walewale,Adisadel College,private,160.3,30.9,83.6,82.2,0.038,4
+655,2018,Bono,Berekum,Mfantsipim School,mission,31.1,28.1,59.3,74.7,0.042,5
+656,2018,Ahafo,Tano North,Mfantsipim School,private,10.1,29.2,83.7,86.5,0.033,5
+657,2019,Oti,Jasikan,Wesley Girls,public,45.1,35.4,72.9,84.3,0.036,3
+658,2024,Greater Accra,Kasoa East,Cape Coast Technical University,public,35.9,28.3,63.6,85.3,0.054,7
+659,2018,Volta,Kpando,Apam SHS,private,25.4,29.2,66.9,73,0.053,4
+660,2022,Savannah,Damongo,Cape Coast Technical University,private,36.4,26.7,73.1,78.5,0.052,2
+661,2019,Eastern,Koforidua,Wesley Girls,public,63.3,32.4,71.9,87.8,0.038,4
+662,2020,Upper West,Wa,UCC Practice School,private,64.6,32.2,69.1,84.7,0.027,7
+663,2019,Western,Sekondi-Takoradi,Ghana National College,private,73.2,30,66,85.2,0.053,7
+664,2022,Volta,Hohoe,UCC Practice School,public,24,28.2,92.6,92.8,0.038,7
+665,2019,Ahafo,Asutifi South,Ghana National College,mission,65.5,28.7,77.2,77.6,0.05,3
+666,2019,Northern,Tamale,Adisadel College,public,38.6,34.8,81.9,94.9,0.041,2
+667,2024,Savannah,Salaga,Ghana National College,public,68.4,30.8,84.5,80.4,0.052,5
+668,2019,Savannah,Sawla,UCC Practice School,private,62.4,25.7,72.4,83.7,0.03,6
+669,2021,Savannah,Sawla,Cape Coast Technical University,private,59.2,30,74.9,92.1,0.051,2
+670,2021,Eastern,Akim Oda,Wesley Girls,public,48.1,28.9,78.3,74.7,0.052,6
+671,2025,Upper West,Wa,Ghana National College,public,53.1,29.4,68.1,81.2,0.035,8
+672,2022,Central,Cape Coast,Ghana National College,mission,40.4,28.6,68.6,73.5,0.045,4
+673,2018,Bono,Sunyani,Ghana National College,public,37.8,29.8,94.1,95.1,0.028,9
+674,2024,Upper West,Tumu,Cape Coast Technical University,public,12.1,28.9,98.1,83.8,0.035,5
+675,2019,Northern,Yendi,Apam SHS,public,64.7,28.1,64.2,73.8,0.037,6
+676,2024,Greater Accra,Tema,Mfantsipim School,mission,14.5,29.9,82,87.6,0.029,6
+677,2019,Bono East,Nkoranza,Ghana National College,public,103.6,29.3,80.1,88.5,0.039,3
+678,2024,Upper West,Wa,Wesley Girls,mission,40.9,33.4,79.2,85.3,0.045,4
+679,2023,Ahafo,Goaso,UCC Practice School,mission,78.1,28.5,69.4,84.7,0.045,3
+680,2021,Upper East,Paga,Mfantsipim School,public,102.1,25.4,67.9,85.4,0.04,3
+681,2020,Bono East,Atebubu,Ghana National College,mission,108.2,31.1,86,88.2,0.03,4
+682,2023,Bono,Dormaa,Ghana National College,private,39.5,31.6,91.5,86.3,0.029,7
+683,2021,Eastern,Suhum,Wesley Girls,mission,49,24.2,76.6,74.9,0.05,7
+684,2018,Savannah,Salaga,Adisadel College,private,20.5,29.5,66.4,73.7,0.043,3
+685,2023,Ahafo,Tano North,Wesley Girls,private,31,28.3,75.6,88.5,0.048,2
+686,2019,Savannah,Sawla,St Augustine's College,private,91.9,30.5,72.2,83.7,0.027,5
+687,2019,Western,Tarkwa,Apam SHS,public,62.7,30.4,70.3,79.9,0.039,2
+688,2024,Bono East,Kintampo,Wesley Girls,public,61.7,30.3,74.7,79.5,0.053,4
+689,2022,Ahafo,Asunafo North,Adisadel College,mission,40.2,31.4,83.8,77.1,0.047,5
+690,2020,Ahafo,Goaso,Wesley Girls,public,34.7,30.5,84.1,91.2,0.049,4
+691,2022,Eastern,Akim Oda,Mfantsipim School,mission,32.9,33.3,79.2,80.8,0.04,3
+692,2020,Eastern,Koforidua,Mfantsipim School,public,25.4,28.7,80.5,83.2,0.048,2
+693,2023,Western North,Bodi,Wesley Girls,mission,39.5,28.8,79.1,89.1,0.046,5
+694,2023,Northern,Tamale,UCC Practice School,public,67,27.7,71.5,77.2,0.03,2
+695,2020,Volta,Ho,Mfantsipim School,mission,59.4,27.6,87.1,87.8,0.029,1
+696,2023,Volta,Hohoe,Adisadel College,private,25.7,28.8,66.6,78.7,0.031,5
+697,2020,Savannah,Damongo,St Augustine's College,mission,91.3,31.8,79.4,84.1,0.029,2
+698,2020,Greater Accra,Accra,St Augustine's College,private,64.5,28.7,79.5,78.3,0.043,5
+699,2022,Eastern,Nsawam,Adisadel College,private,33.8,29.6,93.1,91.8,0.055,3
+700,2019,Bono,Wenchi,Apam SHS,mission,45.2,32.8,67.4,82.1,0.049,6
+701,2019,Bono,Wenchi,Ghana National College,private,22.5,31.8,75.8,88.4,0.048,3
+702,2023,Central,Komenda,Ghana National College,public,45,26.5,69.8,81.3,0.051,4
+703,2024,Eastern,Suhum,St Augustine's College,mission,26.8,25.1,88,79.3,0.053,1
+704,2022,Eastern,Akim Oda,Mfantsipim School,public,68,23,70.3,79.9,0.035,1
+705,2023,North East,Bunkpurugu,Mfantsipim School,public,17.2,31.6,74,74.2,0.029,2
+706,2021,North East,Chereponi,Ghana National College,mission,25.4,20.5,89.3,97.5,0.048,2
+707,2024,Upper West,Jirapa,St Augustine's College,public,46.2,27.4,68.8,78.6,0.039,4
+708,2023,Upper West,Wa,Apam SHS,mission,16,27.3,74.3,82.9,0.054,2
+709,2018,Ahafo,Asunafo North,Wesley Girls,mission,83.2,29.7,84.5,87.2,0.054,8
+710,2020,Bono,Berekum,Apam SHS,public,38,27.9,89.7,85.3,0.055,2
+711,2024,Central,Cape Coast,Apam SHS,mission,66.6,24.1,71.6,89,0.049,2
+712,2024,Western North,Bibiani,Cape Coast Technical University,mission,18,30.3,86.9,86.8,0.044,4
+713,2024,Northern,Tamale,Wesley Girls,mission,47.5,30.6,78.1,79,0.049,3
+714,2025,Bono East,Techiman,Mfantsipim School,public,43.4,28.5,74.6,81.3,0.034,4
+715,2022,Western North,Bibiani,Adisadel College,mission,73.5,25.7,84.1,87.8,0.026,3
+716,2020,Central,Cape Coast,Cape Coast Technical University,private,75.8,30.1,72.6,79,0.04,9
+717,2020,Ahafo,Asunafo North,UCC Practice School,private,17,28.6,66.5,78.2,0.045,2
+718,2020,Greater Accra,Kasoa East,Apam SHS,private,34.6,28.8,61.2,80.8,0.051,3
+719,2022,Ashanti,Ejisu,Ghana National College,public,68.1,29.2,79,82.8,0.028,2
+720,2019,Upper West,Lawra,Mfantsipim School,public,30.4,24.5,79.8,85.7,0.028,7
+721,2021,Western North,Bodi,Cape Coast Technical University,public,26.8,23.2,79,85.2,0.054,2
+722,2021,Upper East,Navrongo,Adisadel College,mission,46.8,27.6,69.8,77.1,0.032,6
+723,2025,Ahafo,Goaso,Adisadel College,mission,90,32.2,82.7,82.3,0.046,5
+724,2023,Volta,Kpando,UCC Practice School,public,56.8,26,82.6,75.3,0.031,4
+725,2022,Volta,Hohoe,UCC Practice School,public,55.4,32.3,85.6,93.5,0.053,2
+726,2018,Upper West,Lawra,UCC Practice School,private,44.8,30.7,75.9,84.8,0.048,4
+727,2021,Upper West,Tumu,Ghana National College,private,53.8,35.6,79.8,82.2,0.028,6
+728,2021,Ashanti,Mampong,Adisadel College,private,38.5,29.7,77.1,79,0.034,5
+729,2020,North East,Nalerigu,UCC Practice School,private,70.5,27.4,67,68.1,0.055,2
+730,2022,Ahafo,Goaso,Adisadel College,public,12.9,25.5,80.1,75.7,0.051,3
+731,2023,Western,Tarkwa,Cape Coast Technical University,public,66.3,30.5,74.6,92.6,0.028,1
+732,2023,Ahafo,Asunafo North,Apam SHS,private,63.3,27.9,71,74.5,0.035,4
+733,2019,Ahafo,Asutifi South,Ghana National College,private,62.1,27.1,90.9,85.5,0.036,9
+734,2022,Savannah,Salaga,Apam SHS,private,42.1,27.6,63.6,84.6,0.04,4
+735,2025,Volta,Hohoe,Cape Coast Technical University,public,99.3,27.1,75.7,75.8,0.034,3
+736,2025,Ashanti,Kumasi,St Augustine's College,public,75.3,26.8,75.7,84.4,0.051,9
+737,2022,Volta,Hohoe,Cape Coast Technical University,public,19,27.2,79.9,80.9,0.04,5
+738,2021,Ahafo,Asunafo North,Wesley Girls,mission,60.6,34.6,72.1,78.1,0.027,6
+739,2024,Ashanti,Ejisu,St Augustine's College,public,52.9,27.4,58.6,77.6,0.038,4
+740,2024,Savannah,Sawla,Wesley Girls,mission,39.9,29.7,72.3,73.3,0.044,5
+741,2024,Greater Accra,Kasoa East,Wesley Girls,public,26.1,28.2,72.8,79.2,0.046,2
+742,2020,Ahafo,Goaso,Ghana National College,public,39.7,25.7,88.2,86.8,0.029,3
+743,2024,Oti,Nkwanta South,St Augustine's College,mission,55,30.5,80.9,73.5,0.041,1
+744,2022,Ashanti,Kumasi,UCC Practice School,private,112.6,30.2,79,93.5,0.039,3
+745,2019,Bono,Sunyani,Cape Coast Technical University,private,101.2,28.1,88.5,95.4,0.031,4
+746,2025,Ashanti,Mampong,Ghana National College,mission,69.6,30.9,83.9,77,0.032,3
+747,2020,Bono,Wenchi,Cape Coast Technical University,mission,40,28.4,93,84.2,0.055,6
+748,2020,Upper West,Tumu,St Augustine's College,mission,53.2,29.2,74.7,91,0.038,1
+749,2019,Greater Accra,Madina,Adisadel College,public,64,31.4,84.3,87.7,0.045,4
+750,2019,Ashanti,Kumasi,Cape Coast Technical University,mission,40.6,27.9,75.8,84.3,0.032,4
+751,2023,Bono,Wenchi,Mfantsipim School,public,25,33.3,69.3,86.2,0.054,1
+752,2019,Eastern,Suhum,St Augustine's College,mission,98.5,26.9,70.8,84.5,0.054,4
+753,2022,Bono East,Nkoranza,St Augustine's College,mission,61.4,31.2,77.8,83.9,0.05,2
+754,2025,Ahafo,Asutifi South,UCC Practice School,mission,106.3,29.3,83,81.2,0.039,7
+755,2023,North East,Walewale,Adisadel College,private,5.7,29.4,88.2,87,0.038,3
+756,2025,Greater Accra,Accra,UCC Practice School,mission,120.8,31.3,65.8,88.7,0.052,3
+757,2020,North East,Nalerigu,Apam SHS,public,84.5,30.7,74.9,91.2,0.052,5
+758,2023,Northern,Tolon,Adisadel College,private,23.4,26,74.3,80.5,0.053,4
+759,2020,Northern,Savelugu,UCC Practice School,private,37.2,27.5,96.8,80.1,0.034,3
+760,2018,Bono,Sunyani,Apam SHS,private,108,28,74.7,81.3,0.046,3
+761,2024,Western North,Juaboso,Wesley Girls,private,32.3,28.7,72.4,65.8,0.046,3
+762,2018,Western,Shama,Mfantsipim School,private,36,31,76.2,86.4,0.037,3
+763,2024,Savannah,Salaga,Mfantsipim School,private,60,24.8,82,81.9,0.029,4
+764,2025,Northern,Tamale,Mfantsipim School,mission,17,30.6,90.8,82.1,0.029,5
+765,2018,Savannah,Salaga,Cape Coast Technical University,mission,24,29.9,61.3,71,0.051,4
+766,2023,Eastern,Akim Oda,St Augustine's College,private,99.8,31.8,72.6,78.6,0.036,4
+767,2022,Oti,Kadjebi,St Augustine's College,private,77.8,25.7,74.8,75.7,0.052,6
+768,2023,Oti,Kadjebi,Ghana National College,public,14.2,29.2,76.7,86.5,0.035,6
+769,2022,Ashanti,Kumasi,Wesley Girls,public,35.6,29.8,97.5,76.6,0.032,5
+770,2019,Upper West,Lawra,Adisadel College,private,43,24.5,75.1,85.9,0.038,3
+771,2022,Ahafo,Tano North,Adisadel College,public,56.9,27.6,92.7,93.2,0.047,6
+772,2020,Bono East,Kintampo,Adisadel College,public,24.9,26.2,72.4,85.9,0.044,8
+773,2020,Northern,Tolon,Ghana National College,mission,31.9,27.2,66.2,74.3,0.031,1
+774,2024,Ashanti,Obuasi,Ghana National College,mission,13.8,31.9,82.8,84,0.055,4
+775,2023,Ahafo,Asutifi South,St Augustine's College,public,25.2,31.7,75.9,81.4,0.055,4
+776,2024,Upper West,Lawra,Ghana National College,mission,31,28.5,66.3,70.1,0.034,4
+777,2021,Ashanti,Ejisu,Ghana National College,public,71.7,33.2,83.4,78.8,0.042,3
+778,2021,Greater Accra,Madina,Adisadel College,mission,139.8,28.4,85.2,89.7,0.033,2
+779,2024,Upper West,Tumu,Cape Coast Technical University,private,61.9,26,80,77.7,0.055,2
+780,2022,Central,Kasoa,Apam SHS,private,30.9,30.7,80,93.1,0.037,3
+781,2024,Western North,Juaboso,Cape Coast Technical University,public,60.8,30.2,78.7,86.6,0.053,4
+782,2023,Western,Shama,Ghana National College,public,27.9,28.6,82.9,79,0.039,4
+783,2023,Central,Komenda,UCC Practice School,public,83.5,28.4,84.3,91.5,0.047,4
+784,2021,Oti,Nkwanta South,Apam SHS,mission,87.9,28.8,66.9,79.6,0.053,6
+785,2022,Western,Shama,UCC Practice School,public,64.5,30.4,73.3,89.6,0.044,3
+786,2019,Upper West,Lawra,Wesley Girls,mission,56.1,30.5,77.5,84.2,0.033,2
+787,2019,Upper West,Lawra,UCC Practice School,private,31,30.9,76.6,87.6,0.05,5
+788,2021,Western North,Juaboso,Ghana National College,private,77.7,28.3,79.4,87.7,0.053,5
+789,2022,Bono East,Techiman,UCC Practice School,private,52.4,28.5,78.9,82.2,0.029,5
+790,2021,Ahafo,Asutifi South,Cape Coast Technical University,mission,54.4,29,78.5,82.3,0.037,3
+791,2020,North East,Walewale,Cape Coast Technical University,mission,54.1,26.7,72,84.3,0.055,2
+792,2022,Upper East,Navrongo,Mfantsipim School,private,75.2,26,71.4,83.8,0.045,1
+793,2018,Ahafo,Asunafo North,Ghana National College,mission,44.4,32.3,90,95.1,0.031,2
+794,2020,Oti,Jasikan,St Augustine's College,mission,45.5,29,74.2,87.3,0.051,2
+795,2022,Upper East,Paga,Wesley Girls,public,51,26.6,100,93.7,0.04,3
+796,2025,Bono,Sunyani,Ghana National College,mission,56,27.3,63,69.2,0.052,4
+797,2021,Western North,Bodi,Apam SHS,mission,29.4,27.5,73.1,87.4,0.049,5
+798,2023,Ashanti,Mampong,St Augustine's College,public,70.9,30.5,80.7,85.6,0.047,2
+799,2021,Ashanti,Obuasi,Apam SHS,private,64.7,32.8,80.2,81.7,0.034,3
+800,2021,Northern,Yendi,Apam SHS,private,40.5,27.8,69.3,80.4,0.043,4
+801,2022,Northern,Yendi,Cape Coast Technical University,public,74.3,23.6,96.7,74.5,0.051,4
+802,2021,Central,Cape Coast,Wesley Girls,private,47.7,29.9,72,90.8,0.051,4
+803,2025,Savannah,Damongo,Ghana National College,private,76.4,24.9,70,83.3,0.031,2
+804,2024,Volta,Kpando,UCC Practice School,private,83.4,27.8,75.7,93.7,0.038,3
+805,2024,Ashanti,Obuasi,Wesley Girls,private,75.9,33.3,67.3,95.4,0.04,4
+806,2022,Oti,Nkwanta South,Cape Coast Technical University,mission,57.6,25.1,70.4,65.2,0.04,7
+807,2024,Greater Accra,Tema,Apam SHS,private,74.3,27.2,71,77.3,0.04,5
+808,2025,North East,Walewale,Cape Coast Technical University,mission,19.9,25.9,66,78.2,0.029,2
+809,2022,Upper East,Bolgatanga,Mfantsipim School,mission,100.8,25.1,77.9,84.1,0.053,6
+810,2021,Northern,Tamale,Adisadel College,private,64.5,27.4,67.7,74.7,0.049,4
+811,2019,Bono East,Atebubu,Ghana National College,public,58.3,28.2,79.2,90.9,0.039,3
+812,2019,Ahafo,Asutifi South,Wesley Girls,mission,52.5,32.2,68.6,88.9,0.054,2
+813,2024,Greater Accra,Accra,St Augustine's College,public,92.3,27.5,84.8,76.7,0.042,9
+814,2025,Greater Accra,Tema,Mfantsipim School,private,32.2,30.4,83.1,90,0.028,8
+815,2020,Western North,Sefwi Wiawso,Adisadel College,private,52.7,33.8,82.1,77.8,0.039,3
+816,2022,Ahafo,Asunafo North,St Augustine's College,public,49.3,34.5,76.4,85.3,0.032,2
+817,2021,Bono East,Nkoranza,Apam SHS,mission,101,27.3,87,81.5,0.056,6
+818,2023,Bono East,Atebubu,Mfantsipim School,mission,29.4,33.4,80.1,90.3,0.03,5
+819,2024,Upper East,Bawku,Ghana National College,mission,47.1,30.6,73.1,88.5,0.035,1
+820,2021,Volta,Kpando,St Augustine's College,mission,52.3,32.5,67.8,80.9,0.046,1
+821,2021,Ahafo,Goaso,UCC Practice School,private,21.6,25.9,81.5,94.2,0.033,6
+822,2019,Greater Accra,Madina,Wesley Girls,mission,27.5,28,70,78.8,0.03,1
+823,2018,Bono,Berekum,Cape Coast Technical University,private,66.5,30.1,80.7,87.7,0.038,3
+824,2023,Upper East,Bolgatanga,Mfantsipim School,mission,36.6,24.8,76.7,86.1,0.052,4
+825,2022,Ahafo,Goaso,Mfantsipim School,private,76,27.1,76.6,82.6,0.043,3
+826,2020,Western North,Bodi,Ghana National College,mission,28.3,25.5,84.1,89.8,0.048,9
+827,2020,Upper East,Paga,Mfantsipim School,public,100.1,27.9,84.2,90.7,0.035,1
+828,2024,Western North,Sefwi Wiawso,Adisadel College,mission,51.7,28.3,74.3,78.9,0.052,2
+829,2020,Volta,Ho,Wesley Girls,mission,129.9,36.8,76.3,85.2,0.043,4
+830,2022,Greater Accra,Accra,Apam SHS,public,107.9,29.7,85,85.6,0.037,5
+831,2022,Bono,Sunyani,Cape Coast Technical University,private,48.3,24.9,89.7,88.6,0.045,7
+832,2020,Western North,Sefwi Wiawso,Ghana National College,mission,41.8,29.4,82.2,94.6,0.038,1
+833,2020,Bono,Berekum,Apam SHS,public,17.6,21.9,95.1,83.2,0.034,6
+834,2021,Upper West,Wa,UCC Practice School,mission,68.1,31.2,67.5,87.7,0.049,3
+835,2025,Upper West,Lawra,Adisadel College,private,26.1,31.4,71.6,79,0.029,3
+836,2023,Bono,Dormaa,Ghana National College,mission,21.9,25,59.9,75.2,0.046,5
+837,2018,Western North,Bibiani,Ghana National College,private,37,30.2,70.5,78.8,0.042,4
+838,2019,Bono East,Atebubu,Wesley Girls,private,48.8,28.2,68.1,79.9,0.041,3
+839,2022,Central,Komenda,Mfantsipim School,public,32.5,26.8,84.7,86.4,0.036,3
+840,2018,Volta,Hohoe,Ghana National College,mission,20.5,33.1,78.5,79.7,0.034,6
+841,2020,Ahafo,Goaso,St Augustine's College,mission,116.9,27.6,91,74.6,0.046,1
+842,2024,Bono,Berekum,Apam SHS,public,47.1,29.9,81,87.3,0.05,3
+843,2023,Upper East,Bawku,Wesley Girls,private,62.2,28,63.5,77.2,0.038,2
+844,2020,Volta,Kpando,Wesley Girls,public,16.8,32.9,66.7,73.4,0.031,7
+845,2020,Ahafo,Asunafo North,UCC Practice School,public,126.2,28.3,73.4,81.1,0.027,3
+846,2020,Bono,Sunyani,St Augustine's College,public,41.4,27.2,74.2,81.8,0.043,10
+847,2021,Bono,Berekum,Apam SHS,private,9.9,29,80,98,0.034,4
+848,2022,Bono East,Nkoranza,Wesley Girls,private,64.9,25.4,65.5,83.2,0.038,6
+849,2020,Upper East,Paga,Ghana National College,mission,77.3,34.4,73.7,88.2,0.043,4
+850,2020,Oti,Dambai,Adisadel College,public,71.9,33.1,85.5,87.3,0.047,5
+851,2022,Upper East,Navrongo,Mfantsipim School,public,24.2,28.4,78.7,84.9,0.039,3
+852,2019,Ahafo,Asutifi South,Apam SHS,mission,56.5,26.8,77.5,85.5,0.047,1
+853,2025,Central,Mfantsiman,Cape Coast Technical University,private,41,27.7,85,78.6,0.053,6
+854,2025,Upper East,Bawku,UCC Practice School,private,50.4,25.8,72,78.9,0.034,2
+855,2021,Bono East,Kintampo,UCC Practice School,mission,19.2,27.3,66.6,76.2,0.047,2
+856,2021,Upper West,Wa,Apam SHS,mission,84.2,27.4,67.3,76.3,0.035,5
+857,2024,Central,Mfantsiman,Adisadel College,mission,65.7,25.6,84.7,78.6,0.028,4
+858,2024,Eastern,Akim Oda,Wesley Girls,mission,60,32.1,73,78.1,0.029,4
+859,2018,Bono,Wenchi,St Augustine's College,public,58.1,28.7,70.9,87.7,0.047,4
+860,2025,Western,Axim,Wesley Girls,private,49.6,30.4,74.1,72.6,0.031,3
+861,2021,Bono,Berekum,Wesley Girls,public,48.8,28.1,72.1,85.3,0.055,4
+862,2024,Upper West,Lawra,Apam SHS,private,43,25.9,75.1,96,0.042,3
+863,2025,Central,Komenda,UCC Practice School,private,25.8,27.6,79.8,97.3,0.035,3
+864,2024,Central,Kasoa,Apam SHS,private,36,27.2,69.1,80.5,0.044,3
+865,2018,Northern,Yendi,Wesley Girls,mission,46,31.7,59.9,78.9,0.029,3
+866,2019,Greater Accra,Kasoa East,Cape Coast Technical University,private,42.6,32.7,72,91.3,0.028,9
+867,2022,Western,Shama,Mfantsipim School,private,51.6,25.4,74.1,77.4,0.042,5
+868,2020,Eastern,Suhum,Wesley Girls,mission,99.5,28.6,84,95.2,0.032,9
+869,2023,Ashanti,Mampong,Wesley Girls,mission,3.9,28.9,81.1,84.5,0.028,6
+870,2018,Northern,Savelugu,Cape Coast Technical University,public,79.8,27.5,70.5,91.4,0.045,5
+871,2024,Oti,Dambai,Apam SHS,mission,27.3,27.9,80,79.6,0.039,3
+872,2024,Western,Shama,Wesley Girls,public,18.4,29,90.6,91.8,0.041,2
+873,2023,Western,Tarkwa,St Augustine's College,mission,46.6,25.5,87,94.2,0.049,2
+874,2023,Bono,Sunyani,Apam SHS,public,29.6,29.4,73.8,82.8,0.046,4
+875,2021,Greater Accra,Accra,Ghana National College,private,37.3,30,78.8,75.4,0.05,4
+876,2024,North East,Nalerigu,Cape Coast Technical University,mission,17.2,25.6,84.4,91.6,0.029,3
+877,2023,Upper West,Jirapa,Wesley Girls,public,24.3,32.9,90.2,91.9,0.029,4
+878,2020,Northern,Savelugu,Wesley Girls,private,57.6,28.7,76.1,78.7,0.043,4
+879,2019,Western North,Bodi,Cape Coast Technical University,private,72,32.8,77.4,85.5,0.053,6
+880,2022,Volta,Keta,UCC Practice School,public,33.4,29.5,75.3,82.9,0.048,6
+881,2025,Central,Komenda,Wesley Girls,private,64.7,29,70.1,76.3,0.047,4
+882,2025,Eastern,Koforidua,Mfantsipim School,public,37.6,31.8,74.1,76.6,0.037,3
+883,2018,Western,Shama,St Augustine's College,private,33.9,29.8,82.6,75.7,0.043,5
+884,2021,Eastern,Koforidua,Adisadel College,private,24.7,25.5,94.1,93.9,0.047,4
+885,2023,Central,Kasoa,Cape Coast Technical University,mission,50.2,29.3,68.5,77.2,0.041,3
+886,2023,Upper West,Wa,Ghana National College,private,21,30.3,86.9,90,0.033,3
+887,2025,Greater Accra,Madina,Wesley Girls,private,20.9,27.1,91.4,94.2,0.046,4
+888,2020,Ahafo,Asutifi South,Adisadel College,mission,29.3,32.6,75.9,78.1,0.041,2
+889,2020,Western,Shama,Adisadel College,mission,71.9,28.3,77.7,83.1,0.034,4
+890,2020,Central,Mfantsiman,Mfantsipim School,mission,39.5,29.5,77.4,76.3,0.042,4
+891,2022,Savannah,Sawla,Apam SHS,private,25.1,28.8,91.2,93.2,0.036,2
+892,2018,Oti,Nkwanta South,Mfantsipim School,mission,55.4,31.6,68.4,71.6,0.028,3
+893,2022,Eastern,Koforidua,UCC Practice School,public,54.2,31.3,76,84.7,0.04,1
+894,2023,Upper East,Bawku,Cape Coast Technical University,private,29.5,28.6,81.7,82.9,0.055,1
+895,2021,Bono,Berekum,Adisadel College,public,56.6,26.7,71.4,86.6,0.034,1
+896,2018,Ashanti,Mampong,Wesley Girls,public,50,25.6,63.7,78.6,0.039,4
+897,2019,Bono East,Nkoranza,Ghana National College,public,58.1,27.9,69.6,92.9,0.05,4
+898,2019,Upper West,Lawra,UCC Practice School,private,64,29.2,66.3,79.3,0.054,6
+899,2023,Bono,Wenchi,Wesley Girls,private,36.7,28.5,80.2,85.4,0.028,6
+900,2022,Eastern,Akim Oda,St Augustine's College,public,43.7,28.2,86.8,91.6,0.048,5
+901,2022,Eastern,Suhum,St Augustine's College,private,15.6,26.8,80,87.4,0.036,2
+902,2023,Bono East,Kintampo,St Augustine's College,private,116.7,24.8,66.5,75.2,0.029,5
+903,2022,Upper East,Bawku,Cape Coast Technical University,public,62.9,28.7,81,86.6,0.048,3
+904,2019,Bono East,Techiman,UCC Practice School,private,29.7,26,75.3,79.5,0.04,2
+905,2019,Upper West,Wa,UCC Practice School,mission,48.8,29,90.1,98.5,0.032,3
+906,2018,Oti,Nkwanta South,Cape Coast Technical University,private,15.6,29.7,75,69.8,0.047,4
+907,2023,Western North,Bodi,Wesley Girls,private,68.5,32.4,70.7,88.9,0.033,3
+908,2018,Oti,Jasikan,Mfantsipim School,public,25.8,27.5,82.5,84.9,0.045,1
+909,2022,Savannah,Sawla,Cape Coast Technical University,private,89.3,25.2,72.5,74.2,0.036,7
+910,2025,Upper West,Lawra,Adisadel College,public,32.1,28,77.9,75.8,0.033,3
+911,2023,Oti,Dambai,Adisadel College,mission,31.1,29.3,65,80.3,0.027,3
+912,2020,Savannah,Sawla,Cape Coast Technical University,mission,45.4,32.3,73.3,75.1,0.031,3
+913,2018,Ashanti,Obuasi,Wesley Girls,public,136.1,32,76.6,86.1,0.054,5
+914,2019,Greater Accra,Tema,Wesley Girls,public,54.8,28.4,79.8,82,0.039,2
+915,2024,Northern,Tamale,Ghana National College,public,85.3,28,72.7,84,0.051,7
+916,2021,Upper West,Wa,UCC Practice School,mission,72.2,25.4,86.9,77.8,0.049,5
+917,2025,Northern,Savelugu,UCC Practice School,mission,49.4,27.7,69,66.2,0.047,4
+918,2024,Oti,Jasikan,St Augustine's College,public,53.8,30.2,82.5,77,0.048,6
+919,2025,Ashanti,Obuasi,Wesley Girls,public,28.2,32.4,87.6,97,0.031,3
+920,2020,Western,Shama,Ghana National College,public,19.5,30.7,76.3,90.3,0.034,3
+921,2025,Northern,Tamale,Apam SHS,private,135.1,27.1,96.8,94.2,0.049,2
+922,2025,Central,Cape Coast,Ghana National College,private,60.4,25,68.3,85.7,0.046,1
+923,2023,Western,Axim,Cape Coast Technical University,private,64.8,29.6,74.1,85.1,0.05,7
+924,2025,Savannah,Sawla,UCC Practice School,private,43,27.8,77.7,97.3,0.046,1
+925,2019,Upper East,Bawku,Mfantsipim School,private,52.7,30.4,78.7,81.9,0.049,2
+926,2020,Eastern,Koforidua,Cape Coast Technical University,private,30.9,26.6,81,89,0.043,8
+927,2021,Ahafo,Goaso,St Augustine's College,public,36.2,33.6,74,80.1,0.05,6
+928,2023,Volta,Ho,Adisadel College,mission,32.2,27.7,81.8,87.7,0.036,2
+929,2022,Western,Shama,UCC Practice School,private,57.7,33.3,82.5,93.8,0.028,2
+930,2020,Upper West,Jirapa,Wesley Girls,private,50.5,30.9,69.5,77.5,0.032,5
+931,2021,Greater Accra,Accra,UCC Practice School,public,76,30.5,81.7,74.1,0.031,3
+932,2024,Western,Shama,Mfantsipim School,mission,122.5,26,79.3,81,0.04,6
+933,2021,Western North,Juaboso,UCC Practice School,private,39.4,25.3,84.6,75.8,0.053,4
+934,2020,North East,Walewale,Mfantsipim School,mission,40.5,28.4,75.3,84,0.035,7
+935,2024,Central,Kasoa,Apam SHS,public,34.2,25.5,58.6,76.5,0.041,6
+936,2023,Eastern,Akim Oda,Ghana National College,private,41.6,31.7,58.1,67.8,0.05,4
+937,2020,Bono East,Atebubu,Cape Coast Technical University,mission,113.4,31.5,76.2,66.5,0.052,1
+938,2024,Western,Axim,Cape Coast Technical University,mission,53.9,30,71.7,81.8,0.034,5
+939,2025,Bono,Berekum,Adisadel College,private,38.7,27.2,81,99,0.042,2
+940,2020,Bono,Wenchi,Mfantsipim School,public,59.5,31.5,76.1,81.6,0.034,2
+941,2020,Ashanti,Ejisu,St Augustine's College,mission,72.2,28.7,74.5,79,0.039,4
+942,2022,Oti,Dambai,Mfantsipim School,private,43.3,26.8,82.7,76.7,0.038,2
+943,2024,Eastern,Akim Oda,Ghana National College,private,103.8,28.3,76.6,87.6,0.028,6
+944,2019,Northern,Yendi,Mfantsipim School,mission,45.3,28.8,75.7,77.4,0.027,1
+945,2018,Volta,Kpando,Ghana National College,mission,101.5,30.1,67.4,72.7,0.044,4
+946,2025,Western,Shama,UCC Practice School,mission,68.7,32.2,69.7,88.3,0.031,4
+947,2022,Bono,Sunyani,Mfantsipim School,private,28.8,24.2,79.2,80.3,0.031,3
+948,2020,Ahafo,Asunafo North,St Augustine's College,private,31.1,33.9,80.7,85.4,0.037,4
+949,2021,Oti,Kadjebi,Wesley Girls,public,30.3,29.5,91.2,92,0.033,3
+950,2023,Western North,Bodi,Wesley Girls,mission,83.6,29.9,82,75.8,0.048,4
+951,2022,Ahafo,Goaso,Mfantsipim School,public,86.7,30.3,71.1,76.6,0.045,3
+952,2025,Bono East,Techiman,Adisadel College,public,69.7,29.6,84,97,0.054,3
+953,2018,Western,Sekondi-Takoradi,Cape Coast Technical University,public,44.4,30.9,88.8,82.7,0.038,4
+954,2025,Volta,Hohoe,UCC Practice School,mission,77.2,37.6,82,81.6,0.027,3
+955,2023,Ahafo,Asunafo North,Wesley Girls,public,35.3,34.2,69.6,78.6,0.051,5
+956,2018,Oti,Kadjebi,Mfantsipim School,public,77.1,28.7,91.9,95,0.03,3
+957,2024,Ashanti,Ejisu,Wesley Girls,private,53.1,33.8,95.2,99,0.034,2
+958,2025,Bono East,Nkoranza,Apam SHS,mission,22.2,31,59.6,79.1,0.045,7
+959,2022,Bono East,Techiman,Ghana National College,private,31.8,25.6,76.5,83.6,0.04,1
+960,2021,Savannah,Sawla,Mfantsipim School,public,76.7,25.5,70.9,78.9,0.047,4
+961,2024,Upper East,Paga,Apam SHS,private,32.2,28.8,90.2,92.8,0.032,3
+962,2021,North East,Chereponi,Mfantsipim School,public,105.9,32.2,78,80.9,0.043,2
+963,2023,Bono East,Atebubu,Wesley Girls,private,226.7,29.2,69.7,80.1,0.04,3
+964,2021,Western,Shama,St Augustine's College,mission,20.5,32.2,73.1,92.7,0.043,3
+965,2025,Bono,Wenchi,UCC Practice School,public,52.8,31.6,69.2,81.9,0.052,5
+966,2019,Bono East,Nkoranza,Apam SHS,mission,32.6,30.3,100,94.3,0.042,2
+967,2025,Central,Komenda,Cape Coast Technical University,mission,42.3,28.4,77.4,80.9,0.048,3
+968,2025,Western North,Bodi,UCC Practice School,public,40.2,27.7,74.4,80.4,0.048,6
+969,2021,Central,Kasoa,Mfantsipim School,mission,50.8,27.9,62.3,68.6,0.046,7
+970,2018,Upper West,Lawra,UCC Practice School,public,69.2,31.1,80.3,90.4,0.04,3
+971,2023,Bono East,Kintampo,Apam SHS,public,58.4,29.3,67.7,78.1,0.026,4
+972,2020,Oti,Kadjebi,Mfantsipim School,private,44.9,29.1,82.4,83.8,0.03,6
+973,2020,Ashanti,Mampong,Apam SHS,public,33.6,27.1,72.9,89.8,0.042,2
+974,2024,Bono,Berekum,St Augustine's College,private,15,32.2,90,94.9,0.028,4
+975,2018,Oti,Dambai,St Augustine's College,public,65.2,31.3,70.5,77.7,0.028,6
+976,2025,Oti,Jasikan,St Augustine's College,mission,39.4,36.7,76.1,80.8,0.03,6
+977,2021,Bono,Wenchi,Cape Coast Technical University,private,8.7,29.4,85.8,74.6,0.033,5
+978,2020,Central,Komenda,Adisadel College,public,49.8,33.9,84.3,89.1,0.056,3
+979,2024,Savannah,Damongo,Apam SHS,public,17.2,28,81.4,88.3,0.03,3
+980,2023,Ashanti,Ejisu,Adisadel College,mission,44,24.9,80.9,80.5,0.034,4
+981,2018,Western North,Juaboso,UCC Practice School,public,111.5,26.8,73.3,84.3,0.046,4
+982,2021,Western,Sekondi-Takoradi,Cape Coast Technical University,mission,102.4,31.3,68,85.3,0.046,1
+983,2019,Ashanti,Mampong,Apam SHS,private,35.8,25.4,76.7,77.5,0.052,5
+984,2024,Savannah,Damongo,St Augustine's College,mission,62.4,28.5,74.4,81.3,0.044,3
+985,2020,Western North,Sefwi Wiawso,Adisadel College,public,78.5,30,80,85.7,0.034,2
+986,2023,Upper East,Bawku,St Augustine's College,mission,66.2,31.4,81.3,87.9,0.033,4
+987,2021,Western North,Juaboso,Ghana National College,mission,35.2,26.3,75.9,86.5,0.051,3
+988,2025,Oti,Dambai,Cape Coast Technical University,mission,41.4,31.2,83.2,83.6,0.029,8
+989,2023,Ashanti,Ejisu,Ghana National College,public,46,28.3,78,79.2,0.04,5
+990,2021,Savannah,Damongo,Mfantsipim School,public,36.1,31.6,80.1,74.4,0.04,8
+991,2023,Eastern,Akim Oda,Cape Coast Technical University,mission,82.7,30.9,76.1,81.4,0.048,8
+992,2020,Western North,Juaboso,Apam SHS,private,62.1,27.8,81.3,88.6,0.055,4
+993,2021,North East,Bunkpurugu,Apam SHS,public,33.1,26,76.4,94.3,0.041,2
+994,2023,Oti,Nkwanta South,Mfantsipim School,private,63,31.7,72.4,87.3,0.049,3
+995,2025,Western North,Juaboso,Apam SHS,public,26.9,26.2,82.2,86,0.051,6
+996,2022,Western North,Bodi,St Augustine's College,mission,33.5,29.2,75.7,83,0.027,4
+997,2025,Eastern,Koforidua,St Augustine's College,mission,7.4,28.3,79.9,80.9,0.045,5
+998,2022,Bono East,Kintampo,Adisadel College,mission,63.5,26.4,79.6,76.9,0.052,3
+999,2019,North East,Walewale,Mfantsipim School,private,44.4,27.1,65.3,84.9,0.047,4
+1000,2018,Bono East,Nkoranza,Adisadel College,private,74.2,28.4,73.1,89.5,0.049,3
+1001,2022,Savannah,Damongo,Apam SHS,private,47.3,28.2,67.4,73.2,0.05,8
+1002,2022,Northern,Savelugu,Wesley Girls,mission,53.1,29.1,78.7,91.5,0.027,6
+1003,2019,North East,Bunkpurugu,St Augustine's College,mission,56.4,27.9,66.9,81.6,0.053,4
+1004,2025,Upper West,Lawra,Mfantsipim School,public,68.9,32.1,66,84.8,0.053,5
+1005,2022,Upper East,Navrongo,Mfantsipim School,mission,119.6,32.7,79.8,95.2,0.044,5
+1006,2022,Western,Shama,Adisadel College,private,161.8,26.7,82.9,77.8,0.037,4
+1007,2024,Bono East,Techiman,Ghana National College,public,50,27.2,69.9,75,0.037,4
+1008,2023,Greater Accra,Accra,St Augustine's College,private,39.9,29.4,76.4,82,0.042,10
+1009,2020,Upper West,Jirapa,UCC Practice School,mission,51.2,27.5,70.2,76.1,0.035,9
+1010,2024,Savannah,Damongo,St Augustine's College,private,43,28.1,71.7,77.6,0.043,6
+1011,2019,Oti,Dambai,St Augustine's College,mission,70.4,28.5,63.5,84.5,0.044,3
+1012,2021,Savannah,Salaga,Ghana National College,mission,64.9,26.3,79.2,85.4,0.048,4
+1013,2025,Northern,Tolon,Cape Coast Technical University,private,44.1,27.9,75.1,84.4,0.028,2
+1014,2021,Eastern,Akim Oda,UCC Practice School,private,73.3,25.7,73.6,83,0.028,3
+1015,2025,Ahafo,Asutifi South,St Augustine's College,mission,62.3,29.1,81.9,81.6,0.053,3
+1016,2018,Upper West,Jirapa,Ghana National College,private,75.7,35.9,86.1,87.9,0.048,5
+1017,2024,Eastern,Suhum,Ghana National College,public,56.7,27.2,66.9,79.4,0.036,1
+1018,2018,North East,Chereponi,Adisadel College,public,100.2,26,81.6,90.6,0.027,5
+1019,2022,Western North,Bibiani,St Augustine's College,mission,37.8,23.7,75,87,0.044,4
+1020,2022,Northern,Yendi,Ghana National College,public,50,28,72.6,84.9,0.034,5
+1021,2021,Ahafo,Asutifi South,Ghana National College,mission,46.9,27.9,86.3,86.9,0.028,4
+1022,2019,Upper West,Tumu,Adisadel College,mission,32.8,27.6,73,79.8,0.048,4
+1023,2024,Central,Komenda,St Augustine's College,private,55.2,33.7,76.2,76.3,0.055,2
+1024,2020,Western,Tarkwa,UCC Practice School,mission,37.9,29.3,77,99,0.048,6
+1025,2023,Western North,Juaboso,Wesley Girls,public,63.2,32.4,80.9,84.7,0.03,5
+1026,2018,Central,Cape Coast,Cape Coast Technical University,private,107.3,31.7,72.5,86.3,0.037,5
+1027,2022,North East,Chereponi,UCC Practice School,public,38.4,25.7,73.5,87.6,0.034,4
+1028,2018,Greater Accra,Kasoa East,Ghana National College,public,68.1,31.8,92.7,88.9,0.037,5
+1029,2021,Western North,Bibiani,UCC Practice School,public,105.4,28.8,73.4,81.6,0.043,1
+1030,2019,Central,Komenda,Mfantsipim School,mission,27.9,25.2,58.8,74.1,0.045,2
+1031,2024,Upper West,Jirapa,Cape Coast Technical University,private,18.6,27,71.5,72.2,0.035,3
+1032,2021,Western,Sekondi-Takoradi,Apam SHS,mission,17.6,32.2,78.5,95,0.046,6
+1033,2025,Upper East,Paga,Adisadel College,private,56.3,28.4,79.4,81.3,0.046,5
+1034,2020,Eastern,Akim Oda,Apam SHS,private,79.9,27.8,89.7,81.5,0.055,4
+1035,2019,North East,Nalerigu,UCC Practice School,private,56.6,31.5,70.4,90.3,0.04,6
+1036,2020,Eastern,Nsawam,Cape Coast Technical University,mission,13,32.7,73.3,81,0.036,2
+1037,2020,Oti,Dambai,Adisadel College,public,32.1,30.2,87.1,87.8,0.051,1
+1038,2019,Central,Mfantsiman,Adisadel College,private,60.7,28.1,94.4,86.7,0.031,4
+1039,2020,Oti,Dambai,UCC Practice School,private,92.1,32.2,73.1,73.3,0.039,5
+1040,2018,Ahafo,Goaso,St Augustine's College,public,62.9,23.8,68,80.8,0.045,2
+1041,2022,Upper East,Navrongo,UCC Practice School,public,54.9,29.3,80.6,84.5,0.03,7
+1042,2019,North East,Nalerigu,Wesley Girls,public,60.6,32,63.1,76.6,0.028,4
+1043,2025,North East,Walewale,Mfantsipim School,mission,33.7,32.4,77.2,89.9,0.038,5
+1044,2021,Upper West,Tumu,Cape Coast Technical University,public,66.1,33.9,76.6,87.7,0.037,4
+1045,2021,Eastern,Koforidua,Cape Coast Technical University,mission,89.5,32.5,83.2,94.1,0.048,0
+1046,2022,Greater Accra,Accra,UCC Practice School,private,58.3,29.9,68.2,74.7,0.042,4
+1047,2021,Greater Accra,Tema,Cape Coast Technical University,public,19,26.5,74.6,86.3,0.027,6
+1048,2022,Western,Sekondi-Takoradi,Adisadel College,private,104.4,28.4,86.2,98.9,0.053,3
+1049,2018,Western North,Juaboso,UCC Practice School,private,52.7,28.4,73.2,86.1,0.051,1
+1050,2024,Upper East,Navrongo,Ghana National College,public,53.9,26.7,74,86.4,0.029,3
+1051,2024,Western North,Bibiani,Wesley Girls,mission,46,20.9,71.6,82.1,0.034,2
+1052,2021,Savannah,Salaga,Wesley Girls,private,35.7,29.1,68.4,85.2,0.045,3
+1053,2021,Western North,Sefwi Wiawso,UCC Practice School,private,117.5,26.3,80.4,79.4,0.032,0
+1054,2018,Ashanti,Obuasi,Adisadel College,mission,46.4,29.6,70.4,77.6,0.055,3
+1055,2021,Volta,Hohoe,Mfantsipim School,private,23.8,25.4,63.2,73.8,0.039,1
+1056,2021,Western North,Sefwi Wiawso,Apam SHS,public,69.9,25.1,69.3,78.4,0.047,3
+1057,2018,Volta,Hohoe,Adisadel College,mission,23.9,27.5,68.1,80.3,0.041,5
+1058,2023,Eastern,Koforidua,Mfantsipim School,public,168.9,31.6,92.8,97.9,0.035,4
+1059,2025,Greater Accra,Madina,Adisadel College,public,51.7,29.5,76.3,90.2,0.047,4
+1060,2018,North East,Chereponi,Adisadel College,public,36.9,30.7,83.2,79.4,0.04,0
+1061,2025,Upper West,Lawra,Adisadel College,private,37.9,26.1,69.7,75.6,0.045,2
+1062,2025,Ashanti,Mampong,St Augustine's College,private,40.9,29.3,79.3,80.8,0.038,4
+1063,2023,Oti,Dambai,Apam SHS,mission,19.7,26.5,78.5,80.2,0.055,4
+1064,2018,North East,Bunkpurugu,Adisadel College,private,34.7,32.3,59.3,84.5,0.032,4
+1065,2024,Savannah,Salaga,Wesley Girls,public,28.6,32.4,71.2,91.3,0.032,4
+1066,2023,Western,Axim,Ghana National College,mission,41.1,27.5,66.3,72.6,0.027,2
+1067,2021,Ashanti,Kumasi,Cape Coast Technical University,mission,61,33.4,65.6,81.3,0.052,2
+1068,2022,Northern,Tamale,Cape Coast Technical University,public,67,28.5,75.4,81.2,0.031,6
+1069,2023,Western North,Sefwi Wiawso,Ghana National College,private,48.6,33.5,72.8,69.9,0.034,3
+1070,2022,Western North,Bibiani,Adisadel College,mission,67.4,25.7,81.6,80.8,0.032,5
+1071,2024,Ashanti,Obuasi,St Augustine's College,private,86.4,25.7,66.7,79.3,0.055,8
+1072,2019,Western,Tarkwa,Adisadel College,mission,60.2,30.6,79,77.4,0.051,2
+1073,2019,Western,Tarkwa,Apam SHS,public,31.2,26.7,83.8,82.6,0.048,5
+1074,2024,Western,Axim,Adisadel College,public,20.9,30.1,65.7,84,0.038,4
+1075,2021,Western,Sekondi-Takoradi,Mfantsipim School,mission,14.9,26.1,75.3,83.6,0.027,4
+1076,2021,Bono,Berekum,Cape Coast Technical University,public,36.9,25.5,86.7,91.9,0.055,3
+1077,2022,North East,Bunkpurugu,Cape Coast Technical University,public,76,31.7,77.8,77,0.032,3
+1078,2020,Savannah,Salaga,Wesley Girls,public,120.6,34.8,65.3,71.6,0.028,11
+1079,2024,Eastern,Nsawam,Cape Coast Technical University,private,23.7,28.6,67.1,83.2,0.037,3
+1080,2019,Upper West,Wa,Mfantsipim School,mission,93.4,30.8,75.7,87.6,0.034,5
+1081,2022,Northern,Savelugu,Cape Coast Technical University,private,57.4,28.5,81.8,72.2,0.054,3
+1082,2021,Western,Tarkwa,Apam SHS,public,41,30.7,82.1,82,0.027,2
+1083,2019,North East,Nalerigu,Ghana National College,public,56,20.1,80,92.1,0.055,4
+1084,2019,Oti,Dambai,Cape Coast Technical University,mission,29.4,27.4,74.8,82.7,0.043,3
+1085,2023,Eastern,Akim Oda,St Augustine's College,mission,46.1,34.6,72.9,75.1,0.035,4
+1086,2019,Western,Shama,Mfantsipim School,private,82.5,30.1,61.1,68.9,0.052,4
+1087,2025,Bono,Sunyani,Wesley Girls,mission,38,28.8,77.4,86.8,0.039,5
+1088,2024,Bono,Dormaa,Wesley Girls,private,50.2,30.7,75.6,85,0.042,6
+1089,2021,Ashanti,Ejisu,Wesley Girls,private,81.4,31.6,75.6,93.7,0.03,7
+1090,2022,North East,Chereponi,Ghana National College,mission,68.3,23,87.2,78.3,0.052,5
+1091,2025,Oti,Nkwanta South,Mfantsipim School,mission,65.3,28.2,74,77.1,0.052,5
+1092,2020,Upper West,Jirapa,Wesley Girls,mission,22.3,25.5,75.7,88.5,0.048,2
+1093,2025,Central,Komenda,UCC Practice School,mission,52,35,67.1,76.1,0.048,1
+1094,2021,Northern,Tamale,Ghana National College,private,58.9,24.8,80.6,73.6,0.032,7
+1095,2019,Central,Cape Coast,St Augustine's College,mission,78,28.5,72.7,81.9,0.039,2
+1096,2023,Central,Kasoa,Apam SHS,public,22.8,30.7,98.2,85.2,0.029,3
+1097,2023,North East,Walewale,Adisadel College,public,42.4,30.7,83.2,90.9,0.044,5
+1098,2024,Western,Tarkwa,St Augustine's College,mission,38.4,26,94.8,86.2,0.032,4
+1099,2025,North East,Chereponi,Apam SHS,public,50,26.2,73.8,85.2,0.035,7
+1100,2025,Upper East,Paga,Apam SHS,private,48.9,26.8,73.6,87.2,0.05,5
+1101,2024,Ashanti,Kumasi,Mfantsipim School,public,37.5,27.6,84.3,87.2,0.055,2
+1102,2018,North East,Bunkpurugu,St Augustine's College,mission,28.2,27.8,80.1,99,0.037,5
+1103,2022,Upper West,Wa,UCC Practice School,public,16.1,30.8,85.1,87.6,0.05,2
+1104,2021,Greater Accra,Madina,Cape Coast Technical University,public,52.3,27.3,80.2,94.7,0.03,3
+1105,2019,Upper East,Paga,Ghana National College,mission,39.4,29.8,75.5,77.3,0.042,5
+1106,2024,Western North,Bodi,Mfantsipim School,private,64.5,27.1,77.7,83.8,0.042,0
+1107,2020,Upper East,Bolgatanga,UCC Practice School,private,58.5,30.3,71.8,88.6,0.052,4
+1108,2023,Eastern,Suhum,Wesley Girls,mission,64.2,29.9,63.7,78.5,0.033,7
+1109,2019,Upper West,Wa,Ghana National College,public,62.7,28.1,79.9,86.8,0.028,6
+1110,2019,Bono,Wenchi,Cape Coast Technical University,private,71.8,26.6,85.5,93.9,0.037,6
+1111,2021,Central,Kasoa,Mfantsipim School,mission,70.7,27.5,73.7,84.3,0.048,2
+1112,2023,Upper West,Wa,UCC Practice School,private,59.1,26.8,73.1,73.3,0.028,5
+1113,2020,Ashanti,Obuasi,Cape Coast Technical University,mission,45,29.2,77.7,84.4,0.031,3
+1114,2023,Savannah,Damongo,UCC Practice School,private,120.8,31.2,76.5,87.4,0.028,6
+1115,2018,Volta,Keta,Cape Coast Technical University,mission,124.7,30.4,84.1,87.7,0.041,7
+1116,2025,Western North,Bibiani,Mfantsipim School,private,52.7,31.3,82,81.9,0.05,4
+1117,2023,Northern,Savelugu,Ghana National College,mission,43.7,26.1,70,74.6,0.034,3
+1118,2023,Central,Komenda,Apam SHS,public,107.4,28.9,64.9,75.3,0.027,2
+1119,2021,North East,Chereponi,St Augustine's College,mission,71.1,27.1,77.8,88.1,0.031,6
+1120,2023,Central,Cape Coast,UCC Practice School,public,46.7,29.1,87.4,87.6,0.029,3
+1121,2022,Oti,Jasikan,St Augustine's College,mission,34.9,30.7,88.3,87.1,0.042,7
+1122,2020,Northern,Yendi,Wesley Girls,public,95,27.7,60.7,80.4,0.041,0
+1123,2018,Upper East,Bawku,UCC Practice School,mission,35.1,24.6,81.5,83.8,0.033,3
+1124,2018,Savannah,Bole,Cape Coast Technical University,public,43,26.2,77.6,89.7,0.051,2
+1125,2020,Ahafo,Asunafo North,Mfantsipim School,mission,49.9,23.3,61.8,71.8,0.038,2
+1126,2022,Eastern,Suhum,St Augustine's College,private,16.4,29.1,83.7,90,0.055,2
+1127,2024,Upper West,Tumu,Mfantsipim School,private,60.5,27.8,89.1,94.9,0.033,4
+1128,2019,North East,Nalerigu,St Augustine's College,private,41.5,27.4,82.3,97.7,0.045,0
+1129,2021,Upper East,Bolgatanga,Ghana National College,private,63.6,24.9,90.2,90.8,0.05,8
+1130,2024,Greater Accra,Kasoa East,Apam SHS,mission,72,27.4,80.1,76,0.032,4
+1131,2022,Western,Axim,Cape Coast Technical University,private,30.4,28.6,75.7,99,0.05,5
+1132,2023,Ashanti,Ejisu,Ghana National College,mission,17.5,28.3,80.9,95.1,0.052,4
+1133,2018,Upper West,Wa,St Augustine's College,public,68.5,31.5,69.2,91.8,0.046,5
+1134,2023,Ashanti,Kumasi,Ghana National College,private,40.2,26.6,71.5,79.1,0.053,9
+1135,2022,Western North,Bodi,Cape Coast Technical University,private,188.5,28.9,76.3,84.6,0.038,8
+1136,2019,Savannah,Sawla,Apam SHS,private,41.3,32.1,75.5,83,0.038,3
+1137,2023,Oti,Nkwanta South,Mfantsipim School,private,30.3,31.8,92.3,86.6,0.027,3
+1138,2022,Ahafo,Asutifi South,Cape Coast Technical University,mission,59,31.6,75.1,77.3,0.05,1
+1139,2022,Western North,Juaboso,Ghana National College,private,55.8,28.4,76.9,89.2,0.027,2
+1140,2023,Ahafo,Asunafo North,Wesley Girls,private,96.7,28.7,78,92.1,0.034,3
+1141,2018,Western,Axim,St Augustine's College,mission,39.2,28.3,84,93.2,0.044,5
+1142,2022,Bono,Sunyani,UCC Practice School,public,15.5,30.8,65,75.5,0.044,4
+1143,2023,Western,Tarkwa,Wesley Girls,mission,72.7,26.3,88.5,83.3,0.04,5
+1144,2021,Bono,Sunyani,Cape Coast Technical University,public,16.3,30.8,84.5,90.9,0.044,5
+1145,2020,Savannah,Sawla,Ghana National College,public,104.5,26.3,80.1,90.4,0.036,3
+1146,2023,North East,Nalerigu,St Augustine's College,mission,47.1,30.7,100,93.4,0.032,9
+1147,2024,Northern,Tolon,St Augustine's College,private,43.3,30.8,74.4,79.9,0.035,3
+1148,2025,Central,Cape Coast,Mfantsipim School,mission,66.8,31.4,72,89,0.034,6
+1149,2018,Ahafo,Asunafo North,Mfantsipim School,private,53.5,30.7,67.6,88.5,0.039,5
+1150,2020,Volta,Kpando,Apam SHS,mission,45.1,30.2,93.7,93.5,0.048,7
+1151,2022,Ashanti,Mampong,Ghana National College,public,27.4,35,74.2,79.3,0.036,5
+1152,2019,Savannah,Bole,UCC Practice School,mission,14.5,25.3,96.5,85.6,0.037,8
+1153,2023,Western North,Juaboso,Mfantsipim School,public,44.9,32.8,82,93.5,0.047,4
+1154,2025,Bono East,Atebubu,UCC Practice School,mission,50.9,34,79.7,82.4,0.053,4
+1155,2023,Northern,Savelugu,Mfantsipim School,mission,154.9,28,77.5,81.9,0.034,2
+1156,2018,Western,Shama,Wesley Girls,private,112.2,31.7,67.1,82.9,0.048,9
+1157,2022,Upper East,Bawku,Apam SHS,mission,31.3,33.8,81.9,82.7,0.045,6
+1158,2025,Central,Kasoa,Wesley Girls,private,19,28.9,80.8,90.5,0.042,6
+1159,2022,Northern,Savelugu,Wesley Girls,mission,56.5,28.7,88.2,87.8,0.027,3
+1160,2019,Upper West,Jirapa,Ghana National College,public,56.9,26.7,82.2,82.1,0.037,5
+1161,2022,Upper West,Lawra,Apam SHS,mission,70.4,35.5,77.2,84.3,0.032,8
+1162,2021,Ahafo,Asutifi South,UCC Practice School,private,48.6,32.5,72.1,77.1,0.03,8
+1163,2024,Western North,Juaboso,Cape Coast Technical University,private,43.4,26.4,81.4,81.6,0.034,4
+1164,2019,Northern,Tamale,Apam SHS,mission,38.8,31.2,76.7,80.8,0.045,5
+1165,2025,Western North,Bibiani,Cape Coast Technical University,public,28.3,28.4,80.6,90.9,0.042,2
+1166,2018,North East,Nalerigu,UCC Practice School,mission,55.4,24.8,74.2,86.4,0.039,2
+1167,2018,Upper West,Tumu,UCC Practice School,private,33,37.1,77.2,76.1,0.031,5
+1168,2025,Volta,Ho,UCC Practice School,mission,62.4,26.6,66.8,78.7,0.049,4
+1169,2020,Volta,Ho,Cape Coast Technical University,private,37.9,27.9,70.8,75.3,0.04,3
+1170,2021,Savannah,Bole,St Augustine's College,mission,45.5,28.5,63.6,75,0.045,5
+1171,2023,Ahafo,Asutifi South,Adisadel College,private,93.2,27.7,73.2,79.9,0.027,5
+1172,2021,Greater Accra,Kasoa East,Ghana National College,mission,35.9,28.8,68.1,82.9,0.052,3
+1173,2025,Volta,Hohoe,St Augustine's College,mission,36.6,32,75.9,85.4,0.041,4
+1174,2024,Central,Cape Coast,Mfantsipim School,mission,53.8,28.3,78,76,0.037,3
+1175,2018,Oti,Dambai,Ghana National College,public,171.6,30.8,77.5,76.2,0.05,4
+1176,2022,North East,Nalerigu,Apam SHS,private,68.9,29.5,61.2,75.8,0.05,2
+1177,2024,Bono East,Nkoranza,St Augustine's College,public,49.1,25.6,70.7,83.5,0.033,5
+1178,2023,Ashanti,Kumasi,Ghana National College,public,25.4,30.4,81,84.9,0.037,5
+1179,2021,Western,Axim,Mfantsipim School,public,58,28.7,79.8,73,0.044,2
+1180,2021,Ahafo,Asutifi South,Mfantsipim School,mission,15.1,23.9,80.9,88.2,0.056,3
+1181,2022,Greater Accra,Madina,Apam SHS,private,53,25.7,85.6,76.8,0.049,7
+1182,2024,Ahafo,Asutifi South,Ghana National College,private,54.8,31.2,68.5,84.2,0.028,2
+1183,2019,Northern,Yendi,Cape Coast Technical University,public,75.1,36,68.9,85.5,0.048,4
+1184,2022,Ahafo,Goaso,Ghana National College,public,57.3,29.5,72.5,93.9,0.041,5
+1185,2020,Eastern,Koforidua,Adisadel College,public,68.3,20.4,73.3,85.7,0.027,8
+1186,2020,Ashanti,Mampong,Wesley Girls,public,19.3,30.2,85.9,99,0.04,1
+1187,2023,Western,Axim,Apam SHS,private,28,24.6,74.9,94.7,0.036,3
+1188,2025,Savannah,Bole,St Augustine's College,public,140.3,27.8,78.9,83.9,0.029,3
+1189,2018,Western,Shama,Cape Coast Technical University,mission,75.9,34.3,69.2,80.1,0.042,2
+1190,2019,Eastern,Koforidua,Mfantsipim School,public,40.7,27,84.8,98.5,0.054,5
+1191,2021,Eastern,Nsawam,Mfantsipim School,private,42.2,30.3,69.3,88.7,0.052,4
+1192,2023,Western North,Sefwi Wiawso,St Augustine's College,mission,43.5,28.9,72.1,93.3,0.043,5
+1193,2025,Central,Mfantsiman,Cape Coast Technical University,private,125.1,29.7,71.6,82.1,0.032,4
+1194,2018,Central,Mfantsiman,Ghana National College,mission,128.2,24.3,86.9,80.8,0.03,2
+1195,2018,North East,Walewale,Adisadel College,public,113,29.7,84.1,83.6,0.046,4
+1196,2023,Greater Accra,Accra,Cape Coast Technical University,mission,79.3,32.5,76.8,83.8,0.038,1
+1197,2023,Central,Mfantsiman,St Augustine's College,private,60.6,25.4,65.9,77,0.042,4
+1198,2021,Bono East,Kintampo,Ghana National College,mission,33.8,32.6,80.2,74.9,0.049,3
+1199,2021,Ahafo,Asunafo North,Mfantsipim School,mission,123.8,26.4,81.4,84.8,0.044,7
+1200,2022,Volta,Hohoe,Ghana National College,mission,61.5,31.7,86.2,88.9,0.029,6
+1201,2024,Ashanti,Obuasi,Apam SHS,private,77.8,26.8,83.9,77.2,0.055,5
+1202,2020,Oti,Dambai,Apam SHS,mission,110.7,26,66.6,82.9,0.031,4
+1203,2021,Greater Accra,Madina,Wesley Girls,mission,46.3,30.8,72.4,80,0.055,2
+1204,2025,Oti,Kadjebi,Adisadel College,public,75.1,30.2,82.9,88.3,0.041,5
+1205,2022,Savannah,Bole,UCC Practice School,mission,90.2,24.9,81,95.4,0.051,4
+1206,2024,Ahafo,Goaso,Apam SHS,public,102.1,31.8,77,76.5,0.03,1
+1207,2020,Upper West,Lawra,Wesley Girls,mission,87.6,25.4,77.7,72.6,0.052,2
+1208,2019,Upper West,Tumu,Wesley Girls,private,2.6,27.8,74.3,84.6,0.03,3
+1209,2019,Northern,Tamale,Apam SHS,mission,86.6,29.6,59.5,75.7,0.052,1
+1210,2019,Eastern,Akim Oda,Apam SHS,mission,73,26.9,78.1,87.1,0.039,3
+1211,2021,Central,Komenda,Ghana National College,public,56.4,31.4,88.9,83.2,0.052,7
+1212,2020,Eastern,Nsawam,UCC Practice School,private,46.7,30.7,82.4,89.9,0.034,2
+1213,2023,Upper West,Lawra,Ghana National College,public,23.2,29,78.2,79,0.047,4
+1214,2025,Ahafo,Asunafo North,Apam SHS,public,16.5,22.6,72.8,81.6,0.049,3
+1215,2024,Ashanti,Kumasi,Cape Coast Technical University,private,52.5,32.5,83.3,88.5,0.041,6
+1216,2020,Greater Accra,Tema,UCC Practice School,private,59.9,29.3,72.1,81.6,0.052,3
+1217,2019,Eastern,Koforidua,Cape Coast Technical University,mission,68.8,27.6,96.6,96.3,0.046,1
+1218,2018,Greater Accra,Tema,Apam SHS,public,139.4,29.3,78.3,91.3,0.036,6
+1219,2020,Upper East,Bawku,UCC Practice School,public,52.2,31.9,75.5,87.3,0.053,2
+1220,2020,Eastern,Nsawam,St Augustine's College,private,20.4,30,86.6,90.9,0.036,4
+1221,2022,Greater Accra,Madina,Cape Coast Technical University,mission,40.6,29.7,81.1,85.1,0.048,5
+1222,2019,Western North,Bibiani,Apam SHS,private,107,24.5,65.1,72.8,0.047,8
+1223,2024,Greater Accra,Accra,Mfantsipim School,mission,56.2,24.3,75.5,90.3,0.03,4
+1224,2018,Eastern,Akim Oda,Adisadel College,mission,26.4,28.4,79.9,71.3,0.039,5
+1225,2022,North East,Chereponi,Apam SHS,mission,63,30.7,80,70.6,0.043,3
+1226,2018,Western,Sekondi-Takoradi,UCC Practice School,public,25.8,32.2,71.3,81.8,0.032,4
+1227,2023,Volta,Hohoe,UCC Practice School,private,104.1,33.3,81.4,81.3,0.029,1
+1228,2018,Greater Accra,Accra,Wesley Girls,mission,23.3,35.2,61.4,78.4,0.042,5
+1229,2025,Northern,Savelugu,Ghana National College,private,106.7,28.3,77.8,79.2,0.031,6
+1230,2023,Upper West,Tumu,Mfantsipim School,mission,48.8,30.2,82.3,88.5,0.049,1
+1231,2018,Central,Komenda,St Augustine's College,public,20.2,29.6,96.1,86.9,0.051,1
+1232,2021,Upper East,Bawku,UCC Practice School,private,53.7,27.5,80.4,83.4,0.029,9
+1233,2020,Upper East,Bolgatanga,Ghana National College,public,25.2,32.2,68.4,78.2,0.047,3
+1234,2020,Volta,Hohoe,St Augustine's College,mission,56,31.5,79.4,94.4,0.048,2
+1235,2022,North East,Chereponi,Apam SHS,public,41.2,28.6,67.1,71,0.028,4
+1236,2024,Western,Axim,Cape Coast Technical University,public,75.8,26.5,82.6,94.1,0.044,2
+1237,2023,North East,Nalerigu,UCC Practice School,private,68,25.7,82.2,78.9,0.044,6
+1238,2018,North East,Walewale,Cape Coast Technical University,mission,28,27.1,71.3,73.5,0.041,2
+1239,2024,Bono East,Techiman,Apam SHS,mission,26.8,29.9,65.7,75.8,0.046,6
+1240,2018,Northern,Savelugu,Cape Coast Technical University,public,133.2,27.3,100,88.1,0.034,3
+1241,2020,Oti,Kadjebi,Ghana National College,private,14.9,29.6,75,85.7,0.034,6
+1242,2023,Bono East,Nkoranza,UCC Practice School,private,28.2,28.1,78.7,76.9,0.053,3
+1243,2018,Eastern,Akim Oda,Cape Coast Technical University,private,64.7,28.4,79.3,79.7,0.046,1
+1244,2025,Savannah,Damongo,UCC Practice School,public,85.9,30.1,75.1,90.1,0.038,9
+1245,2024,Eastern,Suhum,Adisadel College,mission,46.5,28.5,79.4,83.4,0.046,4
+1246,2025,Ashanti,Ejisu,Wesley Girls,mission,85.1,25.9,81.7,78.5,0.048,4
+1247,2018,Upper East,Bawku,St Augustine's College,private,56.2,27.6,89.2,95.7,0.035,9
+1248,2024,Greater Accra,Accra,St Augustine's College,private,91.2,31,68.5,77.2,0.042,6
+1249,2018,Upper West,Wa,St Augustine's College,private,51.3,29.8,71.5,74.4,0.03,4
+1250,2019,Greater Accra,Tema,Ghana National College,public,51.1,29.2,78.9,75.5,0.044,3
+1251,2019,Ahafo,Asutifi South,St Augustine's College,private,21.8,28.5,89.8,88.2,0.046,5
+1252,2024,Upper West,Wa,Ghana National College,mission,92.2,26.6,61.9,83.6,0.048,7
+1253,2019,Central,Kasoa,UCC Practice School,private,111.3,24.9,78.7,76.1,0.054,7
+1254,2025,Northern,Yendi,Ghana National College,public,52.2,29.9,85,84,0.031,3
+1255,2023,Oti,Jasikan,UCC Practice School,mission,18,28.4,91.6,98.6,0.028,4
+1256,2023,Central,Mfantsiman,UCC Practice School,mission,102.9,29.7,85.9,84.9,0.054,4
+1257,2022,Oti,Nkwanta South,Cape Coast Technical University,private,51.2,31.6,73.4,84.9,0.045,8
+1258,2018,Greater Accra,Accra,Adisadel College,public,51.9,26.1,85.7,85.7,0.043,3
+1259,2024,Northern,Tamale,Cape Coast Technical University,mission,55.7,20.3,63.7,86.6,0.039,0
+1260,2019,Upper East,Bolgatanga,Ghana National College,public,93.7,30.6,87.1,91.4,0.039,4
+1261,2025,Upper West,Tumu,Apam SHS,public,120.5,32.7,84.7,89,0.035,3
+1262,2025,Upper West,Tumu,Cape Coast Technical University,mission,23.4,28.6,74.8,78,0.045,3
+1263,2019,Ahafo,Goaso,Apam SHS,mission,23.3,28.7,80.4,99,0.027,5
+1264,2024,Northern,Savelugu,Apam SHS,public,41.2,27.9,75.3,75.1,0.042,6
+1265,2024,Bono East,Atebubu,Mfantsipim School,private,42.6,30.6,74.5,84.6,0.028,3
+1266,2025,Western,Tarkwa,St Augustine's College,mission,117.8,25.5,82.3,86.8,0.047,8
+1267,2021,Ahafo,Goaso,Wesley Girls,private,73.1,32.6,82.6,85.9,0.054,4
+1268,2022,Western North,Bodi,St Augustine's College,mission,76.3,29.4,76.4,91.1,0.032,5
+1269,2019,North East,Walewale,Mfantsipim School,private,37.3,28.3,80.3,79.7,0.034,2
+1270,2019,Western,Axim,UCC Practice School,mission,59.7,27.3,95.1,90.9,0.042,4
+1271,2019,Bono,Sunyani,Cape Coast Technical University,private,34.8,31.6,83.2,82,0.041,4
+1272,2025,Savannah,Sawla,Ghana National College,public,36.8,28.4,72,85.3,0.05,5
+1273,2021,North East,Walewale,Cape Coast Technical University,mission,20.7,33.1,79.2,82.4,0.03,5
+1274,2021,Eastern,Koforidua,Adisadel College,private,36.8,31.3,54.6,73,0.042,8
+1275,2022,Eastern,Suhum,Apam SHS,public,33.6,32.7,82.4,81.6,0.053,3
+1276,2025,North East,Nalerigu,Ghana National College,private,106.4,28.4,72.5,69.5,0.046,5
+1277,2018,Northern,Tolon,Adisadel College,mission,101.1,30.4,62.7,78.1,0.034,4
+1278,2018,North East,Nalerigu,Wesley Girls,public,38.6,29.6,84,79.7,0.028,4
+1279,2025,Upper East,Bolgatanga,St Augustine's College,public,52.2,28.2,80.9,73.4,0.039,3
+1280,2023,Greater Accra,Accra,UCC Practice School,mission,41.1,26.1,80.5,85.5,0.04,4
+1281,2024,Bono,Sunyani,Apam SHS,private,58.6,35.2,87.9,78.7,0.03,6
+1282,2022,Upper West,Tumu,Ghana National College,mission,86.9,27.5,78.7,94,0.04,6
+1283,2023,Bono East,Atebubu,Adisadel College,private,31.7,30.9,82.4,79.1,0.046,3
+1284,2025,Northern,Tamale,Adisadel College,mission,38,32.1,74.5,88.5,0.04,4
+1285,2018,Savannah,Bole,Apam SHS,mission,79.9,27,85.4,94.9,0.033,2
+1286,2020,Bono East,Techiman,Apam SHS,mission,38.1,25.2,73.6,85.8,0.054,4
+1287,2025,North East,Chereponi,Apam SHS,private,79.6,30.2,78.1,75.9,0.03,4
+1288,2023,Eastern,Koforidua,Mfantsipim School,private,21.6,27.8,78.6,95.9,0.044,1
+1289,2018,Western,Axim,Mfantsipim School,private,64.9,26.8,80.2,89.9,0.048,1
+1290,2025,Central,Komenda,St Augustine's College,public,34.8,27.5,76.9,88.1,0.034,4
+1291,2021,Western North,Sefwi Wiawso,Adisadel College,public,86.6,30,85.5,81.3,0.037,3
+1292,2021,Greater Accra,Accra,Wesley Girls,private,51.4,24.8,76.9,81.5,0.039,3
+1293,2019,Ahafo,Goaso,Adisadel College,private,17,28.5,73.6,73.4,0.045,5
+1294,2021,Oti,Dambai,Adisadel College,public,70.6,25.7,74.6,74.7,0.041,8
+1295,2020,Bono,Dormaa,Ghana National College,mission,46.4,32.9,78.1,92.3,0.032,7
+1296,2020,Central,Komenda,Ghana National College,mission,95.9,28.6,78.3,88.2,0.052,1
+1297,2024,Bono East,Nkoranza,Mfantsipim School,private,46.9,32.3,69.7,77.1,0.037,3
+1298,2020,Bono,Sunyani,Ghana National College,mission,67.8,31.8,76,82.5,0.038,7
+1299,2019,Volta,Hohoe,Adisadel College,private,74.3,29.3,85,94.2,0.05,5
+1300,2018,Bono,Berekum,Ghana National College,public,85.1,30.9,73,88.5,0.042,5
+1301,2025,Northern,Tamale,Apam SHS,private,33.8,30.6,87.3,80.7,0.033,4
+1302,2024,Central,Komenda,Mfantsipim School,public,49.4,31.8,75.7,78.9,0.053,3
+1303,2019,Bono,Wenchi,Apam SHS,mission,45.8,28.7,78.4,84.4,0.05,6
+1304,2021,Savannah,Salaga,St Augustine's College,private,34.4,29.7,83.1,90.5,0.044,2
+1305,2025,Central,Komenda,Apam SHS,private,38.6,26.1,98.4,83.8,0.041,3
+1306,2025,Upper East,Bolgatanga,Cape Coast Technical University,private,48.2,26.6,75.1,75.1,0.046,6
+1307,2020,Northern,Savelugu,Wesley Girls,public,44.9,30.8,74.1,79,0.037,7
+1308,2024,Bono,Sunyani,Cape Coast Technical University,mission,30.1,30.4,89.9,78.3,0.047,4
+1309,2025,Western North,Bodi,Cape Coast Technical University,private,50.9,26.4,76.3,84.1,0.027,5
+1310,2025,Volta,Kpando,Adisadel College,mission,54.6,29.1,79,74.4,0.038,1
+1311,2019,Central,Kasoa,Wesley Girls,public,98.6,25.4,79.6,94.8,0.044,4
+1312,2023,Ashanti,Kumasi,Cape Coast Technical University,mission,18.4,24.9,72.9,75,0.044,2
+1313,2025,North East,Nalerigu,Cape Coast Technical University,private,43.9,29.6,74.7,73.6,0.028,4
+1314,2019,Volta,Ho,Apam SHS,private,77.9,27.1,59.5,84.9,0.047,4
+1315,2024,Eastern,Koforidua,UCC Practice School,public,19.3,29.7,80.4,86.1,0.029,5
+1316,2020,Upper East,Navrongo,St Augustine's College,mission,16.7,27.8,61.4,73.8,0.048,4
+1317,2025,North East,Walewale,Apam SHS,private,50.8,27,87.1,88.7,0.053,2
+1318,2022,Ahafo,Tano North,Apam SHS,public,31.1,32.5,83.4,94.5,0.055,2
+1319,2020,Ashanti,Obuasi,UCC Practice School,mission,116.5,31,73.9,84.6,0.044,5
+1320,2022,Greater Accra,Kasoa East,Adisadel College,private,72.5,27.4,86.3,92.4,0.047,6
+1321,2020,Greater Accra,Kasoa East,Wesley Girls,public,47,32.8,86.7,77.8,0.033,2
+1322,2018,Upper East,Paga,St Augustine's College,public,66.6,26.1,74.3,85.2,0.037,6
+1323,2022,Savannah,Bole,Apam SHS,public,74.5,26.1,68.6,79.1,0.027,3
+1324,2022,Northern,Yendi,Adisadel College,public,67.3,26.3,79.7,85.9,0.05,4
+1325,2023,Upper East,Navrongo,UCC Practice School,public,35.1,27.4,89.4,86.4,0.046,5
+1326,2019,Upper East,Bolgatanga,St Augustine's College,mission,48.4,26.5,80.7,76.8,0.034,2
+1327,2022,Eastern,Koforidua,Cape Coast Technical University,private,18.5,28.3,77.3,84.9,0.041,1
+1328,2021,Upper East,Navrongo,Adisadel College,mission,81.8,26.5,75.6,88.6,0.048,7
+1329,2019,Greater Accra,Madina,UCC Practice School,public,8.2,27.5,77,80.3,0.046,2
+1330,2024,Bono East,Nkoranza,Adisadel College,private,85.8,28.8,60.1,85.2,0.036,4
+1331,2019,Ashanti,Obuasi,Apam SHS,public,21.7,31.3,88.4,86,0.037,2
+1332,2023,Northern,Savelugu,Apam SHS,public,25.4,29.9,99.9,99,0.031,2
+1333,2024,Savannah,Bole,Apam SHS,private,39.3,32.4,68.2,80.5,0.03,6
+1334,2024,Western North,Bibiani,Cape Coast Technical University,mission,17.4,28.7,74.6,85.9,0.038,4
+1335,2018,Ahafo,Asutifi South,Apam SHS,private,39.7,28.5,72.2,79.8,0.04,4
+1336,2019,Eastern,Akim Oda,Apam SHS,mission,18.7,33.2,66.6,81.1,0.054,3
+1337,2025,Oti,Nkwanta South,St Augustine's College,public,27.4,31.4,78.8,83.5,0.041,4
+1338,2024,Northern,Savelugu,UCC Practice School,public,28.4,31.9,81,77.8,0.032,8
+1339,2024,Oti,Nkwanta South,Mfantsipim School,mission,104.8,34.9,80.2,87.7,0.031,1
+1340,2019,Oti,Dambai,UCC Practice School,public,70.4,26.4,74.9,83.9,0.036,3
+1341,2021,Ashanti,Ejisu,Wesley Girls,mission,51.9,24.3,99.5,99,0.053,3
+1342,2019,Ashanti,Kumasi,Mfantsipim School,mission,27.9,29.9,77.9,79.2,0.05,4
+1343,2022,Upper East,Navrongo,Ghana National College,private,62.9,29.2,77.6,68.9,0.041,2
+1344,2025,Northern,Tamale,Wesley Girls,public,94.9,26.5,67.7,89.8,0.054,3
+1345,2023,Upper West,Tumu,Apam SHS,private,47.4,29.8,75.3,78.2,0.033,6
+1346,2024,Oti,Nkwanta South,Adisadel College,private,70.5,28.5,73.5,82.8,0.039,4
+1347,2023,Oti,Jasikan,Cape Coast Technical University,public,92,29.8,68.6,70.4,0.026,1
+1348,2018,Northern,Yendi,Wesley Girls,private,72,30.9,83.6,82.1,0.052,4
+1349,2025,Bono East,Kintampo,Wesley Girls,public,69.3,31.2,71.2,84,0.031,5
+1350,2025,Western,Sekondi-Takoradi,Ghana National College,public,73.3,30.9,73.8,76.7,0.054,1
+1351,2023,North East,Bunkpurugu,UCC Practice School,private,70.1,21.9,84,81.6,0.041,3
+1352,2023,North East,Walewale,Cape Coast Technical University,public,33.9,31.1,76,71.8,0.055,6
+1353,2021,Savannah,Salaga,UCC Practice School,public,82.1,26.2,83.4,94.8,0.042,3
+1354,2023,Ashanti,Mampong,Mfantsipim School,public,157.3,28.9,69.1,74.1,0.04,3
+1355,2020,Bono East,Atebubu,Adisadel College,public,37.4,30,64.3,70.9,0.04,1
+1356,2020,Eastern,Akim Oda,Wesley Girls,private,20.6,31.8,79.5,69.4,0.051,1
+1357,2025,Western,Axim,Mfantsipim School,mission,26.4,28,87.6,81.4,0.037,9
+1358,2020,Bono East,Nkoranza,Ghana National College,private,24.2,29.2,87.1,92.9,0.051,3
+1359,2021,Greater Accra,Madina,Mfantsipim School,mission,25.2,28.1,80.7,91.3,0.052,3
+1360,2020,Upper West,Lawra,Ghana National College,mission,109.1,29,78,81.3,0.035,8
+1361,2022,Oti,Dambai,Cape Coast Technical University,mission,42.9,28.5,79.5,75.7,0.053,5
+1362,2020,Upper East,Paga,Wesley Girls,public,63.2,31,57.9,74.8,0.032,3
+1363,2020,Central,Cape Coast,Apam SHS,mission,93.2,33,78.2,82.1,0.05,5
+1364,2018,Bono East,Nkoranza,Adisadel College,public,37.1,24.9,73.8,85.8,0.031,3
+1365,2020,Eastern,Nsawam,Mfantsipim School,public,32.1,32,89.8,88.3,0.047,5
+1366,2024,Eastern,Koforidua,UCC Practice School,public,61.8,31.8,76.2,92,0.055,4
+1367,2020,Central,Kasoa,Ghana National College,private,96.2,30,78.3,77.5,0.029,1
+1368,2019,Eastern,Nsawam,Adisadel College,mission,133.9,37.8,66.1,71.9,0.032,3
+1369,2022,Western,Shama,UCC Practice School,private,40.3,28.3,85.4,85,0.037,2
+1370,2024,Western,Tarkwa,Wesley Girls,public,60.9,27.3,78.2,83.2,0.037,5
+1371,2025,Central,Kasoa,Apam SHS,private,42.2,35.8,78.5,88.7,0.032,3
+1372,2021,Greater Accra,Kasoa East,Mfantsipim School,public,71.9,24.1,99.4,90.7,0.041,5
+1373,2025,Volta,Kpando,St Augustine's College,private,47.3,24.6,80.4,83.2,0.049,5
+1374,2018,Central,Komenda,UCC Practice School,public,116.4,31.2,93.6,96.9,0.05,8
+1375,2021,Bono East,Kintampo,Adisadel College,public,41.3,29.7,59.2,68.2,0.04,3
+1376,2020,Savannah,Salaga,Mfantsipim School,private,36.2,25.4,81.7,98.4,0.035,3
+1377,2019,Northern,Yendi,Apam SHS,public,41.2,31.3,82.2,86.9,0.033,3
+1378,2020,Central,Cape Coast,UCC Practice School,mission,30.9,28.1,68.6,69.1,0.047,3
+1379,2020,Eastern,Akim Oda,Ghana National College,private,25.6,23.7,80.1,82.7,0.029,3
+1380,2025,Ashanti,Kumasi,St Augustine's College,private,35.3,30.8,70.8,67.5,0.042,5
+1381,2025,Ahafo,Goaso,Adisadel College,public,59.2,31.8,75.3,78.1,0.042,4
+1382,2023,Bono,Dormaa,Cape Coast Technical University,private,26.1,25.4,74.1,78.6,0.03,2
+1383,2023,Greater Accra,Accra,Cape Coast Technical University,mission,84.9,24.9,72,95.7,0.04,8
+1384,2018,Ahafo,Goaso,St Augustine's College,private,75.8,21.9,71,80.5,0.034,4
+1385,2025,Ahafo,Asunafo North,Adisadel College,mission,56.9,28.7,61.5,77.7,0.031,6
+1386,2018,Western North,Juaboso,Cape Coast Technical University,private,21.3,27.6,76.9,76.6,0.029,4
+1387,2021,North East,Chereponi,UCC Practice School,mission,72.8,27.3,80.5,97.3,0.032,1
+1388,2024,Bono,Berekum,Wesley Girls,private,21.2,31.9,81.9,87.6,0.045,0
+1389,2025,Ashanti,Obuasi,Cape Coast Technical University,mission,29.9,27.6,57.8,71.7,0.048,2
+1390,2020,North East,Nalerigu,Ghana National College,public,44.8,25.2,67.2,75.4,0.033,7
+1391,2025,Upper West,Wa,Ghana National College,private,79.7,28.6,83.7,78.5,0.043,5
+1392,2023,Upper East,Navrongo,Wesley Girls,private,30.6,29.8,66.9,80.6,0.037,3
+1393,2021,Oti,Jasikan,Adisadel College,mission,51.3,25.8,85.5,81.5,0.042,5
+1394,2020,Volta,Kpando,Apam SHS,private,103.8,25.6,85.9,83.1,0.034,4
+1395,2018,Ashanti,Ejisu,Adisadel College,mission,18.2,31.8,88.1,93.8,0.028,4
+1396,2019,Upper West,Lawra,Ghana National College,public,50.5,24.4,59.7,72.4,0.036,4
+1397,2023,Western,Axim,Mfantsipim School,mission,45,26.3,84.7,86.1,0.031,5
+1398,2023,Oti,Jasikan,Cape Coast Technical University,private,82.4,26.5,78.5,80.2,0.048,6
+1399,2024,Volta,Kpando,UCC Practice School,public,64.9,28.6,71.8,81.7,0.048,4
+1400,2021,Greater Accra,Tema,Adisadel College,mission,57.1,30.5,79.6,83.4,0.028,2
+1401,2021,Greater Accra,Tema,Wesley Girls,mission,76,29.8,75.6,80.7,0.038,3
+1402,2022,Oti,Jasikan,Apam SHS,public,45.7,28.9,59.2,84.6,0.029,4
+1403,2023,Eastern,Koforidua,Ghana National College,private,41.4,34.7,63.6,85.1,0.047,1
+1404,2022,Ahafo,Asunafo North,Apam SHS,private,26.5,28.1,69.3,70.6,0.027,5
+1405,2019,Ahafo,Tano North,UCC Practice School,private,50.4,24.6,84.5,70.2,0.039,4
+1406,2023,Savannah,Damongo,Wesley Girls,public,51.8,30.4,83.1,92.7,0.031,3
+1407,2025,Volta,Ho,Wesley Girls,mission,87.3,28.8,77,82.6,0.046,2
+1408,2022,Savannah,Bole,Adisadel College,public,46.1,28.7,67.5,80.5,0.033,4
+1409,2025,Bono,Wenchi,Cape Coast Technical University,mission,19.8,28,68.5,88.9,0.038,5
+1410,2019,Upper East,Bolgatanga,Wesley Girls,public,47.9,29.9,73.6,76.8,0.026,3
+1411,2020,Upper West,Jirapa,Ghana National College,mission,72.6,33,90.2,88.2,0.055,3
+1412,2022,Upper East,Navrongo,Mfantsipim School,mission,86.9,33.2,68.7,80.7,0.048,3
+1413,2022,Upper East,Bawku,Ghana National College,public,29.9,34.9,68.5,87.3,0.031,7
+1414,2021,Savannah,Salaga,St Augustine's College,public,51.4,31,80.6,84.8,0.039,5
+1415,2019,Upper West,Lawra,Ghana National College,public,13.2,33.1,86,84.3,0.041,6
+1416,2021,Bono East,Atebubu,St Augustine's College,mission,24.6,30.6,74.3,78.8,0.033,3
+1417,2022,Northern,Savelugu,Adisadel College,public,42.8,27.9,87.9,89.4,0.029,5
+1418,2024,Western North,Bibiani,St Augustine's College,mission,57.2,34.2,76,80.6,0.043,5
+1419,2023,Upper East,Paga,Mfantsipim School,mission,29.2,27.7,74.6,72.1,0.051,2
+1420,2024,Greater Accra,Accra,UCC Practice School,public,64.1,28.2,66.8,80.6,0.043,6
+1421,2020,Ahafo,Goaso,UCC Practice School,private,62.6,30.6,82.2,69.2,0.045,3
+1422,2024,Bono East,Kintampo,Adisadel College,private,70.1,29.3,66.2,86.7,0.044,9
+1423,2025,Eastern,Nsawam,UCC Practice School,mission,64.4,25.9,62.1,72.2,0.04,8
+1424,2018,Volta,Keta,UCC Practice School,mission,47.7,32.5,76.5,85.9,0.031,2
+1425,2025,Upper West,Lawra,Mfantsipim School,private,104.8,27.7,68,85.4,0.032,2
+1426,2019,Eastern,Suhum,Apam SHS,mission,68.6,32.3,70.8,86.3,0.036,7
+1427,2019,Greater Accra,Madina,UCC Practice School,private,51.9,29.2,85,96.8,0.035,5
+1428,2020,Northern,Savelugu,St Augustine's College,mission,56.3,29,80.7,82.1,0.042,3
+1429,2020,Eastern,Suhum,Adisadel College,mission,93,27.7,84.5,88.7,0.039,5
+1430,2019,Ahafo,Asunafo North,St Augustine's College,public,102.8,30.6,77.1,83.6,0.045,7
+1431,2019,Bono,Sunyani,Wesley Girls,private,27,27.6,56.2,76.5,0.051,4
+1432,2020,Ahafo,Asunafo North,Mfantsipim School,mission,37.6,37.9,75.2,83.7,0.028,7
+1433,2023,Eastern,Akim Oda,Wesley Girls,private,62.1,31.9,83.5,80.2,0.04,8
+1434,2020,Western,Tarkwa,Mfantsipim School,public,24.2,32.1,87,90.6,0.033,3
+1435,2024,Greater Accra,Madina,Mfantsipim School,private,58.9,25.8,82.5,82.7,0.053,6
+1436,2020,Western,Tarkwa,Adisadel College,mission,128.8,31.4,79.8,91.4,0.042,2
+1437,2024,Western,Sekondi-Takoradi,Cape Coast Technical University,private,41.5,30.2,83.5,85.7,0.052,7
+1438,2022,Upper East,Bawku,Wesley Girls,public,79,27.4,91.8,89.5,0.046,8
+1439,2023,Western,Tarkwa,St Augustine's College,private,56.2,34.8,77,87.1,0.03,3
+1440,2019,Western,Shama,Adisadel College,private,40.2,25.6,76.9,80.9,0.051,2
+1441,2019,Upper East,Navrongo,Cape Coast Technical University,private,41.5,26.7,82.4,74.7,0.036,4
+1442,2020,Bono,Sunyani,Mfantsipim School,private,149.1,29,67.3,88.9,0.048,1
+1443,2021,Oti,Kadjebi,St Augustine's College,mission,16.4,33.1,86.1,94,0.041,3
+1444,2025,Northern,Tamale,Mfantsipim School,private,56.1,27.6,71.1,80.3,0.048,4
+1445,2018,Ahafo,Asunafo North,Mfantsipim School,public,79,25.9,77.6,80.2,0.042,2
+1446,2019,Ahafo,Asutifi South,St Augustine's College,private,111.1,27.3,56.1,64.2,0.053,4
+1447,2024,Greater Accra,Madina,Ghana National College,public,89.1,27.3,72.1,84.2,0.041,1
+1448,2024,Upper East,Paga,St Augustine's College,public,55.6,29.6,71.7,74.2,0.028,5
+1449,2022,Central,Komenda,Apam SHS,public,29.1,27.3,73.7,84.1,0.04,4
+1450,2018,Western North,Bibiani,UCC Practice School,public,87.1,27.4,80.4,84,0.055,4
+1451,2024,Central,Mfantsiman,Apam SHS,mission,63.6,28.5,75.2,81.3,0.049,5
+1452,2021,Central,Mfantsiman,Adisadel College,private,90.7,25.3,64.7,78,0.045,1
+1453,2023,Savannah,Salaga,St Augustine's College,private,17.2,31.8,78.2,84,0.031,1
+1454,2024,Savannah,Salaga,Adisadel College,mission,43.6,28.5,73,72.6,0.032,7
+1455,2022,Upper East,Paga,Wesley Girls,private,99.6,27.1,82,92.4,0.047,5
+1456,2020,Central,Mfantsiman,St Augustine's College,mission,38.7,29.8,77.8,80.3,0.048,2
+1457,2021,Ashanti,Mampong,Cape Coast Technical University,public,53.9,30.1,83.4,83.6,0.037,4
+1458,2020,Volta,Ho,Wesley Girls,private,59.4,28.1,70.7,74.7,0.055,2
+1459,2022,Ahafo,Asunafo North,St Augustine's College,public,43.4,27.4,85.8,88.6,0.047,4
+1460,2022,Central,Kasoa,Apam SHS,private,87.4,29.7,80,85.3,0.052,5
+1461,2020,Oti,Jasikan,Cape Coast Technical University,private,24.7,24.1,84.3,73.2,0.028,2
+1462,2018,Northern,Tolon,Apam SHS,private,46.9,29.4,73.2,86.1,0.045,3
+1463,2025,North East,Walewale,Adisadel College,public,52.8,28.5,75.7,92.5,0.048,8
+1464,2019,Northern,Tolon,Cape Coast Technical University,mission,35.2,31.3,76.3,82.2,0.05,4
+1465,2019,Bono,Berekum,Apam SHS,public,69.9,30.2,72.9,71.9,0.046,6
+1466,2023,Western,Axim,Cape Coast Technical University,mission,35.5,30.6,71.9,78,0.044,3
+1467,2022,Ashanti,Mampong,Wesley Girls,private,46.5,25.4,67.3,73.1,0.048,4
+1468,2025,Central,Komenda,Ghana National College,private,25.5,33.8,71.2,84.8,0.027,1
+1469,2021,Greater Accra,Tema,St Augustine's College,private,63.7,30.1,75.3,81.1,0.048,4
+1470,2024,Upper West,Jirapa,Adisadel College,private,53.7,24.9,63.8,80,0.036,2
+1471,2024,Bono East,Atebubu,Adisadel College,public,29.4,25.4,86.5,95.4,0.049,5
+1472,2020,Western,Sekondi-Takoradi,UCC Practice School,mission,100.5,29,87.3,88.9,0.049,2
+1473,2025,Ashanti,Ejisu,Mfantsipim School,mission,59.3,27.6,71.3,74.3,0.034,2
+1474,2021,Northern,Tamale,Adisadel College,mission,81.8,33.2,83.6,83.6,0.047,7
+1475,2020,Eastern,Akim Oda,UCC Practice School,private,76.3,30.7,71.7,81,0.036,1
+1476,2021,Western,Shama,Adisadel College,public,36.1,28.5,68.4,74,0.048,2
+1477,2023,Western,Axim,St Augustine's College,private,16.7,26.7,84.2,90.9,0.032,5
+1478,2024,Bono,Berekum,Wesley Girls,mission,72,26.7,87.6,91.2,0.029,4
+1479,2020,Upper East,Bolgatanga,Cape Coast Technical University,public,14.7,27.1,76.3,76.2,0.044,3
+1480,2022,Western North,Bodi,UCC Practice School,public,64.2,27,82.6,82.9,0.032,3
+1481,2018,Savannah,Sawla,St Augustine's College,private,52.4,25.4,53.2,79.6,0.052,2
+1482,2024,Ahafo,Asutifi South,St Augustine's College,public,51,27.7,70.1,83.3,0.031,3
+1483,2019,Western North,Bodi,Apam SHS,public,84.2,33.6,80.9,86.3,0.044,4
+1484,2021,Western,Shama,Ghana National College,public,127.4,28.5,84.7,80.4,0.047,5
+1485,2023,Ahafo,Asutifi South,Apam SHS,private,32,27.5,78.1,79.5,0.026,8
+1486,2019,Volta,Hohoe,Cape Coast Technical University,private,92.2,28.4,72.7,74.5,0.052,2
+1487,2021,North East,Bunkpurugu,Ghana National College,public,50.1,28.2,81.1,80.9,0.048,4
+1488,2022,Savannah,Salaga,St Augustine's College,private,32.3,29.8,78.7,78.2,0.049,1
+1489,2025,Bono East,Atebubu,Ghana National College,public,10.5,31.5,73.1,97.5,0.028,5
+1490,2023,Northern,Savelugu,Mfantsipim School,mission,59.4,27,63.2,86.1,0.037,3
+1491,2025,Central,Komenda,Adisadel College,mission,144.8,27.5,71.4,87.1,0.045,6
+1492,2022,Central,Cape Coast,Apam SHS,public,110.3,25.9,78.8,91.6,0.033,9
+1493,2021,North East,Walewale,Cape Coast Technical University,mission,68.5,31.9,75.4,90.3,0.051,7
+1494,2021,Greater Accra,Kasoa East,Apam SHS,mission,73.4,33.9,88.7,82.2,0.038,4
+1495,2021,Upper West,Lawra,UCC Practice School,mission,35.1,28.8,84,90,0.05,4
+1496,2023,North East,Bunkpurugu,UCC Practice School,public,39.6,30.8,67.4,79.2,0.052,5
+1497,2025,Volta,Ho,St Augustine's College,private,81.3,29.6,70.6,74.3,0.04,3
+1498,2025,Bono East,Atebubu,Wesley Girls,public,37.8,27.2,61.4,81.3,0.033,3
+1499,2022,Upper East,Bolgatanga,Apam SHS,public,64.5,27.7,71.3,83.5,0.037,6
+1500,2018,Oti,Nkwanta South,Ghana National College,private,79,29.4,61.4,75.5,0.041,2
+1501,2018,Ashanti,Kumasi,UCC Practice School,public,36,31.1,84.1,87.6,0.04,3
+1502,2021,Eastern,Akim Oda,Mfantsipim School,public,117.8,27.5,74.4,82.6,0.026,3
+1503,2020,Volta,Keta,Apam SHS,public,70.7,34.6,90.9,88,0.029,7
+1504,2018,Upper West,Wa,Ghana National College,mission,65.3,26.7,64.7,87.9,0.04,2
+1505,2025,Greater Accra,Accra,Mfantsipim School,public,47.7,28.1,68.1,86.6,0.039,7
+1506,2022,Eastern,Koforidua,Apam SHS,public,17.8,30.2,76.7,68.4,0.052,8
+1507,2022,Bono,Dormaa,Cape Coast Technical University,private,48.2,25.1,70.7,73.7,0.034,5
+1508,2025,Bono,Sunyani,Apam SHS,mission,135.3,26.9,69.3,79.5,0.055,2
+1509,2023,Central,Kasoa,Mfantsipim School,mission,78.5,28,70.4,89.5,0.055,8
+1510,2022,Greater Accra,Madina,Cape Coast Technical University,public,57.1,29.7,79.2,69.3,0.032,2
+1511,2024,Ashanti,Ejisu,Cape Coast Technical University,mission,39.2,34.1,76.2,82.9,0.027,5
+1512,2019,Western North,Juaboso,UCC Practice School,mission,26.8,29.3,74.7,85.2,0.032,7
+1513,2019,Western North,Juaboso,Mfantsipim School,private,36.9,28.3,64.9,77.2,0.039,1
+1514,2024,Upper East,Bawku,Apam SHS,private,65,30,70.9,77.1,0.037,4
+1515,2022,Savannah,Sawla,St Augustine's College,mission,97.7,30.4,63.8,73,0.04,7
+1516,2025,Bono East,Kintampo,Adisadel College,private,14.2,28.4,79.8,74.1,0.047,2
+1517,2018,Upper West,Lawra,St Augustine's College,public,19.2,30.6,87.4,92.3,0.041,6
+1518,2019,Upper East,Bawku,Adisadel College,private,87.8,29.7,72.5,81.8,0.036,3
+1519,2020,North East,Nalerigu,Wesley Girls,public,40,27.6,56,85,0.046,5
+1520,2021,Bono,Dormaa,UCC Practice School,private,40.9,28.2,70.2,84.9,0.036,5
+1521,2019,Western,Axim,Ghana National College,mission,197,30.8,68.6,75.3,0.037,3
+1522,2019,Greater Accra,Madina,St Augustine's College,public,48.5,31.5,82,77.9,0.036,8
+1523,2018,Volta,Hohoe,Ghana National College,private,44.3,26.2,72.3,90.9,0.035,4
+1524,2018,Oti,Kadjebi,Cape Coast Technical University,private,55.8,31.2,89.7,98.5,0.047,1
+1525,2020,Bono,Sunyani,Ghana National College,public,24.4,30.5,58.1,82.3,0.031,5
+1526,2023,North East,Chereponi,Cape Coast Technical University,private,69.8,27.3,64.1,78.4,0.049,0
+1527,2020,Greater Accra,Tema,Cape Coast Technical University,mission,56.8,33.1,84,81.7,0.053,4
+1528,2023,Ahafo,Asutifi South,Wesley Girls,public,24.1,32.7,79.4,94.9,0.034,7
+1529,2020,Western North,Bibiani,Ghana National College,mission,42.4,28.1,84,86.9,0.047,3
+1530,2024,Bono East,Kintampo,Adisadel College,public,28.7,27.5,77.6,76.9,0.044,6
+1531,2020,Greater Accra,Tema,St Augustine's College,public,88.4,28.1,83.8,83.2,0.035,4
+1532,2024,Upper East,Paga,Wesley Girls,public,38.5,29.1,84,76.4,0.033,6
+1533,2025,Upper East,Navrongo,Cape Coast Technical University,public,63.4,24.8,73,81.4,0.054,2
+1534,2025,Upper West,Tumu,UCC Practice School,mission,54.7,26.9,76,86.3,0.047,3
+1535,2019,Central,Komenda,Cape Coast Technical University,mission,64.8,29.3,62.8,81.8,0.045,1
+1536,2020,Bono,Dormaa,Adisadel College,public,32.5,32,82.5,80.2,0.055,4
+1537,2023,Western North,Sefwi Wiawso,Cape Coast Technical University,public,113.8,26.7,69.6,83,0.037,4
+1538,2020,Ashanti,Obuasi,Adisadel College,mission,77.4,25.7,81.9,89.2,0.033,4
+1539,2022,Northern,Yendi,Apam SHS,public,89.9,29.2,78.5,81.8,0.036,2
+1540,2019,Oti,Kadjebi,Cape Coast Technical University,public,55.1,26.9,75.8,85.2,0.031,3
+1541,2019,Eastern,Suhum,Cape Coast Technical University,mission,42.9,30.4,85.4,82,0.053,7
+1542,2019,Oti,Jasikan,Wesley Girls,mission,42.3,28.6,75.3,76.2,0.047,6
+1543,2021,Ahafo,Asutifi South,Wesley Girls,mission,17.4,26.5,86.3,91.8,0.044,1
+1544,2020,Central,Komenda,Ghana National College,private,33.3,29.1,72.7,77.6,0.05,4
+1545,2023,Upper East,Bolgatanga,Mfantsipim School,public,34,32.6,86.9,94.8,0.041,6
+1546,2020,Greater Accra,Madina,Cape Coast Technical University,mission,46.9,26,84,86.5,0.032,4
+1547,2020,North East,Walewale,Adisadel College,public,105.4,29.6,68.8,80.2,0.031,6
+1548,2018,Central,Kasoa,Cape Coast Technical University,private,61.7,27.3,78.3,87.9,0.042,4
+1549,2018,Upper East,Bawku,Adisadel College,mission,87.2,28,54.2,74.5,0.05,3
+1550,2018,Western,Sekondi-Takoradi,UCC Practice School,mission,70,27.6,74.5,82,0.033,5
+1551,2021,Upper East,Paga,Mfantsipim School,public,72.8,25.3,65.9,82.6,0.047,4
+1552,2020,Upper West,Jirapa,Apam SHS,public,46.8,32.2,78.1,79.4,0.034,4
+1553,2019,Oti,Nkwanta South,Adisadel College,mission,26.7,31.6,90.1,97,0.039,5
+1554,2019,Upper East,Navrongo,Cape Coast Technical University,mission,42.2,24,100,98.1,0.028,3
+1555,2022,Upper West,Tumu,St Augustine's College,public,57.5,27.7,83,89.5,0.041,4
+1556,2023,Oti,Kadjebi,Ghana National College,public,83.8,28.2,79.3,75.9,0.031,2
+1557,2025,Ahafo,Asutifi South,Ghana National College,mission,56.4,32.7,73.3,87.7,0.051,5
+1558,2018,Upper East,Bawku,St Augustine's College,private,104.4,24.4,64,83.9,0.054,5
+1559,2021,Ashanti,Obuasi,Mfantsipim School,public,98.8,30.2,69.6,78.5,0.029,4
+1560,2022,Bono East,Techiman,Wesley Girls,public,24.6,26.2,72.3,87.2,0.042,4
+1561,2021,Western,Sekondi-Takoradi,Adisadel College,public,72.5,31.7,84.5,86.7,0.047,5
+1562,2019,Volta,Keta,Adisadel College,mission,42.7,29.9,55.2,66.8,0.028,4
+1563,2023,Oti,Jasikan,Wesley Girls,mission,116.5,26.5,76,79.8,0.043,4
+1564,2025,Ahafo,Tano North,Wesley Girls,mission,91.1,27.8,79.8,89.6,0.054,4
+1565,2020,Bono East,Nkoranza,Mfantsipim School,public,19,28.9,89.7,89.1,0.042,4
+1566,2019,Western,Shama,Cape Coast Technical University,public,90.7,25,68.3,69.7,0.044,3
+1567,2019,Upper West,Lawra,Adisadel College,private,32.2,31.9,75.1,82.8,0.036,2
+1568,2018,Eastern,Suhum,Wesley Girls,mission,38,26.3,81.3,83.2,0.044,4
+1569,2024,Volta,Ho,Adisadel College,mission,69,28.9,70.4,72.3,0.052,4
+1570,2019,Eastern,Suhum,Cape Coast Technical University,public,40.3,27.6,76.7,80.6,0.036,3
+1571,2021,Ashanti,Ejisu,St Augustine's College,public,32.3,26.5,73.4,86.7,0.049,5
+1572,2020,Ahafo,Asutifi South,Apam SHS,private,41.7,27.6,70.7,73.7,0.043,4
+1573,2024,Upper East,Bolgatanga,UCC Practice School,public,41.4,30.9,88.1,88.3,0.034,1
+1574,2018,North East,Bunkpurugu,Cape Coast Technical University,public,18.1,26.3,87.3,85.1,0.038,4
+1575,2022,Northern,Tolon,Wesley Girls,public,54.9,27.5,82.3,95.1,0.037,3
+1576,2019,Northern,Savelugu,Mfantsipim School,private,54.1,33.6,74.6,87.3,0.04,3
+1577,2018,Greater Accra,Accra,Mfantsipim School,private,170.9,26.8,77.8,78.9,0.03,5
+1578,2024,Upper East,Navrongo,Cape Coast Technical University,private,80,29.2,80.5,97.1,0.031,3
+1579,2025,Bono East,Techiman,Adisadel College,private,93.6,30.9,90.3,80,0.037,1
+1580,2018,Ashanti,Ejisu,Adisadel College,private,77,29.3,57.8,81.2,0.043,5
+1581,2018,Western North,Sefwi Wiawso,Cape Coast Technical University,mission,34.6,23.6,67.9,78,0.044,6
+1582,2021,Greater Accra,Kasoa East,Mfantsipim School,public,23.6,30.1,76.2,89.9,0.053,5
+1583,2024,Eastern,Koforidua,Adisadel College,private,98.9,26.8,77.6,79.8,0.043,3
+1584,2024,Upper West,Lawra,Mfantsipim School,private,134.5,30.1,65.6,77.8,0.048,7
+1585,2022,Volta,Keta,Apam SHS,private,54.6,28.6,78.3,89.4,0.04,2
+1586,2018,Volta,Ho,Ghana National College,private,54.8,28.1,67,76.3,0.042,5
+1587,2021,Western North,Bodi,Mfantsipim School,public,35.4,34.9,54.4,75.5,0.044,6
+1588,2022,Greater Accra,Madina,Cape Coast Technical University,public,50.5,28.3,70.2,85.6,0.042,4
+1589,2020,Ahafo,Asunafo North,Apam SHS,mission,54.6,28.5,82.3,82.5,0.035,4
+1590,2024,Volta,Keta,UCC Practice School,public,54.4,29.8,77,72.6,0.055,0
+1591,2025,Bono East,Atebubu,Cape Coast Technical University,private,73.4,25.3,61.4,75,0.044,6
+1592,2021,Ahafo,Goaso,Ghana National College,private,84.5,28.2,78.5,81.5,0.036,2
+1593,2018,Greater Accra,Kasoa East,Apam SHS,private,61.6,29,89.5,83.1,0.05,3
+1594,2019,Eastern,Koforidua,UCC Practice School,private,58.4,29.6,81.6,88.5,0.031,9
+1595,2021,Oti,Nkwanta South,UCC Practice School,public,113.7,27.8,84.8,79.6,0.055,6
+1596,2020,North East,Nalerigu,St Augustine's College,public,49.4,25.7,78.9,88.2,0.049,6
+1597,2022,Ashanti,Ejisu,Cape Coast Technical University,mission,20.3,30.7,82.3,88.8,0.029,5
+1598,2025,North East,Bunkpurugu,St Augustine's College,public,45.9,31.6,71.2,81.1,0.051,6
+1599,2020,Western North,Bodi,UCC Practice School,private,41.9,26.8,74.9,92.6,0.034,3
+1600,2022,North East,Chereponi,UCC Practice School,private,91.6,32.2,67.2,75.1,0.045,3
+1601,2021,Ashanti,Ejisu,St Augustine's College,public,53.1,28.8,76.6,81.9,0.031,7
+1602,2022,Western North,Sefwi Wiawso,Wesley Girls,mission,50.7,26.3,70.2,73.1,0.047,6
+1603,2018,Upper West,Lawra,Apam SHS,mission,90.3,28.9,62.5,92,0.048,0
+1604,2023,Savannah,Salaga,Mfantsipim School,public,67.9,25.5,73.5,86.7,0.051,6
+1605,2021,Savannah,Salaga,Ghana National College,public,59.6,30.7,69.9,77.3,0.041,4
+1606,2025,Volta,Ho,UCC Practice School,public,15.7,29.9,72.7,85.3,0.042,3
+1607,2025,Greater Accra,Kasoa East,Ghana National College,private,73.4,26,84.7,96.2,0.033,8
+1608,2019,Bono,Berekum,Ghana National College,public,22.5,25.6,78.6,85.8,0.041,6
+1609,2020,Central,Kasoa,Apam SHS,public,61.1,22.9,75.3,74.7,0.042,4
+1610,2025,Upper West,Lawra,Cape Coast Technical University,mission,43.3,27.9,83.8,89.6,0.05,0
+1611,2025,North East,Bunkpurugu,Mfantsipim School,mission,18.3,27.4,75.9,78,0.047,3
+1612,2020,Ahafo,Asutifi South,Cape Coast Technical University,private,41.3,28.2,83.6,88.8,0.047,1
+1613,2021,Ahafo,Asutifi South,Apam SHS,mission,89.9,27,77.3,79.1,0.027,3
+1614,2019,Oti,Jasikan,St Augustine's College,mission,50.4,31.9,76,85.6,0.042,5
+1615,2021,Upper West,Jirapa,Wesley Girls,public,69.2,27,74.4,82.8,0.055,1
+1616,2018,North East,Walewale,Mfantsipim School,mission,86.4,32.6,76.4,73.7,0.048,4
+1617,2023,Eastern,Suhum,Cape Coast Technical University,mission,55.3,27.6,85.1,84.9,0.051,6
+1618,2023,Bono,Dormaa,UCC Practice School,mission,67,27,73.2,83.8,0.041,5
+1619,2018,Savannah,Bole,Wesley Girls,mission,105,27.8,75.5,89.9,0.051,2
+1620,2024,North East,Nalerigu,Wesley Girls,mission,117.3,28,76.9,77.6,0.05,6
+1621,2019,North East,Walewale,Wesley Girls,mission,75.3,35.2,79.8,84.9,0.042,4
+1622,2021,Northern,Tolon,Apam SHS,mission,61.1,24.1,68.8,81.5,0.043,9
+1623,2024,Oti,Dambai,Mfantsipim School,mission,63.5,32.4,78.3,74.9,0.028,4
+1624,2019,Oti,Kadjebi,St Augustine's College,private,53,30.2,74.6,98.1,0.051,2
+1625,2025,Eastern,Nsawam,Cape Coast Technical University,public,35.2,28.4,73.3,76.1,0.03,6
+1626,2025,Upper East,Bawku,St Augustine's College,mission,35,25.4,87.4,84.5,0.035,5
+1627,2019,Greater Accra,Kasoa East,Adisadel College,public,50,32.8,64.6,82.9,0.048,1
+1628,2024,Upper West,Tumu,Ghana National College,mission,134.5,25.1,79.4,87.5,0.035,3
+1629,2024,Savannah,Salaga,Ghana National College,private,31.3,29.9,70.3,92.7,0.041,5
+1630,2018,Eastern,Koforidua,St Augustine's College,mission,34.9,26.4,69,77.4,0.031,0
+1631,2018,Bono,Sunyani,Ghana National College,private,118.9,32.1,73.9,87.1,0.035,6
+1632,2019,Northern,Savelugu,St Augustine's College,mission,49.9,26.7,90,85.3,0.048,5
+1633,2025,Ahafo,Asutifi South,UCC Practice School,mission,36.8,30.2,77.7,87.3,0.039,3
+1634,2019,Central,Mfantsiman,Wesley Girls,public,39.2,28,84.2,87.6,0.043,3
+1635,2022,Eastern,Akim Oda,Cape Coast Technical University,mission,42.5,26.5,67.4,70.9,0.037,5
+1636,2018,Western,Shama,UCC Practice School,mission,59.6,24.8,77.1,80.3,0.054,4
+1637,2019,Western North,Bibiani,Adisadel College,private,57.5,31.7,76.7,78.3,0.051,5
+1638,2022,Eastern,Suhum,Ghana National College,public,24.5,30.4,60,80.1,0.03,3
+1639,2024,Ahafo,Asunafo North,Apam SHS,mission,66.7,27,82.6,85.3,0.055,3
+1640,2023,North East,Walewale,UCC Practice School,public,42.7,27.9,70.1,86.2,0.05,3
+1641,2023,Volta,Hohoe,Apam SHS,public,76.9,25.3,85.4,95.2,0.031,3
+1642,2023,Ahafo,Asutifi South,Wesley Girls,mission,24.5,26.5,69.6,74.2,0.028,3
+1643,2019,Bono,Wenchi,Ghana National College,mission,54.9,29.2,85.9,80.6,0.052,7
+1644,2024,North East,Walewale,Apam SHS,mission,143.1,25.9,79.1,81.8,0.048,6
+1645,2022,Upper West,Wa,Adisadel College,mission,41.6,28.9,93.7,93.8,0.034,3
+1646,2019,North East,Chereponi,Mfantsipim School,mission,57.9,30.9,83,76.4,0.054,4
+1647,2023,Savannah,Damongo,Adisadel College,public,36,29.5,76.7,94.5,0.053,5
+1648,2025,Western North,Bibiani,Wesley Girls,private,34.8,25.2,87.9,93,0.033,10
+1649,2023,Savannah,Bole,Adisadel College,public,42.9,28.9,75,83.2,0.038,5
+1650,2023,Ahafo,Tano North,Wesley Girls,mission,37.1,33.6,65.4,87.2,0.028,7
+1651,2021,Western North,Juaboso,Adisadel College,public,43.7,33,71,80.2,0.035,3
+1652,2024,Western,Sekondi-Takoradi,UCC Practice School,private,100.8,28.1,73.2,72.2,0.041,2
+1653,2018,Savannah,Bole,Ghana National College,public,39.7,27.6,83.4,93,0.028,1
+1654,2024,Upper West,Tumu,Cape Coast Technical University,mission,75.6,31.2,75.9,88.2,0.036,2
+1655,2023,Ahafo,Asutifi South,Adisadel College,mission,18.3,27.8,80.9,88.1,0.031,4
+1656,2019,Upper West,Wa,Adisadel College,mission,76.2,24.8,77.7,86.7,0.053,7
+1657,2020,North East,Bunkpurugu,St Augustine's College,private,6.7,30.4,81.3,81,0.051,2
+1658,2023,Ashanti,Kumasi,Adisadel College,mission,64.1,26.7,73,71.8,0.049,1
+1659,2024,Central,Cape Coast,Ghana National College,mission,119.4,27.8,68.9,66.6,0.049,2
+1660,2020,North East,Bunkpurugu,Apam SHS,mission,63.6,29,75.9,71.3,0.027,2
+1661,2022,Central,Komenda,Wesley Girls,mission,24.8,27.3,82.8,85.2,0.044,8
+1662,2018,Upper East,Paga,Mfantsipim School,public,36,31,76,74.6,0.044,4
+1663,2022,Western,Tarkwa,Mfantsipim School,mission,80.3,31,72.8,72.5,0.055,4
+1664,2018,Greater Accra,Madina,Apam SHS,public,68.5,31,76.4,76.3,0.045,8
+1665,2020,Western,Tarkwa,Mfantsipim School,private,57.8,32.6,73,82.3,0.045,5
+1666,2023,Volta,Ho,UCC Practice School,public,13.4,28.8,82.8,90.9,0.037,4
+1667,2020,Western North,Bodi,Apam SHS,public,103.6,26.9,74.6,96.5,0.041,4
+1668,2023,Eastern,Koforidua,Apam SHS,public,6.5,26.3,84.8,97.2,0.038,6
+1669,2022,Central,Cape Coast,Mfantsipim School,public,42.2,26,79.1,82,0.053,3
+1670,2025,Western,Shama,Cape Coast Technical University,public,37.3,24.9,72.1,74.6,0.032,3
+1671,2023,Savannah,Salaga,Wesley Girls,public,52,26,70.4,85.5,0.031,4
+1672,2023,Bono,Dormaa,Cape Coast Technical University,private,51.7,30.5,64.2,78.1,0.055,4
+1673,2021,Eastern,Suhum,Wesley Girls,mission,68.6,28.6,78.4,83.5,0.054,5
+1674,2020,Northern,Yendi,Mfantsipim School,private,54.4,31,74.5,80.9,0.044,2
+1675,2018,Volta,Hohoe,UCC Practice School,public,35,25.1,75,79.1,0.049,1
+1676,2024,Greater Accra,Accra,Adisadel College,public,63.3,27.6,72.1,86.2,0.03,3
+1677,2019,Oti,Dambai,Apam SHS,public,68.1,37,76,88.7,0.049,5
+1678,2019,Ahafo,Tano North,Adisadel College,private,34.1,32.8,68.3,79.9,0.04,6
+1679,2019,Central,Cape Coast,Cape Coast Technical University,public,15.8,35.6,84.1,87.9,0.05,5
+1680,2020,Greater Accra,Tema,St Augustine's College,private,30.8,34.3,76,78.6,0.041,1
+1681,2024,Volta,Kpando,Wesley Girls,public,44.4,28.8,71.2,79.7,0.048,7
+1682,2021,Greater Accra,Kasoa East,Apam SHS,public,25,29.7,81.8,81.8,0.036,2
+1683,2020,Western,Shama,Apam SHS,private,20.4,29.3,74.6,85.4,0.048,4
+1684,2018,Upper West,Tumu,St Augustine's College,private,39.4,27.4,57.1,76.2,0.034,2
+1685,2023,Savannah,Damongo,Ghana National College,private,88,33.5,93.8,90.6,0.054,4
+1686,2024,Greater Accra,Accra,Wesley Girls,private,81.7,32.1,81.6,80.8,0.046,1
+1687,2024,Upper West,Lawra,Mfantsipim School,public,29.3,32.5,86.9,99,0.04,3
+1688,2020,Volta,Hohoe,Mfantsipim School,public,59.6,25.6,70.1,79.7,0.044,5
+1689,2024,Volta,Keta,St Augustine's College,mission,43.7,26.9,81.5,75.9,0.044,4
+1690,2020,Eastern,Suhum,Wesley Girls,public,30.7,29.7,74.3,89,0.051,3
+1691,2020,Upper West,Jirapa,Adisadel College,public,56.5,25.6,80.5,75.6,0.043,1
+1692,2020,Savannah,Bole,Wesley Girls,public,34.8,28.9,73.6,77.3,0.043,5
+1693,2018,Ashanti,Ejisu,St Augustine's College,public,42.9,25.3,88.2,87.7,0.043,4
+1694,2020,Upper West,Wa,Apam SHS,public,48.4,25.5,79,80.8,0.049,6
+1695,2021,Upper East,Bolgatanga,St Augustine's College,mission,40.6,33.5,76.8,81.7,0.041,4
+1696,2022,Ashanti,Ejisu,Cape Coast Technical University,private,26.8,35.9,78,81.5,0.033,7
+1697,2018,Oti,Nkwanta South,Apam SHS,public,59,31.6,73.4,80.2,0.039,9
+1698,2021,Eastern,Koforidua,Apam SHS,public,46.8,27.3,73.2,71.2,0.037,7
+1699,2019,Savannah,Salaga,Cape Coast Technical University,private,21.4,28.7,90.3,92.3,0.028,3
+1700,2019,Western North,Bibiani,UCC Practice School,private,79.4,30.4,66.1,81.2,0.05,2
+1701,2018,Ahafo,Goaso,Mfantsipim School,mission,43.9,31.1,85.6,87.2,0.051,7
+1702,2022,Volta,Ho,Mfantsipim School,mission,29,29,70,79.9,0.034,9
+1703,2020,Eastern,Akim Oda,Ghana National College,mission,37.8,31.3,72.3,78.5,0.036,5
+1704,2018,Central,Kasoa,UCC Practice School,private,38.2,29.5,81.4,87.3,0.036,6
+1705,2020,Upper West,Tumu,UCC Practice School,public,83,26.5,72.5,89.1,0.041,4
+1706,2020,Ahafo,Tano North,St Augustine's College,private,104,30.3,75.9,86.7,0.04,5
+1707,2019,Central,Kasoa,UCC Practice School,public,17.2,32.3,71.6,92.8,0.052,3
+1708,2022,Bono East,Kintampo,Apam SHS,private,70.3,30,81,82.5,0.041,5
+1709,2020,Northern,Tamale,Ghana National College,private,34.4,26.6,68.5,79.1,0.032,3
+1710,2018,Savannah,Bole,Ghana National College,private,139,29.3,77.5,90.9,0.048,6
+1711,2024,Ahafo,Asutifi South,UCC Practice School,private,126.5,27.2,86.5,81.7,0.052,4
+1712,2019,Oti,Dambai,Mfantsipim School,public,68.8,26.2,88.8,89.3,0.044,5
+1713,2020,Bono,Sunyani,Adisadel College,public,81.7,26.2,87.7,92,0.049,2
+1714,2023,Ashanti,Mampong,Mfantsipim School,public,27.6,26.8,66,87.8,0.033,4
+1715,2025,Savannah,Sawla,Wesley Girls,public,43.7,29.8,80.1,79.4,0.053,1
+1716,2023,Ahafo,Asutifi South,Adisadel College,mission,51.5,33,86.5,86.6,0.029,2
+1717,2023,Western,Sekondi-Takoradi,Cape Coast Technical University,mission,47.7,31.7,82.4,85.2,0.053,4
+1718,2019,Ashanti,Kumasi,St Augustine's College,private,59.7,30.2,63.6,67.5,0.037,7
+1719,2025,Western North,Sefwi Wiawso,Adisadel College,public,55.6,31.4,66.5,75.3,0.029,5
+1720,2019,Savannah,Salaga,Apam SHS,public,71.5,32.6,78.4,86.6,0.032,6
+1721,2018,Greater Accra,Tema,St Augustine's College,private,99.4,32.6,80.7,93.2,0.055,1
+1722,2018,Central,Kasoa,St Augustine's College,private,55.2,28.8,81.5,85.4,0.037,6
+1723,2025,Ashanti,Obuasi,Ghana National College,private,53.3,27.4,76.7,77.8,0.049,4
+1724,2021,Bono East,Kintampo,Wesley Girls,public,69.1,34.5,73.2,78,0.04,1
+1725,2025,Savannah,Bole,Mfantsipim School,public,58.2,30.7,68.6,71,0.043,5
+1726,2020,Eastern,Koforidua,UCC Practice School,public,91.5,31.8,77.6,91.5,0.045,6
+1727,2023,Western,Sekondi-Takoradi,Ghana National College,mission,109.1,25.7,94.4,96,0.044,7
+1728,2019,North East,Chereponi,Ghana National College,private,62.9,33.3,88.4,79.2,0.056,3
+1729,2021,Eastern,Koforidua,Wesley Girls,public,26.3,26.9,81.5,93.9,0.042,2
+1730,2025,Western North,Sefwi Wiawso,Mfantsipim School,private,66.2,27.4,85,90.9,0.044,7
+1731,2018,Eastern,Akim Oda,Ghana National College,mission,32.2,26.4,87.7,86.9,0.037,2
+1732,2022,Eastern,Nsawam,Adisadel College,private,68.8,28.8,84.1,78.7,0.033,3
+1733,2019,Central,Cape Coast,Mfantsipim School,public,40.9,29.2,82.9,82.4,0.039,0
+1734,2022,Central,Kasoa,Wesley Girls,private,83.2,28.5,81.6,87.1,0.044,5
+1735,2022,Eastern,Koforidua,Adisadel College,public,32.8,29.1,69.2,75.5,0.036,9
+1736,2023,Eastern,Nsawam,Adisadel College,mission,60.8,25.9,86.8,82.2,0.041,7
+1737,2025,Ahafo,Asunafo North,Apam SHS,mission,92.8,30.8,84.2,78.8,0.05,1
+1738,2025,Greater Accra,Accra,Apam SHS,public,56.3,34.5,70.3,80.4,0.039,4
+1739,2019,Eastern,Suhum,Apam SHS,mission,87.6,26.9,68.6,75.3,0.043,9
+1740,2021,Western North,Sefwi Wiawso,Ghana National College,private,116.5,26.7,70.9,80.9,0.053,3
+1741,2021,Eastern,Akim Oda,Wesley Girls,mission,89.9,28.4,86.7,90.1,0.045,3
+1742,2019,Ahafo,Tano North,Wesley Girls,mission,48.9,28.3,73.6,84.9,0.035,5
+1743,2024,Greater Accra,Tema,Apam SHS,mission,48.3,25.7,73.5,91.6,0.043,5
+1744,2025,Volta,Keta,Ghana National College,mission,38.5,24.8,81.6,87.3,0.051,5
+1745,2023,Eastern,Suhum,Cape Coast Technical University,public,104.3,32.4,73.6,81.3,0.031,3
+1746,2020,Oti,Kadjebi,Mfantsipim School,mission,47.7,23.9,71.5,90.9,0.05,4
+1747,2022,Ashanti,Kumasi,St Augustine's College,public,67.9,29,58.9,78.1,0.029,7
+1748,2021,Western North,Bibiani,Ghana National College,public,58.7,25.9,87.3,84.9,0.054,2
+1749,2019,Western North,Bibiani,Adisadel College,public,62.8,32.5,74.1,79.9,0.031,5
+1750,2018,Upper East,Bolgatanga,St Augustine's College,private,81.8,25.2,85.1,95.3,0.04,2
+1751,2018,Upper West,Jirapa,Mfantsipim School,private,32.7,26.6,74.1,80.9,0.054,2
+1752,2024,Savannah,Sawla,Cape Coast Technical University,public,55.7,25.3,63.9,78.5,0.032,0
+1753,2019,Upper East,Navrongo,UCC Practice School,private,42.1,26.8,76.2,86.7,0.045,7
+1754,2020,North East,Nalerigu,Mfantsipim School,mission,34.5,25.9,61.6,75.6,0.048,4
+1755,2018,North East,Chereponi,Cape Coast Technical University,private,55,30.5,66.4,80.1,0.027,4
+1756,2025,Western,Axim,UCC Practice School,mission,84.9,30.3,72.4,78.6,0.044,4
+1757,2020,Volta,Ho,UCC Practice School,private,49.8,37.1,74.3,82.4,0.049,5
+1758,2019,Greater Accra,Kasoa East,UCC Practice School,public,35.8,23.3,77.7,83.8,0.055,4
+1759,2019,Upper East,Navrongo,UCC Practice School,public,22.5,31.1,87.4,85.2,0.03,6
+1760,2022,Greater Accra,Kasoa East,Mfantsipim School,private,97.4,27.9,72.6,87.4,0.052,10
+1761,2019,Upper East,Navrongo,St Augustine's College,mission,59.9,31,64.6,84.4,0.045,5
+1762,2020,Western,Sekondi-Takoradi,Apam SHS,mission,51,28.3,89.2,99,0.048,5
+1763,2024,Volta,Kpando,Ghana National College,public,22.3,31.8,83.4,75.1,0.048,6
+1764,2021,Savannah,Sawla,Apam SHS,mission,44.9,34.5,66.4,75.6,0.047,6
+1765,2018,Greater Accra,Accra,Cape Coast Technical University,public,33.7,26.8,82.2,86,0.053,2
+1766,2018,Western North,Sefwi Wiawso,Wesley Girls,private,35,26.1,74.9,84.5,0.03,4
+1767,2024,Volta,Keta,Ghana National College,private,45.7,25.7,70.9,89.8,0.035,7
+1768,2022,Bono East,Nkoranza,Ghana National College,private,27.3,24.8,77.8,73.2,0.053,5
+1769,2024,Ahafo,Tano North,St Augustine's College,public,49.7,27.1,76.9,89.7,0.04,0
+1770,2024,Northern,Tolon,Adisadel College,private,127,27.5,75.9,79,0.038,3
+1771,2021,Ahafo,Goaso,UCC Practice School,mission,42.7,29.3,75.7,76.7,0.042,5
+1772,2020,Upper East,Navrongo,St Augustine's College,public,71.6,27.6,67.2,81.4,0.035,3
+1773,2020,Upper East,Bawku,Adisadel College,mission,35,27.4,77.6,83.1,0.044,4
+1774,2025,Central,Cape Coast,St Augustine's College,private,43,29.5,71.4,97.8,0.052,4
+1775,2022,Western,Axim,Apam SHS,public,59.6,28.4,69.1,85.1,0.038,0
+1776,2024,Oti,Kadjebi,Adisadel College,public,85.3,32.3,71.3,86.3,0.032,1
+1777,2019,Upper West,Lawra,Wesley Girls,public,61.3,32.2,68.9,79.2,0.031,5
+1778,2021,Volta,Kpando,Cape Coast Technical University,private,53.3,27.3,70.9,80.3,0.047,6
+1779,2018,Northern,Yendi,Wesley Girls,public,52.8,25.4,70.2,73,0.028,5
+1780,2021,Western,Axim,Mfantsipim School,public,23.7,28.2,60.7,80.7,0.029,2
+1781,2024,Ashanti,Mampong,UCC Practice School,private,17.5,28.2,79.4,75.7,0.054,0
+1782,2022,Western North,Sefwi Wiawso,Mfantsipim School,private,84.5,34.8,72.3,75.4,0.046,3
+1783,2019,Central,Mfantsiman,Apam SHS,mission,82.3,28.9,76.3,84,0.032,2
+1784,2025,Savannah,Damongo,Adisadel College,mission,49.5,28.2,78.8,80.7,0.045,4
+1785,2023,Savannah,Salaga,Ghana National College,mission,175.8,23.4,75.5,78.2,0.043,5
+1786,2025,Savannah,Salaga,UCC Practice School,public,15.5,30.9,80.1,81.3,0.049,4
+1787,2024,Ahafo,Asunafo North,Mfantsipim School,private,64.4,28.3,76.1,86.5,0.039,4
+1788,2021,Ashanti,Kumasi,St Augustine's College,mission,45.9,31.5,78.7,87.8,0.027,4
+1789,2019,Ahafo,Asunafo North,Wesley Girls,mission,66.2,33.1,65,72.4,0.039,4
+1790,2025,Western,Sekondi-Takoradi,Mfantsipim School,private,23.5,26.4,76.9,86.5,0.047,4
+1791,2024,Bono,Sunyani,Mfantsipim School,public,54.1,31.6,76.1,88.4,0.054,2
+1792,2024,Bono East,Atebubu,Mfantsipim School,private,27.4,30.9,74.8,95.3,0.051,3
+1793,2021,Ahafo,Asunafo North,St Augustine's College,private,79.9,27.7,76.2,86.3,0.027,4
+1794,2018,Oti,Kadjebi,St Augustine's College,private,51,26,67.4,67.8,0.033,6
+1795,2020,Ahafo,Asunafo North,Mfantsipim School,public,66.5,26.1,74.7,86.8,0.042,4
+1796,2021,Ashanti,Kumasi,Ghana National College,mission,31.7,27.6,77,90.1,0.028,1
+1797,2024,Volta,Ho,Cape Coast Technical University,mission,18.8,29.2,87.2,93.5,0.044,2
+1798,2020,Bono East,Kintampo,Cape Coast Technical University,public,59.9,32.1,76.3,91.6,0.039,4
+1799,2020,Upper West,Jirapa,Cape Coast Technical University,private,62.5,32.4,70.6,89.6,0.046,8
+1800,2020,Ashanti,Mampong,UCC Practice School,private,38.7,28.2,62,78.6,0.033,5
+1801,2024,Ashanti,Obuasi,Ghana National College,mission,56.7,24.9,75.4,84,0.032,7
+1802,2024,North East,Walewale,UCC Practice School,mission,48.3,26.6,79.4,80,0.053,0
+1803,2022,Savannah,Bole,St Augustine's College,private,93.8,28.3,75.5,76.5,0.036,6
+1804,2018,North East,Chereponi,UCC Practice School,public,14.5,27.4,84.1,80.4,0.055,6
+1805,2020,Greater Accra,Tema,St Augustine's College,mission,100.4,32.8,66.9,85.7,0.031,6
+1806,2018,Savannah,Damongo,UCC Practice School,public,54.6,27.4,69.9,76,0.048,5
+1807,2024,Bono East,Kintampo,Wesley Girls,public,33.7,23.5,91.9,89.7,0.032,3
+1808,2024,Greater Accra,Kasoa East,Ghana National College,private,69.6,31.9,76.5,86.4,0.047,1
+1809,2021,Volta,Kpando,Cape Coast Technical University,public,49.8,30.9,73.7,86,0.034,3
+1810,2023,Eastern,Nsawam,Apam SHS,private,57.7,26.3,74.1,91,0.036,6
+1811,2018,Greater Accra,Madina,UCC Practice School,public,37.7,28.7,72.3,84.7,0.045,1
+1812,2019,Ahafo,Tano North,Mfantsipim School,mission,67.6,26.6,82.9,86.5,0.027,5
+1813,2020,Western,Sekondi-Takoradi,Adisadel College,private,29.2,34.1,71,91.2,0.034,3
+1814,2021,Central,Komenda,UCC Practice School,private,47.1,24.2,75.1,77.5,0.051,4
+1815,2020,Central,Mfantsiman,Wesley Girls,private,69.9,26.2,68.5,80.9,0.035,1
+1816,2020,Greater Accra,Accra,Cape Coast Technical University,private,16.3,27.7,55.4,75,0.054,3
+1817,2021,Bono East,Kintampo,Wesley Girls,mission,123,30.3,72,84.6,0.031,3
+1818,2021,Upper West,Jirapa,Apam SHS,private,45.1,32,75.9,85.7,0.047,3
+1819,2022,Ahafo,Tano North,Cape Coast Technical University,private,36.6,31.6,75.4,74.9,0.031,2
+1820,2025,Bono,Berekum,Mfantsipim School,mission,49.4,30.5,88.4,78.7,0.049,3
+1821,2022,Volta,Keta,UCC Practice School,public,33,23.9,78.1,78.2,0.033,3
+1822,2022,Bono East,Techiman,Apam SHS,mission,83.2,27,79.9,84.5,0.052,7
+1823,2018,Central,Kasoa,Mfantsipim School,public,43.6,30.2,92.3,81.3,0.045,3
+1824,2019,Western,Tarkwa,St Augustine's College,private,111.4,30.5,81.4,75.5,0.052,3
+1825,2019,Volta,Hohoe,Ghana National College,private,48.9,26.7,69.7,75.7,0.045,5
+1826,2018,Upper East,Bawku,Apam SHS,public,33.8,27.4,70.3,78.9,0.05,4
+1827,2022,North East,Walewale,UCC Practice School,private,28.3,28.1,66.8,75.1,0.052,7
+1828,2019,North East,Chereponi,Apam SHS,mission,110,32.9,84.4,88.9,0.04,2
+1829,2022,Upper East,Bolgatanga,UCC Practice School,mission,81.5,29.3,94.7,92.5,0.046,5
+1830,2024,Ashanti,Kumasi,Apam SHS,mission,120.4,26,78.8,93.2,0.027,3
+1831,2024,Oti,Kadjebi,St Augustine's College,public,59.9,26.5,74.5,85.2,0.041,5
+1832,2021,Bono East,Techiman,Ghana National College,public,59,28.7,88.6,81.8,0.033,7
+1833,2018,Volta,Keta,UCC Practice School,public,70.7,24.9,84.7,87.5,0.03,3
+1834,2022,Ashanti,Kumasi,Ghana National College,private,26.6,26,70.6,81.3,0.055,6
+1835,2024,Central,Kasoa,Apam SHS,public,70.3,29.6,76.2,88,0.055,3
+1836,2018,Bono East,Kintampo,Apam SHS,mission,65.7,29.4,78.2,87.2,0.033,1
+1837,2024,Ashanti,Ejisu,UCC Practice School,public,28.7,32.9,74.6,84.8,0.053,2
+1838,2020,Upper West,Wa,Adisadel College,mission,110.9,26.2,71.9,89.5,0.053,2
+1839,2018,Bono,Berekum,Wesley Girls,private,65.5,29.5,82.8,93.9,0.055,4
+1840,2018,Western,Tarkwa,Adisadel College,public,14.5,33.2,88.2,82.4,0.038,0
+1841,2024,Bono,Berekum,Mfantsipim School,mission,60.2,31.9,85.5,79.7,0.054,2
+1842,2022,Western North,Sefwi Wiawso,Adisadel College,mission,49.4,33.6,82.6,76.6,0.049,0
+1843,2018,Volta,Hohoe,Apam SHS,public,121.4,24.6,89.3,91.1,0.048,6
+1844,2023,Greater Accra,Kasoa East,Adisadel College,private,31.5,30.8,73.5,76,0.034,4
+1845,2023,Bono East,Atebubu,Wesley Girls,public,61.3,25.5,73.5,79.6,0.041,3
+1846,2020,Ahafo,Asunafo North,Apam SHS,private,51.6,35.8,81.3,89,0.049,3
+1847,2024,Central,Kasoa,UCC Practice School,mission,91.4,31.7,79.7,92.3,0.051,2
+1848,2025,Eastern,Nsawam,Apam SHS,public,32.3,31.2,72.3,79.3,0.032,6
+1849,2021,Eastern,Suhum,Apam SHS,public,56,27.1,74.8,92.9,0.035,3
+1850,2024,Western,Tarkwa,Adisadel College,mission,38.3,30,74.3,81,0.031,3
+1851,2023,Volta,Keta,Wesley Girls,private,34.7,30.3,75.4,93.1,0.031,5
+1852,2024,Upper East,Bawku,Wesley Girls,public,87.7,27.2,80.6,78.2,0.033,4
+1853,2024,Oti,Nkwanta South,Wesley Girls,public,36.3,29.2,77.2,84,0.053,1
+1854,2019,Savannah,Salaga,Wesley Girls,public,59.7,21.8,60.5,76.2,0.037,6
+1855,2025,Ashanti,Ejisu,Adisadel College,private,70.6,34.3,78.2,88.7,0.041,2
+1856,2024,Central,Mfantsiman,St Augustine's College,mission,17,30.6,79.4,81.4,0.027,2
+1857,2021,Bono East,Nkoranza,St Augustine's College,mission,183.7,27.6,80.7,89,0.048,5
+1858,2018,Volta,Ho,Cape Coast Technical University,mission,33.1,31.2,78.7,87.3,0.035,6
+1859,2023,Savannah,Sawla,Mfantsipim School,private,83.7,24.1,79.5,93.8,0.047,8
+1860,2020,Central,Komenda,Wesley Girls,private,150.5,31.9,60.1,70.5,0.032,2
+1861,2020,Greater Accra,Kasoa East,Apam SHS,mission,60.7,28.6,76.9,86.6,0.037,5
+1862,2021,Bono,Berekum,Apam SHS,public,39.2,24,77.8,93.5,0.041,5
+1863,2022,Volta,Hohoe,St Augustine's College,private,18.8,29,83.1,89.7,0.045,4
+1864,2019,Western North,Bodi,Mfantsipim School,mission,80.6,31.6,83.8,93.6,0.031,1
+1865,2018,North East,Chereponi,UCC Practice School,mission,60.6,31.2,74.4,76.2,0.039,2
+1866,2018,Savannah,Salaga,Adisadel College,public,65.7,29.1,90.1,78.9,0.027,2
+1867,2024,Upper East,Navrongo,Apam SHS,public,69.3,29.1,78.5,88.4,0.03,2
+1868,2025,Western North,Bodi,Cape Coast Technical University,private,17.1,25.7,80,89,0.036,6
+1869,2021,Upper East,Bolgatanga,UCC Practice School,private,41.6,28.8,77.1,76.2,0.054,2
+1870,2020,Northern,Tolon,Apam SHS,mission,82.4,30.4,69.7,79.7,0.052,3
+1871,2020,Ahafo,Asutifi South,Mfantsipim School,private,110.3,32.9,74.1,80.5,0.042,7
+1872,2022,Ahafo,Goaso,Apam SHS,public,82.9,25.4,79.7,84.3,0.044,9
+1873,2025,Northern,Savelugu,St Augustine's College,private,164.2,27.6,79.4,82.6,0.035,4
+1874,2019,Volta,Keta,Cape Coast Technical University,private,94.6,30.2,76.2,83.5,0.046,4
+1875,2024,Western,Tarkwa,Mfantsipim School,private,65.9,23.2,68.1,89.4,0.033,5
+1876,2018,Oti,Nkwanta South,Mfantsipim School,private,51.3,27.7,70.1,85.9,0.026,1
+1877,2021,Ahafo,Asutifi South,Cape Coast Technical University,public,30.7,33.6,91.1,85,0.054,5
+1878,2024,Ashanti,Mampong,Cape Coast Technical University,private,138.3,25.3,76,94.8,0.037,2
+1879,2022,Bono,Dormaa,Apam SHS,public,35.3,30.6,86.1,85.5,0.042,6
+1880,2025,Greater Accra,Kasoa East,Mfantsipim School,private,65.4,29.2,94.7,89.9,0.029,4
+1881,2019,Oti,Nkwanta South,St Augustine's College,mission,109.6,29.3,66,79.8,0.042,1
+1882,2018,Bono,Wenchi,Apam SHS,private,91.3,30.4,68.7,79.2,0.053,3
+1883,2019,Northern,Tolon,Cape Coast Technical University,public,33.7,27.4,77.6,83,0.052,3
+1884,2018,Ashanti,Kumasi,Apam SHS,public,30.1,28.4,71.6,71.4,0.043,3
+1885,2023,Bono,Dormaa,Apam SHS,mission,40.6,28.8,77.1,80.3,0.051,7
+1886,2025,Northern,Yendi,Wesley Girls,mission,36.8,31.2,71.1,96.1,0.037,5
+1887,2019,Eastern,Suhum,UCC Practice School,public,52.7,30.5,74,84.3,0.032,7
+1888,2019,Savannah,Bole,Adisadel College,public,53.6,29.3,77.3,82.6,0.039,4
+1889,2023,Upper East,Navrongo,Wesley Girls,private,55.9,26.9,70.2,87.2,0.05,4
+1890,2021,Savannah,Bole,Ghana National College,public,64,26.6,78.2,81.1,0.047,2
+1891,2024,Northern,Tamale,Wesley Girls,public,50.7,25.5,72.3,85.8,0.038,2
+1892,2024,Western,Sekondi-Takoradi,Apam SHS,mission,47.5,27,74,91.3,0.036,2
+1893,2022,Volta,Kpando,UCC Practice School,public,30.3,29.9,81.9,86.6,0.055,7
+1894,2020,Central,Komenda,Cape Coast Technical University,mission,64.8,32.7,78.4,73.6,0.034,4
+1895,2019,Bono East,Nkoranza,Adisadel College,private,89.9,29.4,81,82.1,0.035,4
+1896,2021,Ashanti,Mampong,Apam SHS,mission,51.7,27,80.5,87.7,0.036,6
+1897,2024,Upper East,Paga,UCC Practice School,private,113.4,29,67.6,83.5,0.049,6
+1898,2025,Ahafo,Tano North,Mfantsipim School,mission,84,27.3,74.6,87.1,0.051,6
+1899,2023,Savannah,Salaga,Wesley Girls,mission,67.6,31,71.9,72.5,0.033,6
+1900,2020,Central,Komenda,UCC Practice School,private,36.1,25.5,77,85.9,0.038,0
+1901,2022,Ahafo,Tano North,St Augustine's College,public,64.9,31.5,74.2,80.9,0.052,5
+1902,2022,Western North,Sefwi Wiawso,Cape Coast Technical University,mission,8.2,30.7,82,83.9,0.035,2
+1903,2019,Eastern,Suhum,Apam SHS,public,123.5,27,82.5,81.1,0.038,0
+1904,2025,Savannah,Damongo,Ghana National College,public,47.4,26.9,72.8,87.5,0.043,7
+1905,2023,Eastern,Koforidua,Mfantsipim School,public,45.4,27.8,73.1,84.4,0.045,3
+1906,2024,Volta,Hohoe,Mfantsipim School,private,41.2,30.4,85.3,90,0.035,3
+1907,2025,Greater Accra,Tema,Mfantsipim School,mission,49.2,26.3,87,92.8,0.043,3
+1908,2025,Northern,Yendi,Wesley Girls,mission,75.2,25,79.8,79.2,0.047,5
+1909,2025,Eastern,Suhum,Apam SHS,public,108.9,28.4,68.9,86.5,0.029,3
+1910,2025,Upper West,Jirapa,Apam SHS,mission,32.1,31.1,82.9,91.3,0.056,9
+1911,2024,Bono,Dormaa,St Augustine's College,public,90.2,24.2,82.1,83.7,0.054,6
+1912,2025,Western North,Bodi,UCC Practice School,private,44.5,22,87.1,92.7,0.031,1
+1913,2025,North East,Bunkpurugu,Cape Coast Technical University,private,88.3,30.9,73.2,81.4,0.036,2
+1914,2023,Western North,Sefwi Wiawso,Cape Coast Technical University,mission,22.9,29.4,90.3,77.8,0.035,3
+1915,2018,Central,Komenda,Adisadel College,public,88.2,28.9,66.6,82.1,0.027,6
+1916,2025,North East,Chereponi,Ghana National College,private,55.8,28.3,83.2,80.2,0.041,6
+1917,2022,North East,Walewale,St Augustine's College,mission,26.6,29,83.9,85.5,0.031,7
+1918,2021,Bono,Berekum,Wesley Girls,public,22.7,31,84.6,94.8,0.03,3
+1919,2025,Greater Accra,Kasoa East,Ghana National College,public,62,33.7,61.6,77.7,0.032,5
+1920,2019,Western North,Sefwi Wiawso,UCC Practice School,mission,62.7,30.4,65.8,88.8,0.049,9
+1921,2022,Bono East,Atebubu,Apam SHS,public,28.5,26.7,82.1,82.4,0.03,7
+1922,2019,Northern,Tamale,St Augustine's College,mission,107.1,28.2,82.5,88.1,0.045,4
+1923,2024,Greater Accra,Tema,Adisadel College,mission,65.4,29,73.5,84.1,0.035,7
+1924,2018,Oti,Nkwanta South,Adisadel College,private,110.3,30,74.3,81.6,0.028,2
+1925,2022,Ashanti,Mampong,Mfantsipim School,private,24,30,75.8,82.1,0.055,4
+1926,2019,Ahafo,Asunafo North,Mfantsipim School,mission,58.1,29.6,72.1,75.8,0.045,2
+1927,2025,Eastern,Akim Oda,Adisadel College,public,84.2,33.4,94.6,92.4,0.032,5
+1928,2021,Western,Tarkwa,Mfantsipim School,private,52.1,30.7,84.4,92.3,0.041,4
+1929,2024,Eastern,Nsawam,Mfantsipim School,public,49.6,25.6,69.3,66.8,0.038,3
+1930,2025,Western North,Sefwi Wiawso,Adisadel College,mission,98.3,28.9,81.8,90.1,0.031,3
+1931,2022,Oti,Dambai,Ghana National College,mission,43.2,32.4,68.5,74.1,0.054,3
+1932,2018,Central,Cape Coast,Cape Coast Technical University,public,32.8,27.5,76,89.2,0.051,5
+1933,2020,Western,Shama,UCC Practice School,private,45.4,27.4,69.8,75,0.037,3
+1934,2020,Ashanti,Mampong,Apam SHS,private,58.9,28.6,63.7,80.1,0.05,3
+1935,2019,Western,Sekondi-Takoradi,Adisadel College,private,116.7,28.5,78.6,73.3,0.032,1
+1936,2022,Northern,Yendi,UCC Practice School,private,21.2,28.1,77.1,79,0.029,1
+1937,2022,Eastern,Suhum,Mfantsipim School,public,65.2,27.5,79.3,91.5,0.042,3
+1938,2024,Bono East,Kintampo,UCC Practice School,private,57.1,32.5,65.5,83.1,0.038,5
+1939,2024,Greater Accra,Kasoa East,Ghana National College,public,54.1,29.9,96.1,92.9,0.028,5
+1940,2018,Volta,Kpando,Mfantsipim School,private,40.1,26.3,74.5,82.4,0.045,6
+1941,2020,Western North,Juaboso,Wesley Girls,private,26.1,25.4,85.2,87.2,0.05,1
+1942,2025,Northern,Tolon,Mfantsipim School,public,77,28.3,76.1,92.1,0.042,6
+1943,2023,North East,Bunkpurugu,St Augustine's College,public,63.6,30,76.5,82.5,0.028,2
+1944,2021,Ahafo,Asutifi South,St Augustine's College,public,24.1,29.7,70.2,81.3,0.037,3
+1945,2023,Bono,Sunyani,Cape Coast Technical University,mission,28.4,30,94.3,95.8,0.034,2
+1946,2020,Oti,Dambai,Cape Coast Technical University,public,118.2,31.1,94.4,88.9,0.031,2
+1947,2022,Ashanti,Obuasi,Cape Coast Technical University,mission,85.1,28.4,72.3,79.5,0.041,6
+1948,2021,Bono,Berekum,Cape Coast Technical University,public,117.2,32.9,77.7,82.1,0.028,4
+1949,2025,Upper West,Jirapa,Cape Coast Technical University,public,51.9,28.2,77,82.4,0.028,3
+1950,2024,Central,Kasoa,Apam SHS,public,52,26.9,87,80.2,0.049,8
+1951,2021,Eastern,Suhum,Mfantsipim School,mission,77.8,21.4,90.8,78.3,0.039,7
+1952,2018,Bono,Dormaa,Mfantsipim School,mission,27,31.4,66.7,79.8,0.048,3
+1953,2023,Ashanti,Kumasi,Wesley Girls,mission,85.9,25.3,59.1,79.7,0.036,3
+1954,2025,Central,Kasoa,Ghana National College,public,122.7,32.7,72,86.9,0.037,4
+1955,2019,Upper West,Tumu,Ghana National College,public,41,20.9,69.5,74.7,0.039,5
+1956,2019,Bono East,Techiman,Wesley Girls,mission,37,29.4,74.5,91.5,0.035,4
+1957,2018,Central,Cape Coast,Adisadel College,mission,45.5,26.1,81.8,74.1,0.043,7
+1958,2024,Oti,Dambai,Apam SHS,public,47.7,30.3,86,91,0.028,5
+1959,2022,Bono East,Nkoranza,Mfantsipim School,private,57.1,27,76.6,83.5,0.043,3
+1960,2022,Bono East,Nkoranza,Mfantsipim School,mission,29.1,33,84.4,84.9,0.047,1
+1961,2019,Western,Axim,St Augustine's College,public,41.3,25.6,74.7,76.3,0.055,5
+1962,2020,North East,Chereponi,St Augustine's College,private,66.1,29.5,87.1,85.7,0.045,6
+1963,2018,Western North,Bibiani,Adisadel College,private,78.2,29.6,66.4,78.1,0.047,2
+1964,2020,Western North,Bibiani,Ghana National College,mission,84.4,27.2,77.4,89.8,0.044,3
+1965,2018,Eastern,Akim Oda,Ghana National College,public,40.5,31.5,62.2,74.4,0.054,5
+1966,2018,Western,Tarkwa,UCC Practice School,public,30.7,25.5,79.8,80.7,0.05,4
+1967,2019,Ashanti,Ejisu,Apam SHS,mission,58.1,30,79.1,86.6,0.044,5
+1968,2019,Bono,Berekum,Cape Coast Technical University,mission,29.5,31,65.3,77.5,0.036,5
+1969,2023,Western,Shama,Cape Coast Technical University,public,17.6,26.3,78.6,78,0.036,4
+1970,2020,North East,Walewale,Ghana National College,private,86.2,31.6,79.8,73.2,0.048,4
+1971,2022,Ahafo,Goaso,Apam SHS,mission,99.6,28.4,84.6,96.3,0.053,5
+1972,2021,Upper West,Tumu,Mfantsipim School,public,48.8,26.8,88,88.3,0.055,5
+1973,2023,Eastern,Nsawam,Apam SHS,private,42.8,28.9,77.4,92.9,0.034,3
+1974,2020,Western North,Bibiani,St Augustine's College,private,40.7,26.1,80.1,85.8,0.044,2
+1975,2024,Bono,Berekum,Cape Coast Technical University,private,33.2,28.3,66.6,85.7,0.047,4
+1976,2018,Northern,Tamale,Cape Coast Technical University,private,83.9,23.4,77.2,93.8,0.038,6
+1977,2021,Oti,Jasikan,Mfantsipim School,private,27.3,31.6,80.4,90.5,0.03,4
+1978,2021,Upper West,Lawra,Adisadel College,public,55.4,31.3,73.8,92,0.035,4
+1979,2025,Savannah,Sawla,UCC Practice School,public,32.4,35.4,78,92.6,0.041,4
+1980,2025,Ahafo,Asutifi South,Wesley Girls,private,54.9,28.5,80.3,79.3,0.03,4
+1981,2023,Volta,Hohoe,Wesley Girls,public,40.7,30.6,67.7,79.7,0.035,2
+1982,2021,Ashanti,Kumasi,Ghana National College,public,24.1,28.7,82.2,92.9,0.034,1
+1983,2023,Eastern,Nsawam,UCC Practice School,public,36.5,30,79.7,80.5,0.037,4
+1984,2021,Upper East,Bolgatanga,St Augustine's College,mission,35.9,34,74.6,82.7,0.046,5
+1985,2023,Bono East,Atebubu,Adisadel College,private,24.2,31.5,84.7,85.7,0.04,4
+1986,2023,Upper East,Bolgatanga,Apam SHS,private,30.7,30.1,74.5,82.3,0.037,4
+1987,2021,Oti,Kadjebi,Mfantsipim School,public,52.8,23.9,92.3,90.5,0.034,3
+1988,2020,Ahafo,Goaso,Apam SHS,public,55.9,30.1,82.3,85,0.046,0
+1989,2025,Oti,Nkwanta South,Apam SHS,public,34.9,25.1,77,79.8,0.046,3
+1990,2019,Bono East,Techiman,Adisadel College,mission,56,30.1,82.8,88,0.039,6
+1991,2019,Ashanti,Obuasi,Adisadel College,mission,73.5,29.8,83.7,84.9,0.034,4
+1992,2024,Upper West,Wa,Adisadel College,private,62,26.2,69.3,88.3,0.05,4
+1993,2018,Northern,Yendi,UCC Practice School,private,91,27.6,74.8,81.8,0.051,3
+1994,2022,Greater Accra,Kasoa East,St Augustine's College,mission,92.6,32.2,71.8,85.3,0.051,3
+1995,2024,Eastern,Suhum,Adisadel College,mission,86.8,32.2,94.1,87.7,0.038,8
+1996,2020,Upper West,Wa,Apam SHS,mission,107.7,34.7,63,67.4,0.034,3
+1997,2021,Volta,Ho,Wesley Girls,private,32.5,25.2,82.7,88.9,0.051,5
+1998,2019,Upper East,Bolgatanga,Ghana National College,private,38.2,30.8,72.2,92.3,0.055,6
+1999,2018,Northern,Savelugu,Cape Coast Technical University,private,52.8,31.3,70.4,82.2,0.032,4
+2000,2021,Upper West,Wa,Cape Coast Technical University,public,39.2,32.3,80.3,88.3,0.045,5

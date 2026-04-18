@@ -1,0 +1,2001 @@
+market_record_id,date,region,district,market_name,commodity,price_ghs,wholesale_price_ghs,quantity_available_kg,seller_type,mobile_money_acceptance,market_centre_type
+1,2023-06-27,Greater Accra,Tema,Kejetia,onion,16.57,14.66,592,aggregator,yes,rural
+2,2024-03-29,Ashanti,Mampong,Techiman Market,tomato,17.22,15.93,101,wholesaler,yes,peri-urban
+3,2024-11-25,Ahafo,Asunafo North,Agbogbloshie,onion,11.41,9.43,417,aggregator,yes,peri-urban
+4,2024-01-27,Ahafo,Asunafo North,Kotokuraba,sardine,15.98,13.92,412,retailer,yes,peri-urban
+5,2025-12-18,Western North,Juaboso,Kejetia,rice,9.71,8.17,63,aggregator,yes,urban
+6,2022-12-17,Greater Accra,Tema,Kejetia,sardine,9.35,7.69,497,wholesaler,no,urban
+7,2022-07-07,Upper East,Paga,Kotokuraba,yam,9.11,7.63,110,aggregator,no,urban
+8,2022-11-30,Ahafo,Goaso,Kejetia,pepper,13.58,12.73,348,wholesaler,yes,rural
+9,2023-04-28,Northern,Tolon,Keta Market,palm oil,8.92,7.54,433,aggregator,no,urban
+10,2025-05-24,Eastern,Suhum,Kotokuraba,sardine,11.6,10.81,129,aggregator,yes,peri-urban
+11,2025-03-27,Bono East,Kintampo,Makola,onion,18.47,15.6,238,retailer,no,rural
+12,2023-10-29,Upper East,Paga,Keta Market,rice,9.39,8.75,482,aggregator,yes,rural
+13,2025-06-18,Bono East,Kintampo,Techiman Market,sardine,11.29,10.14,534,retailer,yes,peri-urban
+14,2022-10-23,Western,Axim,Takoradi Market,tomato,13.81,11.51,572,retailer,yes,urban
+15,2022-02-14,Upper West,Lawra,Tamale Central,rice,14.68,13.06,276,aggregator,no,rural
+16,2023-05-10,Upper East,Bawku,Aboabo Market,plantain,11.31,9.71,212,aggregator,yes,peri-urban
+17,2022-06-24,Volta,Ho,Kotokuraba,pepper,17.73,15.35,89,aggregator,no,urban
+18,2024-09-30,Central,Komenda,Agbogbloshie,cassava,16.55,14.45,478,retailer,yes,rural
+19,2025-10-01,Ashanti,Obuasi,Keta Market,maize,20.06,17.47,401,wholesaler,no,rural
+20,2022-02-25,Central,Cape Coast,Tamale Central,palm oil,13.08,11.77,513,wholesaler,no,rural
+21,2022-12-07,Ashanti,Ejisu,Makola,pepper,11.25,10.26,116,retailer,yes,rural
+22,2025-02-05,Upper East,Bolgatanga,Aboabo Market,yam,10.6,9.11,243,retailer,yes,rural
+23,2022-08-02,Bono East,Atebubu,Takoradi Market,pepper,14.99,13.95,300,aggregator,yes,urban
+24,2024-01-28,Oti,Kadjebi,Takoradi Market,onion,11.8,11.0,352,aggregator,no,peri-urban
+25,2025-11-21,Savannah,Damongo,Takoradi Market,pepper,11.03,9.1,424,wholesaler,yes,rural
+26,2023-07-04,Volta,Ho,Takoradi Market,pepper,11.51,9.46,515,wholesaler,yes,peri-urban
+27,2023-05-12,Central,Kasoa,Ho Main Market,maize,10.6,9.23,205,wholesaler,no,peri-urban
+28,2022-06-22,Eastern,Nsawam,Aboabo Market,cassava,14.44,12.86,57,aggregator,no,peri-urban
+29,2022-04-15,Eastern,Suhum,Ho Main Market,rice,8.21,7.01,507,aggregator,no,urban
+30,2023-04-24,Northern,Yendi,Makola,maize,14.97,12.74,575,retailer,yes,peri-urban
+31,2025-11-23,Bono East,Atebubu,Keta Market,onion,17.06,15.38,525,aggregator,yes,peri-urban
+32,2023-03-10,Upper West,Jirapa,Makola,onion,10.99,9.81,508,wholesaler,yes,peri-urban
+33,2023-10-04,Volta,Ho,Agbogbloshie,yam,26.38,22.16,76,retailer,yes,rural
+34,2023-11-24,Central,Kasoa,Ho Main Market,plantain,13.55,12.55,531,aggregator,no,rural
+35,2024-09-17,Eastern,Nsawam,Kejetia,rice,7.8,7.03,267,wholesaler,no,peri-urban
+36,2024-07-10,Bono East,Techiman,Kotokuraba,onion,12.2,10.53,123,aggregator,no,urban
+37,2022-07-13,Eastern,Suhum,Aboabo Market,maize,13.76,12.41,576,retailer,yes,rural
+38,2024-04-22,Ashanti,Ejisu,Kejetia,onion,15.75,13.13,79,aggregator,no,rural
+39,2024-03-11,Upper East,Navrongo,Keta Market,pepper,12.3,10.78,597,wholesaler,yes,peri-urban
+40,2025-09-26,Upper West,Tumu,Takoradi Market,plantain,9.45,7.94,578,retailer,no,peri-urban
+41,2022-02-28,Greater Accra,Tema,Kotokuraba,onion,9.18,7.57,257,wholesaler,no,urban
+42,2023-04-23,Bono,Dormaa,Kotokuraba,pepper,10.71,9.22,390,retailer,yes,rural
+43,2025-01-31,Volta,Kpando,Takoradi Market,yam,11.08,9.29,45,aggregator,no,peri-urban
+44,2023-06-17,Oti,Kadjebi,Takoradi Market,onion,9.05,8.11,412,aggregator,no,rural
+45,2023-08-15,Bono East,Nkoranza,Kejetia,plantain,10.42,9.39,129,wholesaler,yes,peri-urban
+46,2024-04-18,Northern,Savelugu,Techiman Market,maize,16.96,14.21,411,aggregator,no,peri-urban
+47,2025-09-07,Western,Axim,Kotokuraba,yam,23.97,19.73,273,retailer,yes,urban
+48,2023-07-03,Western,Axim,Kejetia,sardine,17.54,16.05,571,aggregator,no,rural
+49,2024-11-03,Upper East,Bawku,Makola,rice,21.26,17.44,116,aggregator,no,rural
+50,2022-08-09,Western North,Bodi,Makola,pepper,18.93,16.3,557,aggregator,yes,peri-urban
+51,2024-05-25,Western,Shama,Ho Main Market,yam,18.02,15.85,123,aggregator,yes,urban
+52,2025-11-15,Upper West,Wa,Keta Market,plantain,11.96,10.98,515,aggregator,yes,urban
+53,2023-11-09,Central,Komenda,Ho Main Market,yam,14.14,13.02,233,aggregator,no,urban
+54,2025-04-11,Northern,Savelugu,Kejetia,rice,11.62,10.54,132,aggregator,no,rural
+55,2023-10-24,Oti,Jasikan,Kotokuraba,sardine,12.47,10.6,331,aggregator,yes,peri-urban
+56,2023-11-15,Upper West,Jirapa,Keta Market,pepper,13.79,12.5,588,wholesaler,yes,peri-urban
+57,2025-01-09,Oti,Nkwanta South,Techiman Market,plantain,17.28,14.68,120,wholesaler,yes,urban
+58,2022-12-02,Oti,Kadjebi,Keta Market,rice,15.61,13.2,103,aggregator,yes,urban
+59,2022-08-13,Upper East,Bolgatanga,Aboabo Market,pepper,12.72,11.27,321,wholesaler,no,urban
+60,2024-05-20,Oti,Jasikan,Ho Main Market,maize,13.73,12.38,592,aggregator,no,rural
+61,2022-02-04,Eastern,Nsawam,Ho Main Market,pepper,15.67,12.95,236,aggregator,yes,peri-urban
+62,2022-07-07,North East,Nalerigu,Makola,rice,17.01,14.07,587,aggregator,yes,urban
+63,2025-06-01,Central,Mfantsiman,Takoradi Market,tomato,7.91,7.23,560,wholesaler,no,urban
+64,2023-10-05,Central,Komenda,Keta Market,tomato,9.23,8.52,111,retailer,no,peri-urban
+65,2024-08-20,Bono,Dormaa,Kotokuraba,yam,19.84,17.71,471,aggregator,no,rural
+66,2024-08-25,Greater Accra,Tema,Keta Market,onion,13.18,11.49,90,aggregator,no,rural
+67,2023-05-09,Ashanti,Ejisu,Agbogbloshie,maize,11.61,10.7,544,retailer,no,rural
+68,2022-11-07,Savannah,Sawla,Takoradi Market,pepper,12.28,11.14,420,wholesaler,no,peri-urban
+69,2023-06-05,Upper East,Navrongo,Techiman Market,rice,12.28,10.92,100,retailer,yes,rural
+70,2023-01-04,Bono,Wenchi,Aboabo Market,cassava,16.37,14.05,119,aggregator,yes,urban
+71,2024-01-16,Western,Tarkwa,Agbogbloshie,maize,9.14,7.71,237,retailer,no,rural
+72,2022-01-31,Ashanti,Mampong,Techiman Market,tomato,13.58,11.82,144,aggregator,yes,peri-urban
+73,2025-06-09,Western North,Juaboso,Kejetia,sardine,14.67,12.53,220,wholesaler,yes,rural
+74,2024-09-24,Western,Axim,Makola,cassava,15.47,13.32,21,wholesaler,no,peri-urban
+75,2023-05-12,Upper West,Tumu,Agbogbloshie,onion,14.56,12.84,593,wholesaler,no,peri-urban
+76,2024-08-21,North East,Chereponi,Kejetia,pepper,16.13,13.55,39,aggregator,yes,rural
+77,2025-04-13,Bono East,Nkoranza,Makola,cassava,11.02,10.1,199,wholesaler,no,urban
+78,2022-10-25,Oti,Jasikan,Agbogbloshie,rice,9.68,8.11,428,retailer,no,peri-urban
+79,2025-10-20,North East,Bunkpurugu,Keta Market,plantain,31.82,27.93,81,wholesaler,yes,rural
+80,2025-01-14,North East,Walewale,Makola,plantain,12.12,11.02,292,aggregator,yes,peri-urban
+81,2023-07-31,North East,Walewale,Makola,yam,12.62,11.08,29,retailer,yes,rural
+82,2025-01-17,North East,Chereponi,Agbogbloshie,cassava,17.07,14.74,559,retailer,no,urban
+83,2022-02-23,North East,Walewale,Keta Market,tomato,23.54,20.64,479,retailer,yes,peri-urban
+84,2025-10-16,Western North,Sefwi Wiawso,Keta Market,yam,11.13,10.26,80,retailer,no,urban
+85,2022-08-17,Upper East,Bolgatanga,Kejetia,plantain,9.49,8.91,77,aggregator,no,urban
+86,2024-02-18,Northern,Tamale,Takoradi Market,onion,8.72,7.81,319,wholesaler,yes,urban
+87,2024-09-11,Western North,Sefwi Wiawso,Ho Main Market,cassava,23.51,21.52,516,retailer,yes,urban
+88,2023-01-08,Ashanti,Kumasi,Kejetia,onion,9.36,7.69,358,wholesaler,no,urban
+89,2023-04-14,Northern,Tolon,Kotokuraba,onion,13.33,12.34,271,wholesaler,no,rural
+90,2023-02-24,North East,Walewale,Ho Main Market,cassava,9.56,8.93,426,wholesaler,no,urban
+91,2023-06-16,Savannah,Bole,Techiman Market,tomato,8.11,7.21,275,wholesaler,no,rural
+92,2025-11-24,Oti,Dambai,Aboabo Market,cassava,12.15,11.06,400,aggregator,yes,urban
+93,2024-09-14,Ahafo,Asunafo North,Kotokuraba,palm oil,9.7,8.55,164,retailer,yes,urban
+94,2025-04-22,Volta,Ho,Ho Main Market,tomato,10.57,9.03,360,retailer,yes,peri-urban
+95,2023-07-16,Central,Kasoa,Techiman Market,palm oil,27.17,25.06,422,wholesaler,yes,rural
+96,2022-03-31,Savannah,Salaga,Makola,pepper,15.62,13.93,307,retailer,no,urban
+97,2025-11-07,Ashanti,Obuasi,Tamale Central,palm oil,18.65,16.59,233,wholesaler,no,urban
+98,2023-01-04,Oti,Dambai,Kejetia,plantain,17.97,16.16,551,aggregator,yes,urban
+99,2025-01-02,Central,Komenda,Techiman Market,rice,13.0,12.0,595,retailer,yes,rural
+100,2025-07-16,Upper West,Tumu,Makola,cassava,11.54,10.48,567,wholesaler,no,rural
+101,2022-01-15,Western,Sekondi-Takoradi,Kotokuraba,palm oil,14.69,12.42,230,retailer,no,rural
+102,2025-09-14,North East,Nalerigu,Makola,yam,14.28,12.51,190,wholesaler,no,peri-urban
+103,2025-11-16,Northern,Tolon,Ho Main Market,palm oil,11.03,10.34,557,retailer,yes,peri-urban
+104,2025-12-28,Northern,Tamale,Agbogbloshie,cassava,14.09,12.49,282,aggregator,yes,urban
+105,2022-12-10,Ahafo,Goaso,Kotokuraba,yam,10.51,9.8,409,retailer,no,rural
+106,2025-05-03,Greater Accra,Madina,Kotokuraba,maize,12.68,11.64,440,aggregator,yes,rural
+107,2024-11-25,Western North,Juaboso,Makola,yam,11.97,10.77,81,aggregator,no,peri-urban
+108,2024-07-05,Upper East,Bolgatanga,Kotokuraba,yam,8.64,7.45,105,wholesaler,yes,urban
+109,2022-07-24,Savannah,Salaga,Aboabo Market,tomato,5.91,5.06,510,wholesaler,no,rural
+110,2024-02-15,North East,Walewale,Kotokuraba,palm oil,9.69,8.69,79,retailer,yes,rural
+111,2024-12-16,Oti,Dambai,Kejetia,palm oil,25.32,22.08,496,aggregator,no,urban
+112,2025-02-07,Bono,Sunyani,Takoradi Market,sardine,12.08,11.06,339,wholesaler,yes,peri-urban
+113,2023-11-17,Upper West,Lawra,Ho Main Market,yam,17.67,16.1,71,aggregator,no,peri-urban
+114,2023-12-19,Western North,Bibiani,Agbogbloshie,rice,6.4,5.49,96,aggregator,no,rural
+115,2022-08-13,Eastern,Nsawam,Kotokuraba,tomato,9.46,8.55,138,aggregator,no,urban
+116,2025-11-10,Savannah,Sawla,Agbogbloshie,tomato,8.38,7.37,201,retailer,no,urban
+117,2022-03-05,Bono,Dormaa,Kotokuraba,tomato,12.54,10.77,525,aggregator,yes,urban
+118,2024-08-05,Northern,Savelugu,Techiman Market,palm oil,31.43,27.33,172,aggregator,no,rural
+119,2024-08-18,Upper West,Tumu,Tamale Central,sardine,15.82,14.67,37,retailer,no,peri-urban
+120,2025-10-07,Bono,Sunyani,Aboabo Market,onion,24.37,21.03,83,retailer,no,peri-urban
+121,2022-11-16,Ashanti,Obuasi,Kotokuraba,cassava,12.32,10.53,516,wholesaler,yes,peri-urban
+122,2022-12-23,Northern,Tolon,Agbogbloshie,maize,21.71,18.72,98,aggregator,no,peri-urban
+123,2022-04-03,Western,Shama,Takoradi Market,maize,27.82,23.53,78,aggregator,yes,peri-urban
+124,2023-11-26,Savannah,Bole,Tamale Central,cassava,12.96,11.47,430,retailer,no,rural
+125,2025-08-16,Upper West,Lawra,Tamale Central,tomato,11.15,9.34,80,retailer,no,rural
+126,2025-11-13,Western North,Juaboso,Agbogbloshie,pepper,8.49,7.79,486,wholesaler,no,peri-urban
+127,2023-03-10,Volta,Ho,Kejetia,cassava,12.08,10.23,98,retailer,no,peri-urban
+128,2025-01-30,North East,Nalerigu,Tamale Central,onion,13.86,12.36,507,retailer,yes,rural
+129,2024-04-20,North East,Nalerigu,Aboabo Market,onion,27.41,22.89,263,retailer,yes,peri-urban
+130,2025-11-02,Ashanti,Mampong,Takoradi Market,yam,8.56,8.02,227,retailer,no,peri-urban
+131,2025-09-23,Eastern,Suhum,Techiman Market,yam,13.75,12.03,106,wholesaler,no,peri-urban
+132,2024-10-20,Upper West,Tumu,Takoradi Market,yam,7.13,6.55,58,aggregator,no,urban
+133,2024-06-16,Upper West,Tumu,Ho Main Market,yam,11.6,10.58,195,aggregator,yes,peri-urban
+134,2024-06-02,Central,Cape Coast,Takoradi Market,pepper,15.01,13.59,497,aggregator,no,urban
+135,2024-02-17,Volta,Ho,Keta Market,pepper,16.11,14.81,39,aggregator,yes,peri-urban
+136,2023-05-07,Upper East,Navrongo,Kejetia,sardine,16.55,13.77,240,aggregator,yes,peri-urban
+137,2024-12-19,Ashanti,Kumasi,Makola,maize,15.47,13.94,294,retailer,no,rural
+138,2024-03-23,Central,Komenda,Aboabo Market,palm oil,16.5,14.06,173,aggregator,yes,rural
+139,2023-01-27,Bono East,Nkoranza,Agbogbloshie,pepper,13.68,12.51,482,retailer,no,rural
+140,2025-02-16,Northern,Savelugu,Takoradi Market,plantain,9.33,8.72,428,aggregator,yes,urban
+141,2025-09-13,Upper East,Bolgatanga,Ho Main Market,onion,7.04,6.53,270,aggregator,no,urban
+142,2022-01-21,Ahafo,Goaso,Kejetia,palm oil,11.12,9.27,231,retailer,no,peri-urban
+143,2025-01-25,Eastern,Nsawam,Techiman Market,onion,12.84,11.1,497,aggregator,no,urban
+144,2023-05-28,Greater Accra,Tema,Agbogbloshie,yam,20.88,18.03,438,retailer,no,rural
+145,2024-06-26,Western,Shama,Kejetia,pepper,13.0,10.85,191,wholesaler,no,urban
+146,2023-12-16,Upper East,Bawku,Ho Main Market,palm oil,12.57,10.46,526,wholesaler,no,peri-urban
+147,2024-08-01,Eastern,Koforidua,Aboabo Market,tomato,15.41,13.35,222,wholesaler,yes,urban
+148,2022-12-16,Central,Cape Coast,Ho Main Market,sardine,12.25,11.5,511,aggregator,yes,rural
+149,2025-03-01,Upper East,Bawku,Makola,plantain,17.88,15.88,314,aggregator,yes,peri-urban
+150,2023-06-30,Bono East,Techiman,Techiman Market,plantain,26.92,24.08,476,aggregator,no,urban
+151,2023-08-22,Central,Kasoa,Aboabo Market,maize,28.98,25.4,165,aggregator,no,peri-urban
+152,2022-02-01,Northern,Savelugu,Agbogbloshie,yam,13.93,12.53,257,retailer,no,peri-urban
+153,2022-09-16,Central,Cape Coast,Ho Main Market,plantain,15.15,14.16,443,wholesaler,no,urban
+154,2023-04-21,Oti,Jasikan,Ho Main Market,rice,23.4,20.84,311,retailer,no,peri-urban
+155,2024-04-04,Western,Tarkwa,Aboabo Market,rice,12.78,10.58,175,wholesaler,no,urban
+156,2024-08-29,North East,Chereponi,Tamale Central,cassava,17.08,15.02,369,wholesaler,yes,rural
+157,2024-07-08,Western North,Sefwi Wiawso,Kotokuraba,plantain,9.05,8.5,461,retailer,no,rural
+158,2022-02-02,Greater Accra,Madina,Tamale Central,palm oil,12.08,10.47,262,retailer,no,urban
+159,2024-06-17,Bono East,Kintampo,Tamale Central,pepper,20.18,17.99,226,retailer,no,urban
+160,2023-01-23,Oti,Jasikan,Kotokuraba,tomato,10.47,8.72,447,wholesaler,no,peri-urban
+161,2024-03-08,Central,Komenda,Makola,maize,12.87,10.77,277,retailer,no,urban
+162,2023-04-01,Greater Accra,Madina,Makola,yam,7.76,7.18,54,aggregator,yes,peri-urban
+163,2025-03-13,Eastern,Suhum,Kejetia,cassava,27.17,23.26,148,retailer,no,rural
+164,2022-08-12,Upper West,Lawra,Kejetia,palm oil,20.95,17.95,449,wholesaler,no,urban
+165,2022-08-05,Bono,Sunyani,Ho Main Market,onion,14.38,12.46,338,wholesaler,yes,rural
+166,2022-06-05,Oti,Nkwanta South,Aboabo Market,rice,16.08,15.05,114,retailer,yes,urban
+167,2024-02-28,Western,Sekondi-Takoradi,Keta Market,pepper,15.46,12.83,239,retailer,no,rural
+168,2022-02-05,Bono,Sunyani,Keta Market,cassava,21.86,20.07,320,wholesaler,yes,urban
+169,2023-09-28,Ashanti,Mampong,Kejetia,palm oil,11.23,9.67,204,wholesaler,yes,urban
+170,2022-01-09,Western North,Bibiani,Tamale Central,yam,17.4,16.04,56,retailer,no,peri-urban
+171,2024-11-29,Volta,Ho,Aboabo Market,tomato,19.63,18.43,419,aggregator,yes,peri-urban
+172,2022-06-28,Bono,Dormaa,Agbogbloshie,pepper,20.6,17.75,161,aggregator,no,urban
+173,2024-08-16,Savannah,Salaga,Makola,yam,6.11,5.11,153,aggregator,yes,peri-urban
+174,2023-05-16,Oti,Nkwanta South,Keta Market,sardine,10.92,9.14,464,wholesaler,no,urban
+175,2023-01-08,Upper West,Wa,Ho Main Market,yam,9.42,8.58,307,aggregator,no,urban
+176,2024-12-27,Ahafo,Tano North,Techiman Market,yam,14.19,11.88,277,aggregator,yes,rural
+177,2024-08-27,Upper West,Tumu,Takoradi Market,tomato,6.65,5.66,58,retailer,yes,peri-urban
+178,2025-12-18,Northern,Tolon,Agbogbloshie,plantain,6.58,5.56,324,retailer,no,peri-urban
+179,2023-05-30,Ashanti,Ejisu,Agbogbloshie,sardine,28.78,24.83,302,aggregator,no,rural
+180,2022-12-30,Upper East,Bawku,Aboabo Market,maize,16.71,13.85,545,wholesaler,yes,urban
+181,2024-02-16,Upper West,Tumu,Aboabo Market,cassava,14.05,12.97,426,aggregator,no,peri-urban
+182,2024-02-13,Bono,Wenchi,Makola,palm oil,15.29,14.12,378,retailer,yes,urban
+183,2022-11-25,Central,Kasoa,Kotokuraba,palm oil,14.17,12.32,397,retailer,yes,peri-urban
+184,2024-03-04,Western North,Bodi,Keta Market,onion,19.09,17.06,488,retailer,yes,peri-urban
+185,2024-08-19,Oti,Dambai,Kotokuraba,maize,10.79,9.68,300,aggregator,no,urban
+186,2023-01-05,Western North,Juaboso,Keta Market,maize,14.37,13.08,584,wholesaler,no,urban
+187,2023-08-20,Upper East,Navrongo,Takoradi Market,maize,14.58,12.87,30,aggregator,yes,peri-urban
+188,2025-11-11,Bono East,Techiman,Ho Main Market,maize,9.33,8.22,205,retailer,yes,rural
+189,2025-02-11,Upper West,Wa,Tamale Central,tomato,21.05,18.86,568,retailer,no,rural
+190,2023-07-25,Central,Mfantsiman,Techiman Market,plantain,11.52,10.42,28,retailer,no,rural
+191,2024-11-27,Western North,Bibiani,Makola,tomato,19.22,16.56,47,retailer,no,rural
+192,2023-01-12,Eastern,Suhum,Kotokuraba,cassava,14.02,12.05,483,aggregator,yes,rural
+193,2025-11-23,Central,Kasoa,Takoradi Market,sardine,23.85,20.33,530,aggregator,yes,urban
+194,2025-05-11,Oti,Kadjebi,Kotokuraba,onion,9.35,8.28,521,wholesaler,no,peri-urban
+195,2025-05-10,Ahafo,Tano North,Takoradi Market,tomato,9.21,7.95,237,retailer,yes,rural
+196,2022-04-10,Eastern,Akim Oda,Techiman Market,cassava,9.81,8.68,448,aggregator,yes,peri-urban
+197,2025-11-22,Northern,Tamale,Keta Market,sardine,14.11,12.26,22,aggregator,no,urban
+198,2024-03-26,Western North,Sefwi Wiawso,Agbogbloshie,cassava,23.09,21.25,206,retailer,yes,peri-urban
+199,2022-04-28,Bono,Sunyani,Takoradi Market,plantain,23.51,19.48,62,aggregator,no,urban
+200,2023-02-25,Western,Axim,Tamale Central,cassava,6.0,5.33,430,retailer,no,peri-urban
+201,2025-06-20,Ashanti,Mampong,Takoradi Market,pepper,14.69,13.06,209,wholesaler,no,peri-urban
+202,2023-06-25,Eastern,Akim Oda,Techiman Market,cassava,4.37,3.78,61,retailer,no,urban
+203,2025-06-04,Western North,Juaboso,Kotokuraba,tomato,17.78,15.48,116,retailer,yes,peri-urban
+204,2025-05-21,Upper East,Bolgatanga,Tamale Central,cassava,19.91,18.24,536,aggregator,no,urban
+205,2024-07-18,Volta,Keta,Makola,tomato,13.28,11.34,155,wholesaler,no,peri-urban
+206,2023-11-30,Bono,Sunyani,Ho Main Market,sardine,13.87,12.82,529,wholesaler,no,peri-urban
+207,2022-04-23,Bono East,Kintampo,Ho Main Market,pepper,13.82,12.82,538,aggregator,yes,rural
+208,2023-01-08,Eastern,Suhum,Ho Main Market,sardine,10.23,9.19,56,wholesaler,yes,peri-urban
+209,2022-10-26,Western North,Bodi,Ho Main Market,cassava,15.66,14.29,598,wholesaler,yes,rural
+210,2024-11-08,Upper East,Paga,Kotokuraba,maize,12.42,11.1,536,retailer,yes,rural
+211,2024-02-15,Upper West,Wa,Makola,onion,18.65,16.47,77,aggregator,no,urban
+212,2023-11-02,Upper East,Bolgatanga,Agbogbloshie,rice,12.94,12.11,174,wholesaler,yes,urban
+213,2022-01-11,Eastern,Koforidua,Ho Main Market,maize,9.96,8.51,132,wholesaler,yes,peri-urban
+214,2022-01-08,Upper East,Bawku,Tamale Central,pepper,7.87,6.6,479,wholesaler,yes,urban
+215,2025-03-22,Ashanti,Kumasi,Ho Main Market,sardine,7.01,5.99,461,retailer,no,rural
+216,2025-03-04,Upper West,Jirapa,Kejetia,pepper,21.31,19.05,247,retailer,no,peri-urban
+217,2025-10-28,Upper West,Tumu,Aboabo Market,plantain,11.47,9.66,598,aggregator,no,urban
+218,2023-04-06,Bono,Sunyani,Aboabo Market,sardine,15.16,14.08,141,aggregator,no,urban
+219,2025-06-12,Upper West,Jirapa,Takoradi Market,cassava,25.13,21.85,376,retailer,yes,urban
+220,2022-09-12,Northern,Tolon,Kotokuraba,sardine,11.06,10.2,287,aggregator,yes,rural
+221,2023-08-09,Ashanti,Mampong,Kotokuraba,maize,10.81,9.19,504,aggregator,yes,urban
+222,2025-09-13,Bono,Sunyani,Kejetia,onion,12.86,11.03,23,aggregator,yes,peri-urban
+223,2022-12-28,Northern,Yendi,Makola,cassava,13.6,11.25,497,retailer,yes,peri-urban
+224,2025-10-29,Bono East,Kintampo,Tamale Central,palm oil,26.07,22.18,140,retailer,no,peri-urban
+225,2024-09-29,Western,Shama,Takoradi Market,maize,23.29,20.47,505,wholesaler,yes,rural
+226,2024-02-27,Ahafo,Asunafo North,Tamale Central,yam,16.73,15.62,238,wholesaler,no,urban
+227,2022-07-28,Savannah,Bole,Keta Market,cassava,22.36,19.38,297,wholesaler,no,peri-urban
+228,2022-09-24,Upper West,Jirapa,Takoradi Market,cassava,12.65,11.34,276,wholesaler,no,urban
+229,2023-10-18,Ashanti,Obuasi,Takoradi Market,maize,14.95,13.03,323,aggregator,yes,urban
+230,2024-09-23,Western,Axim,Kotokuraba,plantain,12.12,10.01,62,aggregator,yes,peri-urban
+231,2023-07-08,Bono,Wenchi,Kejetia,sardine,8.57,7.55,549,retailer,no,rural
+232,2024-01-06,Northern,Yendi,Aboabo Market,yam,20.52,16.99,169,aggregator,yes,peri-urban
+233,2023-02-25,Western,Sekondi-Takoradi,Tamale Central,pepper,16.22,15.02,29,aggregator,yes,peri-urban
+234,2022-11-04,Northern,Yendi,Aboabo Market,cassava,13.55,12.34,231,aggregator,yes,rural
+235,2022-05-17,Western North,Bodi,Tamale Central,sardine,13.45,11.64,279,wholesaler,yes,urban
+236,2025-12-13,Savannah,Sawla,Takoradi Market,rice,7.95,7.13,401,retailer,no,urban
+237,2022-07-14,Western,Shama,Kotokuraba,rice,9.56,7.97,408,wholesaler,yes,rural
+238,2025-01-23,Eastern,Akim Oda,Kejetia,pepper,15.14,13.69,355,aggregator,yes,peri-urban
+239,2025-07-05,Volta,Hohoe,Ho Main Market,tomato,11.19,10.28,24,aggregator,yes,rural
+240,2024-11-14,Savannah,Damongo,Takoradi Market,yam,12.48,11.46,102,retailer,no,peri-urban
+241,2025-06-09,Eastern,Akim Oda,Takoradi Market,rice,12.98,11.09,25,wholesaler,no,rural
+242,2025-09-17,Bono,Dormaa,Takoradi Market,onion,10.6,9.03,171,aggregator,yes,urban
+243,2023-08-29,Central,Kasoa,Ho Main Market,pepper,9.59,8.46,200,retailer,yes,rural
+244,2024-10-10,Western,Shama,Tamale Central,maize,7.66,7.17,186,aggregator,yes,rural
+245,2024-05-11,Savannah,Bole,Kotokuraba,maize,12.79,11.9,489,aggregator,yes,peri-urban
+246,2022-08-09,Bono East,Nkoranza,Agbogbloshie,palm oil,16.72,14.43,97,retailer,no,peri-urban
+247,2022-10-24,Oti,Dambai,Keta Market,onion,7.57,6.92,431,retailer,no,peri-urban
+248,2025-05-11,Oti,Jasikan,Takoradi Market,yam,13.35,12.42,573,aggregator,no,rural
+249,2024-10-07,Upper East,Bawku,Agbogbloshie,rice,14.86,12.65,593,retailer,no,rural
+250,2022-12-09,Northern,Tamale,Takoradi Market,tomato,9.52,8.75,400,aggregator,no,peri-urban
+251,2023-08-16,Northern,Tolon,Ho Main Market,yam,22.15,18.88,332,wholesaler,no,urban
+252,2025-05-13,Ahafo,Tano North,Aboabo Market,plantain,11.76,10.13,414,aggregator,yes,peri-urban
+253,2024-06-10,North East,Chereponi,Keta Market,yam,12.99,10.96,562,retailer,no,rural
+254,2022-03-18,Western,Axim,Kejetia,maize,12.72,11.2,23,wholesaler,no,rural
+255,2023-12-08,Northern,Tolon,Aboabo Market,palm oil,7.24,6.67,128,retailer,no,peri-urban
+256,2024-12-01,Central,Mfantsiman,Agbogbloshie,rice,19.16,16.93,112,aggregator,yes,peri-urban
+257,2025-04-20,Bono East,Nkoranza,Makola,pepper,9.64,8.05,118,retailer,no,rural
+258,2024-01-27,Oti,Jasikan,Techiman Market,rice,12.39,10.53,211,aggregator,no,rural
+259,2025-05-03,Bono East,Atebubu,Ho Main Market,sardine,16.6,14.73,352,retailer,no,urban
+260,2023-08-13,Ashanti,Obuasi,Takoradi Market,maize,22.45,19.98,231,retailer,no,peri-urban
+261,2023-01-23,Northern,Yendi,Ho Main Market,palm oil,9.23,8.21,226,aggregator,yes,peri-urban
+262,2024-07-15,Central,Komenda,Aboabo Market,sardine,11.52,9.55,592,wholesaler,yes,urban
+263,2023-09-29,Savannah,Sawla,Kejetia,onion,21.84,19.88,375,aggregator,yes,rural
+264,2022-05-21,Bono,Berekum,Aboabo Market,tomato,15.84,14.72,272,wholesaler,no,rural
+265,2024-11-16,Eastern,Suhum,Tamale Central,yam,17.03,15.01,215,wholesaler,yes,urban
+266,2025-08-31,Northern,Savelugu,Aboabo Market,plantain,9.32,8.45,281,wholesaler,yes,peri-urban
+267,2025-09-06,Northern,Savelugu,Makola,cassava,11.79,10.96,341,wholesaler,yes,rural
+268,2023-03-24,Upper East,Paga,Keta Market,cassava,12.7,11.39,439,aggregator,yes,urban
+269,2022-10-20,Upper West,Lawra,Ho Main Market,pepper,9.97,8.98,517,aggregator,yes,urban
+270,2025-06-13,Central,Mfantsiman,Ho Main Market,palm oil,7.49,6.79,351,wholesaler,no,urban
+271,2023-12-16,North East,Chereponi,Agbogbloshie,onion,11.26,9.59,315,wholesaler,no,rural
+272,2023-04-02,Bono East,Atebubu,Techiman Market,maize,21.63,19.25,255,wholesaler,no,rural
+273,2024-06-10,Central,Komenda,Techiman Market,plantain,13.75,12.66,26,wholesaler,no,urban
+274,2024-04-18,Greater Accra,Madina,Makola,pepper,21.78,18.63,553,wholesaler,no,urban
+275,2023-10-16,Greater Accra,Accra,Kotokuraba,onion,14.33,13.29,91,wholesaler,no,rural
+276,2023-10-26,Upper West,Lawra,Takoradi Market,tomato,10.3,9.21,519,retailer,yes,rural
+277,2024-02-04,Greater Accra,Tema,Tamale Central,maize,21.06,18.34,158,wholesaler,yes,rural
+278,2024-12-26,North East,Nalerigu,Techiman Market,cassava,14.5,12.97,405,retailer,no,rural
+279,2022-06-25,Savannah,Salaga,Kejetia,tomato,18.85,16.37,561,aggregator,no,rural
+280,2023-05-25,Central,Kasoa,Ho Main Market,pepper,9.26,8.52,343,aggregator,no,urban
+281,2025-01-19,Western,Shama,Kejetia,palm oil,19.37,17.0,92,wholesaler,no,rural
+282,2023-12-06,Ahafo,Tano North,Takoradi Market,sardine,19.57,18.16,408,aggregator,yes,rural
+283,2025-04-04,Savannah,Damongo,Agbogbloshie,palm oil,14.9,13.13,257,aggregator,yes,urban
+284,2023-08-25,Northern,Tolon,Agbogbloshie,maize,10.15,9.13,341,wholesaler,no,urban
+285,2024-04-17,Northern,Tolon,Keta Market,tomato,13.25,12.45,360,aggregator,no,peri-urban
+286,2024-09-28,Western,Tarkwa,Kotokuraba,yam,16.68,13.97,324,aggregator,no,rural
+287,2022-02-20,Greater Accra,Madina,Techiman Market,palm oil,14.62,13.28,27,wholesaler,no,peri-urban
+288,2023-11-17,Upper East,Navrongo,Aboabo Market,rice,16.62,13.91,226,wholesaler,no,peri-urban
+289,2022-09-23,Eastern,Akim Oda,Aboabo Market,tomato,19.19,17.67,430,wholesaler,no,urban
+290,2025-01-15,Upper West,Lawra,Ho Main Market,pepper,10.73,9.57,277,retailer,yes,urban
+291,2023-08-29,Upper West,Tumu,Makola,palm oil,8.99,8.38,65,wholesaler,yes,peri-urban
+292,2024-12-11,Central,Komenda,Ho Main Market,sardine,13.29,12.28,145,aggregator,yes,peri-urban
+293,2025-04-17,Central,Cape Coast,Aboabo Market,pepper,12.0,9.95,40,wholesaler,yes,peri-urban
+294,2025-07-25,Western,Shama,Ho Main Market,sardine,17.73,14.83,189,retailer,no,peri-urban
+295,2025-06-16,Bono,Wenchi,Ho Main Market,yam,9.24,8.24,563,aggregator,yes,rural
+296,2023-08-08,Oti,Kadjebi,Techiman Market,rice,19.24,16.97,435,retailer,yes,peri-urban
+297,2022-12-05,Ahafo,Asutifi South,Takoradi Market,yam,21.62,18.17,474,aggregator,no,urban
+298,2024-12-31,Eastern,Koforidua,Agbogbloshie,rice,13.47,11.25,225,wholesaler,yes,peri-urban
+299,2023-01-09,North East,Bunkpurugu,Ho Main Market,onion,13.75,12.21,352,retailer,yes,peri-urban
+300,2023-08-03,Volta,Ho,Ho Main Market,cassava,10.29,8.5,40,wholesaler,yes,urban
+301,2023-06-01,Ashanti,Kumasi,Makola,sardine,11.13,10.29,84,aggregator,no,peri-urban
+302,2025-06-15,North East,Walewale,Aboabo Market,onion,11.67,10.7,596,wholesaler,no,urban
+303,2022-05-01,North East,Bunkpurugu,Ho Main Market,tomato,22.31,20.4,107,wholesaler,no,rural
+304,2025-12-07,Oti,Jasikan,Keta Market,rice,13.13,10.79,498,aggregator,no,rural
+305,2024-04-16,North East,Nalerigu,Takoradi Market,yam,8.48,7.0,62,retailer,yes,urban
+306,2023-07-24,Oti,Kadjebi,Ho Main Market,onion,14.72,13.04,160,aggregator,no,rural
+307,2022-02-12,Western,Axim,Takoradi Market,yam,17.98,16.89,393,aggregator,no,rural
+308,2025-05-05,Bono,Wenchi,Makola,rice,13.34,11.49,535,wholesaler,no,rural
+309,2022-03-13,Oti,Dambai,Kejetia,yam,22.52,19.4,519,aggregator,yes,urban
+310,2022-04-01,North East,Nalerigu,Makola,maize,17.67,14.77,298,retailer,yes,peri-urban
+311,2023-05-06,Western North,Sefwi Wiawso,Makola,maize,9.33,8.41,345,aggregator,yes,rural
+312,2024-01-19,Savannah,Sawla,Aboabo Market,sardine,11.1,9.96,437,aggregator,yes,peri-urban
+313,2024-09-24,Western,Tarkwa,Makola,yam,14.57,12.12,572,wholesaler,no,peri-urban
+314,2023-01-18,Upper East,Navrongo,Kotokuraba,tomato,7.51,6.58,327,retailer,yes,rural
+315,2024-03-15,Western North,Bodi,Keta Market,maize,15.15,13.64,326,wholesaler,no,rural
+316,2025-03-23,Western North,Juaboso,Aboabo Market,tomato,7.27,6.39,489,wholesaler,yes,peri-urban
+317,2022-06-19,Upper East,Paga,Techiman Market,pepper,19.26,17.35,203,retailer,no,rural
+318,2025-07-19,Volta,Hohoe,Makola,plantain,18.5,16.98,310,retailer,yes,urban
+319,2024-07-06,Bono East,Kintampo,Tamale Central,rice,16.07,14.5,268,aggregator,yes,urban
+320,2025-02-07,Bono,Dormaa,Tamale Central,rice,10.63,9.5,343,retailer,yes,rural
+321,2022-05-31,Savannah,Damongo,Agbogbloshie,tomato,14.29,13.18,462,wholesaler,yes,peri-urban
+322,2023-03-07,Northern,Tolon,Ho Main Market,cassava,11.25,10.44,78,retailer,no,rural
+323,2023-03-27,North East,Nalerigu,Kotokuraba,tomato,9.39,8.14,288,retailer,yes,urban
+324,2023-10-05,Oti,Nkwanta South,Kotokuraba,rice,11.96,10.06,337,retailer,no,peri-urban
+325,2024-02-19,Upper West,Tumu,Takoradi Market,plantain,17.19,15.78,113,wholesaler,no,rural
+326,2022-01-23,Upper West,Wa,Agbogbloshie,maize,13.67,11.56,273,aggregator,yes,urban
+327,2023-01-02,Ashanti,Kumasi,Tamale Central,tomato,22.37,20.84,479,aggregator,yes,peri-urban
+328,2023-10-13,Upper West,Lawra,Makola,yam,17.6,14.48,534,wholesaler,yes,urban
+329,2024-03-30,Upper West,Jirapa,Keta Market,cassava,16.95,15.77,552,aggregator,yes,rural
+330,2022-08-27,Western,Axim,Ho Main Market,rice,7.67,6.83,123,aggregator,no,rural
+331,2023-03-10,Upper West,Jirapa,Keta Market,tomato,12.18,11.12,421,wholesaler,no,urban
+332,2023-12-05,Volta,Hohoe,Tamale Central,tomato,9.28,8.05,352,wholesaler,yes,urban
+333,2025-02-24,Western North,Bibiani,Tamale Central,yam,12.63,11.86,112,aggregator,no,urban
+334,2024-07-30,Western North,Bodi,Kejetia,pepper,10.56,8.95,576,retailer,yes,urban
+335,2023-06-25,North East,Bunkpurugu,Ho Main Market,maize,11.8,10.05,593,aggregator,no,urban
+336,2023-09-25,Savannah,Salaga,Takoradi Market,plantain,19.52,16.13,561,retailer,yes,peri-urban
+337,2022-07-17,Savannah,Damongo,Kotokuraba,maize,15.9,14.83,456,wholesaler,no,rural
+338,2023-04-27,Bono,Wenchi,Takoradi Market,yam,19.15,16.75,29,retailer,yes,peri-urban
+339,2025-04-17,Oti,Kadjebi,Kotokuraba,rice,7.69,6.93,475,retailer,yes,urban
+340,2024-05-18,Upper East,Bawku,Kejetia,yam,13.74,12.4,434,retailer,yes,peri-urban
+341,2023-06-07,Volta,Ho,Takoradi Market,sardine,18.88,17.46,537,wholesaler,yes,rural
+342,2023-10-13,Eastern,Akim Oda,Agbogbloshie,onion,22.81,20.52,394,aggregator,no,urban
+343,2024-08-16,Central,Cape Coast,Ho Main Market,pepper,7.83,6.95,550,aggregator,yes,urban
+344,2023-03-13,North East,Nalerigu,Aboabo Market,onion,11.91,10.78,543,retailer,yes,rural
+345,2024-05-06,Northern,Tamale,Ho Main Market,rice,19.34,17.6,392,aggregator,no,peri-urban
+346,2022-11-10,Savannah,Sawla,Ho Main Market,plantain,12.59,10.6,458,wholesaler,no,rural
+347,2022-01-19,Greater Accra,Accra,Kejetia,maize,9.79,8.16,214,wholesaler,yes,rural
+348,2025-03-29,Eastern,Nsawam,Keta Market,cassava,7.83,6.49,284,wholesaler,no,peri-urban
+349,2024-03-28,Eastern,Nsawam,Tamale Central,sardine,9.66,8.35,526,wholesaler,no,peri-urban
+350,2022-05-02,Ahafo,Asunafo North,Techiman Market,pepper,7.45,6.55,445,aggregator,yes,urban
+351,2022-03-13,Central,Kasoa,Aboabo Market,onion,13.74,12.28,118,retailer,yes,urban
+352,2024-12-14,Volta,Kpando,Makola,tomato,18.43,17.23,49,retailer,yes,urban
+353,2023-04-05,North East,Chereponi,Keta Market,sardine,8.66,7.44,310,retailer,yes,rural
+354,2022-06-18,Eastern,Suhum,Kotokuraba,maize,14.73,13.42,594,wholesaler,yes,peri-urban
+355,2023-08-05,Upper East,Navrongo,Ho Main Market,sardine,18.1,16.0,506,aggregator,no,peri-urban
+356,2025-03-18,Ahafo,Asutifi South,Kejetia,rice,13.45,11.38,425,aggregator,no,urban
+357,2023-09-21,Western,Tarkwa,Kejetia,tomato,7.66,6.85,47,aggregator,yes,rural
+358,2022-01-26,Western,Tarkwa,Ho Main Market,plantain,15.41,14.42,165,aggregator,yes,rural
+359,2025-06-25,Central,Komenda,Kotokuraba,tomato,13.21,11.03,307,aggregator,yes,peri-urban
+360,2023-12-22,Upper West,Tumu,Aboabo Market,plantain,12.75,11.23,271,aggregator,yes,peri-urban
+361,2025-06-04,Savannah,Damongo,Aboabo Market,rice,11.12,9.19,181,retailer,no,peri-urban
+362,2024-10-30,Upper East,Navrongo,Keta Market,plantain,13.88,11.92,129,wholesaler,no,peri-urban
+363,2025-01-23,Central,Komenda,Ho Main Market,tomato,16.09,14.39,417,retailer,yes,rural
+364,2022-05-01,Western North,Bodi,Agbogbloshie,plantain,31.09,28.63,290,aggregator,no,urban
+365,2022-05-06,Upper East,Paga,Takoradi Market,palm oil,14.0,12.71,207,wholesaler,no,peri-urban
+366,2023-07-03,Bono,Sunyani,Agbogbloshie,yam,22.85,20.01,551,wholesaler,yes,peri-urban
+367,2024-12-28,North East,Walewale,Makola,plantain,15.26,14.18,295,wholesaler,yes,peri-urban
+368,2022-10-24,Western,Tarkwa,Agbogbloshie,tomato,13.0,11.13,266,wholesaler,no,rural
+369,2023-11-17,Northern,Savelugu,Kejetia,yam,14.18,12.91,343,aggregator,no,urban
+370,2024-08-30,Eastern,Koforidua,Keta Market,yam,8.78,7.7,37,aggregator,no,rural
+371,2024-12-04,Eastern,Koforidua,Techiman Market,tomato,14.99,13.91,427,wholesaler,no,urban
+372,2023-09-27,Ashanti,Ejisu,Tamale Central,cassava,6.7,6.14,430,aggregator,yes,rural
+373,2023-01-17,Oti,Nkwanta South,Makola,rice,9.95,9.24,144,wholesaler,no,peri-urban
+374,2024-11-16,Ashanti,Obuasi,Techiman Market,maize,13.99,11.83,339,aggregator,yes,peri-urban
+375,2023-12-06,Eastern,Nsawam,Ho Main Market,maize,20.45,18.41,172,wholesaler,no,urban
+376,2023-05-12,Upper East,Paga,Agbogbloshie,yam,22.21,20.18,576,aggregator,no,rural
+377,2024-05-01,North East,Nalerigu,Tamale Central,rice,12.39,11.26,39,retailer,yes,urban
+378,2025-03-05,Ashanti,Obuasi,Techiman Market,plantain,14.22,12.52,266,retailer,yes,rural
+379,2023-12-08,Northern,Tolon,Kotokuraba,palm oil,19.0,15.61,409,aggregator,no,peri-urban
+380,2024-12-08,Upper West,Jirapa,Makola,pepper,8.45,7.19,366,aggregator,no,urban
+381,2022-05-01,Western North,Bodi,Takoradi Market,cassava,15.51,13.32,495,retailer,yes,urban
+382,2025-05-25,Upper East,Paga,Makola,onion,10.08,9.3,222,aggregator,no,peri-urban
+383,2023-09-18,Volta,Ho,Tamale Central,rice,12.68,11.68,28,wholesaler,yes,peri-urban
+384,2023-06-10,Northern,Savelugu,Techiman Market,cassava,11.47,9.55,550,aggregator,yes,peri-urban
+385,2024-12-02,Western,Axim,Tamale Central,maize,15.68,14.64,122,aggregator,no,peri-urban
+386,2024-01-22,Volta,Hohoe,Ho Main Market,pepper,16.32,13.74,265,retailer,no,peri-urban
+387,2022-04-06,Bono East,Kintampo,Keta Market,plantain,18.39,15.99,338,retailer,yes,peri-urban
+388,2022-01-27,Bono East,Atebubu,Tamale Central,pepper,15.21,12.86,370,aggregator,yes,rural
+389,2024-04-15,Bono East,Techiman,Aboabo Market,pepper,14.3,13.2,253,wholesaler,yes,rural
+390,2025-06-19,Savannah,Bole,Kejetia,plantain,25.76,23.44,56,aggregator,yes,urban
+391,2023-05-02,Central,Mfantsiman,Agbogbloshie,pepper,7.9,6.81,364,wholesaler,yes,rural
+392,2022-08-28,North East,Nalerigu,Takoradi Market,rice,24.37,21.98,311,wholesaler,yes,urban
+393,2025-08-20,Ashanti,Ejisu,Kejetia,onion,12.16,10.24,36,aggregator,no,rural
+394,2022-03-08,Savannah,Sawla,Aboabo Market,cassava,16.44,14.23,109,wholesaler,no,rural
+395,2025-07-28,Central,Cape Coast,Kotokuraba,rice,12.01,10.39,367,retailer,yes,peri-urban
+396,2025-04-30,Volta,Keta,Keta Market,cassava,10.53,8.94,463,wholesaler,no,rural
+397,2025-02-16,Ashanti,Obuasi,Takoradi Market,yam,15.95,14.76,272,wholesaler,yes,rural
+398,2025-03-21,Western,Tarkwa,Keta Market,tomato,19.39,17.48,203,wholesaler,yes,rural
+399,2025-11-16,Savannah,Salaga,Keta Market,tomato,15.89,13.56,309,retailer,yes,peri-urban
+400,2022-08-19,Savannah,Salaga,Kotokuraba,onion,11.14,9.46,234,retailer,no,peri-urban
+401,2022-12-17,North East,Walewale,Kotokuraba,palm oil,47.65,39.18,177,aggregator,no,rural
+402,2024-01-31,Ahafo,Asutifi South,Keta Market,rice,20.48,17.65,412,wholesaler,yes,urban
+403,2025-04-09,Western North,Bodi,Kotokuraba,onion,18.67,16.49,39,retailer,yes,rural
+404,2024-05-12,Western,Tarkwa,Agbogbloshie,onion,11.9,10.15,490,wholesaler,no,peri-urban
+405,2025-03-01,Greater Accra,Kasoa East,Kotokuraba,cassava,10.82,9.78,450,wholesaler,no,peri-urban
+406,2022-12-23,Bono,Berekum,Kejetia,palm oil,12.21,10.62,87,aggregator,yes,urban
+407,2024-12-01,Bono East,Kintampo,Ho Main Market,yam,19.66,16.87,96,wholesaler,yes,peri-urban
+408,2025-08-21,Volta,Hohoe,Tamale Central,maize,9.52,8.88,121,retailer,no,peri-urban
+409,2024-10-26,Western,Axim,Techiman Market,yam,9.26,7.89,226,aggregator,no,rural
+410,2022-11-25,North East,Walewale,Makola,pepper,16.26,14.11,232,aggregator,yes,urban
+411,2025-04-08,Bono,Berekum,Takoradi Market,pepper,15.06,13.04,98,wholesaler,yes,peri-urban
+412,2024-06-29,Upper East,Bawku,Techiman Market,yam,10.28,8.73,132,wholesaler,yes,peri-urban
+413,2022-12-04,Upper West,Tumu,Kejetia,yam,9.19,7.78,152,retailer,yes,rural
+414,2024-12-28,Upper West,Wa,Keta Market,onion,22.27,19.07,216,wholesaler,yes,rural
+415,2024-05-31,Western North,Juaboso,Techiman Market,tomato,15.26,14.1,44,retailer,yes,rural
+416,2023-06-23,Greater Accra,Accra,Makola,rice,8.35,7.62,491,wholesaler,no,rural
+417,2024-01-07,Upper East,Paga,Aboabo Market,pepper,8.56,7.72,562,retailer,no,urban
+418,2023-03-19,Ahafo,Asunafo North,Takoradi Market,palm oil,11.86,10.38,309,wholesaler,no,rural
+419,2024-07-12,Western North,Bibiani,Kotokuraba,yam,17.4,15.33,275,aggregator,yes,urban
+420,2024-07-08,Northern,Tolon,Makola,plantain,16.58,14.13,225,retailer,yes,peri-urban
+421,2022-02-20,Upper West,Tumu,Tamale Central,cassava,20.01,16.59,494,aggregator,no,peri-urban
+422,2022-05-29,Eastern,Suhum,Kotokuraba,maize,7.99,6.87,87,aggregator,no,rural
+423,2025-01-20,Bono,Wenchi,Techiman Market,sardine,14.56,12.81,234,aggregator,yes,rural
+424,2023-01-03,Western North,Bodi,Keta Market,palm oil,22.18,18.34,441,aggregator,no,rural
+425,2023-08-03,Greater Accra,Kasoa East,Tamale Central,cassava,21.47,17.83,577,retailer,no,peri-urban
+426,2023-10-18,Western,Shama,Makola,tomato,15.27,13.0,558,wholesaler,yes,peri-urban
+427,2022-03-17,Upper West,Lawra,Kotokuraba,cassava,30.62,26.46,481,aggregator,no,peri-urban
+428,2025-01-14,Central,Cape Coast,Ho Main Market,plantain,16.66,14.45,474,wholesaler,no,urban
+429,2022-08-15,North East,Nalerigu,Keta Market,tomato,19.39,16.17,320,retailer,no,peri-urban
+430,2025-10-18,North East,Walewale,Keta Market,rice,13.67,11.58,307,wholesaler,yes,rural
+431,2024-08-16,Upper East,Bawku,Keta Market,onion,10.24,8.72,21,retailer,yes,urban
+432,2023-08-15,Northern,Tamale,Ho Main Market,pepper,9.91,8.21,39,wholesaler,no,urban
+433,2022-01-24,Eastern,Akim Oda,Makola,cassava,14.35,12.33,496,retailer,no,urban
+434,2022-01-28,Bono East,Kintampo,Kejetia,plantain,12.5,10.36,510,retailer,yes,peri-urban
+435,2022-05-01,Upper West,Jirapa,Keta Market,onion,7.25,6.56,276,wholesaler,yes,peri-urban
+436,2024-05-02,Ashanti,Ejisu,Tamale Central,plantain,9.4,8.14,472,aggregator,yes,peri-urban
+437,2023-09-16,Bono,Wenchi,Kotokuraba,sardine,12.04,10.34,457,aggregator,yes,peri-urban
+438,2024-06-08,Central,Komenda,Aboabo Market,tomato,17.37,14.51,417,wholesaler,yes,rural
+439,2025-09-30,North East,Nalerigu,Keta Market,rice,13.39,11.34,172,aggregator,no,urban
+440,2022-01-31,Upper East,Bolgatanga,Takoradi Market,palm oil,13.13,11.13,241,aggregator,yes,urban
+441,2025-06-04,Oti,Nkwanta South,Aboabo Market,pepper,9.53,8.94,455,retailer,no,urban
+442,2024-05-19,Ashanti,Obuasi,Aboabo Market,onion,13.57,12.49,155,wholesaler,no,urban
+443,2025-06-27,Central,Cape Coast,Takoradi Market,cassava,21.36,17.55,547,aggregator,yes,urban
+444,2022-02-19,Volta,Hohoe,Keta Market,palm oil,14.22,12.71,298,aggregator,yes,rural
+445,2023-12-27,Northern,Yendi,Takoradi Market,tomato,7.94,6.75,504,aggregator,yes,rural
+446,2023-01-24,Ashanti,Mampong,Kejetia,palm oil,8.69,7.23,565,wholesaler,no,urban
+447,2024-08-01,Western,Sekondi-Takoradi,Kotokuraba,sardine,16.54,14.96,264,aggregator,yes,urban
+448,2025-08-04,North East,Walewale,Aboabo Market,onion,12.45,10.41,37,aggregator,no,peri-urban
+449,2024-10-11,Western North,Juaboso,Takoradi Market,sardine,13.12,11.46,575,aggregator,yes,urban
+450,2023-04-20,Bono,Sunyani,Agbogbloshie,rice,10.86,9.73,162,retailer,no,rural
+451,2024-01-26,North East,Chereponi,Agbogbloshie,yam,16.06,14.24,520,wholesaler,no,peri-urban
+452,2023-08-26,Bono East,Atebubu,Kotokuraba,onion,12.12,11.36,546,aggregator,yes,rural
+453,2024-07-14,Bono East,Atebubu,Ho Main Market,rice,12.61,11.53,112,retailer,yes,peri-urban
+454,2024-10-26,Upper East,Bolgatanga,Kejetia,onion,9.99,9.12,402,wholesaler,no,peri-urban
+455,2024-03-03,Greater Accra,Kasoa East,Ho Main Market,yam,18.59,16.04,298,retailer,no,urban
+456,2023-02-16,Central,Cape Coast,Keta Market,pepper,12.46,10.23,468,retailer,yes,rural
+457,2023-10-24,Bono East,Kintampo,Tamale Central,plantain,16.66,15.13,307,wholesaler,no,rural
+458,2025-09-09,Greater Accra,Tema,Keta Market,onion,8.87,8.34,495,aggregator,no,urban
+459,2025-11-23,Upper East,Bawku,Kotokuraba,yam,24.7,21.46,190,aggregator,yes,peri-urban
+460,2025-07-29,Bono,Wenchi,Ho Main Market,pepper,21.05,19.75,544,retailer,yes,peri-urban
+461,2022-07-10,Western,Tarkwa,Techiman Market,palm oil,6.9,5.78,391,wholesaler,no,rural
+462,2024-02-25,Northern,Yendi,Kotokuraba,onion,10.17,8.7,412,wholesaler,no,urban
+463,2023-08-08,Volta,Keta,Ho Main Market,plantain,15.91,13.37,204,aggregator,yes,urban
+464,2024-08-16,Upper West,Lawra,Tamale Central,sardine,8.48,7.44,529,retailer,yes,rural
+465,2023-05-15,Central,Cape Coast,Keta Market,palm oil,12.86,11.78,451,aggregator,yes,peri-urban
+466,2023-08-03,Upper East,Bawku,Makola,palm oil,15.63,13.46,228,wholesaler,no,peri-urban
+467,2024-03-26,Bono,Dormaa,Kejetia,onion,12.62,11.72,348,wholesaler,yes,urban
+468,2025-12-28,Ashanti,Ejisu,Agbogbloshie,tomato,16.26,14.4,380,aggregator,no,peri-urban
+469,2024-12-22,Greater Accra,Madina,Agbogbloshie,pepper,10.56,9.25,463,aggregator,yes,peri-urban
+470,2025-08-23,Upper East,Bawku,Aboabo Market,rice,6.14,5.61,460,wholesaler,yes,peri-urban
+471,2024-02-19,Greater Accra,Madina,Techiman Market,sardine,18.99,15.8,388,retailer,no,rural
+472,2024-07-31,Upper East,Bawku,Techiman Market,cassava,18.94,17.29,125,wholesaler,yes,urban
+473,2025-02-23,Upper West,Wa,Keta Market,onion,32.34,27.46,344,retailer,no,rural
+474,2022-09-22,Central,Kasoa,Kejetia,palm oil,6.22,5.31,251,aggregator,yes,rural
+475,2022-01-07,Bono East,Nkoranza,Takoradi Market,plantain,17.51,15.62,268,aggregator,yes,peri-urban
+476,2025-12-07,Upper West,Wa,Takoradi Market,maize,6.76,6.27,336,retailer,yes,urban
+477,2025-05-14,Savannah,Sawla,Takoradi Market,plantain,24.9,22.15,283,wholesaler,yes,peri-urban
+478,2025-04-17,Ashanti,Ejisu,Makola,onion,15.97,14.34,522,wholesaler,yes,urban
+479,2023-11-26,Ashanti,Ejisu,Ho Main Market,maize,9.65,8.81,282,retailer,no,peri-urban
+480,2024-09-18,Greater Accra,Tema,Takoradi Market,onion,17.69,15.06,435,retailer,no,urban
+481,2024-07-06,Oti,Jasikan,Kotokuraba,plantain,11.09,10.19,89,retailer,no,urban
+482,2025-06-05,Greater Accra,Madina,Takoradi Market,plantain,14.96,13.02,253,retailer,yes,peri-urban
+483,2024-01-18,Bono East,Kintampo,Takoradi Market,palm oil,14.47,12.17,451,wholesaler,yes,peri-urban
+484,2022-05-26,Volta,Hohoe,Makola,pepper,24.79,21.37,73,aggregator,yes,rural
+485,2025-08-12,Bono East,Nkoranza,Agbogbloshie,maize,25.41,21.59,189,wholesaler,yes,rural
+486,2022-08-29,Bono East,Kintampo,Keta Market,rice,10.92,9.25,55,retailer,no,urban
+487,2024-05-06,Savannah,Sawla,Keta Market,plantain,19.5,16.65,278,wholesaler,no,peri-urban
+488,2022-10-14,Ashanti,Mampong,Ho Main Market,onion,15.24,12.83,270,retailer,yes,peri-urban
+489,2024-08-09,Upper West,Tumu,Keta Market,cassava,8.21,7.39,32,retailer,no,rural
+490,2022-01-26,Upper West,Tumu,Ho Main Market,onion,10.55,9.39,560,retailer,yes,peri-urban
+491,2023-03-28,Northern,Tamale,Aboabo Market,pepper,30.5,27.38,76,retailer,yes,urban
+492,2022-04-16,Ahafo,Goaso,Kejetia,cassava,15.26,13.14,180,wholesaler,yes,urban
+493,2022-08-28,Western,Shama,Takoradi Market,onion,19.1,17.43,456,retailer,no,urban
+494,2025-12-12,North East,Bunkpurugu,Keta Market,tomato,12.5,10.44,249,wholesaler,yes,rural
+495,2022-11-28,Eastern,Akim Oda,Takoradi Market,onion,11.15,9.91,212,wholesaler,no,urban
+496,2024-06-30,Western,Shama,Kejetia,rice,13.59,11.59,376,aggregator,no,rural
+497,2024-12-01,Upper West,Tumu,Aboabo Market,yam,12.27,10.84,371,wholesaler,yes,rural
+498,2023-10-07,Oti,Nkwanta South,Keta Market,palm oil,7.98,6.85,277,aggregator,no,urban
+499,2022-02-04,Greater Accra,Accra,Keta Market,plantain,9.48,8.67,312,aggregator,yes,rural
+500,2024-05-25,Upper East,Bolgatanga,Tamale Central,pepper,17.25,15.99,405,aggregator,no,rural
+501,2025-10-02,Central,Komenda,Tamale Central,maize,11.78,10.71,253,wholesaler,yes,urban
+502,2023-01-19,Eastern,Akim Oda,Agbogbloshie,onion,13.59,11.43,315,aggregator,yes,urban
+503,2024-03-21,Eastern,Koforidua,Tamale Central,tomato,14.62,12.47,556,retailer,yes,rural
+504,2025-08-04,Upper West,Tumu,Ho Main Market,tomato,15.02,13.97,398,wholesaler,yes,rural
+505,2024-01-18,Western North,Bibiani,Techiman Market,maize,20.11,17.55,229,retailer,yes,peri-urban
+506,2024-08-16,Northern,Tolon,Ho Main Market,plantain,9.17,8.56,558,wholesaler,no,urban
+507,2024-11-22,Western North,Bibiani,Techiman Market,plantain,16.44,14.26,197,aggregator,yes,peri-urban
+508,2022-04-05,Oti,Kadjebi,Kejetia,onion,17.54,16.39,575,aggregator,yes,rural
+509,2024-10-16,Upper West,Jirapa,Kotokuraba,sardine,19.01,17.7,91,wholesaler,no,peri-urban
+510,2022-07-24,Bono East,Atebubu,Keta Market,yam,8.21,7.38,527,aggregator,yes,rural
+511,2024-04-13,Upper East,Bawku,Kotokuraba,palm oil,14.72,12.09,241,retailer,yes,peri-urban
+512,2022-01-30,Savannah,Sawla,Ho Main Market,yam,24.55,21.31,247,retailer,no,rural
+513,2022-09-23,Upper East,Navrongo,Kotokuraba,palm oil,13.0,12.08,252,aggregator,yes,rural
+514,2022-01-23,Upper West,Tumu,Keta Market,yam,15.95,14.77,287,wholesaler,no,rural
+515,2023-09-01,Central,Mfantsiman,Makola,tomato,17.69,14.9,273,wholesaler,no,urban
+516,2022-02-08,Bono East,Techiman,Kotokuraba,palm oil,9.4,8.16,25,retailer,no,rural
+517,2022-06-22,Ahafo,Goaso,Tamale Central,palm oil,25.58,23.54,66,aggregator,yes,urban
+518,2024-01-30,Oti,Dambai,Keta Market,pepper,16.04,14.27,426,aggregator,no,rural
+519,2025-12-07,Eastern,Suhum,Aboabo Market,yam,16.15,14.89,599,retailer,yes,peri-urban
+520,2023-02-18,Central,Cape Coast,Tamale Central,onion,7.53,6.92,273,wholesaler,no,rural
+521,2023-11-23,Bono East,Techiman,Makola,palm oil,17.78,16.52,468,aggregator,no,rural
+522,2023-09-07,Eastern,Nsawam,Makola,sardine,16.07,13.4,78,wholesaler,no,peri-urban
+523,2022-07-28,Upper East,Paga,Takoradi Market,tomato,23.77,19.91,412,wholesaler,yes,rural
+524,2022-01-22,Central,Komenda,Tamale Central,rice,12.07,10.02,579,retailer,no,rural
+525,2022-01-05,Bono,Sunyani,Techiman Market,onion,9.53,8.88,210,wholesaler,yes,rural
+526,2023-10-13,Ashanti,Mampong,Aboabo Market,yam,10.6,9.3,284,retailer,no,peri-urban
+527,2022-08-02,Upper West,Lawra,Keta Market,plantain,11.28,9.34,577,aggregator,no,rural
+528,2024-07-08,Eastern,Nsawam,Makola,yam,9.1,7.81,162,wholesaler,yes,urban
+529,2024-06-25,Bono East,Atebubu,Makola,pepper,21.15,18.23,265,retailer,no,urban
+530,2025-03-08,Savannah,Bole,Aboabo Market,onion,21.43,19.65,235,retailer,no,urban
+531,2023-11-03,Western,Axim,Takoradi Market,tomato,12.57,11.42,456,wholesaler,yes,urban
+532,2023-10-29,Upper West,Wa,Techiman Market,pepper,11.73,10.59,495,retailer,yes,peri-urban
+533,2024-03-10,Oti,Nkwanta South,Kejetia,maize,7.13,5.87,403,aggregator,no,rural
+534,2022-11-13,Bono,Dormaa,Makola,tomato,17.18,15.97,566,wholesaler,no,urban
+535,2024-03-03,Volta,Ho,Takoradi Market,palm oil,24.02,20.32,434,aggregator,no,rural
+536,2023-07-30,North East,Bunkpurugu,Agbogbloshie,maize,10.77,9.64,151,retailer,yes,rural
+537,2025-03-25,Upper East,Navrongo,Keta Market,plantain,12.92,10.69,417,aggregator,yes,peri-urban
+538,2025-12-18,Northern,Tamale,Aboabo Market,pepper,15.67,13.0,526,retailer,no,rural
+539,2022-04-01,Western,Shama,Ho Main Market,tomato,24.62,20.22,172,retailer,yes,urban
+540,2024-12-01,Greater Accra,Madina,Agbogbloshie,cassava,14.44,12.82,579,aggregator,yes,urban
+541,2024-01-31,Ashanti,Ejisu,Agbogbloshie,cassava,14.42,12.91,187,wholesaler,no,peri-urban
+542,2025-08-11,North East,Chereponi,Ho Main Market,rice,14.34,11.85,249,wholesaler,yes,urban
+543,2024-02-09,Savannah,Damongo,Techiman Market,maize,8.18,6.99,423,wholesaler,yes,urban
+544,2025-09-22,Upper West,Wa,Tamale Central,sardine,8.11,7.48,163,aggregator,yes,peri-urban
+545,2022-01-01,Upper West,Wa,Tamale Central,onion,10.15,8.45,550,aggregator,yes,peri-urban
+546,2022-04-19,Savannah,Bole,Ho Main Market,yam,19.19,16.23,87,aggregator,yes,urban
+547,2024-07-16,Central,Komenda,Tamale Central,palm oil,11.97,10.42,117,aggregator,no,peri-urban
+548,2025-02-22,Western,Sekondi-Takoradi,Techiman Market,plantain,11.19,10.31,26,wholesaler,yes,peri-urban
+549,2024-12-23,Western,Tarkwa,Keta Market,cassava,11.12,9.46,196,wholesaler,yes,urban
+550,2022-07-25,Western,Tarkwa,Kotokuraba,sardine,12.83,12.06,225,retailer,yes,urban
+551,2025-12-09,Savannah,Salaga,Takoradi Market,sardine,24.43,21.07,318,aggregator,yes,peri-urban
+552,2024-04-29,Oti,Dambai,Ho Main Market,maize,12.77,11.06,248,wholesaler,no,rural
+553,2025-06-21,Greater Accra,Accra,Takoradi Market,rice,10.22,8.53,289,wholesaler,no,rural
+554,2023-08-13,Central,Mfantsiman,Makola,palm oil,13.58,12.24,100,wholesaler,yes,urban
+555,2023-09-15,Western North,Sefwi Wiawso,Techiman Market,sardine,24.89,21.14,207,wholesaler,no,urban
+556,2025-05-24,Ashanti,Mampong,Takoradi Market,plantain,11.29,10.11,520,wholesaler,yes,rural
+557,2024-08-22,Western North,Bibiani,Ho Main Market,maize,8.91,7.54,506,wholesaler,no,peri-urban
+558,2024-08-22,Upper East,Paga,Keta Market,pepper,11.3,9.79,507,aggregator,yes,rural
+559,2023-10-15,Upper East,Bolgatanga,Tamale Central,plantain,14.08,12.99,497,retailer,yes,rural
+560,2025-11-04,Upper East,Navrongo,Agbogbloshie,yam,17.13,15.57,308,retailer,no,urban
+561,2022-03-20,Bono East,Nkoranza,Agbogbloshie,rice,19.15,16.06,125,aggregator,yes,peri-urban
+562,2023-02-19,Upper West,Wa,Makola,palm oil,9.34,8.34,595,wholesaler,no,rural
+563,2025-03-18,Savannah,Damongo,Takoradi Market,rice,9.65,8.64,242,aggregator,yes,peri-urban
+564,2023-10-01,Central,Cape Coast,Aboabo Market,rice,12.02,9.99,401,wholesaler,no,urban
+565,2024-03-01,Eastern,Akim Oda,Ho Main Market,maize,17.11,14.99,123,wholesaler,no,rural
+566,2024-11-27,Central,Mfantsiman,Aboabo Market,rice,8.66,7.37,133,wholesaler,no,urban
+567,2025-03-26,Oti,Nkwanta South,Ho Main Market,onion,10.89,9.54,527,wholesaler,no,rural
+568,2022-11-29,Savannah,Bole,Ho Main Market,plantain,10.94,9.99,74,wholesaler,yes,peri-urban
+569,2022-10-15,Western North,Bodi,Keta Market,palm oil,18.72,15.71,140,aggregator,yes,urban
+570,2025-02-09,Western,Tarkwa,Makola,plantain,16.2,13.52,236,aggregator,no,peri-urban
+571,2025-01-19,Ahafo,Asunafo North,Agbogbloshie,pepper,18.47,15.74,22,retailer,yes,rural
+572,2024-12-08,Ahafo,Goaso,Makola,rice,21.51,20.1,111,wholesaler,yes,urban
+573,2022-06-10,Western,Sekondi-Takoradi,Makola,rice,12.1,11.01,426,aggregator,yes,peri-urban
+574,2025-11-26,Bono,Berekum,Kejetia,yam,8.89,7.31,460,aggregator,no,peri-urban
+575,2022-11-16,Northern,Tolon,Ho Main Market,rice,8.91,7.73,451,wholesaler,no,rural
+576,2024-07-12,Savannah,Sawla,Aboabo Market,rice,7.08,6.02,80,wholesaler,yes,urban
+577,2022-12-30,Ashanti,Ejisu,Keta Market,plantain,11.47,10.28,492,aggregator,yes,peri-urban
+578,2023-04-20,Oti,Jasikan,Techiman Market,plantain,11.77,10.3,266,wholesaler,no,urban
+579,2024-10-19,Central,Komenda,Ho Main Market,cassava,17.74,16.6,391,aggregator,yes,urban
+580,2024-02-05,Northern,Tolon,Kotokuraba,cassava,13.54,11.46,308,retailer,yes,urban
+581,2023-08-25,Greater Accra,Tema,Ho Main Market,plantain,11.34,10.1,43,wholesaler,yes,urban
+582,2022-11-08,Savannah,Damongo,Agbogbloshie,palm oil,12.93,11.69,425,retailer,no,rural
+583,2023-08-12,North East,Nalerigu,Aboabo Market,sardine,9.36,8.6,327,retailer,no,peri-urban
+584,2025-05-28,Ashanti,Ejisu,Tamale Central,yam,19.28,16.75,391,retailer,no,urban
+585,2022-12-09,Central,Cape Coast,Tamale Central,pepper,10.23,9.23,234,wholesaler,yes,peri-urban
+586,2024-06-24,Northern,Tolon,Agbogbloshie,sardine,9.03,7.73,281,retailer,yes,peri-urban
+587,2025-01-22,Ahafo,Tano North,Ho Main Market,cassava,17.93,15.64,365,aggregator,yes,peri-urban
+588,2025-03-02,Ahafo,Asutifi South,Ho Main Market,rice,16.46,15.27,432,aggregator,no,rural
+589,2022-06-21,Western North,Juaboso,Techiman Market,plantain,7.36,6.87,142,wholesaler,no,urban
+590,2023-09-18,Oti,Jasikan,Agbogbloshie,cassava,18.16,16.46,339,wholesaler,no,urban
+591,2024-10-29,North East,Walewale,Ho Main Market,rice,10.39,8.99,356,retailer,yes,peri-urban
+592,2023-11-13,Ashanti,Obuasi,Aboabo Market,onion,11.81,10.85,177,wholesaler,no,peri-urban
+593,2025-09-06,Northern,Tamale,Tamale Central,maize,14.37,11.83,346,aggregator,yes,rural
+594,2025-01-26,Oti,Jasikan,Kotokuraba,rice,16.53,13.76,84,aggregator,yes,rural
+595,2025-04-07,Northern,Savelugu,Ho Main Market,sardine,15.74,14.16,388,aggregator,no,peri-urban
+596,2022-11-07,Bono East,Techiman,Makola,tomato,13.23,11.31,23,wholesaler,yes,urban
+597,2024-07-02,Ashanti,Obuasi,Takoradi Market,rice,11.6,10.84,79,aggregator,yes,rural
+598,2025-09-28,Bono,Berekum,Tamale Central,palm oil,15.55,13.56,64,wholesaler,no,urban
+599,2023-03-06,Oti,Jasikan,Kejetia,tomato,12.92,11.26,562,retailer,yes,rural
+600,2024-05-07,Ahafo,Asutifi South,Agbogbloshie,onion,25.33,22.83,175,aggregator,no,urban
+601,2022-10-12,Bono,Dormaa,Techiman Market,palm oil,16.53,15.08,83,retailer,no,peri-urban
+602,2025-07-07,Central,Cape Coast,Makola,palm oil,9.75,8.55,440,aggregator,no,rural
+603,2023-05-10,Bono,Berekum,Agbogbloshie,onion,11.39,9.63,342,aggregator,yes,peri-urban
+604,2022-12-21,Bono,Wenchi,Ho Main Market,cassava,13.69,12.5,128,aggregator,no,rural
+605,2022-08-02,Oti,Kadjebi,Ho Main Market,yam,21.22,18.22,482,retailer,no,peri-urban
+606,2024-03-27,Eastern,Koforidua,Ho Main Market,onion,22.06,18.55,599,aggregator,no,rural
+607,2022-07-19,Bono,Berekum,Tamale Central,sardine,11.72,10.5,566,retailer,yes,rural
+608,2025-06-13,Bono,Wenchi,Takoradi Market,tomato,9.71,8.07,270,wholesaler,yes,rural
+609,2024-05-02,Western,Sekondi-Takoradi,Keta Market,rice,9.29,8.7,529,aggregator,yes,urban
+610,2022-05-16,Northern,Tamale,Kotokuraba,yam,14.71,13.18,567,aggregator,no,urban
+611,2024-08-05,Ashanti,Obuasi,Agbogbloshie,tomato,30.15,28.29,460,retailer,no,rural
+612,2023-09-20,Ahafo,Tano North,Kejetia,onion,16.26,13.99,473,aggregator,no,peri-urban
+613,2024-07-05,Oti,Jasikan,Makola,yam,7.71,7.22,293,wholesaler,yes,peri-urban
+614,2025-12-16,North East,Chereponi,Takoradi Market,palm oil,10.44,8.74,79,aggregator,no,rural
+615,2025-09-26,Upper West,Tumu,Tamale Central,cassava,10.82,8.93,361,wholesaler,no,urban
+616,2022-12-08,Volta,Kpando,Takoradi Market,maize,10.1,8.32,413,wholesaler,yes,urban
+617,2023-01-23,Bono,Berekum,Aboabo Market,maize,11.75,10.29,132,aggregator,yes,urban
+618,2022-01-04,Greater Accra,Kasoa East,Techiman Market,onion,15.32,12.71,240,aggregator,no,urban
+619,2023-11-08,Ashanti,Kumasi,Ho Main Market,pepper,17.09,15.06,87,wholesaler,no,peri-urban
+620,2023-02-03,Savannah,Damongo,Keta Market,cassava,19.73,16.95,334,wholesaler,no,rural
+621,2025-12-16,Savannah,Damongo,Techiman Market,maize,16.18,13.92,486,wholesaler,yes,rural
+622,2023-02-15,Upper East,Bolgatanga,Keta Market,pepper,6.79,6.09,282,aggregator,yes,rural
+623,2022-08-01,North East,Bunkpurugu,Agbogbloshie,palm oil,9.3,7.81,150,retailer,no,peri-urban
+624,2023-07-14,Western North,Bibiani,Techiman Market,yam,12.74,11.62,443,aggregator,yes,urban
+625,2023-07-12,Northern,Tamale,Kejetia,maize,14.18,12.62,286,retailer,yes,urban
+626,2023-07-12,North East,Nalerigu,Aboabo Market,palm oil,18.2,16.92,231,retailer,no,peri-urban
+627,2024-12-07,North East,Chereponi,Makola,palm oil,13.67,11.81,582,aggregator,no,peri-urban
+628,2025-04-25,North East,Bunkpurugu,Ho Main Market,yam,13.7,12.85,307,retailer,yes,rural
+629,2023-05-17,Volta,Hohoe,Kotokuraba,maize,14.63,13.01,444,wholesaler,yes,rural
+630,2023-10-06,Greater Accra,Kasoa East,Aboabo Market,palm oil,12.31,11.53,573,aggregator,yes,peri-urban
+631,2023-06-15,Ashanti,Mampong,Kejetia,palm oil,13.88,11.43,263,retailer,yes,peri-urban
+632,2024-08-10,North East,Nalerigu,Keta Market,onion,19.97,18.12,353,wholesaler,no,peri-urban
+633,2024-02-26,Central,Kasoa,Techiman Market,tomato,13.07,12.0,347,retailer,yes,urban
+634,2023-04-20,Eastern,Akim Oda,Tamale Central,cassava,13.32,11.01,125,retailer,no,rural
+635,2022-02-11,Bono East,Techiman,Ho Main Market,tomato,13.31,11.84,98,wholesaler,yes,peri-urban
+636,2023-08-27,Ahafo,Tano North,Keta Market,plantain,21.2,19.42,184,wholesaler,no,peri-urban
+637,2025-07-08,Upper West,Wa,Keta Market,cassava,9.14,8.11,76,aggregator,yes,urban
+638,2022-02-17,Central,Kasoa,Tamale Central,yam,25.07,20.75,207,retailer,no,peri-urban
+639,2023-12-29,Bono,Berekum,Agbogbloshie,rice,8.92,8.06,71,aggregator,no,rural
+640,2022-08-09,Northern,Savelugu,Agbogbloshie,tomato,10.71,8.86,91,aggregator,no,urban
+641,2024-07-28,Bono East,Nkoranza,Tamale Central,tomato,17.47,16.04,343,retailer,yes,peri-urban
+642,2022-12-09,Oti,Dambai,Takoradi Market,pepper,19.31,15.93,357,retailer,yes,rural
+643,2025-06-15,Ashanti,Obuasi,Tamale Central,sardine,8.24,6.89,174,aggregator,yes,rural
+644,2022-06-04,Bono East,Nkoranza,Ho Main Market,plantain,9.18,7.83,78,wholesaler,yes,urban
+645,2024-07-26,Bono,Berekum,Agbogbloshie,rice,14.84,13.3,294,aggregator,no,rural
+646,2024-04-20,Bono,Sunyani,Agbogbloshie,sardine,30.59,28.67,220,retailer,yes,urban
+647,2024-12-15,Central,Kasoa,Takoradi Market,maize,20.83,17.38,314,wholesaler,no,rural
+648,2023-01-22,Western North,Sefwi Wiawso,Keta Market,pepper,12.34,10.33,341,aggregator,no,peri-urban
+649,2024-06-12,Ahafo,Asutifi South,Tamale Central,palm oil,5.77,4.99,348,retailer,yes,urban
+650,2025-08-31,Central,Cape Coast,Makola,palm oil,13.85,12.75,409,wholesaler,no,rural
+651,2022-02-07,North East,Chereponi,Ho Main Market,sardine,15.28,13.39,303,wholesaler,no,urban
+652,2025-09-26,Western,Sekondi-Takoradi,Kejetia,sardine,11.78,10.11,195,wholesaler,yes,rural
+653,2024-04-30,Western,Axim,Techiman Market,palm oil,10.0,8.87,368,retailer,yes,urban
+654,2023-12-30,Oti,Jasikan,Aboabo Market,rice,14.24,12.12,451,aggregator,no,peri-urban
+655,2022-08-19,Upper East,Bolgatanga,Keta Market,palm oil,9.68,8.4,401,retailer,yes,urban
+656,2023-03-28,Northern,Tamale,Techiman Market,onion,25.93,22.3,291,retailer,no,urban
+657,2025-09-27,Upper East,Navrongo,Kejetia,plantain,22.89,20.98,511,wholesaler,yes,peri-urban
+658,2022-09-14,Ahafo,Goaso,Agbogbloshie,tomato,16.95,15.78,566,aggregator,yes,rural
+659,2023-03-10,Volta,Keta,Kotokuraba,palm oil,13.89,12.66,350,wholesaler,no,peri-urban
+660,2022-07-28,Ashanti,Mampong,Agbogbloshie,onion,10.69,9.33,177,retailer,yes,urban
+661,2025-05-09,Ashanti,Obuasi,Tamale Central,palm oil,13.37,11.77,451,wholesaler,yes,peri-urban
+662,2022-05-17,Eastern,Akim Oda,Keta Market,rice,23.9,19.96,344,retailer,yes,peri-urban
+663,2023-07-19,Ahafo,Asunafo North,Makola,maize,18.25,16.6,135,retailer,no,urban
+664,2024-05-05,Savannah,Sawla,Makola,onion,14.46,12.89,539,retailer,no,urban
+665,2025-11-18,Ahafo,Asunafo North,Agbogbloshie,plantain,18.6,17.27,454,wholesaler,yes,peri-urban
+666,2023-12-22,Ashanti,Obuasi,Tamale Central,cassava,16.3,13.76,541,aggregator,no,urban
+667,2024-04-24,Western,Sekondi-Takoradi,Aboabo Market,onion,15.47,14.1,591,wholesaler,no,rural
+668,2022-02-05,Upper East,Bolgatanga,Techiman Market,yam,18.98,17.12,285,retailer,no,rural
+669,2025-05-23,Upper West,Jirapa,Agbogbloshie,yam,16.13,13.74,417,wholesaler,yes,rural
+670,2022-01-27,Bono East,Nkoranza,Takoradi Market,cassava,18.18,16.36,121,retailer,yes,rural
+671,2022-01-18,Ashanti,Obuasi,Agbogbloshie,sardine,14.25,13.27,82,aggregator,yes,peri-urban
+672,2023-09-22,Bono East,Techiman,Makola,yam,12.32,11.46,530,aggregator,no,peri-urban
+673,2025-03-06,Bono,Dormaa,Tamale Central,sardine,11.11,10.07,241,retailer,no,peri-urban
+674,2023-08-02,Bono,Sunyani,Kotokuraba,palm oil,10.66,8.8,455,aggregator,yes,urban
+675,2024-06-21,Western,Shama,Agbogbloshie,palm oil,7.68,7.1,209,retailer,yes,peri-urban
+676,2024-09-01,Northern,Tolon,Takoradi Market,tomato,9.78,8.79,353,wholesaler,yes,peri-urban
+677,2024-11-19,North East,Bunkpurugu,Agbogbloshie,yam,9.69,8.31,577,wholesaler,yes,urban
+678,2025-01-01,Upper East,Bolgatanga,Ho Main Market,cassava,11.27,9.49,320,aggregator,no,urban
+679,2022-05-03,Upper East,Paga,Tamale Central,tomato,23.26,19.4,370,aggregator,yes,urban
+680,2024-08-14,Oti,Jasikan,Kotokuraba,plantain,12.74,10.52,589,retailer,no,rural
+681,2024-09-27,Northern,Savelugu,Techiman Market,onion,14.65,13.34,134,aggregator,yes,peri-urban
+682,2024-09-13,Ahafo,Asunafo North,Agbogbloshie,yam,14.82,12.57,541,aggregator,yes,peri-urban
+683,2025-06-05,Upper East,Bawku,Keta Market,pepper,23.47,19.31,386,aggregator,no,peri-urban
+684,2022-12-04,Central,Cape Coast,Tamale Central,cassava,11.01,9.55,288,retailer,yes,urban
+685,2024-09-17,Upper East,Bolgatanga,Keta Market,cassava,12.45,10.93,105,wholesaler,yes,peri-urban
+686,2022-09-30,Upper East,Navrongo,Ho Main Market,plantain,12.97,10.9,397,retailer,no,rural
+687,2025-12-31,Bono East,Techiman,Tamale Central,yam,20.04,16.54,166,retailer,no,peri-urban
+688,2024-06-20,Savannah,Damongo,Kotokuraba,rice,21.55,18.16,137,aggregator,yes,peri-urban
+689,2022-02-08,Volta,Ho,Kotokuraba,yam,15.9,14.33,154,wholesaler,no,urban
+690,2023-11-13,Northern,Yendi,Kotokuraba,rice,20.73,17.2,546,retailer,no,rural
+691,2023-03-02,Volta,Ho,Techiman Market,sardine,14.33,12.71,225,aggregator,yes,peri-urban
+692,2022-11-11,Bono,Wenchi,Kejetia,cassava,12.67,10.61,252,retailer,yes,urban
+693,2023-09-06,Central,Mfantsiman,Tamale Central,palm oil,20.34,17.16,85,aggregator,yes,rural
+694,2024-01-25,North East,Chereponi,Kotokuraba,maize,15.97,13.85,23,wholesaler,no,rural
+695,2022-06-06,Oti,Jasikan,Agbogbloshie,sardine,10.41,8.66,22,wholesaler,no,urban
+696,2024-05-21,Western,Tarkwa,Keta Market,rice,19.09,16.05,278,aggregator,yes,urban
+697,2024-02-16,Central,Cape Coast,Takoradi Market,cassava,12.52,10.79,344,retailer,yes,urban
+698,2022-09-14,Northern,Tolon,Ho Main Market,palm oil,11.99,10.31,259,retailer,yes,urban
+699,2024-05-04,Ashanti,Ejisu,Kotokuraba,pepper,18.4,16.74,554,wholesaler,yes,urban
+700,2023-09-27,Eastern,Akim Oda,Agbogbloshie,rice,13.05,10.82,337,retailer,no,urban
+701,2023-04-01,Central,Kasoa,Agbogbloshie,tomato,15.43,14.25,70,aggregator,yes,peri-urban
+702,2022-02-16,Northern,Tolon,Kotokuraba,maize,16.97,15.58,489,aggregator,no,urban
+703,2025-09-17,Greater Accra,Madina,Kotokuraba,sardine,10.24,9.34,62,aggregator,no,urban
+704,2022-01-10,Western North,Juaboso,Techiman Market,rice,15.41,13.21,223,wholesaler,yes,rural
+705,2022-05-24,North East,Nalerigu,Agbogbloshie,palm oil,21.59,19.84,366,wholesaler,no,rural
+706,2025-12-25,Greater Accra,Madina,Takoradi Market,maize,9.63,8.11,77,wholesaler,no,rural
+707,2025-03-21,Upper West,Wa,Agbogbloshie,cassava,15.76,13.16,78,aggregator,no,urban
+708,2023-05-02,Oti,Dambai,Takoradi Market,plantain,10.07,8.31,530,wholesaler,yes,urban
+709,2025-03-05,Oti,Jasikan,Techiman Market,plantain,19.25,17.95,337,aggregator,yes,peri-urban
+710,2024-11-15,Central,Kasoa,Kejetia,plantain,19.19,16.45,452,retailer,yes,peri-urban
+711,2024-10-27,Savannah,Damongo,Keta Market,onion,11.89,11.06,391,wholesaler,yes,peri-urban
+712,2023-08-14,Upper West,Tumu,Takoradi Market,plantain,29.18,24.88,226,retailer,yes,peri-urban
+713,2024-11-04,Volta,Ho,Kejetia,cassava,19.83,18.42,130,retailer,yes,urban
+714,2025-12-26,Central,Komenda,Makola,plantain,17.24,16.01,42,wholesaler,no,rural
+715,2024-06-17,Upper West,Jirapa,Makola,rice,16.91,15.74,447,wholesaler,no,urban
+716,2025-11-24,Savannah,Sawla,Techiman Market,plantain,19.0,16.71,30,retailer,no,urban
+717,2022-07-26,Bono East,Atebubu,Tamale Central,pepper,9.5,8.78,591,retailer,no,urban
+718,2024-06-28,Ashanti,Kumasi,Kejetia,pepper,14.41,13.46,534,retailer,no,urban
+719,2025-05-24,Volta,Hohoe,Kejetia,onion,15.4,13.23,163,aggregator,no,rural
+720,2022-09-16,Northern,Tamale,Ho Main Market,plantain,11.7,10.18,540,retailer,no,rural
+721,2025-09-14,Oti,Nkwanta South,Aboabo Market,cassava,15.84,14.36,313,aggregator,no,peri-urban
+722,2023-03-30,Oti,Jasikan,Techiman Market,plantain,20.72,17.74,344,wholesaler,yes,urban
+723,2024-03-09,Upper East,Bawku,Makola,pepper,11.62,10.58,212,retailer,yes,peri-urban
+724,2023-01-10,Oti,Nkwanta South,Makola,cassava,13.21,10.95,310,wholesaler,no,rural
+725,2023-04-09,Oti,Jasikan,Agbogbloshie,plantain,10.1,8.92,438,retailer,no,rural
+726,2022-03-16,Bono,Wenchi,Ho Main Market,rice,7.2,6.01,479,wholesaler,yes,peri-urban
+727,2022-08-30,Savannah,Sawla,Kotokuraba,onion,17.68,15.12,67,retailer,yes,rural
+728,2024-11-06,Savannah,Salaga,Keta Market,yam,13.34,11.35,126,aggregator,yes,rural
+729,2025-07-06,Bono,Berekum,Agbogbloshie,sardine,13.69,12.6,283,wholesaler,no,urban
+730,2022-05-03,Bono,Berekum,Ho Main Market,cassava,9.53,8.04,272,wholesaler,no,urban
+731,2025-08-27,North East,Walewale,Makola,cassava,12.62,11.57,558,retailer,yes,rural
+732,2022-04-21,Eastern,Koforidua,Ho Main Market,yam,19.76,18.09,540,aggregator,no,rural
+733,2025-07-03,Ahafo,Asutifi South,Tamale Central,yam,13.47,11.85,177,aggregator,no,peri-urban
+734,2022-08-22,Upper East,Bolgatanga,Keta Market,onion,13.6,11.53,545,aggregator,yes,peri-urban
+735,2024-08-25,Upper West,Lawra,Kotokuraba,maize,14.48,12.27,48,retailer,yes,rural
+736,2023-05-12,Western,Axim,Aboabo Market,onion,8.73,7.65,557,wholesaler,yes,urban
+737,2024-11-29,Volta,Ho,Techiman Market,pepper,16.76,13.76,162,retailer,no,urban
+738,2025-02-19,Bono,Dormaa,Kejetia,pepper,8.68,7.67,237,aggregator,yes,peri-urban
+739,2023-12-28,Bono East,Techiman,Tamale Central,yam,9.69,9.05,86,aggregator,yes,urban
+740,2022-04-02,Upper West,Tumu,Kejetia,rice,9.33,7.82,163,wholesaler,yes,urban
+741,2025-10-16,Ashanti,Obuasi,Ho Main Market,tomato,12.66,11.25,160,retailer,no,peri-urban
+742,2025-02-20,Western North,Sefwi Wiawso,Keta Market,sardine,11.9,11.13,365,retailer,no,peri-urban
+743,2022-12-03,Western North,Bibiani,Agbogbloshie,onion,13.46,12.43,484,aggregator,no,urban
+744,2023-05-28,Eastern,Nsawam,Takoradi Market,tomato,9.81,9.05,115,wholesaler,yes,peri-urban
+745,2023-08-26,Oti,Kadjebi,Kejetia,plantain,19.14,17.58,427,wholesaler,no,rural
+746,2023-03-04,Upper East,Paga,Techiman Market,maize,18.03,15.45,137,aggregator,no,peri-urban
+747,2025-12-27,Ahafo,Goaso,Makola,plantain,12.67,11.74,463,retailer,yes,rural
+748,2022-01-07,Ahafo,Asunafo North,Agbogbloshie,palm oil,11.39,10.63,399,retailer,no,rural
+749,2022-04-30,North East,Bunkpurugu,Agbogbloshie,cassava,10.99,9.67,297,wholesaler,no,rural
+750,2023-01-22,Bono East,Techiman,Takoradi Market,yam,12.08,10.42,380,wholesaler,no,peri-urban
+751,2025-10-05,Western,Sekondi-Takoradi,Ho Main Market,plantain,8.25,7.18,389,aggregator,no,peri-urban
+752,2023-10-03,Western,Tarkwa,Ho Main Market,sardine,9.62,8.27,231,wholesaler,no,peri-urban
+753,2025-01-26,Ahafo,Asutifi South,Makola,plantain,18.19,15.38,278,retailer,no,rural
+754,2024-12-02,Greater Accra,Madina,Kejetia,pepper,14.96,13.38,116,retailer,no,peri-urban
+755,2022-07-02,Northern,Tolon,Techiman Market,tomato,23.86,21.18,229,wholesaler,no,urban
+756,2023-11-28,Oti,Dambai,Kotokuraba,onion,12.13,10.62,567,aggregator,yes,urban
+757,2023-07-19,Greater Accra,Accra,Aboabo Market,onion,11.86,9.86,40,retailer,yes,peri-urban
+758,2025-06-12,Ahafo,Asunafo North,Agbogbloshie,onion,11.67,10.69,452,retailer,yes,rural
+759,2023-03-22,Ahafo,Asutifi South,Keta Market,yam,12.04,10.13,390,aggregator,yes,peri-urban
+760,2022-07-19,Upper East,Bolgatanga,Tamale Central,rice,10.69,8.91,412,wholesaler,yes,urban
+761,2024-08-05,Ahafo,Goaso,Kotokuraba,rice,14.8,13.24,238,retailer,yes,rural
+762,2023-05-28,Western,Shama,Tamale Central,rice,13.6,11.8,523,retailer,yes,peri-urban
+763,2024-09-16,North East,Walewale,Ho Main Market,onion,11.26,9.31,115,aggregator,no,peri-urban
+764,2022-08-01,Western North,Bibiani,Takoradi Market,maize,20.86,18.0,451,wholesaler,no,rural
+765,2025-11-02,Greater Accra,Madina,Makola,yam,26.15,23.86,207,aggregator,no,rural
+766,2023-06-30,Volta,Kpando,Makola,onion,20.25,18.1,520,aggregator,no,urban
+767,2023-05-01,Bono,Dormaa,Kotokuraba,onion,16.37,14.14,394,wholesaler,no,peri-urban
+768,2025-10-16,Bono,Wenchi,Kejetia,onion,17.58,14.82,453,retailer,yes,urban
+769,2022-06-17,Upper East,Bawku,Makola,sardine,25.78,23.09,442,aggregator,yes,urban
+770,2024-06-08,Bono,Dormaa,Ho Main Market,cassava,17.57,16.28,163,retailer,no,rural
+771,2024-07-19,Ashanti,Mampong,Tamale Central,plantain,10.97,9.85,559,retailer,no,peri-urban
+772,2025-11-28,Volta,Kpando,Keta Market,onion,15.45,14.18,518,retailer,no,urban
+773,2024-04-07,Volta,Keta,Keta Market,palm oil,16.76,14.79,25,retailer,yes,urban
+774,2022-05-17,Bono East,Techiman,Aboabo Market,maize,9.51,8.62,336,aggregator,yes,rural
+775,2025-06-10,Greater Accra,Tema,Aboabo Market,cassava,12.19,11.31,249,wholesaler,no,peri-urban
+776,2022-04-25,Northern,Yendi,Techiman Market,maize,19.79,18.06,141,retailer,yes,peri-urban
+777,2025-06-29,Bono,Sunyani,Kotokuraba,rice,7.11,6.61,514,retailer,no,urban
+778,2025-08-05,Oti,Jasikan,Tamale Central,rice,8.69,7.58,494,retailer,no,rural
+779,2024-12-08,Greater Accra,Accra,Kejetia,cassava,12.66,11.75,593,wholesaler,yes,peri-urban
+780,2023-05-31,Upper East,Navrongo,Aboabo Market,plantain,15.24,13.63,527,retailer,no,peri-urban
+781,2023-11-19,Western,Shama,Agbogbloshie,palm oil,8.37,7.74,194,wholesaler,yes,urban
+782,2024-10-16,Bono East,Nkoranza,Makola,rice,12.88,10.62,540,aggregator,no,peri-urban
+783,2025-07-19,Ahafo,Tano North,Kejetia,yam,20.16,18.12,290,wholesaler,no,peri-urban
+784,2025-12-25,Central,Komenda,Aboabo Market,cassava,13.79,12.71,591,retailer,yes,peri-urban
+785,2024-11-15,North East,Nalerigu,Tamale Central,cassava,18.7,15.72,205,aggregator,yes,peri-urban
+786,2024-12-29,Bono,Dormaa,Kejetia,tomato,10.94,9.84,113,wholesaler,yes,urban
+787,2022-10-20,Oti,Jasikan,Kejetia,palm oil,10.14,9.32,598,retailer,no,peri-urban
+788,2025-11-30,Bono East,Nkoranza,Tamale Central,tomato,18.12,15.48,533,aggregator,no,peri-urban
+789,2025-06-11,Western,Axim,Aboabo Market,cassava,15.32,13.31,197,aggregator,no,rural
+790,2022-08-19,Bono,Wenchi,Tamale Central,plantain,8.89,7.9,575,wholesaler,no,urban
+791,2025-07-10,Western,Axim,Takoradi Market,cassava,10.17,8.97,314,retailer,no,peri-urban
+792,2024-07-26,Oti,Dambai,Takoradi Market,onion,23.28,19.2,250,wholesaler,yes,rural
+793,2025-02-18,Volta,Ho,Keta Market,tomato,9.74,8.1,255,aggregator,yes,urban
+794,2023-06-02,Volta,Keta,Keta Market,cassava,18.67,15.53,112,aggregator,no,peri-urban
+795,2024-11-13,Western North,Juaboso,Tamale Central,plantain,11.39,9.7,506,retailer,yes,rural
+796,2023-12-07,North East,Nalerigu,Keta Market,maize,13.45,11.43,63,aggregator,yes,urban
+797,2023-01-12,Oti,Jasikan,Aboabo Market,maize,14.93,13.57,558,retailer,no,peri-urban
+798,2023-03-13,North East,Bunkpurugu,Keta Market,yam,6.45,5.73,494,wholesaler,yes,rural
+799,2024-05-02,Volta,Keta,Kotokuraba,plantain,8.07,7.36,58,aggregator,no,urban
+800,2024-08-27,Bono East,Techiman,Kotokuraba,cassava,13.88,11.5,404,aggregator,no,rural
+801,2023-05-14,Savannah,Bole,Aboabo Market,maize,10.45,9.18,454,retailer,yes,rural
+802,2025-04-12,Ashanti,Obuasi,Makola,rice,19.08,16.39,308,retailer,yes,peri-urban
+803,2023-08-23,Upper East,Paga,Kotokuraba,cassava,7.67,7.07,267,wholesaler,no,rural
+804,2024-02-17,Bono,Sunyani,Takoradi Market,onion,16.41,14.85,581,retailer,no,peri-urban
+805,2025-08-26,Bono,Dormaa,Tamale Central,rice,8.32,7.69,378,aggregator,no,peri-urban
+806,2022-03-11,Bono East,Atebubu,Takoradi Market,tomato,11.9,9.82,457,wholesaler,yes,rural
+807,2022-07-24,Savannah,Bole,Aboabo Market,palm oil,9.28,8.41,228,wholesaler,no,rural
+808,2022-12-07,Upper West,Wa,Keta Market,maize,26.2,23.18,143,wholesaler,no,rural
+809,2024-11-21,Ashanti,Mampong,Keta Market,cassava,8.42,7.74,422,retailer,no,rural
+810,2024-12-02,Ashanti,Mampong,Kotokuraba,pepper,12.9,11.36,303,retailer,no,urban
+811,2022-04-28,Bono,Berekum,Ho Main Market,yam,7.36,6.51,595,aggregator,yes,peri-urban
+812,2024-06-07,Upper East,Bolgatanga,Techiman Market,sardine,23.57,19.47,260,wholesaler,no,rural
+813,2022-01-15,Ahafo,Asutifi South,Keta Market,maize,15.49,13.94,186,wholesaler,yes,urban
+814,2025-09-07,North East,Nalerigu,Makola,maize,14.12,12.04,580,wholesaler,no,rural
+815,2024-06-29,Eastern,Nsawam,Techiman Market,plantain,22.56,18.55,167,aggregator,no,urban
+816,2023-09-19,Bono,Sunyani,Takoradi Market,yam,14.18,11.74,284,retailer,no,peri-urban
+817,2025-09-22,Ahafo,Goaso,Kotokuraba,pepper,14.54,13.59,520,wholesaler,no,rural
+818,2023-11-21,Bono,Sunyani,Aboabo Market,onion,14.1,12.15,298,retailer,yes,urban
+819,2024-02-13,Ahafo,Asunafo North,Agbogbloshie,yam,16.4,15.16,178,retailer,yes,urban
+820,2025-11-05,Bono,Berekum,Aboabo Market,onion,11.33,10.6,79,retailer,yes,peri-urban
+821,2024-07-01,Bono East,Kintampo,Makola,pepper,12.49,11.66,518,retailer,no,rural
+822,2022-04-30,Eastern,Suhum,Aboabo Market,cassava,17.88,16.55,336,retailer,no,rural
+823,2022-01-26,Greater Accra,Madina,Tamale Central,tomato,14.84,13.76,507,aggregator,yes,peri-urban
+824,2022-03-05,Greater Accra,Accra,Ho Main Market,sardine,12.94,11.06,484,retailer,yes,peri-urban
+825,2023-04-05,Northern,Savelugu,Makola,palm oil,8.25,6.91,247,wholesaler,yes,peri-urban
+826,2022-11-10,Western North,Sefwi Wiawso,Techiman Market,pepper,22.74,20.39,375,wholesaler,no,urban
+827,2024-03-15,North East,Nalerigu,Takoradi Market,yam,10.68,9.38,485,wholesaler,no,urban
+828,2025-05-24,Upper West,Wa,Kotokuraba,onion,19.02,15.82,246,aggregator,yes,peri-urban
+829,2024-09-12,Bono East,Kintampo,Tamale Central,tomato,14.32,12.91,188,retailer,yes,rural
+830,2024-01-06,Eastern,Suhum,Kejetia,cassava,8.56,7.6,303,wholesaler,yes,urban
+831,2024-06-07,Savannah,Bole,Tamale Central,cassava,20.87,19.27,281,wholesaler,no,peri-urban
+832,2024-09-08,Ahafo,Goaso,Kejetia,maize,14.72,13.15,383,wholesaler,no,urban
+833,2023-08-02,North East,Bunkpurugu,Agbogbloshie,sardine,21.49,19.1,540,retailer,no,urban
+834,2025-10-14,Eastern,Koforidua,Agbogbloshie,palm oil,12.63,11.02,117,wholesaler,no,peri-urban
+835,2025-02-23,Ashanti,Kumasi,Techiman Market,pepper,17.23,15.09,31,retailer,no,rural
+836,2024-08-29,North East,Chereponi,Kotokuraba,rice,7.27,6.79,436,wholesaler,yes,rural
+837,2024-05-10,Bono East,Techiman,Aboabo Market,yam,11.3,9.45,520,wholesaler,yes,urban
+838,2023-12-08,Northern,Yendi,Aboabo Market,onion,8.62,7.53,154,retailer,no,rural
+839,2025-01-15,Bono East,Nkoranza,Takoradi Market,cassava,11.81,10.61,278,wholesaler,yes,rural
+840,2025-09-28,Ahafo,Asutifi South,Ho Main Market,tomato,15.88,13.85,536,aggregator,no,peri-urban
+841,2023-01-30,Greater Accra,Kasoa East,Kejetia,rice,10.9,9.31,313,retailer,yes,peri-urban
+842,2023-04-29,Oti,Dambai,Agbogbloshie,tomato,18.22,15.57,459,wholesaler,yes,peri-urban
+843,2023-10-28,Central,Komenda,Kotokuraba,palm oil,9.98,8.46,170,aggregator,yes,rural
+844,2023-04-01,Oti,Kadjebi,Takoradi Market,maize,18.35,15.8,500,aggregator,no,rural
+845,2022-07-29,Savannah,Bole,Agbogbloshie,yam,21.29,19.68,277,retailer,yes,peri-urban
+846,2023-06-09,Upper East,Bawku,Takoradi Market,cassava,19.2,16.91,168,wholesaler,no,rural
+847,2023-11-07,Central,Kasoa,Kotokuraba,pepper,11.94,10.14,161,retailer,yes,peri-urban
+848,2024-09-28,Bono East,Kintampo,Agbogbloshie,maize,6.4,5.54,270,aggregator,yes,urban
+849,2024-06-14,Eastern,Akim Oda,Keta Market,sardine,16.51,13.75,66,aggregator,yes,urban
+850,2024-09-30,Ahafo,Tano North,Techiman Market,yam,12.89,11.97,391,retailer,yes,rural
+851,2022-11-03,Bono,Wenchi,Aboabo Market,tomato,9.56,8.31,113,retailer,yes,rural
+852,2025-01-04,Savannah,Bole,Ho Main Market,pepper,11.08,10.39,375,wholesaler,yes,rural
+853,2024-11-11,Upper East,Bolgatanga,Keta Market,plantain,22.24,19.16,551,aggregator,no,rural
+854,2022-03-01,Greater Accra,Tema,Keta Market,plantain,9.04,8.32,291,retailer,no,urban
+855,2023-01-21,Savannah,Sawla,Tamale Central,plantain,15.86,13.49,448,aggregator,no,peri-urban
+856,2022-02-25,North East,Chereponi,Kotokuraba,rice,14.53,12.05,83,retailer,no,urban
+857,2022-06-17,Upper East,Paga,Tamale Central,rice,11.88,9.79,183,wholesaler,no,peri-urban
+858,2025-12-06,Northern,Tolon,Keta Market,palm oil,16.87,15.06,408,aggregator,no,rural
+859,2023-12-18,Ahafo,Goaso,Kotokuraba,rice,23.84,20.44,488,wholesaler,yes,peri-urban
+860,2024-05-14,Bono East,Techiman,Tamale Central,palm oil,12.14,10.6,569,wholesaler,yes,peri-urban
+861,2025-04-29,Ashanti,Obuasi,Tamale Central,tomato,12.37,11.36,550,aggregator,yes,peri-urban
+862,2023-04-27,Ashanti,Mampong,Makola,pepper,16.74,14.23,36,retailer,no,peri-urban
+863,2025-12-10,Ahafo,Asunafo North,Aboabo Market,maize,18.57,15.92,320,wholesaler,no,urban
+864,2022-12-06,Central,Komenda,Takoradi Market,tomato,12.88,11.87,107,wholesaler,yes,rural
+865,2024-03-06,Western North,Bibiani,Ho Main Market,rice,12.1,10.64,582,aggregator,yes,rural
+866,2024-06-10,Ashanti,Ejisu,Takoradi Market,cassava,6.2,5.7,264,aggregator,yes,peri-urban
+867,2024-02-15,Bono East,Techiman,Makola,palm oil,10.25,8.87,486,aggregator,yes,rural
+868,2025-07-06,Northern,Tolon,Aboabo Market,palm oil,9.04,7.84,461,wholesaler,no,urban
+869,2025-10-05,Savannah,Sawla,Kotokuraba,sardine,17.11,14.37,132,retailer,yes,peri-urban
+870,2023-08-24,Bono,Wenchi,Kotokuraba,sardine,12.36,11.49,461,retailer,no,rural
+871,2023-03-13,Western,Shama,Takoradi Market,onion,12.19,11.31,27,aggregator,no,rural
+872,2025-05-30,North East,Bunkpurugu,Ho Main Market,onion,13.42,12.59,568,wholesaler,yes,peri-urban
+873,2025-12-07,Oti,Nkwanta South,Techiman Market,sardine,9.93,8.62,578,wholesaler,no,urban
+874,2025-10-05,Upper West,Tumu,Techiman Market,palm oil,23.19,21.29,119,wholesaler,no,peri-urban
+875,2024-12-18,Eastern,Akim Oda,Agbogbloshie,pepper,21.21,18.45,364,aggregator,yes,peri-urban
+876,2022-06-01,Oti,Jasikan,Ho Main Market,maize,23.72,20.74,500,wholesaler,no,rural
+877,2024-07-22,Central,Cape Coast,Agbogbloshie,yam,17.1,15.73,361,wholesaler,no,rural
+878,2023-06-24,Ashanti,Obuasi,Takoradi Market,rice,13.33,11.21,253,retailer,yes,peri-urban
+879,2022-08-13,Savannah,Bole,Makola,pepper,23.69,20.05,254,aggregator,yes,peri-urban
+880,2025-09-03,Upper West,Wa,Makola,tomato,10.61,9.1,145,aggregator,yes,rural
+881,2023-07-17,Bono,Dormaa,Takoradi Market,maize,9.93,9.08,496,aggregator,yes,peri-urban
+882,2025-07-26,North East,Nalerigu,Makola,cassava,10.91,9.43,391,wholesaler,yes,urban
+883,2023-07-12,Western,Shama,Kotokuraba,maize,16.17,13.95,139,wholesaler,no,peri-urban
+884,2023-09-10,Upper East,Bawku,Techiman Market,tomato,10.31,9.69,561,retailer,yes,urban
+885,2022-01-24,Upper East,Navrongo,Makola,onion,12.75,11.04,579,aggregator,yes,peri-urban
+886,2023-01-03,Northern,Yendi,Aboabo Market,cassava,7.69,6.53,198,wholesaler,no,peri-urban
+887,2024-09-25,Savannah,Damongo,Tamale Central,yam,15.93,14.25,113,retailer,no,peri-urban
+888,2022-12-01,Savannah,Bole,Makola,pepper,7.92,7.26,586,wholesaler,no,rural
+889,2025-12-27,Greater Accra,Tema,Keta Market,sardine,9.72,8.05,321,wholesaler,yes,rural
+890,2022-01-03,Ahafo,Tano North,Ho Main Market,cassava,20.61,18.43,437,aggregator,yes,rural
+891,2024-10-04,Western North,Sefwi Wiawso,Kejetia,maize,20.35,16.77,471,aggregator,yes,rural
+892,2025-07-05,Upper East,Navrongo,Tamale Central,plantain,15.35,13.56,436,wholesaler,no,rural
+893,2022-09-20,Upper East,Paga,Agbogbloshie,plantain,14.83,12.62,141,wholesaler,yes,rural
+894,2022-05-01,Upper West,Jirapa,Tamale Central,sardine,11.18,9.58,76,wholesaler,no,peri-urban
+895,2022-01-21,Upper West,Lawra,Keta Market,yam,10.27,9.0,158,wholesaler,no,urban
+896,2024-06-23,Eastern,Nsawam,Keta Market,plantain,11.86,11.04,218,wholesaler,no,rural
+897,2022-05-20,Greater Accra,Tema,Kejetia,palm oil,7.93,7.18,380,aggregator,no,rural
+898,2025-08-05,Upper East,Bawku,Ho Main Market,palm oil,14.71,13.72,429,aggregator,no,peri-urban
+899,2022-07-25,Eastern,Akim Oda,Agbogbloshie,plantain,13.7,12.32,547,wholesaler,no,rural
+900,2022-02-12,Oti,Dambai,Tamale Central,pepper,9.71,7.97,262,wholesaler,yes,peri-urban
+901,2024-04-29,Savannah,Sawla,Ho Main Market,maize,23.31,19.86,109,aggregator,no,rural
+902,2025-02-15,Upper West,Lawra,Aboabo Market,plantain,16.65,15.46,535,wholesaler,yes,urban
+903,2024-10-25,Ashanti,Ejisu,Keta Market,maize,17.15,15.39,81,aggregator,no,rural
+904,2022-07-26,Upper West,Tumu,Tamale Central,rice,11.35,10.64,231,aggregator,no,rural
+905,2023-09-27,Northern,Savelugu,Makola,rice,13.46,11.29,267,aggregator,no,peri-urban
+906,2022-12-11,Bono,Berekum,Tamale Central,palm oil,16.77,14.35,516,aggregator,no,rural
+907,2025-03-11,Eastern,Suhum,Ho Main Market,pepper,14.2,12.26,75,retailer,no,peri-urban
+908,2023-01-07,Western North,Sefwi Wiawso,Techiman Market,rice,23.59,20.27,478,wholesaler,no,urban
+909,2025-06-09,Eastern,Koforidua,Kotokuraba,sardine,12.54,10.66,308,wholesaler,no,rural
+910,2025-04-02,Western North,Sefwi Wiawso,Ho Main Market,pepper,11.28,9.85,562,wholesaler,yes,peri-urban
+911,2023-07-01,North East,Walewale,Makola,pepper,16.81,15.08,489,aggregator,no,urban
+912,2025-10-19,Upper West,Lawra,Aboabo Market,onion,8.65,7.42,408,aggregator,yes,urban
+913,2024-09-10,Bono East,Techiman,Aboabo Market,palm oil,18.61,15.44,440,aggregator,no,peri-urban
+914,2022-12-01,Western,Shama,Tamale Central,cassava,8.54,7.73,532,wholesaler,no,peri-urban
+915,2022-01-11,Eastern,Koforidua,Aboabo Market,cassava,16.84,14.74,576,aggregator,yes,rural
+916,2025-12-02,Ahafo,Tano North,Keta Market,maize,10.73,9.52,578,retailer,yes,urban
+917,2022-03-16,Northern,Yendi,Techiman Market,yam,15.91,13.92,100,wholesaler,no,urban
+918,2025-08-16,Upper East,Navrongo,Techiman Market,tomato,18.5,17.15,463,retailer,yes,peri-urban
+919,2024-08-04,Northern,Savelugu,Takoradi Market,sardine,14.21,12.6,306,retailer,no,urban
+920,2024-07-01,Greater Accra,Tema,Takoradi Market,maize,8.85,8.24,303,wholesaler,yes,peri-urban
+921,2025-11-05,Savannah,Sawla,Kejetia,maize,9.84,8.67,510,retailer,yes,rural
+922,2023-12-11,Upper West,Wa,Makola,palm oil,10.43,8.92,407,retailer,yes,peri-urban
+923,2024-05-02,Ahafo,Goaso,Aboabo Market,yam,6.94,5.99,570,aggregator,yes,rural
+924,2024-02-15,Bono,Berekum,Aboabo Market,maize,19.98,17.64,427,retailer,yes,peri-urban
+925,2024-06-04,Upper East,Navrongo,Kejetia,onion,13.99,12.36,346,aggregator,no,rural
+926,2024-01-06,Central,Cape Coast,Kotokuraba,palm oil,9.05,8.17,195,retailer,yes,urban
+927,2023-09-26,Bono East,Atebubu,Ho Main Market,tomato,22.41,18.98,540,wholesaler,yes,peri-urban
+928,2024-11-17,Central,Cape Coast,Tamale Central,sardine,10.53,9.47,402,wholesaler,yes,peri-urban
+929,2023-01-31,Greater Accra,Madina,Kejetia,plantain,14.7,13.43,277,wholesaler,no,peri-urban
+930,2023-11-14,Northern,Tolon,Ho Main Market,yam,10.09,9.09,366,wholesaler,no,rural
+931,2025-10-31,Ahafo,Goaso,Techiman Market,tomato,6.64,5.83,291,aggregator,yes,peri-urban
+932,2023-02-25,Central,Mfantsiman,Kejetia,pepper,8.35,7.84,280,retailer,no,peri-urban
+933,2022-12-30,Bono,Dormaa,Aboabo Market,yam,11.51,10.0,415,retailer,no,urban
+934,2025-05-24,Bono,Dormaa,Tamale Central,pepper,18.44,15.36,173,wholesaler,no,peri-urban
+935,2025-01-29,Savannah,Bole,Takoradi Market,pepper,15.2,13.96,546,aggregator,yes,peri-urban
+936,2022-04-03,Ashanti,Ejisu,Makola,maize,14.14,11.95,86,aggregator,yes,peri-urban
+937,2022-09-23,Eastern,Suhum,Makola,rice,6.66,6.03,367,wholesaler,no,peri-urban
+938,2022-07-25,Volta,Hohoe,Kejetia,tomato,21.0,17.67,82,retailer,no,urban
+939,2025-01-08,Eastern,Akim Oda,Makola,pepper,14.56,11.97,375,wholesaler,yes,peri-urban
+940,2022-02-06,Bono,Berekum,Techiman Market,tomato,12.91,10.83,300,retailer,yes,peri-urban
+941,2024-10-31,Ahafo,Tano North,Aboabo Market,cassava,20.01,17.31,60,wholesaler,no,urban
+942,2025-01-18,Greater Accra,Tema,Makola,tomato,20.83,17.35,559,retailer,yes,rural
+943,2024-01-14,Ashanti,Ejisu,Agbogbloshie,rice,20.17,17.02,386,aggregator,no,rural
+944,2022-01-19,North East,Chereponi,Techiman Market,plantain,12.35,11.26,296,wholesaler,yes,urban
+945,2023-01-09,Western North,Juaboso,Techiman Market,sardine,9.48,8.65,240,retailer,yes,urban
+946,2022-04-04,Bono,Dormaa,Keta Market,plantain,19.03,17.47,80,retailer,yes,rural
+947,2022-02-01,Ahafo,Asunafo North,Takoradi Market,pepper,8.35,7.69,122,retailer,yes,peri-urban
+948,2022-05-20,Oti,Jasikan,Kejetia,tomato,26.62,23.17,204,retailer,no,rural
+949,2024-08-30,Northern,Tamale,Kotokuraba,onion,13.6,12.57,166,aggregator,yes,peri-urban
+950,2024-11-10,Central,Komenda,Techiman Market,yam,9.29,8.2,94,retailer,yes,urban
+951,2025-03-18,Ahafo,Goaso,Makola,rice,8.75,7.67,492,aggregator,yes,urban
+952,2025-05-29,Oti,Jasikan,Tamale Central,palm oil,8.61,7.8,20,retailer,yes,urban
+953,2024-01-03,Savannah,Sawla,Aboabo Market,pepper,14.14,11.96,435,aggregator,yes,rural
+954,2024-01-24,Eastern,Nsawam,Kotokuraba,onion,13.43,12.28,488,aggregator,no,urban
+955,2025-05-27,Oti,Dambai,Takoradi Market,rice,8.74,7.62,384,retailer,no,rural
+956,2022-02-27,Bono,Wenchi,Techiman Market,pepper,11.88,9.92,36,aggregator,yes,peri-urban
+957,2025-12-19,Savannah,Bole,Aboabo Market,palm oil,8.34,6.96,529,wholesaler,no,peri-urban
+958,2025-07-22,Western,Axim,Takoradi Market,yam,16.55,13.9,458,retailer,yes,peri-urban
+959,2022-05-20,Bono East,Techiman,Aboabo Market,cassava,13.21,12.24,550,wholesaler,no,urban
+960,2024-11-12,North East,Walewale,Ho Main Market,yam,11.79,11.07,78,aggregator,yes,peri-urban
+961,2024-06-19,Western,Axim,Makola,sardine,8.58,7.4,134,aggregator,yes,urban
+962,2023-01-13,Central,Mfantsiman,Tamale Central,onion,12.12,10.36,222,wholesaler,no,rural
+963,2024-07-10,Upper East,Navrongo,Agbogbloshie,tomato,11.64,9.85,562,retailer,yes,urban
+964,2023-01-08,Eastern,Koforidua,Aboabo Market,plantain,15.05,13.83,213,wholesaler,yes,peri-urban
+965,2024-12-22,Oti,Nkwanta South,Aboabo Market,rice,14.27,12.06,491,aggregator,yes,urban
+966,2024-02-17,Bono East,Nkoranza,Techiman Market,onion,17.76,16.53,125,retailer,yes,urban
+967,2025-09-27,Eastern,Koforidua,Kejetia,plantain,11.36,10.22,145,wholesaler,yes,rural
+968,2022-06-16,Bono,Dormaa,Takoradi Market,cassava,7.02,6.51,433,wholesaler,no,urban
+969,2025-03-20,Oti,Jasikan,Ho Main Market,rice,19.05,16.89,529,retailer,no,peri-urban
+970,2023-06-07,Upper East,Navrongo,Kotokuraba,tomato,9.7,8.76,520,wholesaler,no,urban
+971,2023-08-07,Ahafo,Goaso,Agbogbloshie,rice,9.14,8.17,140,retailer,no,urban
+972,2023-05-16,Eastern,Akim Oda,Makola,tomato,13.26,12.2,227,retailer,yes,peri-urban
+973,2024-06-14,Volta,Kpando,Aboabo Market,onion,14.97,13.78,369,wholesaler,yes,urban
+974,2024-09-25,Upper West,Wa,Kejetia,plantain,11.18,9.96,212,retailer,no,rural
+975,2023-07-14,Western North,Sefwi Wiawso,Keta Market,rice,11.15,9.99,412,retailer,yes,peri-urban
+976,2025-10-03,Ahafo,Goaso,Techiman Market,yam,11.74,10.93,516,aggregator,no,peri-urban
+977,2025-07-19,Oti,Kadjebi,Techiman Market,rice,22.1,20.59,411,aggregator,yes,urban
+978,2025-12-24,Upper East,Paga,Agbogbloshie,yam,13.45,12.1,128,aggregator,yes,rural
+979,2024-10-08,Bono,Wenchi,Agbogbloshie,maize,9.59,7.87,489,wholesaler,no,rural
+980,2022-08-21,Upper East,Navrongo,Kejetia,plantain,9.63,8.02,369,wholesaler,no,peri-urban
+981,2023-07-14,North East,Chereponi,Keta Market,maize,12.33,11.38,168,wholesaler,no,peri-urban
+982,2025-05-16,Greater Accra,Kasoa East,Keta Market,rice,14.63,12.15,275,wholesaler,no,urban
+983,2024-07-09,North East,Chereponi,Agbogbloshie,cassava,15.95,13.49,408,retailer,no,peri-urban
+984,2024-05-10,Oti,Nkwanta South,Ho Main Market,plantain,14.06,11.92,218,retailer,no,rural
+985,2025-05-27,Oti,Kadjebi,Ho Main Market,maize,10.03,8.95,462,aggregator,no,urban
+986,2024-05-21,Ashanti,Kumasi,Agbogbloshie,pepper,11.61,10.32,205,retailer,yes,urban
+987,2022-03-22,Oti,Kadjebi,Tamale Central,cassava,17.41,14.88,363,wholesaler,no,rural
+988,2023-09-06,Greater Accra,Tema,Agbogbloshie,onion,9.01,7.61,127,retailer,no,rural
+989,2023-12-04,Volta,Keta,Kejetia,maize,11.44,10.43,99,aggregator,no,peri-urban
+990,2023-06-25,Bono East,Nkoranza,Keta Market,cassava,16.6,15.48,272,wholesaler,yes,rural
+991,2024-02-04,Ahafo,Goaso,Kotokuraba,onion,18.29,15.11,44,retailer,yes,urban
+992,2025-06-28,Savannah,Damongo,Techiman Market,pepper,12.58,10.52,302,aggregator,yes,urban
+993,2024-01-08,Bono,Dormaa,Agbogbloshie,sardine,11.66,10.46,582,retailer,no,rural
+994,2023-08-29,Central,Cape Coast,Takoradi Market,plantain,8.48,7.77,257,aggregator,yes,peri-urban
+995,2025-12-09,Volta,Kpando,Aboabo Market,sardine,16.18,14.8,335,aggregator,no,urban
+996,2025-01-14,Oti,Nkwanta South,Tamale Central,maize,21.36,19.36,482,aggregator,no,peri-urban
+997,2023-09-14,North East,Nalerigu,Kotokuraba,rice,33.04,30.61,401,wholesaler,yes,rural
+998,2025-05-25,Ashanti,Kumasi,Agbogbloshie,rice,15.41,13.04,484,retailer,no,peri-urban
+999,2024-10-18,Ashanti,Obuasi,Agbogbloshie,yam,13.23,11.02,169,retailer,yes,urban
+1000,2022-07-15,North East,Walewale,Kotokuraba,cassava,9.76,8.72,371,wholesaler,yes,rural
+1001,2024-09-21,Volta,Hohoe,Ho Main Market,sardine,6.98,6.41,461,wholesaler,yes,urban
+1002,2025-08-13,Northern,Yendi,Agbogbloshie,onion,14.32,12.74,414,retailer,yes,urban
+1003,2024-08-03,Oti,Dambai,Keta Market,maize,30.65,28.67,384,wholesaler,no,rural
+1004,2022-02-13,Upper West,Wa,Takoradi Market,tomato,21.01,19.23,25,wholesaler,yes,peri-urban
+1005,2023-01-28,Upper West,Jirapa,Kejetia,onion,19.9,17.99,553,retailer,yes,rural
+1006,2025-01-18,Ahafo,Asutifi South,Takoradi Market,tomato,14.67,12.14,239,aggregator,no,urban
+1007,2022-06-04,Volta,Ho,Keta Market,yam,15.27,12.72,31,wholesaler,no,urban
+1008,2024-09-04,Ashanti,Mampong,Takoradi Market,rice,5.76,5.27,404,retailer,yes,urban
+1009,2022-02-28,Western,Tarkwa,Ho Main Market,plantain,17.58,14.83,477,retailer,yes,rural
+1010,2022-04-20,Bono East,Nkoranza,Kejetia,plantain,10.99,9.05,244,retailer,yes,rural
+1011,2023-04-24,Upper East,Navrongo,Takoradi Market,rice,10.53,9.79,355,wholesaler,yes,rural
+1012,2023-09-10,Bono,Sunyani,Techiman Market,yam,12.02,11.14,186,aggregator,no,rural
+1013,2024-02-23,Ahafo,Goaso,Keta Market,pepper,11.88,10.05,335,aggregator,yes,peri-urban
+1014,2024-12-08,Bono East,Atebubu,Keta Market,sardine,10.47,9.57,135,retailer,no,urban
+1015,2025-11-01,Savannah,Bole,Aboabo Market,tomato,13.53,11.17,517,wholesaler,no,peri-urban
+1016,2024-11-21,Upper West,Lawra,Makola,tomato,11.07,9.46,167,wholesaler,no,urban
+1017,2023-08-24,Savannah,Salaga,Tamale Central,maize,13.94,12.47,55,aggregator,yes,urban
+1018,2024-07-28,Ashanti,Obuasi,Makola,rice,8.0,7.29,426,aggregator,yes,peri-urban
+1019,2024-09-18,Oti,Nkwanta South,Tamale Central,cassava,12.49,10.26,404,wholesaler,no,rural
+1020,2023-06-15,Central,Mfantsiman,Takoradi Market,sardine,9.17,7.88,430,aggregator,yes,urban
+1021,2024-10-23,Ahafo,Asunafo North,Techiman Market,yam,10.76,9.1,327,retailer,no,rural
+1022,2023-01-13,Volta,Ho,Techiman Market,rice,14.16,13.31,259,aggregator,no,peri-urban
+1023,2023-07-26,Western North,Sefwi Wiawso,Agbogbloshie,rice,7.68,6.92,386,wholesaler,yes,urban
+1024,2025-06-19,North East,Chereponi,Makola,pepper,10.1,8.77,323,retailer,yes,rural
+1025,2023-08-10,Oti,Kadjebi,Takoradi Market,cassava,16.43,13.62,186,wholesaler,no,peri-urban
+1026,2022-12-23,Western North,Bibiani,Aboabo Market,onion,8.21,7.32,573,aggregator,no,urban
+1027,2023-11-16,Ashanti,Kumasi,Aboabo Market,onion,25.08,22.5,320,aggregator,no,peri-urban
+1028,2025-05-05,Savannah,Sawla,Kotokuraba,palm oil,20.52,18.84,224,retailer,yes,rural
+1029,2024-05-07,Bono,Sunyani,Agbogbloshie,pepper,11.32,9.67,214,retailer,yes,urban
+1030,2025-12-13,Bono,Wenchi,Techiman Market,onion,10.22,9.58,190,retailer,yes,urban
+1031,2023-10-21,Bono East,Techiman,Ho Main Market,pepper,14.45,12.61,421,retailer,no,urban
+1032,2025-07-20,Greater Accra,Madina,Techiman Market,tomato,8.11,6.94,58,aggregator,yes,peri-urban
+1033,2022-02-04,Upper West,Tumu,Makola,plantain,6.68,5.76,271,wholesaler,no,peri-urban
+1034,2024-10-03,Northern,Yendi,Ho Main Market,plantain,11.46,10.11,302,aggregator,no,peri-urban
+1035,2023-04-06,Bono,Sunyani,Techiman Market,rice,12.85,11.98,226,aggregator,yes,peri-urban
+1036,2023-12-19,Ahafo,Goaso,Techiman Market,plantain,13.92,12.64,519,retailer,no,rural
+1037,2025-06-30,Western,Tarkwa,Kotokuraba,sardine,10.86,9.66,162,retailer,no,peri-urban
+1038,2023-05-27,Savannah,Bole,Techiman Market,onion,21.03,17.66,38,wholesaler,no,peri-urban
+1039,2024-12-07,Oti,Nkwanta South,Makola,sardine,7.98,6.69,595,wholesaler,yes,peri-urban
+1040,2025-04-23,Western,Sekondi-Takoradi,Makola,maize,9.04,7.96,39,aggregator,no,rural
+1041,2023-05-06,Ahafo,Asutifi South,Techiman Market,onion,15.96,14.48,467,wholesaler,no,rural
+1042,2022-09-30,Upper East,Bolgatanga,Keta Market,cassava,8.97,8.16,245,retailer,yes,urban
+1043,2024-10-09,Savannah,Sawla,Kotokuraba,yam,8.85,7.5,120,retailer,no,peri-urban
+1044,2023-06-11,Eastern,Suhum,Keta Market,palm oil,14.06,11.7,313,retailer,yes,urban
+1045,2025-02-25,Central,Komenda,Makola,pepper,9.31,8.06,569,aggregator,yes,urban
+1046,2022-07-29,Oti,Kadjebi,Tamale Central,rice,12.85,11.95,84,wholesaler,no,rural
+1047,2023-09-16,Greater Accra,Madina,Kejetia,pepper,10.54,9.33,518,retailer,no,rural
+1048,2025-03-11,Greater Accra,Accra,Kejetia,yam,9.96,8.55,95,aggregator,yes,urban
+1049,2022-06-22,Bono,Wenchi,Takoradi Market,yam,6.45,5.54,144,aggregator,no,urban
+1050,2023-03-23,Greater Accra,Tema,Keta Market,yam,14.14,11.82,46,aggregator,no,peri-urban
+1051,2025-02-16,Northern,Savelugu,Makola,onion,8.7,7.63,295,wholesaler,no,rural
+1052,2022-01-11,North East,Chereponi,Aboabo Market,palm oil,12.69,11.61,591,wholesaler,no,rural
+1053,2024-01-31,Bono,Dormaa,Makola,cassava,11.25,10.53,102,wholesaler,yes,urban
+1054,2025-08-20,Oti,Jasikan,Aboabo Market,yam,12.52,11.02,505,aggregator,yes,rural
+1055,2025-03-23,Central,Komenda,Tamale Central,rice,12.78,10.74,482,aggregator,no,urban
+1056,2022-11-19,Upper West,Wa,Techiman Market,onion,14.41,13.0,25,wholesaler,yes,urban
+1057,2024-09-03,Upper West,Jirapa,Makola,cassava,10.44,9.51,387,retailer,yes,rural
+1058,2023-03-21,Volta,Hohoe,Takoradi Market,yam,20.8,17.23,490,wholesaler,yes,peri-urban
+1059,2022-12-08,North East,Chereponi,Techiman Market,maize,7.05,6.5,468,aggregator,no,rural
+1060,2022-08-09,Ashanti,Obuasi,Kejetia,rice,12.44,11.44,389,aggregator,yes,urban
+1061,2022-04-20,Volta,Keta,Keta Market,maize,18.04,15.82,359,aggregator,yes,urban
+1062,2023-02-14,Volta,Kpando,Makola,palm oil,15.91,14.12,297,aggregator,yes,peri-urban
+1063,2025-12-12,Greater Accra,Accra,Kotokuraba,sardine,9.57,8.67,359,aggregator,yes,urban
+1064,2023-05-20,Savannah,Bole,Makola,palm oil,10.15,9.15,99,aggregator,yes,peri-urban
+1065,2022-02-09,Oti,Dambai,Tamale Central,sardine,9.47,7.78,86,wholesaler,no,rural
+1066,2022-09-20,Oti,Dambai,Ho Main Market,sardine,16.61,13.86,234,aggregator,no,peri-urban
+1067,2025-02-15,Greater Accra,Madina,Takoradi Market,cassava,10.39,8.72,435,aggregator,yes,urban
+1068,2025-12-08,Savannah,Salaga,Kotokuraba,tomato,14.72,13.41,164,aggregator,no,urban
+1069,2023-12-09,Upper East,Navrongo,Tamale Central,rice,14.77,12.89,571,aggregator,yes,peri-urban
+1070,2024-04-02,Volta,Ho,Techiman Market,cassava,30.84,27.31,305,aggregator,no,rural
+1071,2023-04-06,Upper West,Tumu,Keta Market,plantain,15.02,13.71,590,retailer,no,peri-urban
+1072,2025-02-15,North East,Chereponi,Tamale Central,maize,10.14,8.73,559,wholesaler,no,urban
+1073,2022-08-05,Ahafo,Asutifi South,Kejetia,palm oil,8.08,7.35,66,wholesaler,no,rural
+1074,2022-03-18,North East,Walewale,Kejetia,yam,12.22,10.67,256,retailer,no,peri-urban
+1075,2025-12-15,Volta,Hohoe,Aboabo Market,rice,12.91,11.17,136,retailer,no,peri-urban
+1076,2024-06-10,Ahafo,Tano North,Keta Market,onion,6.21,5.34,170,aggregator,no,peri-urban
+1077,2025-04-10,Bono,Sunyani,Kejetia,palm oil,10.49,9.82,102,wholesaler,yes,urban
+1078,2023-01-25,Western North,Bodi,Makola,tomato,14.94,13.63,76,wholesaler,yes,urban
+1079,2024-11-15,Northern,Tamale,Techiman Market,palm oil,11.17,9.19,404,retailer,yes,urban
+1080,2025-02-25,Bono East,Kintampo,Agbogbloshie,rice,18.9,17.67,239,wholesaler,yes,rural
+1081,2023-01-09,Oti,Dambai,Kejetia,maize,7.8,7.12,304,wholesaler,yes,rural
+1082,2023-10-16,Upper West,Tumu,Ho Main Market,tomato,17.06,14.29,453,aggregator,no,rural
+1083,2024-06-22,Northern,Yendi,Agbogbloshie,onion,18.54,15.37,339,aggregator,no,urban
+1084,2024-11-13,Ahafo,Asunafo North,Agbogbloshie,cassava,18.82,16.13,261,aggregator,no,rural
+1085,2024-01-14,North East,Walewale,Ho Main Market,plantain,7.78,6.96,484,wholesaler,yes,rural
+1086,2023-02-27,Bono,Berekum,Agbogbloshie,cassava,15.03,13.44,222,wholesaler,no,peri-urban
+1087,2025-04-15,Savannah,Bole,Makola,palm oil,10.65,9.09,568,aggregator,no,urban
+1088,2024-05-02,Greater Accra,Accra,Tamale Central,onion,8.23,7.19,464,aggregator,yes,peri-urban
+1089,2024-04-10,Ashanti,Mampong,Kejetia,maize,11.65,9.85,154,wholesaler,yes,urban
+1090,2025-07-13,Upper West,Wa,Kotokuraba,rice,9.81,8.1,595,wholesaler,no,urban
+1091,2024-08-30,Greater Accra,Kasoa East,Kejetia,palm oil,18.58,16.39,560,retailer,no,rural
+1092,2023-09-21,Greater Accra,Tema,Agbogbloshie,yam,16.11,13.88,506,aggregator,no,peri-urban
+1093,2023-07-24,Northern,Yendi,Techiman Market,tomato,8.99,7.96,591,aggregator,no,peri-urban
+1094,2025-07-17,Ashanti,Obuasi,Ho Main Market,tomato,10.45,9.76,505,aggregator,yes,rural
+1095,2025-09-14,Western North,Juaboso,Techiman Market,onion,11.78,9.86,585,wholesaler,yes,peri-urban
+1096,2025-08-11,North East,Nalerigu,Kotokuraba,pepper,13.13,10.77,424,wholesaler,yes,peri-urban
+1097,2022-05-02,Western North,Sefwi Wiawso,Makola,pepper,19.15,15.88,589,retailer,no,urban
+1098,2022-06-08,Central,Komenda,Agbogbloshie,palm oil,17.15,15.02,452,retailer,no,peri-urban
+1099,2025-04-16,Oti,Kadjebi,Ho Main Market,palm oil,13.71,12.41,567,aggregator,yes,peri-urban
+1100,2025-09-13,Northern,Savelugu,Aboabo Market,palm oil,12.29,10.93,269,retailer,no,urban
+1101,2022-11-03,North East,Bunkpurugu,Aboabo Market,palm oil,7.24,6.37,99,wholesaler,no,rural
+1102,2025-01-17,Bono,Wenchi,Kotokuraba,pepper,21.16,18.25,34,retailer,yes,urban
+1103,2024-01-21,Bono,Sunyani,Kotokuraba,rice,11.51,9.87,59,retailer,yes,rural
+1104,2024-11-27,Savannah,Salaga,Keta Market,tomato,23.2,20.07,100,wholesaler,no,rural
+1105,2023-08-14,Upper East,Bolgatanga,Kotokuraba,maize,14.42,12.88,529,aggregator,yes,urban
+1106,2022-12-12,Oti,Kadjebi,Kotokuraba,yam,27.35,22.98,326,aggregator,no,urban
+1107,2025-06-29,North East,Walewale,Makola,pepper,16.65,15.19,416,retailer,no,rural
+1108,2022-05-29,Northern,Yendi,Keta Market,maize,8.16,7.25,223,wholesaler,no,urban
+1109,2024-11-05,Ashanti,Kumasi,Aboabo Market,onion,10.86,9.26,230,wholesaler,no,urban
+1110,2025-10-22,Bono,Sunyani,Aboabo Market,maize,12.69,11.17,418,retailer,no,peri-urban
+1111,2024-04-14,Volta,Ho,Ho Main Market,palm oil,9.92,9.28,392,aggregator,no,urban
+1112,2024-02-20,Volta,Kpando,Techiman Market,sardine,11.8,9.71,408,aggregator,yes,urban
+1113,2022-04-28,North East,Bunkpurugu,Tamale Central,rice,8.34,7.04,277,aggregator,yes,peri-urban
+1114,2023-12-05,Ashanti,Mampong,Agbogbloshie,pepper,13.49,11.79,134,wholesaler,no,rural
+1115,2022-11-13,North East,Bunkpurugu,Ho Main Market,sardine,14.63,13.12,353,wholesaler,no,rural
+1116,2022-10-15,Central,Komenda,Ho Main Market,onion,9.47,8.01,368,wholesaler,no,urban
+1117,2024-06-26,Eastern,Suhum,Makola,palm oil,26.55,24.74,252,aggregator,yes,urban
+1118,2025-10-06,Volta,Hohoe,Tamale Central,tomato,13.77,12.35,528,retailer,no,rural
+1119,2022-10-24,Oti,Dambai,Ho Main Market,yam,10.12,9.36,468,wholesaler,yes,urban
+1120,2025-05-02,Western,Tarkwa,Kejetia,plantain,7.61,6.54,96,wholesaler,yes,rural
+1121,2025-11-16,Upper East,Bawku,Aboabo Market,cassava,13.75,12.64,117,retailer,no,rural
+1122,2023-03-19,Bono East,Nkoranza,Kotokuraba,yam,12.29,10.64,587,aggregator,yes,peri-urban
+1123,2025-07-28,Bono,Berekum,Kotokuraba,yam,17.71,15.06,481,wholesaler,yes,peri-urban
+1124,2024-06-19,North East,Chereponi,Takoradi Market,onion,12.8,11.9,519,aggregator,yes,urban
+1125,2022-10-28,Northern,Tamale,Makola,tomato,8.87,7.37,57,wholesaler,no,urban
+1126,2024-06-16,Western,Shama,Keta Market,sardine,24.16,22.54,377,wholesaler,yes,rural
+1127,2023-03-02,Western North,Juaboso,Agbogbloshie,pepper,15.68,13.72,261,retailer,no,urban
+1128,2022-09-07,Upper West,Lawra,Aboabo Market,cassava,12.32,11.57,70,retailer,yes,peri-urban
+1129,2023-11-17,Western North,Sefwi Wiawso,Kejetia,yam,14.26,12.62,444,retailer,yes,rural
+1130,2024-01-22,Western,Shama,Ho Main Market,onion,15.89,14.47,146,retailer,yes,rural
+1131,2024-09-24,North East,Bunkpurugu,Ho Main Market,pepper,8.17,6.71,122,aggregator,yes,urban
+1132,2023-02-10,Northern,Savelugu,Makola,onion,14.23,12.52,496,aggregator,yes,rural
+1133,2024-03-11,Ahafo,Goaso,Agbogbloshie,tomato,11.5,10.45,248,aggregator,no,rural
+1134,2022-09-01,Central,Mfantsiman,Techiman Market,rice,16.08,14.7,455,retailer,no,rural
+1135,2023-01-02,Upper East,Bawku,Kejetia,onion,10.39,8.72,404,wholesaler,yes,peri-urban
+1136,2022-04-30,Greater Accra,Madina,Agbogbloshie,sardine,10.9,9.49,104,aggregator,yes,rural
+1137,2024-04-29,North East,Bunkpurugu,Techiman Market,onion,24.1,20.97,378,retailer,yes,peri-urban
+1138,2023-03-09,Volta,Hohoe,Agbogbloshie,pepper,20.71,17.24,46,retailer,yes,rural
+1139,2022-07-02,Savannah,Damongo,Ho Main Market,tomato,4.25,3.71,91,retailer,no,urban
+1140,2024-01-29,Ashanti,Ejisu,Ho Main Market,sardine,20.18,18.5,114,aggregator,no,urban
+1141,2025-02-15,Upper East,Navrongo,Tamale Central,maize,13.12,11.23,445,wholesaler,yes,rural
+1142,2022-01-31,Savannah,Sawla,Takoradi Market,onion,10.51,9.16,25,aggregator,no,urban
+1143,2024-09-03,Volta,Hohoe,Takoradi Market,tomato,9.46,8.85,109,retailer,yes,peri-urban
+1144,2025-03-18,Bono East,Atebubu,Makola,rice,9.66,7.96,241,retailer,yes,rural
+1145,2023-06-12,Greater Accra,Madina,Techiman Market,plantain,10.61,9.45,171,retailer,no,peri-urban
+1146,2025-07-20,Central,Komenda,Ho Main Market,pepper,9.07,8.25,576,aggregator,no,rural
+1147,2024-05-13,Ahafo,Goaso,Takoradi Market,tomato,8.38,7.64,231,wholesaler,yes,peri-urban
+1148,2025-11-09,Upper West,Lawra,Tamale Central,pepper,9.35,8.47,282,aggregator,yes,urban
+1149,2022-04-12,Volta,Hohoe,Keta Market,rice,15.08,13.68,401,retailer,yes,peri-urban
+1150,2024-12-31,Ashanti,Ejisu,Ho Main Market,plantain,13.7,11.33,589,retailer,no,peri-urban
+1151,2023-09-15,Western North,Bodi,Tamale Central,tomato,16.36,14.46,76,retailer,yes,urban
+1152,2024-03-15,Central,Komenda,Kotokuraba,palm oil,13.15,12.02,445,aggregator,no,urban
+1153,2023-02-12,Eastern,Akim Oda,Agbogbloshie,rice,8.52,7.08,161,aggregator,yes,rural
+1154,2025-10-02,Ahafo,Goaso,Takoradi Market,palm oil,16.01,13.15,587,aggregator,no,rural
+1155,2025-10-22,Upper East,Navrongo,Keta Market,cassava,9.47,8.69,543,retailer,no,peri-urban
+1156,2024-04-09,Bono,Sunyani,Tamale Central,cassava,16.88,15.28,34,aggregator,no,rural
+1157,2024-02-28,Eastern,Akim Oda,Techiman Market,pepper,8.95,7.78,27,wholesaler,yes,peri-urban
+1158,2023-09-10,Eastern,Suhum,Kejetia,yam,10.58,9.87,250,wholesaler,yes,rural
+1159,2023-07-03,Greater Accra,Tema,Keta Market,sardine,11.86,10.82,205,wholesaler,yes,urban
+1160,2022-10-18,Oti,Dambai,Aboabo Market,tomato,17.05,15.96,72,aggregator,no,urban
+1161,2023-02-26,Upper East,Navrongo,Kotokuraba,plantain,14.32,13.34,156,retailer,no,urban
+1162,2022-06-30,Volta,Keta,Ho Main Market,yam,13.56,11.9,193,retailer,no,urban
+1163,2023-10-17,Volta,Keta,Ho Main Market,pepper,26.05,23.72,238,retailer,no,peri-urban
+1164,2022-04-24,Bono,Sunyani,Kotokuraba,cassava,7.08,6.37,282,retailer,no,urban
+1165,2025-06-15,Western North,Bibiani,Ho Main Market,rice,9.36,8.59,274,retailer,no,urban
+1166,2025-01-22,Ahafo,Goaso,Kejetia,rice,9.22,8.43,289,aggregator,no,urban
+1167,2022-09-17,Upper West,Tumu,Agbogbloshie,cassava,7.24,6.07,243,wholesaler,yes,urban
+1168,2025-02-04,Greater Accra,Accra,Ho Main Market,maize,10.47,8.88,153,aggregator,no,rural
+1169,2022-09-01,Upper East,Bawku,Kotokuraba,onion,17.13,14.59,182,retailer,no,peri-urban
+1170,2023-02-27,Savannah,Bole,Ho Main Market,tomato,10.95,10.05,92,aggregator,no,peri-urban
+1171,2022-12-01,Bono,Dormaa,Keta Market,onion,11.98,10.99,562,aggregator,no,rural
+1172,2024-11-12,Central,Mfantsiman,Kotokuraba,plantain,7.37,6.48,503,aggregator,no,rural
+1173,2022-09-28,Bono East,Nkoranza,Keta Market,maize,10.19,9.07,274,retailer,yes,peri-urban
+1174,2025-03-09,Upper East,Paga,Kejetia,plantain,11.45,10.53,217,retailer,no,peri-urban
+1175,2023-03-30,Western,Sekondi-Takoradi,Tamale Central,tomato,16.86,14.46,446,retailer,no,rural
+1176,2025-11-08,Ahafo,Goaso,Aboabo Market,cassava,7.49,6.19,512,aggregator,no,urban
+1177,2023-08-17,Upper East,Navrongo,Aboabo Market,yam,11.48,10.08,101,aggregator,yes,peri-urban
+1178,2025-11-01,Greater Accra,Madina,Kotokuraba,sardine,19.7,18.31,327,wholesaler,no,rural
+1179,2024-10-06,Volta,Hohoe,Kejetia,palm oil,11.52,10.54,393,wholesaler,no,urban
+1180,2024-05-05,Upper West,Tumu,Ho Main Market,yam,6.42,5.55,583,retailer,yes,urban
+1181,2025-12-16,Bono East,Kintampo,Takoradi Market,palm oil,21.07,17.44,478,wholesaler,no,rural
+1182,2025-03-25,Western North,Bodi,Takoradi Market,tomato,17.41,15.61,520,retailer,no,peri-urban
+1183,2025-09-20,Western North,Juaboso,Kotokuraba,pepper,18.25,16.79,376,retailer,yes,peri-urban
+1184,2022-05-12,Ahafo,Tano North,Agbogbloshie,plantain,7.31,6.58,315,aggregator,yes,urban
+1185,2024-02-07,Savannah,Bole,Agbogbloshie,sardine,22.86,19.91,599,wholesaler,yes,rural
+1186,2023-05-16,Eastern,Akim Oda,Kotokuraba,palm oil,10.27,8.57,319,retailer,no,urban
+1187,2025-03-09,Bono East,Techiman,Keta Market,sardine,11.26,10.46,362,retailer,no,urban
+1188,2022-05-15,Upper West,Jirapa,Agbogbloshie,cassava,10.53,8.98,139,wholesaler,no,urban
+1189,2024-02-06,Bono East,Techiman,Agbogbloshie,maize,18.75,15.88,588,wholesaler,no,rural
+1190,2024-03-22,Western,Shama,Agbogbloshie,sardine,12.64,11.6,205,wholesaler,no,peri-urban
+1191,2025-12-01,Ashanti,Kumasi,Techiman Market,sardine,15.94,14.95,177,wholesaler,yes,urban
+1192,2024-02-09,Western North,Bibiani,Ho Main Market,pepper,13.83,12.44,247,wholesaler,no,peri-urban
+1193,2022-04-04,Ahafo,Asunafo North,Takoradi Market,plantain,13.02,11.65,327,wholesaler,yes,peri-urban
+1194,2025-06-18,Bono,Berekum,Agbogbloshie,plantain,9.67,8.3,253,wholesaler,no,rural
+1195,2022-06-14,Oti,Jasikan,Makola,palm oil,25.39,20.88,30,retailer,yes,peri-urban
+1196,2022-11-21,Central,Kasoa,Kejetia,yam,8.07,6.8,194,aggregator,yes,peri-urban
+1197,2025-05-26,Upper East,Bawku,Kotokuraba,maize,15.55,13.84,21,retailer,no,urban
+1198,2024-07-28,Northern,Tolon,Agbogbloshie,sardine,15.36,12.87,201,retailer,yes,rural
+1199,2023-09-12,Volta,Ho,Keta Market,plantain,20.17,18.68,369,aggregator,no,rural
+1200,2022-08-19,Western,Sekondi-Takoradi,Kejetia,rice,21.89,18.44,401,aggregator,no,urban
+1201,2023-08-05,Greater Accra,Kasoa East,Aboabo Market,pepper,12.83,11.32,316,aggregator,yes,urban
+1202,2024-01-03,Bono East,Kintampo,Aboabo Market,plantain,16.21,14.29,216,wholesaler,yes,peri-urban
+1203,2025-04-17,North East,Walewale,Ho Main Market,onion,24.97,22.29,305,wholesaler,no,peri-urban
+1204,2025-01-08,Upper East,Bolgatanga,Makola,yam,13.16,11.31,575,wholesaler,no,rural
+1205,2025-10-09,Bono East,Kintampo,Ho Main Market,rice,9.27,8.57,541,retailer,no,rural
+1206,2023-11-02,Eastern,Akim Oda,Keta Market,cassava,11.77,10.28,244,aggregator,no,peri-urban
+1207,2025-03-30,Upper East,Bawku,Ho Main Market,sardine,8.53,7.71,305,aggregator,yes,urban
+1208,2025-12-21,Ahafo,Tano North,Makola,cassava,15.33,13.74,350,retailer,no,rural
+1209,2023-02-07,Volta,Hohoe,Kejetia,palm oil,19.54,16.3,580,wholesaler,yes,urban
+1210,2024-11-21,Eastern,Suhum,Kotokuraba,tomato,12.91,11.55,182,aggregator,no,peri-urban
+1211,2022-05-01,Western North,Juaboso,Agbogbloshie,sardine,7.63,6.76,212,retailer,no,rural
+1212,2023-12-28,Oti,Kadjebi,Agbogbloshie,cassava,19.25,17.86,164,wholesaler,no,rural
+1213,2023-01-20,Central,Mfantsiman,Kotokuraba,cassava,7.23,6.69,557,retailer,yes,peri-urban
+1214,2025-12-19,Volta,Keta,Ho Main Market,palm oil,7.84,6.57,289,wholesaler,yes,peri-urban
+1215,2023-04-21,Ashanti,Mampong,Aboabo Market,maize,12.65,10.5,70,retailer,yes,urban
+1216,2023-07-14,Ahafo,Tano North,Aboabo Market,tomato,14.7,12.57,546,wholesaler,no,urban
+1217,2025-04-05,Upper West,Tumu,Makola,onion,15.61,14.65,147,retailer,no,peri-urban
+1218,2023-01-24,Eastern,Koforidua,Kejetia,rice,13.16,10.83,65,retailer,yes,peri-urban
+1219,2025-09-18,Savannah,Damongo,Ho Main Market,sardine,24.93,22.46,253,retailer,no,peri-urban
+1220,2024-02-29,Ashanti,Obuasi,Keta Market,plantain,13.77,12.3,467,retailer,yes,rural
+1221,2024-01-23,Northern,Savelugu,Agbogbloshie,cassava,19.34,17.36,462,aggregator,yes,peri-urban
+1222,2023-12-05,Northern,Savelugu,Keta Market,tomato,17.73,15.0,522,aggregator,no,rural
+1223,2022-02-22,Ahafo,Goaso,Techiman Market,rice,8.56,7.25,304,aggregator,yes,peri-urban
+1224,2023-07-21,Western,Shama,Tamale Central,yam,12.69,11.06,151,aggregator,no,rural
+1225,2024-03-31,Central,Cape Coast,Makola,rice,28.31,23.54,495,retailer,no,urban
+1226,2024-11-10,North East,Bunkpurugu,Makola,pepper,11.29,9.36,563,aggregator,yes,urban
+1227,2024-11-08,Bono East,Atebubu,Takoradi Market,sardine,10.63,8.83,375,aggregator,no,rural
+1228,2024-05-11,Bono,Dormaa,Kejetia,palm oil,14.29,12.7,56,retailer,yes,urban
+1229,2022-11-18,Central,Mfantsiman,Takoradi Market,plantain,11.43,9.92,157,aggregator,yes,urban
+1230,2024-04-06,Central,Mfantsiman,Takoradi Market,plantain,10.2,8.72,441,aggregator,yes,rural
+1231,2023-03-09,North East,Bunkpurugu,Makola,cassava,11.37,9.75,464,wholesaler,no,peri-urban
+1232,2024-12-18,Western North,Bibiani,Kejetia,onion,22.22,18.77,261,aggregator,yes,peri-urban
+1233,2025-03-20,Eastern,Nsawam,Keta Market,rice,12.84,11.16,264,wholesaler,no,rural
+1234,2022-02-27,Western,Tarkwa,Agbogbloshie,plantain,8.46,7.14,558,aggregator,yes,urban
+1235,2024-10-14,Ashanti,Kumasi,Tamale Central,rice,7.93,7.17,228,retailer,no,peri-urban
+1236,2024-01-21,Savannah,Salaga,Keta Market,tomato,29.15,24.34,476,aggregator,yes,peri-urban
+1237,2025-08-09,Ahafo,Tano North,Makola,sardine,12.45,11.63,118,retailer,yes,urban
+1238,2022-07-01,Upper West,Lawra,Techiman Market,sardine,15.68,13.03,521,aggregator,no,rural
+1239,2023-08-30,Bono,Sunyani,Ho Main Market,sardine,10.28,9.59,156,aggregator,yes,rural
+1240,2025-01-06,Ashanti,Mampong,Makola,plantain,15.06,13.86,206,retailer,yes,peri-urban
+1241,2024-08-18,Bono East,Atebubu,Techiman Market,palm oil,22.44,20.23,55,retailer,no,rural
+1242,2022-04-15,Bono,Dormaa,Kotokuraba,sardine,10.72,9.96,498,retailer,no,urban
+1243,2025-07-08,Western,Shama,Agbogbloshie,maize,15.81,13.23,74,retailer,yes,rural
+1244,2023-08-30,Western,Shama,Kotokuraba,tomato,8.23,6.92,490,wholesaler,yes,rural
+1245,2025-05-31,Northern,Tolon,Makola,palm oil,27.33,23.24,103,wholesaler,no,rural
+1246,2024-09-16,Western,Sekondi-Takoradi,Techiman Market,plantain,14.79,12.56,25,retailer,yes,rural
+1247,2023-04-29,Central,Kasoa,Keta Market,plantain,11.65,9.99,382,wholesaler,no,urban
+1248,2022-05-09,Bono East,Atebubu,Makola,yam,12.13,10.78,189,aggregator,no,rural
+1249,2022-11-15,Western North,Bibiani,Ho Main Market,pepper,11.26,9.27,268,aggregator,yes,peri-urban
+1250,2023-12-08,Oti,Kadjebi,Aboabo Market,maize,11.47,9.93,229,aggregator,no,rural
+1251,2023-05-24,Northern,Savelugu,Agbogbloshie,palm oil,5.72,4.86,263,wholesaler,no,peri-urban
+1252,2022-01-20,Western North,Juaboso,Agbogbloshie,sardine,13.01,11.62,160,wholesaler,yes,urban
+1253,2024-01-22,Bono East,Kintampo,Ho Main Market,cassava,12.82,12.03,199,aggregator,yes,rural
+1254,2022-08-23,Eastern,Nsawam,Ho Main Market,pepper,15.98,14.1,36,retailer,yes,peri-urban
+1255,2023-08-29,Volta,Kpando,Techiman Market,plantain,11.21,9.76,35,aggregator,yes,rural
+1256,2023-07-08,Oti,Dambai,Tamale Central,maize,10.28,8.88,404,wholesaler,no,rural
+1257,2025-10-05,Ahafo,Asutifi South,Agbogbloshie,sardine,13.43,12.28,360,aggregator,no,peri-urban
+1258,2023-03-29,Western,Tarkwa,Takoradi Market,pepper,7.66,6.35,65,aggregator,no,urban
+1259,2023-08-09,Upper West,Jirapa,Keta Market,plantain,14.16,13.24,523,wholesaler,yes,urban
+1260,2024-09-10,Ashanti,Ejisu,Keta Market,cassava,7.02,6.11,162,wholesaler,no,urban
+1261,2023-02-27,Western,Axim,Keta Market,pepper,19.93,17.09,304,wholesaler,yes,urban
+1262,2025-04-28,Bono East,Techiman,Kotokuraba,sardine,17.11,16.03,374,wholesaler,no,urban
+1263,2025-02-22,Northern,Yendi,Makola,rice,9.74,9.08,544,aggregator,yes,urban
+1264,2022-01-06,Eastern,Akim Oda,Techiman Market,cassava,16.97,15.22,576,wholesaler,yes,rural
+1265,2023-04-03,Eastern,Nsawam,Kejetia,rice,14.0,11.51,66,retailer,no,rural
+1266,2023-07-08,Savannah,Sawla,Agbogbloshie,yam,9.46,8.61,547,wholesaler,yes,peri-urban
+1267,2023-06-06,Northern,Tolon,Techiman Market,onion,6.63,5.7,126,wholesaler,no,urban
+1268,2025-01-17,Upper East,Bawku,Keta Market,palm oil,15.04,13.03,22,aggregator,no,urban
+1269,2024-04-25,Bono East,Atebubu,Takoradi Market,onion,10.2,8.56,114,retailer,no,urban
+1270,2025-02-08,Bono,Dormaa,Kejetia,maize,19.75,17.44,152,retailer,no,peri-urban
+1271,2023-07-05,Greater Accra,Madina,Makola,plantain,13.53,12.3,220,retailer,yes,rural
+1272,2025-11-21,Upper East,Paga,Makola,pepper,10.54,8.99,273,wholesaler,no,rural
+1273,2022-01-11,Western,Sekondi-Takoradi,Aboabo Market,yam,25.26,23.56,202,aggregator,no,urban
+1274,2023-05-12,Greater Accra,Kasoa East,Agbogbloshie,pepper,16.47,13.89,169,aggregator,no,rural
+1275,2024-11-05,Northern,Tamale,Agbogbloshie,rice,3.75,3.1,568,wholesaler,yes,rural
+1276,2024-11-22,Western,Sekondi-Takoradi,Kejetia,tomato,11.36,10.19,509,retailer,no,rural
+1277,2024-01-15,Eastern,Suhum,Ho Main Market,pepper,8.29,7.64,524,retailer,yes,urban
+1278,2023-05-04,Ashanti,Ejisu,Agbogbloshie,cassava,10.18,9.51,432,aggregator,no,rural
+1279,2025-04-26,Eastern,Koforidua,Kejetia,plantain,12.8,11.67,527,wholesaler,no,rural
+1280,2024-01-06,Western,Shama,Techiman Market,pepper,15.24,12.86,423,retailer,no,peri-urban
+1281,2023-04-03,North East,Bunkpurugu,Makola,plantain,14.75,13.83,255,wholesaler,no,urban
+1282,2024-12-10,Eastern,Suhum,Ho Main Market,plantain,19.63,18.26,564,aggregator,no,rural
+1283,2025-07-18,Northern,Tamale,Techiman Market,yam,16.82,14.12,561,wholesaler,yes,urban
+1284,2023-04-09,Western,Tarkwa,Makola,rice,16.46,14.6,453,wholesaler,yes,rural
+1285,2022-02-12,Western North,Bibiani,Techiman Market,sardine,14.45,12.81,565,wholesaler,no,urban
+1286,2023-06-23,Bono East,Kintampo,Agbogbloshie,rice,21.12,18.44,227,wholesaler,no,rural
+1287,2023-07-22,Bono,Dormaa,Keta Market,yam,12.05,11.3,159,retailer,no,rural
+1288,2022-05-01,Savannah,Salaga,Aboabo Market,palm oil,12.16,10.06,326,aggregator,yes,peri-urban
+1289,2023-09-17,Central,Komenda,Ho Main Market,cassava,6.91,6.19,589,retailer,no,urban
+1290,2022-11-12,Bono,Berekum,Kotokuraba,palm oil,19.49,16.46,117,retailer,yes,rural
+1291,2024-10-18,Savannah,Sawla,Kejetia,tomato,13.11,11.58,144,retailer,no,peri-urban
+1292,2025-02-12,Upper East,Navrongo,Kejetia,sardine,37.59,34.34,368,retailer,no,peri-urban
+1293,2023-09-13,Ashanti,Kumasi,Kejetia,palm oil,11.68,9.92,153,aggregator,no,urban
+1294,2023-03-30,Ashanti,Mampong,Keta Market,plantain,13.89,12.05,245,aggregator,yes,urban
+1295,2023-11-18,Bono East,Atebubu,Techiman Market,plantain,16.3,15.23,568,retailer,no,peri-urban
+1296,2023-09-16,Bono,Berekum,Agbogbloshie,onion,9.16,8.35,587,wholesaler,yes,urban
+1297,2023-09-04,Northern,Savelugu,Ho Main Market,onion,15.26,13.56,358,wholesaler,no,urban
+1298,2024-08-16,Volta,Ho,Techiman Market,maize,13.63,11.54,341,wholesaler,yes,urban
+1299,2023-10-09,Greater Accra,Accra,Keta Market,plantain,12.11,10.55,106,wholesaler,yes,rural
+1300,2024-02-02,Eastern,Suhum,Makola,onion,20.3,18.53,114,wholesaler,no,urban
+1301,2025-09-22,Western North,Juaboso,Makola,tomato,9.81,9.01,215,aggregator,yes,urban
+1302,2022-08-28,Oti,Jasikan,Kotokuraba,sardine,14.82,12.59,211,wholesaler,no,peri-urban
+1303,2024-01-04,Western North,Bibiani,Takoradi Market,palm oil,22.4,20.15,541,aggregator,no,peri-urban
+1304,2025-11-10,Upper East,Navrongo,Tamale Central,yam,10.51,8.74,32,wholesaler,no,peri-urban
+1305,2025-03-14,North East,Chereponi,Kotokuraba,onion,12.13,9.98,273,wholesaler,no,urban
+1306,2023-01-12,Northern,Tamale,Agbogbloshie,rice,30.6,27.11,100,retailer,yes,urban
+1307,2022-01-04,Bono,Berekum,Tamale Central,sardine,15.9,13.47,392,retailer,no,peri-urban
+1308,2024-03-04,Upper East,Paga,Kejetia,sardine,11.28,9.36,413,retailer,yes,peri-urban
+1309,2024-04-25,Western North,Bodi,Kejetia,maize,17.83,16.18,437,aggregator,no,rural
+1310,2025-09-13,Oti,Kadjebi,Takoradi Market,tomato,11.04,9.71,78,aggregator,yes,rural
+1311,2022-07-16,Greater Accra,Kasoa East,Aboabo Market,pepper,7.79,7.13,147,retailer,no,rural
+1312,2023-01-24,Northern,Tolon,Kotokuraba,maize,21.77,19.59,560,retailer,yes,urban
+1313,2022-09-18,Ahafo,Asutifi South,Ho Main Market,onion,9.15,8.3,352,wholesaler,no,urban
+1314,2023-08-26,Oti,Dambai,Ho Main Market,rice,31.76,27.21,301,aggregator,no,peri-urban
+1315,2022-04-04,Northern,Tamale,Kejetia,pepper,11.34,9.66,599,wholesaler,no,rural
+1316,2025-07-04,Volta,Keta,Makola,plantain,28.41,25.34,226,wholesaler,yes,urban
+1317,2022-05-16,Greater Accra,Madina,Agbogbloshie,tomato,8.34,7.04,291,retailer,no,rural
+1318,2023-06-09,Oti,Dambai,Techiman Market,onion,19.28,17.7,328,wholesaler,no,rural
+1319,2023-05-13,Volta,Kpando,Ho Main Market,sardine,16.04,14.16,422,wholesaler,yes,urban
+1320,2025-04-16,Bono East,Kintampo,Makola,palm oil,18.05,15.29,194,retailer,yes,rural
+1321,2022-04-22,Upper West,Wa,Techiman Market,rice,18.89,16.91,237,retailer,no,peri-urban
+1322,2025-07-11,Western,Sekondi-Takoradi,Tamale Central,maize,11.31,10.56,345,wholesaler,yes,peri-urban
+1323,2025-12-08,Savannah,Bole,Keta Market,onion,8.52,7.07,272,wholesaler,yes,urban
+1324,2023-01-04,Upper East,Navrongo,Techiman Market,sardine,13.23,11.02,473,wholesaler,no,rural
+1325,2024-07-24,Eastern,Akim Oda,Agbogbloshie,rice,14.56,13.41,208,aggregator,yes,peri-urban
+1326,2025-11-02,Savannah,Sawla,Ho Main Market,tomato,11.41,9.51,462,wholesaler,yes,rural
+1327,2024-02-07,Savannah,Bole,Keta Market,yam,14.84,12.24,149,retailer,yes,peri-urban
+1328,2023-08-09,Eastern,Koforidua,Takoradi Market,sardine,15.11,13.02,504,wholesaler,no,peri-urban
+1329,2025-11-07,Eastern,Suhum,Techiman Market,cassava,9.79,8.58,22,aggregator,yes,rural
+1330,2023-11-04,Western,Axim,Keta Market,palm oil,15.46,13.73,370,wholesaler,no,urban
+1331,2023-05-26,Ashanti,Ejisu,Keta Market,tomato,12.26,10.8,574,aggregator,no,urban
+1332,2023-12-14,Central,Cape Coast,Kejetia,onion,10.54,9.8,152,aggregator,yes,urban
+1333,2024-03-30,Greater Accra,Accra,Aboabo Market,rice,17.74,16.18,513,retailer,no,rural
+1334,2023-01-12,Eastern,Akim Oda,Techiman Market,cassava,10.26,9.62,285,wholesaler,no,rural
+1335,2023-06-29,Bono,Dormaa,Aboabo Market,rice,11.47,10.06,43,aggregator,no,rural
+1336,2022-03-14,Savannah,Salaga,Ho Main Market,plantain,13.81,11.46,553,wholesaler,no,urban
+1337,2024-08-31,Upper East,Bawku,Makola,pepper,21.78,20.36,22,aggregator,yes,rural
+1338,2023-05-19,Central,Komenda,Makola,pepper,14.4,11.82,446,retailer,no,urban
+1339,2025-10-07,Upper West,Lawra,Ho Main Market,plantain,16.2,14.79,23,retailer,no,peri-urban
+1340,2024-03-15,Western North,Juaboso,Techiman Market,rice,12.13,9.99,522,wholesaler,no,urban
+1341,2023-12-11,North East,Chereponi,Tamale Central,yam,13.1,11.94,251,wholesaler,yes,urban
+1342,2022-11-21,Savannah,Sawla,Agbogbloshie,pepper,13.24,12.35,91,wholesaler,yes,urban
+1343,2023-01-23,Central,Kasoa,Aboabo Market,sardine,14.92,12.93,107,wholesaler,no,rural
+1344,2024-04-07,Upper East,Navrongo,Techiman Market,plantain,12.14,10.31,547,wholesaler,no,urban
+1345,2022-08-28,Oti,Kadjebi,Kotokuraba,rice,21.52,18.23,469,aggregator,yes,peri-urban
+1346,2024-09-02,Bono,Sunyani,Kejetia,maize,11.82,10.39,458,wholesaler,yes,peri-urban
+1347,2025-01-02,Northern,Yendi,Aboabo Market,pepper,7.41,6.23,551,aggregator,yes,peri-urban
+1348,2022-01-31,Savannah,Bole,Techiman Market,onion,35.16,31.67,454,aggregator,no,peri-urban
+1349,2023-04-24,Bono,Berekum,Keta Market,maize,12.01,10.38,103,aggregator,yes,peri-urban
+1350,2024-11-03,Ashanti,Ejisu,Tamale Central,yam,21.32,18.31,358,wholesaler,yes,peri-urban
+1351,2023-12-18,Eastern,Koforidua,Kejetia,pepper,22.01,19.27,145,retailer,no,urban
+1352,2025-09-01,North East,Walewale,Ho Main Market,onion,18.74,16.59,582,retailer,no,rural
+1353,2022-03-09,Eastern,Koforidua,Aboabo Market,maize,12.56,10.51,37,wholesaler,yes,rural
+1354,2024-10-02,Ahafo,Tano North,Tamale Central,onion,14.88,13.47,559,wholesaler,no,peri-urban
+1355,2023-06-22,North East,Nalerigu,Makola,plantain,8.62,7.98,364,wholesaler,no,urban
+1356,2022-10-18,Ahafo,Asutifi South,Keta Market,pepper,27.02,23.06,487,aggregator,no,peri-urban
+1357,2024-09-01,Northern,Savelugu,Kotokuraba,sardine,9.99,8.41,160,retailer,yes,peri-urban
+1358,2022-01-24,North East,Nalerigu,Kejetia,sardine,12.32,11.23,25,retailer,no,peri-urban
+1359,2023-02-19,Eastern,Koforidua,Ho Main Market,cassava,13.94,11.74,560,retailer,no,peri-urban
+1360,2024-04-30,Western,Sekondi-Takoradi,Ho Main Market,pepper,12.97,10.7,84,retailer,no,rural
+1361,2024-08-19,Ashanti,Kumasi,Keta Market,plantain,10.7,9.57,75,aggregator,no,rural
+1362,2023-11-12,Upper West,Wa,Tamale Central,onion,21.93,18.61,115,wholesaler,no,urban
+1363,2024-11-25,Northern,Tamale,Ho Main Market,plantain,18.78,15.79,234,aggregator,no,urban
+1364,2022-04-11,North East,Chereponi,Kejetia,tomato,15.07,14.13,77,wholesaler,no,peri-urban
+1365,2023-06-30,Upper West,Tumu,Agbogbloshie,yam,11.71,10.01,511,wholesaler,no,rural
+1366,2022-02-08,Bono East,Nkoranza,Ho Main Market,maize,19.54,18.14,424,retailer,no,peri-urban
+1367,2022-07-30,Western North,Sefwi Wiawso,Makola,yam,11.44,9.63,203,retailer,yes,rural
+1368,2024-01-12,Ashanti,Obuasi,Tamale Central,plantain,23.33,21.42,301,wholesaler,no,rural
+1369,2023-08-15,Upper West,Tumu,Techiman Market,sardine,14.0,12.32,182,wholesaler,no,urban
+1370,2024-01-20,Volta,Keta,Keta Market,rice,20.71,17.18,108,retailer,no,urban
+1371,2022-06-21,Western,Tarkwa,Makola,yam,12.94,11.75,116,retailer,no,rural
+1372,2024-04-17,Eastern,Koforidua,Aboabo Market,rice,13.81,12.8,107,retailer,no,urban
+1373,2023-03-18,Ahafo,Tano North,Ho Main Market,palm oil,20.67,17.35,537,retailer,no,peri-urban
+1374,2024-12-18,Greater Accra,Kasoa East,Kotokuraba,plantain,29.02,26.32,82,retailer,yes,rural
+1375,2025-12-04,Ahafo,Goaso,Makola,maize,23.25,20.31,560,aggregator,no,rural
+1376,2023-06-18,Western,Axim,Agbogbloshie,sardine,18.3,16.66,210,aggregator,no,rural
+1377,2022-12-31,Upper West,Lawra,Aboabo Market,plantain,16.55,14.99,297,aggregator,yes,peri-urban
+1378,2023-01-02,Eastern,Suhum,Kejetia,cassava,11.27,9.28,558,retailer,yes,rural
+1379,2025-09-29,Central,Cape Coast,Aboabo Market,yam,14.93,12.56,104,wholesaler,yes,urban
+1380,2022-10-23,Upper East,Bolgatanga,Agbogbloshie,plantain,9.78,8.57,354,wholesaler,no,peri-urban
+1381,2025-09-26,Western North,Juaboso,Takoradi Market,maize,15.36,14.32,460,retailer,no,rural
+1382,2023-08-29,Oti,Dambai,Keta Market,tomato,15.71,13.53,191,aggregator,no,peri-urban
+1383,2024-01-26,Volta,Ho,Takoradi Market,cassava,6.78,6.07,358,wholesaler,no,peri-urban
+1384,2023-06-07,Bono,Wenchi,Takoradi Market,pepper,13.65,11.21,248,retailer,no,urban
+1385,2022-09-22,Eastern,Nsawam,Kotokuraba,plantain,15.57,14.1,198,aggregator,no,urban
+1386,2024-11-27,Bono East,Kintampo,Ho Main Market,rice,13.07,11.66,266,aggregator,yes,urban
+1387,2025-02-28,Volta,Kpando,Kotokuraba,tomato,15.26,13.82,336,aggregator,no,rural
+1388,2023-01-17,Upper East,Navrongo,Aboabo Market,pepper,8.42,7.82,305,aggregator,no,rural
+1389,2025-06-02,Eastern,Akim Oda,Techiman Market,plantain,10.26,8.59,95,aggregator,yes,urban
+1390,2025-03-12,Bono East,Nkoranza,Aboabo Market,cassava,19.34,16.47,471,aggregator,no,urban
+1391,2023-03-07,Western,Axim,Keta Market,sardine,13.47,12.65,223,aggregator,yes,rural
+1392,2023-01-24,Ahafo,Asunafo North,Ho Main Market,yam,15.16,12.72,443,aggregator,yes,urban
+1393,2022-02-23,Central,Cape Coast,Tamale Central,cassava,11.12,10.08,212,aggregator,yes,peri-urban
+1394,2022-01-24,North East,Chereponi,Techiman Market,pepper,13.56,12.3,312,aggregator,yes,peri-urban
+1395,2023-01-30,Eastern,Nsawam,Ho Main Market,onion,6.02,5.43,432,retailer,no,peri-urban
+1396,2023-09-25,Oti,Kadjebi,Tamale Central,palm oil,18.1,15.34,458,wholesaler,no,rural
+1397,2022-04-29,Northern,Savelugu,Takoradi Market,tomato,25.35,21.44,320,retailer,no,urban
+1398,2024-09-09,Bono East,Kintampo,Kejetia,rice,9.27,8.34,279,wholesaler,no,peri-urban
+1399,2025-04-23,Oti,Dambai,Ho Main Market,cassava,9.69,8.16,211,retailer,no,rural
+1400,2022-07-11,Northern,Tamale,Tamale Central,cassava,15.71,14.13,290,wholesaler,no,urban
+1401,2023-05-02,North East,Nalerigu,Agbogbloshie,palm oil,22.55,19.82,451,wholesaler,yes,urban
+1402,2023-09-25,Bono,Sunyani,Techiman Market,sardine,13.45,11.65,236,wholesaler,yes,peri-urban
+1403,2023-12-22,Volta,Hohoe,Kotokuraba,tomato,8.76,7.5,110,retailer,yes,urban
+1404,2023-01-19,Eastern,Nsawam,Ho Main Market,maize,12.52,11.69,217,wholesaler,yes,urban
+1405,2024-03-22,Bono East,Techiman,Techiman Market,rice,9.39,8.27,418,aggregator,yes,peri-urban
+1406,2022-12-12,Ahafo,Goaso,Keta Market,pepper,10.65,9.45,58,wholesaler,no,peri-urban
+1407,2023-04-18,Western North,Sefwi Wiawso,Kejetia,onion,12.1,11.3,490,retailer,no,urban
+1408,2023-11-07,Northern,Savelugu,Makola,tomato,9.73,8.74,98,retailer,yes,rural
+1409,2022-01-03,Bono East,Kintampo,Agbogbloshie,cassava,10.25,9.58,113,aggregator,yes,rural
+1410,2024-12-09,Savannah,Salaga,Keta Market,tomato,13.82,11.51,62,wholesaler,no,peri-urban
+1411,2024-07-13,Volta,Kpando,Kotokuraba,tomato,14.52,13.38,151,retailer,no,urban
+1412,2024-05-25,Central,Mfantsiman,Tamale Central,plantain,8.18,7.04,96,wholesaler,no,peri-urban
+1413,2024-09-10,Bono,Wenchi,Keta Market,palm oil,15.47,14.19,251,aggregator,no,rural
+1414,2025-05-19,Bono East,Techiman,Ho Main Market,plantain,11.78,10.87,58,aggregator,no,rural
+1415,2024-08-30,Upper West,Wa,Agbogbloshie,pepper,17.32,14.77,585,retailer,yes,urban
+1416,2025-07-30,Northern,Yendi,Techiman Market,sardine,17.69,15.37,170,wholesaler,yes,peri-urban
+1417,2023-01-14,Western,Sekondi-Takoradi,Ho Main Market,tomato,11.13,10.1,438,aggregator,yes,peri-urban
+1418,2025-09-11,Western North,Juaboso,Agbogbloshie,maize,16.69,13.88,205,aggregator,no,rural
+1419,2025-08-14,Greater Accra,Madina,Tamale Central,onion,10.04,9.14,337,retailer,yes,peri-urban
+1420,2022-05-18,North East,Bunkpurugu,Takoradi Market,yam,21.4,17.83,483,aggregator,yes,peri-urban
+1421,2022-05-05,Bono,Wenchi,Takoradi Market,plantain,10.18,9.46,451,retailer,yes,peri-urban
+1422,2024-07-22,Western,Sekondi-Takoradi,Makola,pepper,15.23,12.99,154,aggregator,no,urban
+1423,2025-11-16,Bono,Sunyani,Kotokuraba,pepper,12.61,11.21,522,aggregator,no,rural
+1424,2025-11-26,Western,Sekondi-Takoradi,Aboabo Market,tomato,9.43,7.87,288,retailer,no,peri-urban
+1425,2023-04-25,Western North,Sefwi Wiawso,Kejetia,sardine,18.45,15.73,456,retailer,no,urban
+1426,2025-11-25,Volta,Keta,Keta Market,cassava,10.86,9.43,517,wholesaler,yes,peri-urban
+1427,2023-07-24,Greater Accra,Tema,Tamale Central,maize,7.43,6.53,570,aggregator,yes,peri-urban
+1428,2025-10-17,North East,Bunkpurugu,Takoradi Market,tomato,4.91,4.03,359,wholesaler,no,rural
+1429,2022-03-07,Volta,Kpando,Tamale Central,yam,9.91,9.18,261,wholesaler,no,urban
+1430,2025-12-22,Central,Komenda,Techiman Market,plantain,21.79,17.89,240,retailer,no,peri-urban
+1431,2024-05-01,Ahafo,Tano North,Techiman Market,rice,20.91,19.09,380,aggregator,yes,rural
+1432,2023-03-08,Bono,Sunyani,Tamale Central,sardine,10.47,9.18,209,retailer,no,urban
+1433,2025-02-02,Central,Mfantsiman,Tamale Central,yam,11.81,10.43,432,aggregator,yes,peri-urban
+1434,2025-01-17,Bono,Dormaa,Kotokuraba,yam,11.44,9.67,348,retailer,no,rural
+1435,2023-08-24,Western,Tarkwa,Kotokuraba,tomato,8.44,7.54,241,aggregator,no,peri-urban
+1436,2024-05-05,Volta,Ho,Tamale Central,rice,9.66,8.54,111,wholesaler,no,peri-urban
+1437,2022-01-06,Ahafo,Asutifi South,Techiman Market,tomato,18.98,15.94,459,aggregator,yes,urban
+1438,2022-06-07,Greater Accra,Kasoa East,Kotokuraba,rice,16.06,13.63,125,aggregator,no,rural
+1439,2025-11-03,Ahafo,Asutifi South,Kejetia,pepper,14.81,12.26,264,retailer,yes,urban
+1440,2022-11-26,Oti,Nkwanta South,Keta Market,maize,8.44,6.99,324,aggregator,yes,peri-urban
+1441,2025-01-31,Upper West,Tumu,Takoradi Market,sardine,13.95,11.46,574,aggregator,no,rural
+1442,2022-08-11,Eastern,Suhum,Kotokuraba,pepper,6.01,5.09,116,aggregator,yes,peri-urban
+1443,2023-02-06,Eastern,Suhum,Kotokuraba,sardine,18.08,16.3,496,aggregator,no,peri-urban
+1444,2023-06-29,Volta,Keta,Makola,plantain,14.74,12.65,285,wholesaler,no,peri-urban
+1445,2023-05-24,Greater Accra,Accra,Agbogbloshie,cassava,8.41,7.24,594,retailer,no,rural
+1446,2022-07-03,Upper East,Navrongo,Keta Market,maize,23.71,19.82,122,aggregator,no,peri-urban
+1447,2024-07-03,Savannah,Damongo,Aboabo Market,sardine,7.18,6.38,273,retailer,yes,rural
+1448,2025-01-15,Ahafo,Asunafo North,Makola,cassava,16.21,13.96,474,wholesaler,yes,peri-urban
+1449,2023-08-04,Savannah,Damongo,Takoradi Market,cassava,16.35,14.73,532,wholesaler,no,urban
+1450,2025-11-04,Bono,Wenchi,Aboabo Market,cassava,8.72,7.93,512,aggregator,no,rural
+1451,2023-06-22,Upper East,Paga,Takoradi Market,tomato,13.29,11.83,280,retailer,yes,peri-urban
+1452,2025-12-07,Northern,Tolon,Ho Main Market,cassava,7.59,6.48,54,retailer,yes,urban
+1453,2023-06-02,Ashanti,Ejisu,Kotokuraba,tomato,4.97,4.38,400,retailer,yes,rural
+1454,2024-02-07,Volta,Hohoe,Takoradi Market,pepper,9.26,7.87,416,wholesaler,yes,urban
+1455,2022-10-22,Central,Mfantsiman,Techiman Market,rice,10.85,10.07,46,wholesaler,no,peri-urban
+1456,2024-10-11,Bono,Sunyani,Ho Main Market,palm oil,16.87,15.38,325,aggregator,yes,urban
+1457,2022-09-17,Upper East,Navrongo,Agbogbloshie,tomato,13.79,12.12,184,retailer,yes,peri-urban
+1458,2025-11-08,Upper East,Paga,Makola,tomato,13.91,13.02,277,retailer,no,peri-urban
+1459,2024-04-05,Upper West,Tumu,Keta Market,tomato,9.44,8.36,121,wholesaler,no,rural
+1460,2025-08-20,Central,Cape Coast,Ho Main Market,maize,11.18,9.61,474,aggregator,yes,peri-urban
+1461,2022-11-12,Greater Accra,Kasoa East,Tamale Central,yam,9.72,8.08,212,aggregator,no,peri-urban
+1462,2024-01-16,Western North,Bodi,Tamale Central,yam,8.77,7.76,318,aggregator,yes,rural
+1463,2023-12-20,Ahafo,Goaso,Aboabo Market,maize,10.94,10.1,40,wholesaler,no,rural
+1464,2025-01-05,Bono,Sunyani,Keta Market,maize,13.82,12.77,64,retailer,yes,peri-urban
+1465,2023-11-11,Savannah,Sawla,Makola,yam,11.02,9.84,499,aggregator,no,peri-urban
+1466,2024-05-03,Upper West,Jirapa,Kejetia,yam,12.02,10.42,515,aggregator,yes,rural
+1467,2025-11-03,Western North,Sefwi Wiawso,Tamale Central,cassava,17.17,15.42,242,retailer,no,rural
+1468,2023-04-06,Eastern,Nsawam,Keta Market,onion,11.3,10.3,318,aggregator,yes,urban
+1469,2024-12-15,Greater Accra,Madina,Aboabo Market,sardine,8.44,7.34,500,wholesaler,no,urban
+1470,2024-03-17,Oti,Dambai,Ho Main Market,yam,16.4,14.39,43,aggregator,no,urban
+1471,2025-01-09,Bono,Wenchi,Kotokuraba,maize,14.78,13.33,357,retailer,no,rural
+1472,2025-04-14,Bono East,Kintampo,Takoradi Market,onion,15.11,13.98,103,wholesaler,no,rural
+1473,2024-03-03,Eastern,Suhum,Keta Market,maize,16.76,15.33,79,aggregator,no,rural
+1474,2024-07-18,Central,Mfantsiman,Ho Main Market,onion,15.8,13.0,307,retailer,yes,urban
+1475,2025-11-07,Savannah,Salaga,Takoradi Market,tomato,13.6,11.35,536,retailer,no,peri-urban
+1476,2022-05-29,Northern,Yendi,Keta Market,plantain,31.09,28.68,173,retailer,no,peri-urban
+1477,2024-02-07,Upper West,Wa,Kejetia,onion,8.59,7.9,300,retailer,yes,peri-urban
+1478,2025-07-28,Upper East,Bolgatanga,Makola,rice,10.97,9.51,453,aggregator,yes,rural
+1479,2022-12-11,Ahafo,Asunafo North,Makola,pepper,18.89,16.81,361,aggregator,no,peri-urban
+1480,2025-12-03,Western,Shama,Keta Market,rice,14.15,13.14,105,wholesaler,no,peri-urban
+1481,2024-08-31,Upper West,Tumu,Makola,tomato,17.55,16.31,210,wholesaler,no,rural
+1482,2024-07-10,Central,Kasoa,Ho Main Market,palm oil,14.29,13.06,271,retailer,yes,rural
+1483,2022-01-30,Savannah,Damongo,Kejetia,palm oil,21.78,18.41,87,retailer,no,rural
+1484,2023-12-31,Ahafo,Asutifi South,Makola,rice,9.46,8.59,165,wholesaler,yes,rural
+1485,2025-12-16,North East,Bunkpurugu,Kotokuraba,palm oil,21.54,17.92,573,aggregator,yes,rural
+1486,2024-09-08,Greater Accra,Tema,Keta Market,onion,20.28,18.81,593,aggregator,yes,urban
+1487,2022-08-19,Western North,Juaboso,Kejetia,rice,8.81,7.38,274,aggregator,no,rural
+1488,2025-10-14,Central,Mfantsiman,Kotokuraba,maize,16.79,15.1,150,retailer,no,peri-urban
+1489,2025-03-31,Eastern,Koforidua,Kejetia,tomato,13.26,11.84,396,wholesaler,no,peri-urban
+1490,2023-12-30,Western North,Bibiani,Keta Market,palm oil,10.89,9.95,551,wholesaler,no,urban
+1491,2025-06-05,Bono East,Nkoranza,Tamale Central,maize,6.95,6.16,218,wholesaler,yes,rural
+1492,2025-05-29,Northern,Tolon,Kejetia,sardine,9.45,7.82,240,aggregator,no,peri-urban
+1493,2024-01-16,Volta,Keta,Ho Main Market,tomato,17.25,15.61,429,wholesaler,yes,peri-urban
+1494,2025-01-01,Bono,Sunyani,Aboabo Market,tomato,17.9,15.5,190,wholesaler,no,rural
+1495,2023-02-03,Ashanti,Mampong,Techiman Market,yam,12.51,10.74,164,aggregator,yes,urban
+1496,2022-04-05,Greater Accra,Kasoa East,Ho Main Market,rice,17.92,16.83,507,retailer,no,rural
+1497,2023-04-20,Upper West,Tumu,Techiman Market,tomato,18.74,16.69,373,retailer,no,rural
+1498,2025-01-23,Ashanti,Kumasi,Agbogbloshie,cassava,14.21,12.86,200,aggregator,yes,rural
+1499,2024-02-14,Upper West,Tumu,Makola,onion,10.46,9.24,180,wholesaler,no,rural
+1500,2025-02-21,Western North,Bodi,Takoradi Market,plantain,15.71,14.33,483,retailer,no,rural
+1501,2024-03-10,Eastern,Akim Oda,Tamale Central,sardine,15.97,14.54,79,retailer,yes,urban
+1502,2024-08-01,Savannah,Damongo,Techiman Market,tomato,17.05,15.33,234,retailer,yes,peri-urban
+1503,2024-10-19,North East,Chereponi,Keta Market,plantain,18.23,17.13,599,aggregator,yes,rural
+1504,2023-09-13,Bono,Sunyani,Tamale Central,pepper,8.36,7.32,211,retailer,yes,peri-urban
+1505,2024-05-09,Western North,Sefwi Wiawso,Ho Main Market,yam,11.26,10.19,507,wholesaler,no,peri-urban
+1506,2024-08-21,Bono,Wenchi,Kotokuraba,cassava,6.93,6.35,244,aggregator,no,rural
+1507,2024-12-07,Bono,Wenchi,Tamale Central,palm oil,17.49,15.13,411,aggregator,yes,peri-urban
+1508,2024-03-23,Ahafo,Goaso,Tamale Central,pepper,12.5,10.94,180,retailer,no,rural
+1509,2022-04-05,Western North,Sefwi Wiawso,Agbogbloshie,onion,15.65,14.65,474,wholesaler,no,rural
+1510,2022-02-02,Northern,Tamale,Takoradi Market,cassava,8.03,6.62,130,aggregator,yes,rural
+1511,2025-02-15,Central,Mfantsiman,Agbogbloshie,sardine,21.98,18.91,78,retailer,yes,urban
+1512,2025-06-28,Northern,Yendi,Tamale Central,plantain,8.86,7.78,564,wholesaler,no,rural
+1513,2025-08-19,Central,Komenda,Agbogbloshie,yam,17.66,14.48,572,wholesaler,no,rural
+1514,2022-05-02,Greater Accra,Madina,Takoradi Market,tomato,14.03,13.02,48,aggregator,yes,peri-urban
+1515,2022-08-06,Ahafo,Tano North,Makola,sardine,12.6,10.76,204,retailer,yes,urban
+1516,2024-12-12,Northern,Tamale,Kotokuraba,pepper,12.25,10.42,243,wholesaler,yes,peri-urban
+1517,2025-02-23,Ahafo,Asunafo North,Ho Main Market,rice,10.77,9.89,376,aggregator,no,peri-urban
+1518,2025-03-28,Western,Shama,Aboabo Market,sardine,21.19,18.08,511,aggregator,yes,rural
+1519,2024-03-05,Bono East,Atebubu,Tamale Central,plantain,13.52,12.15,597,aggregator,yes,urban
+1520,2022-06-25,Greater Accra,Kasoa East,Tamale Central,plantain,8.63,7.93,133,aggregator,no,urban
+1521,2022-10-19,Savannah,Sawla,Aboabo Market,sardine,11.77,10.77,397,aggregator,yes,rural
+1522,2025-03-28,Western,Shama,Takoradi Market,plantain,14.08,12.87,304,wholesaler,yes,urban
+1523,2023-05-06,Upper East,Bolgatanga,Aboabo Market,sardine,18.43,15.31,116,aggregator,yes,rural
+1524,2024-01-31,Northern,Tamale,Aboabo Market,maize,10.9,9.04,143,retailer,no,urban
+1525,2025-10-12,Ahafo,Asunafo North,Makola,palm oil,11.15,9.55,175,retailer,no,urban
+1526,2023-09-26,Upper East,Bolgatanga,Kotokuraba,palm oil,13.57,11.19,129,wholesaler,yes,rural
+1527,2025-06-14,Western North,Juaboso,Tamale Central,pepper,18.28,16.09,72,aggregator,no,urban
+1528,2025-12-22,Volta,Kpando,Aboabo Market,onion,8.34,7.23,193,aggregator,yes,urban
+1529,2022-05-05,Upper West,Jirapa,Kejetia,pepper,16.07,14.25,333,wholesaler,no,urban
+1530,2025-08-31,Savannah,Sawla,Kotokuraba,plantain,11.45,9.8,409,aggregator,no,peri-urban
+1531,2025-07-26,Western,Sekondi-Takoradi,Kotokuraba,tomato,12.02,10.56,64,aggregator,yes,rural
+1532,2023-08-27,Upper West,Wa,Kejetia,sardine,27.13,23.34,136,retailer,yes,peri-urban
+1533,2024-07-26,Western North,Bibiani,Makola,cassava,12.57,10.6,141,aggregator,no,urban
+1534,2025-02-02,Eastern,Suhum,Techiman Market,rice,17.53,15.74,501,wholesaler,no,urban
+1535,2024-12-01,Savannah,Bole,Agbogbloshie,pepper,17.32,15.6,189,retailer,no,peri-urban
+1536,2025-11-21,Oti,Kadjebi,Kotokuraba,rice,8.91,8.19,419,wholesaler,no,urban
+1537,2023-05-06,Savannah,Damongo,Takoradi Market,yam,7.06,6.53,519,wholesaler,yes,urban
+1538,2023-07-19,Western,Axim,Keta Market,rice,17.95,16.24,93,aggregator,no,rural
+1539,2022-06-17,Central,Kasoa,Takoradi Market,cassava,9.21,8.31,168,aggregator,yes,urban
+1540,2024-01-29,Bono,Berekum,Tamale Central,palm oil,7.52,6.22,556,retailer,yes,rural
+1541,2025-04-12,Oti,Dambai,Ho Main Market,maize,19.28,16.06,80,wholesaler,no,rural
+1542,2025-10-27,Ashanti,Mampong,Kotokuraba,plantain,9.42,8.64,73,wholesaler,no,peri-urban
+1543,2025-03-19,Ahafo,Asunafo North,Aboabo Market,pepper,10.27,8.71,242,aggregator,no,peri-urban
+1544,2022-09-06,Western,Shama,Agbogbloshie,palm oil,26.87,23.18,492,wholesaler,yes,urban
+1545,2022-06-29,Ashanti,Ejisu,Techiman Market,yam,7.53,6.31,335,wholesaler,yes,peri-urban
+1546,2025-02-17,Upper East,Bawku,Keta Market,plantain,8.67,7.31,189,wholesaler,no,rural
+1547,2022-01-28,Upper West,Wa,Keta Market,tomato,11.46,10.46,51,wholesaler,no,peri-urban
+1548,2022-04-27,Bono East,Nkoranza,Agbogbloshie,palm oil,12.38,10.54,72,wholesaler,no,rural
+1549,2023-12-04,Eastern,Koforidua,Takoradi Market,plantain,9.85,8.61,158,retailer,yes,peri-urban
+1550,2023-10-19,Upper East,Bolgatanga,Techiman Market,palm oil,8.98,7.53,393,wholesaler,yes,urban
+1551,2024-04-11,Central,Komenda,Keta Market,onion,22.84,20.59,66,wholesaler,no,peri-urban
+1552,2022-09-19,Western North,Bodi,Kotokuraba,tomato,14.76,13.39,109,retailer,yes,urban
+1553,2023-09-18,Volta,Keta,Agbogbloshie,onion,16.52,14.26,55,aggregator,yes,peri-urban
+1554,2024-02-24,Bono East,Nkoranza,Makola,cassava,12.83,11.73,244,aggregator,yes,rural
+1555,2024-11-27,North East,Nalerigu,Tamale Central,tomato,14.9,12.65,573,retailer,yes,peri-urban
+1556,2022-07-16,Upper East,Bolgatanga,Kotokuraba,cassava,18.66,16.85,288,retailer,no,peri-urban
+1557,2025-12-31,Greater Accra,Kasoa East,Makola,cassava,9.5,8.62,205,aggregator,no,rural
+1558,2023-11-15,Volta,Hohoe,Keta Market,yam,14.77,13.83,390,wholesaler,no,rural
+1559,2024-05-23,Bono East,Kintampo,Takoradi Market,plantain,17.18,14.57,254,wholesaler,yes,peri-urban
+1560,2025-12-04,Oti,Jasikan,Kotokuraba,rice,23.12,19.22,141,retailer,no,rural
+1561,2022-11-29,Western North,Bibiani,Aboabo Market,rice,26.62,22.67,443,wholesaler,no,rural
+1562,2023-12-21,Upper West,Wa,Makola,onion,13.8,11.52,408,retailer,yes,peri-urban
+1563,2025-03-27,Upper West,Tumu,Aboabo Market,sardine,20.06,16.86,136,aggregator,yes,urban
+1564,2025-03-29,Central,Mfantsiman,Techiman Market,rice,5.29,4.55,485,wholesaler,yes,peri-urban
+1565,2025-09-19,Upper East,Paga,Ho Main Market,rice,23.18,20.16,448,aggregator,no,peri-urban
+1566,2025-10-31,Oti,Kadjebi,Agbogbloshie,tomato,10.44,9.69,461,wholesaler,no,urban
+1567,2022-03-20,Central,Kasoa,Tamale Central,palm oil,12.37,10.43,58,wholesaler,yes,peri-urban
+1568,2022-07-16,Bono,Dormaa,Ho Main Market,onion,15.71,14.71,181,wholesaler,no,peri-urban
+1569,2025-02-17,Upper West,Tumu,Tamale Central,onion,12.76,11.7,545,retailer,no,rural
+1570,2022-08-14,Northern,Savelugu,Agbogbloshie,yam,14.42,13.35,185,aggregator,yes,peri-urban
+1571,2023-08-18,Savannah,Sawla,Makola,cassava,23.47,21.86,464,retailer,yes,urban
+1572,2025-12-04,Central,Komenda,Agbogbloshie,cassava,11.77,10.72,462,retailer,no,urban
+1573,2024-07-01,Upper East,Navrongo,Kotokuraba,maize,9.2,8.41,350,aggregator,no,rural
+1574,2024-01-05,Western North,Bibiani,Agbogbloshie,yam,25.4,22.16,354,aggregator,yes,peri-urban
+1575,2025-09-24,Upper West,Tumu,Agbogbloshie,pepper,16.19,14.27,131,retailer,yes,peri-urban
+1576,2024-07-07,Oti,Nkwanta South,Techiman Market,pepper,26.38,24.58,158,retailer,yes,peri-urban
+1577,2023-06-21,Ashanti,Obuasi,Kejetia,pepper,18.22,15.77,185,retailer,yes,peri-urban
+1578,2022-08-08,Upper West,Lawra,Kotokuraba,plantain,8.47,6.99,433,aggregator,no,urban
+1579,2022-10-20,Western,Tarkwa,Takoradi Market,palm oil,16.88,15.39,188,retailer,no,urban
+1580,2025-05-12,Bono East,Kintampo,Takoradi Market,yam,9.54,8.48,143,aggregator,no,rural
+1581,2022-07-21,Upper East,Bawku,Takoradi Market,plantain,13.5,12.39,569,retailer,no,peri-urban
+1582,2022-02-01,Bono East,Atebubu,Techiman Market,cassava,13.11,10.87,117,aggregator,no,urban
+1583,2025-01-17,Central,Kasoa,Takoradi Market,cassava,7.64,6.83,79,retailer,yes,peri-urban
+1584,2025-05-10,North East,Walewale,Keta Market,cassava,10.13,8.61,38,wholesaler,yes,urban
+1585,2025-08-09,Central,Mfantsiman,Agbogbloshie,cassava,29.13,27.04,143,wholesaler,yes,urban
+1586,2023-12-17,Ahafo,Goaso,Agbogbloshie,yam,14.64,12.2,245,aggregator,yes,rural
+1587,2024-01-23,Ashanti,Obuasi,Tamale Central,yam,12.66,11.66,343,aggregator,no,peri-urban
+1588,2024-10-13,Western,Shama,Techiman Market,plantain,25.39,21.09,36,wholesaler,no,rural
+1589,2022-04-25,Bono,Wenchi,Ho Main Market,sardine,11.72,9.65,99,aggregator,yes,rural
+1590,2023-12-23,Bono,Dormaa,Kejetia,pepper,13.04,11.06,475,aggregator,no,rural
+1591,2025-05-30,Western North,Bodi,Takoradi Market,palm oil,19.04,16.37,560,wholesaler,yes,rural
+1592,2022-07-01,Oti,Dambai,Agbogbloshie,yam,11.7,10.47,397,retailer,no,rural
+1593,2024-02-10,Eastern,Koforidua,Takoradi Market,sardine,10.37,8.67,210,aggregator,no,rural
+1594,2023-04-14,Northern,Tamale,Kotokuraba,plantain,6.12,5.34,510,aggregator,no,rural
+1595,2023-03-02,Oti,Kadjebi,Agbogbloshie,palm oil,9.7,8.19,424,retailer,no,peri-urban
+1596,2024-04-13,Ahafo,Asunafo North,Kotokuraba,cassava,9.67,8.92,291,retailer,no,rural
+1597,2024-12-19,Eastern,Koforidua,Techiman Market,yam,14.23,11.75,449,aggregator,no,peri-urban
+1598,2023-04-30,Northern,Tamale,Ho Main Market,cassava,10.87,9.38,539,aggregator,no,peri-urban
+1599,2022-01-11,Bono East,Kintampo,Ho Main Market,pepper,28.65,25.66,403,retailer,yes,urban
+1600,2025-11-09,Oti,Nkwanta South,Takoradi Market,rice,9.3,8.65,211,aggregator,yes,rural
+1601,2025-12-04,Bono,Berekum,Tamale Central,plantain,21.98,20.31,454,retailer,no,peri-urban
+1602,2022-02-11,Upper West,Jirapa,Techiman Market,palm oil,14.54,13.48,82,retailer,yes,urban
+1603,2022-05-03,Eastern,Akim Oda,Tamale Central,yam,17.86,14.78,235,aggregator,yes,urban
+1604,2023-12-02,Eastern,Nsawam,Techiman Market,rice,17.48,16.1,153,aggregator,yes,rural
+1605,2022-09-09,Upper West,Wa,Tamale Central,tomato,6.19,5.66,180,retailer,yes,rural
+1606,2024-08-30,Ashanti,Obuasi,Agbogbloshie,sardine,13.41,12.45,277,aggregator,yes,rural
+1607,2023-08-27,Western,Tarkwa,Agbogbloshie,rice,12.28,10.53,444,retailer,no,rural
+1608,2022-08-01,Central,Cape Coast,Ho Main Market,pepper,9.06,8.42,547,wholesaler,no,peri-urban
+1609,2022-09-25,Ahafo,Tano North,Agbogbloshie,plantain,15.81,13.73,377,wholesaler,no,peri-urban
+1610,2024-10-02,Upper West,Tumu,Takoradi Market,onion,24.55,22.0,394,retailer,yes,rural
+1611,2023-12-08,Northern,Tamale,Kejetia,tomato,5.28,4.6,590,retailer,yes,rural
+1612,2023-06-24,Northern,Yendi,Ho Main Market,tomato,11.17,9.73,28,aggregator,no,peri-urban
+1613,2023-12-07,Bono,Wenchi,Techiman Market,onion,8.71,7.71,216,retailer,yes,rural
+1614,2024-10-07,Central,Kasoa,Ho Main Market,maize,13.81,11.91,136,retailer,no,urban
+1615,2023-09-11,Western,Axim,Kotokuraba,maize,12.01,10.99,29,aggregator,no,peri-urban
+1616,2025-03-04,Bono,Sunyani,Ho Main Market,rice,10.89,9.76,538,aggregator,yes,urban
+1617,2023-05-13,Greater Accra,Kasoa East,Agbogbloshie,palm oil,17.14,15.47,368,wholesaler,yes,urban
+1618,2024-10-17,Upper West,Tumu,Techiman Market,pepper,23.87,20.24,423,retailer,yes,urban
+1619,2024-02-21,Western,Shama,Takoradi Market,yam,34.17,32.0,594,retailer,no,urban
+1620,2022-05-06,Ahafo,Tano North,Kotokuraba,rice,10.39,9.34,23,wholesaler,no,rural
+1621,2025-10-14,Western,Sekondi-Takoradi,Kotokuraba,maize,7.12,6.01,347,retailer,no,rural
+1622,2024-04-20,Central,Cape Coast,Kotokuraba,maize,16.37,14.9,531,aggregator,no,rural
+1623,2024-09-09,Eastern,Akim Oda,Takoradi Market,sardine,23.66,19.89,149,retailer,yes,rural
+1624,2025-09-03,Volta,Keta,Makola,plantain,17.9,14.81,503,aggregator,no,peri-urban
+1625,2022-01-12,Savannah,Salaga,Techiman Market,rice,23.62,20.86,377,retailer,yes,rural
+1626,2025-08-10,Western North,Bibiani,Kotokuraba,yam,12.44,11.03,404,wholesaler,no,peri-urban
+1627,2023-05-31,Upper East,Bawku,Aboabo Market,cassava,10.88,9.17,273,aggregator,no,urban
+1628,2025-11-15,Volta,Keta,Ho Main Market,maize,14.02,12.08,186,aggregator,no,peri-urban
+1629,2022-11-12,Greater Accra,Tema,Aboabo Market,cassava,11.99,11.19,488,wholesaler,no,rural
+1630,2024-10-28,Bono,Dormaa,Kotokuraba,palm oil,16.98,14.5,512,aggregator,no,urban
+1631,2025-02-21,Greater Accra,Kasoa East,Agbogbloshie,palm oil,18.9,15.85,357,wholesaler,no,urban
+1632,2025-10-27,Bono East,Kintampo,Kotokuraba,pepper,19.43,18.25,70,retailer,yes,rural
+1633,2022-11-10,Oti,Dambai,Ho Main Market,maize,16.1,13.79,75,wholesaler,no,urban
+1634,2025-04-23,Savannah,Bole,Agbogbloshie,tomato,14.67,13.23,92,retailer,yes,urban
+1635,2023-07-01,Volta,Keta,Tamale Central,pepper,17.78,15.07,71,aggregator,yes,urban
+1636,2022-02-08,Eastern,Koforidua,Techiman Market,tomato,6.77,6.0,144,aggregator,no,peri-urban
+1637,2025-01-12,Central,Komenda,Ho Main Market,palm oil,14.49,12.55,281,wholesaler,no,urban
+1638,2024-11-10,Bono East,Techiman,Agbogbloshie,sardine,13.71,12.82,594,retailer,no,urban
+1639,2022-09-10,Eastern,Suhum,Ho Main Market,onion,14.51,12.65,567,wholesaler,yes,peri-urban
+1640,2022-10-30,Upper West,Jirapa,Ho Main Market,onion,13.06,11.62,540,aggregator,yes,rural
+1641,2024-09-05,Upper East,Bawku,Makola,yam,15.66,14.62,349,aggregator,yes,peri-urban
+1642,2022-09-15,Bono,Berekum,Aboabo Market,onion,11.01,10.34,342,retailer,yes,peri-urban
+1643,2024-09-26,Bono,Berekum,Kotokuraba,sardine,19.99,16.64,260,retailer,no,rural
+1644,2023-06-26,Central,Mfantsiman,Agbogbloshie,pepper,15.89,14.62,304,aggregator,yes,rural
+1645,2023-10-02,Savannah,Damongo,Takoradi Market,cassava,14.19,12.29,283,aggregator,yes,peri-urban
+1646,2023-07-06,Central,Mfantsiman,Kotokuraba,yam,10.55,9.4,318,retailer,yes,urban
+1647,2023-04-06,Northern,Tolon,Keta Market,pepper,17.91,15.49,224,wholesaler,yes,rural
+1648,2022-08-12,Western,Tarkwa,Kotokuraba,cassava,14.47,12.56,310,wholesaler,no,urban
+1649,2022-04-02,Bono East,Techiman,Takoradi Market,plantain,10.34,8.68,230,retailer,no,rural
+1650,2022-10-07,Central,Kasoa,Takoradi Market,rice,13.2,11.73,385,retailer,no,urban
+1651,2025-04-08,Upper East,Bawku,Tamale Central,pepper,16.78,14.86,483,retailer,no,peri-urban
+1652,2022-09-05,Western North,Sefwi Wiawso,Ho Main Market,rice,16.33,13.76,341,aggregator,no,peri-urban
+1653,2025-10-16,Northern,Savelugu,Aboabo Market,pepper,15.97,14.13,377,wholesaler,yes,peri-urban
+1654,2025-10-04,Bono East,Nkoranza,Kejetia,cassava,13.91,13.03,113,retailer,yes,peri-urban
+1655,2024-05-15,Upper West,Jirapa,Kotokuraba,maize,19.28,17.46,188,wholesaler,yes,rural
+1656,2025-12-29,Western,Sekondi-Takoradi,Tamale Central,yam,20.76,18.22,316,aggregator,yes,peri-urban
+1657,2025-11-30,Western,Axim,Agbogbloshie,plantain,17.43,16.21,535,aggregator,yes,urban
+1658,2022-03-19,Bono,Berekum,Keta Market,cassava,10.96,9.74,117,retailer,no,peri-urban
+1659,2023-04-03,Greater Accra,Tema,Makola,tomato,9.3,7.78,369,retailer,yes,peri-urban
+1660,2023-08-09,Greater Accra,Accra,Agbogbloshie,maize,11.13,9.86,598,retailer,no,peri-urban
+1661,2025-11-16,North East,Walewale,Makola,sardine,26.68,22.46,420,retailer,no,peri-urban
+1662,2024-11-03,Bono East,Nkoranza,Tamale Central,tomato,14.86,13.55,470,wholesaler,no,rural
+1663,2022-02-14,Bono East,Nkoranza,Kotokuraba,sardine,28.34,26.53,494,retailer,yes,rural
+1664,2022-02-07,Volta,Ho,Ho Main Market,yam,12.91,11.15,438,wholesaler,yes,rural
+1665,2023-02-20,Volta,Kpando,Kotokuraba,yam,12.3,10.73,23,aggregator,yes,urban
+1666,2022-09-02,Northern,Yendi,Kotokuraba,tomato,13.12,11.42,343,aggregator,no,urban
+1667,2024-12-21,Oti,Jasikan,Agbogbloshie,yam,13.04,11.14,388,wholesaler,no,peri-urban
+1668,2023-05-08,Greater Accra,Madina,Takoradi Market,onion,10.27,9.4,414,wholesaler,yes,urban
+1669,2022-11-19,Bono,Dormaa,Takoradi Market,rice,9.01,8.06,575,retailer,no,urban
+1670,2025-06-29,Western,Axim,Takoradi Market,palm oil,16.05,13.28,138,retailer,no,urban
+1671,2023-04-13,Upper West,Jirapa,Takoradi Market,cassava,19.48,17.93,209,retailer,no,urban
+1672,2024-12-20,Northern,Yendi,Tamale Central,sardine,31.68,26.69,435,aggregator,yes,rural
+1673,2025-02-16,Upper West,Tumu,Aboabo Market,plantain,11.57,10.85,125,wholesaler,no,rural
+1674,2022-03-28,Central,Cape Coast,Tamale Central,palm oil,11.9,10.3,184,wholesaler,yes,urban
+1675,2022-03-21,Bono East,Techiman,Techiman Market,onion,10.28,9.19,365,wholesaler,yes,urban
+1676,2022-08-16,Ahafo,Tano North,Takoradi Market,maize,19.97,16.56,117,wholesaler,no,rural
+1677,2023-04-28,Northern,Tolon,Kotokuraba,maize,17.91,15.43,505,retailer,no,peri-urban
+1678,2023-09-15,Eastern,Nsawam,Techiman Market,cassava,9.91,9.08,350,retailer,no,rural
+1679,2025-08-26,Western North,Bibiani,Tamale Central,palm oil,9.82,8.61,389,wholesaler,yes,urban
+1680,2024-08-05,Savannah,Damongo,Keta Market,palm oil,18.79,17.45,461,retailer,yes,urban
+1681,2023-04-30,Ashanti,Obuasi,Ho Main Market,cassava,15.4,13.69,139,aggregator,no,urban
+1682,2024-04-19,Upper West,Tumu,Kejetia,sardine,17.56,16.36,318,retailer,no,rural
+1683,2022-01-25,Greater Accra,Accra,Keta Market,pepper,9.89,9.28,162,aggregator,yes,urban
+1684,2025-05-10,Bono,Wenchi,Makola,cassava,6.98,6.1,112,aggregator,no,rural
+1685,2025-06-02,Western,Axim,Kejetia,yam,9.91,8.8,316,wholesaler,yes,peri-urban
+1686,2024-02-18,Eastern,Akim Oda,Tamale Central,rice,17.13,15.76,466,wholesaler,no,urban
+1687,2024-07-19,North East,Nalerigu,Makola,palm oil,28.19,23.87,499,retailer,no,urban
+1688,2024-03-05,Western North,Juaboso,Takoradi Market,pepper,11.58,10.69,277,wholesaler,no,peri-urban
+1689,2024-01-23,Bono,Wenchi,Kotokuraba,cassava,29.86,26.61,541,aggregator,yes,rural
+1690,2025-04-21,Upper West,Tumu,Agbogbloshie,maize,18.0,16.33,394,aggregator,no,urban
+1691,2025-01-05,Upper East,Bolgatanga,Kotokuraba,plantain,8.27,6.86,446,retailer,no,urban
+1692,2023-03-02,Upper East,Bawku,Agbogbloshie,maize,14.51,13.23,120,aggregator,yes,urban
+1693,2024-12-26,Central,Kasoa,Kejetia,cassava,18.22,15.62,263,wholesaler,yes,urban
+1694,2023-10-22,Volta,Kpando,Ho Main Market,rice,5.76,5.28,42,retailer,yes,peri-urban
+1695,2023-11-16,Eastern,Koforidua,Techiman Market,rice,16.87,14.86,373,retailer,yes,rural
+1696,2023-07-01,Ahafo,Goaso,Makola,maize,20.3,17.31,485,retailer,yes,peri-urban
+1697,2025-01-05,Oti,Jasikan,Keta Market,sardine,15.48,14.46,244,wholesaler,yes,rural
+1698,2024-07-04,Greater Accra,Accra,Agbogbloshie,tomato,13.18,12.02,463,aggregator,yes,peri-urban
+1699,2022-02-24,Bono East,Techiman,Aboabo Market,plantain,12.67,11.89,288,wholesaler,yes,peri-urban
+1700,2025-06-24,Oti,Jasikan,Keta Market,yam,12.42,10.73,552,retailer,no,rural
+1701,2022-11-10,Savannah,Bole,Kotokuraba,maize,8.92,8.01,333,aggregator,no,urban
+1702,2025-09-05,Western,Shama,Tamale Central,tomato,10.58,9.45,139,retailer,no,urban
+1703,2022-08-08,Greater Accra,Accra,Makola,rice,11.64,10.51,500,wholesaler,no,peri-urban
+1704,2025-10-26,Greater Accra,Tema,Kejetia,yam,14.01,11.55,139,retailer,yes,peri-urban
+1705,2025-05-24,Savannah,Salaga,Keta Market,yam,11.08,9.47,155,wholesaler,yes,peri-urban
+1706,2022-02-18,Central,Cape Coast,Keta Market,yam,9.93,9.23,96,retailer,yes,urban
+1707,2023-04-08,North East,Walewale,Agbogbloshie,rice,17.57,15.3,373,retailer,yes,rural
+1708,2022-04-28,North East,Nalerigu,Keta Market,palm oil,15.33,14.34,77,retailer,yes,urban
+1709,2022-03-23,Central,Komenda,Tamale Central,sardine,11.15,9.43,105,wholesaler,no,peri-urban
+1710,2025-07-10,Central,Mfantsiman,Agbogbloshie,sardine,16.07,15.1,20,wholesaler,no,urban
+1711,2023-05-11,Greater Accra,Accra,Kotokuraba,tomato,11.49,10.38,96,wholesaler,yes,urban
+1712,2023-09-26,Eastern,Koforidua,Techiman Market,tomato,13.76,12.57,541,wholesaler,no,urban
+1713,2024-04-16,Bono East,Techiman,Takoradi Market,plantain,18.94,16.43,463,wholesaler,yes,rural
+1714,2023-08-25,Ashanti,Kumasi,Ho Main Market,palm oil,10.9,10.12,167,aggregator,yes,peri-urban
+1715,2024-02-09,North East,Walewale,Ho Main Market,rice,8.93,7.91,593,retailer,no,urban
+1716,2023-11-04,Bono,Dormaa,Aboabo Market,onion,12.8,11.54,544,wholesaler,no,urban
+1717,2022-06-25,Ashanti,Kumasi,Techiman Market,onion,8.35,6.94,205,aggregator,yes,peri-urban
+1718,2024-03-15,Western North,Bibiani,Agbogbloshie,cassava,12.22,10.95,541,aggregator,no,urban
+1719,2025-01-17,Upper East,Bawku,Aboabo Market,onion,12.2,11.29,181,retailer,yes,urban
+1720,2023-10-01,Western,Shama,Makola,onion,5.68,4.78,309,retailer,yes,urban
+1721,2025-10-14,Oti,Kadjebi,Kotokuraba,pepper,16.21,14.73,440,retailer,no,urban
+1722,2025-08-02,Greater Accra,Kasoa East,Kejetia,rice,12.63,10.4,215,wholesaler,yes,peri-urban
+1723,2022-10-24,Oti,Kadjebi,Keta Market,rice,20.36,18.96,53,retailer,yes,urban
+1724,2025-07-07,Eastern,Suhum,Kejetia,palm oil,14.52,13.62,589,retailer,no,rural
+1725,2023-04-20,North East,Bunkpurugu,Agbogbloshie,tomato,17.42,15.02,427,retailer,yes,urban
+1726,2023-06-20,Upper West,Wa,Aboabo Market,sardine,20.42,17.01,316,aggregator,yes,rural
+1727,2024-11-26,Volta,Hohoe,Keta Market,yam,12.86,11.56,556,wholesaler,no,peri-urban
+1728,2025-04-19,Eastern,Koforidua,Agbogbloshie,onion,13.46,11.09,55,retailer,no,urban
+1729,2022-01-25,Greater Accra,Accra,Tamale Central,sardine,7.76,6.81,283,aggregator,no,rural
+1730,2022-12-15,Ashanti,Kumasi,Tamale Central,sardine,20.78,17.72,401,wholesaler,yes,rural
+1731,2023-09-29,Oti,Dambai,Aboabo Market,yam,12.79,11.21,133,retailer,yes,urban
+1732,2022-08-15,Volta,Ho,Keta Market,palm oil,9.47,7.79,462,aggregator,no,urban
+1733,2025-10-03,Ashanti,Obuasi,Ho Main Market,yam,17.44,14.41,182,wholesaler,no,peri-urban
+1734,2022-02-07,Eastern,Koforidua,Tamale Central,pepper,6.28,5.16,57,retailer,yes,peri-urban
+1735,2025-11-07,Northern,Savelugu,Makola,pepper,11.59,10.36,111,retailer,no,urban
+1736,2023-07-24,Western North,Juaboso,Aboabo Market,yam,18.5,16.41,120,aggregator,yes,peri-urban
+1737,2022-08-24,Volta,Ho,Tamale Central,rice,11.55,9.79,526,retailer,yes,peri-urban
+1738,2025-04-19,Bono,Dormaa,Tamale Central,cassava,10.47,9.4,198,aggregator,no,peri-urban
+1739,2022-04-24,Savannah,Salaga,Aboabo Market,maize,11.64,10.78,303,aggregator,yes,peri-urban
+1740,2022-11-02,Oti,Kadjebi,Makola,cassava,6.66,5.68,374,aggregator,no,urban
+1741,2022-05-12,Volta,Hohoe,Aboabo Market,pepper,17.3,15.91,316,wholesaler,yes,urban
+1742,2022-12-14,Volta,Ho,Kotokuraba,pepper,12.9,11.6,554,aggregator,yes,rural
+1743,2025-04-18,Upper West,Tumu,Ho Main Market,tomato,12.24,10.09,507,wholesaler,yes,peri-urban
+1744,2023-02-19,North East,Walewale,Kejetia,rice,12.26,10.61,298,retailer,no,urban
+1745,2024-09-09,Western,Tarkwa,Takoradi Market,maize,13.53,11.92,563,wholesaler,yes,rural
+1746,2024-01-02,Central,Kasoa,Makola,tomato,16.92,15.36,374,aggregator,yes,peri-urban
+1747,2023-10-16,Upper West,Tumu,Takoradi Market,pepper,13.22,11.3,338,retailer,no,rural
+1748,2023-01-20,Eastern,Akim Oda,Makola,palm oil,8.36,7.84,214,aggregator,no,peri-urban
+1749,2023-05-27,Western North,Bibiani,Kotokuraba,cassava,16.47,14.86,112,aggregator,yes,urban
+1750,2024-12-02,Eastern,Akim Oda,Takoradi Market,onion,16.03,13.86,452,retailer,no,rural
+1751,2025-02-15,Savannah,Sawla,Makola,tomato,14.47,12.03,577,aggregator,yes,urban
+1752,2022-03-02,Upper East,Bolgatanga,Takoradi Market,yam,19.62,16.52,46,wholesaler,yes,peri-urban
+1753,2023-07-07,Oti,Jasikan,Kotokuraba,cassava,13.61,11.96,434,retailer,yes,peri-urban
+1754,2022-07-07,Savannah,Damongo,Agbogbloshie,onion,19.87,17.47,181,retailer,yes,peri-urban
+1755,2023-03-29,Upper West,Wa,Keta Market,onion,22.03,20.09,120,retailer,yes,rural
+1756,2024-04-26,Bono,Sunyani,Kejetia,palm oil,16.51,14.98,492,aggregator,yes,rural
+1757,2022-07-06,Savannah,Salaga,Kotokuraba,onion,10.36,8.75,177,aggregator,no,rural
+1758,2024-07-26,Savannah,Damongo,Kotokuraba,pepper,12.86,11.46,511,retailer,yes,urban
+1759,2022-06-13,Western North,Juaboso,Keta Market,sardine,20.77,17.08,28,wholesaler,yes,rural
+1760,2025-12-18,Central,Kasoa,Ho Main Market,sardine,7.97,6.92,231,aggregator,no,peri-urban
+1761,2022-04-12,Upper East,Bawku,Techiman Market,plantain,11.74,10.7,458,aggregator,yes,urban
+1762,2025-07-14,Ahafo,Asunafo North,Agbogbloshie,maize,11.94,10.36,130,aggregator,yes,peri-urban
+1763,2025-03-22,Ashanti,Mampong,Ho Main Market,palm oil,9.95,9.16,222,wholesaler,yes,peri-urban
+1764,2025-12-23,Oti,Jasikan,Ho Main Market,plantain,18.27,17.12,84,aggregator,yes,rural
+1765,2023-11-22,Western,Tarkwa,Agbogbloshie,maize,15.36,13.71,180,aggregator,no,rural
+1766,2025-12-21,Bono,Berekum,Tamale Central,sardine,10.5,8.79,433,wholesaler,yes,rural
+1767,2023-08-01,Bono East,Kintampo,Makola,palm oil,16.64,14.4,285,wholesaler,no,peri-urban
+1768,2023-09-03,Upper West,Jirapa,Keta Market,pepper,12.74,10.46,591,aggregator,no,urban
+1769,2023-06-20,Northern,Yendi,Techiman Market,rice,9.86,8.8,224,retailer,no,rural
+1770,2025-09-18,Ahafo,Goaso,Keta Market,tomato,10.49,9.64,175,retailer,yes,rural
+1771,2024-01-31,Bono,Berekum,Kejetia,tomato,15.68,14.04,192,wholesaler,yes,urban
+1772,2024-06-14,Bono,Sunyani,Ho Main Market,cassava,18.7,17.1,327,aggregator,no,peri-urban
+1773,2024-08-28,Upper West,Tumu,Takoradi Market,sardine,11.35,10.4,469,wholesaler,no,peri-urban
+1774,2022-05-04,Western,Sekondi-Takoradi,Kotokuraba,sardine,16.29,15.02,81,wholesaler,yes,urban
+1775,2025-08-18,Upper West,Jirapa,Takoradi Market,pepper,23.42,19.95,392,retailer,yes,rural
+1776,2023-10-30,Western North,Sefwi Wiawso,Agbogbloshie,plantain,8.67,8.02,479,wholesaler,yes,urban
+1777,2022-12-15,Eastern,Akim Oda,Kotokuraba,rice,15.25,13.7,494,wholesaler,yes,rural
+1778,2022-09-06,Central,Cape Coast,Kotokuraba,sardine,18.01,15.39,400,aggregator,yes,urban
+1779,2025-07-18,Bono,Berekum,Aboabo Market,onion,13.02,12.22,591,aggregator,no,peri-urban
+1780,2025-12-23,Bono East,Nkoranza,Makola,cassava,20.77,19.4,105,wholesaler,no,peri-urban
+1781,2023-12-08,Savannah,Sawla,Ho Main Market,tomato,29.07,25.84,162,wholesaler,no,peri-urban
+1782,2023-12-14,Greater Accra,Madina,Makola,sardine,15.18,13.98,26,aggregator,yes,peri-urban
+1783,2024-10-03,Bono,Berekum,Keta Market,rice,12.41,10.57,314,retailer,no,urban
+1784,2022-09-04,Northern,Yendi,Techiman Market,yam,18.95,16.49,538,aggregator,yes,urban
+1785,2023-04-26,North East,Nalerigu,Tamale Central,plantain,18.08,15.22,545,aggregator,no,rural
+1786,2022-04-08,Upper West,Jirapa,Techiman Market,rice,5.58,4.92,53,aggregator,yes,urban
+1787,2022-11-25,Ashanti,Kumasi,Kotokuraba,onion,13.45,11.83,348,aggregator,no,rural
+1788,2025-12-19,Central,Kasoa,Takoradi Market,plantain,11.73,9.92,53,aggregator,no,urban
+1789,2025-12-18,Volta,Kpando,Keta Market,tomato,15.47,13.93,425,retailer,yes,urban
+1790,2024-10-25,Bono East,Nkoranza,Kotokuraba,plantain,12.58,10.49,37,aggregator,yes,urban
+1791,2023-04-04,Upper East,Paga,Kotokuraba,rice,13.07,10.81,449,aggregator,no,urban
+1792,2024-03-06,Upper West,Jirapa,Agbogbloshie,palm oil,9.95,8.62,447,retailer,no,peri-urban
+1793,2023-08-16,Central,Mfantsiman,Takoradi Market,rice,17.41,15.13,312,wholesaler,yes,urban
+1794,2023-05-13,Bono,Berekum,Techiman Market,sardine,24.03,20.63,599,retailer,yes,rural
+1795,2022-03-28,Oti,Nkwanta South,Techiman Market,onion,10.01,8.52,99,aggregator,yes,peri-urban
+1796,2023-02-06,Western,Axim,Tamale Central,pepper,8.26,7.11,105,wholesaler,no,urban
+1797,2025-08-09,Savannah,Salaga,Agbogbloshie,plantain,13.56,11.39,591,retailer,no,urban
+1798,2025-07-28,Western North,Bibiani,Keta Market,rice,13.33,11.58,67,wholesaler,yes,rural
+1799,2022-07-16,Ahafo,Goaso,Agbogbloshie,maize,20.28,18.83,103,retailer,no,peri-urban
+1800,2024-02-03,North East,Bunkpurugu,Takoradi Market,maize,8.76,7.42,327,retailer,yes,peri-urban
+1801,2025-01-11,Northern,Yendi,Makola,cassava,11.15,10.06,271,wholesaler,no,peri-urban
+1802,2022-01-27,North East,Walewale,Aboabo Market,plantain,6.35,5.32,500,wholesaler,yes,peri-urban
+1803,2022-05-15,Bono East,Nkoranza,Kejetia,palm oil,21.79,18.79,199,wholesaler,yes,rural
+1804,2025-01-18,Upper East,Bawku,Tamale Central,onion,14.7,12.62,329,wholesaler,no,urban
+1805,2022-07-25,Ashanti,Obuasi,Tamale Central,yam,11.45,10.68,445,aggregator,yes,urban
+1806,2024-11-16,Bono East,Kintampo,Kotokuraba,onion,8.48,7.39,505,retailer,yes,peri-urban
+1807,2025-11-02,Volta,Kpando,Techiman Market,plantain,8.75,7.9,58,aggregator,no,rural
+1808,2025-12-09,Western North,Bodi,Agbogbloshie,maize,15.56,13.88,298,retailer,no,urban
+1809,2025-06-04,Northern,Tolon,Ho Main Market,onion,9.14,7.65,395,aggregator,no,peri-urban
+1810,2023-08-26,Oti,Kadjebi,Keta Market,rice,13.96,13.02,60,aggregator,no,peri-urban
+1811,2024-12-27,Northern,Savelugu,Kotokuraba,onion,27.52,23.71,66,retailer,yes,rural
+1812,2022-12-28,Central,Mfantsiman,Makola,plantain,11.92,9.84,503,aggregator,yes,rural
+1813,2025-07-07,Central,Komenda,Kejetia,rice,9.62,8.24,204,wholesaler,yes,rural
+1814,2023-10-20,Oti,Dambai,Ho Main Market,tomato,15.39,13.24,91,wholesaler,yes,peri-urban
+1815,2024-12-22,Bono,Berekum,Techiman Market,onion,8.77,7.29,588,aggregator,yes,rural
+1816,2024-08-29,Volta,Ho,Makola,cassava,24.58,21.98,593,aggregator,no,peri-urban
+1817,2024-09-06,Western,Axim,Agbogbloshie,plantain,22.0,18.96,361,retailer,no,urban
+1818,2024-07-29,Eastern,Nsawam,Agbogbloshie,sardine,12.71,11.38,588,retailer,yes,peri-urban
+1819,2024-06-26,Western North,Bibiani,Aboabo Market,sardine,9.83,8.07,262,aggregator,no,peri-urban
+1820,2025-11-16,Greater Accra,Madina,Ho Main Market,cassava,11.6,10.88,347,retailer,no,urban
+1821,2022-09-03,Upper East,Bolgatanga,Tamale Central,sardine,12.14,10.2,172,wholesaler,no,rural
+1822,2022-10-05,Western,Sekondi-Takoradi,Tamale Central,cassava,15.4,13.85,274,wholesaler,no,rural
+1823,2022-12-13,Oti,Dambai,Takoradi Market,tomato,19.37,17.55,443,wholesaler,no,peri-urban
+1824,2023-01-07,Volta,Ho,Makola,palm oil,9.37,7.88,251,retailer,yes,peri-urban
+1825,2024-03-19,Western,Shama,Techiman Market,maize,19.18,15.98,548,retailer,no,urban
+1826,2024-04-28,Upper East,Navrongo,Ho Main Market,rice,16.71,14.01,515,retailer,yes,rural
+1827,2022-05-03,Northern,Tamale,Aboabo Market,cassava,11.27,9.58,195,retailer,yes,urban
+1828,2024-12-16,Greater Accra,Madina,Aboabo Market,pepper,9.2,7.73,570,aggregator,yes,peri-urban
+1829,2022-06-09,Bono,Wenchi,Takoradi Market,pepper,14.02,12.63,162,aggregator,yes,peri-urban
+1830,2025-02-24,Upper East,Navrongo,Techiman Market,pepper,9.29,8.09,36,aggregator,yes,urban
+1831,2024-01-07,Upper West,Jirapa,Techiman Market,yam,19.26,17.04,268,aggregator,no,urban
+1832,2025-08-27,Greater Accra,Kasoa East,Kejetia,sardine,9.09,7.51,54,wholesaler,yes,rural
+1833,2023-06-02,Upper West,Lawra,Kejetia,cassava,16.31,15.06,165,retailer,yes,urban
+1834,2024-07-23,Ahafo,Tano North,Aboabo Market,plantain,13.09,11.0,184,wholesaler,yes,rural
+1835,2025-07-12,Ashanti,Ejisu,Ho Main Market,cassava,11.06,9.55,130,retailer,no,rural
+1836,2024-01-16,Bono East,Nkoranza,Ho Main Market,plantain,12.99,10.76,93,aggregator,no,urban
+1837,2022-10-15,Greater Accra,Accra,Techiman Market,tomato,19.65,16.44,373,wholesaler,no,urban
+1838,2023-02-24,Western,Shama,Ho Main Market,plantain,8.87,7.98,293,retailer,no,rural
+1839,2022-05-20,Northern,Savelugu,Aboabo Market,palm oil,11.66,10.53,298,aggregator,yes,urban
+1840,2023-12-08,Western,Sekondi-Takoradi,Keta Market,pepper,10.35,9.33,50,retailer,yes,rural
+1841,2023-11-29,Central,Kasoa,Takoradi Market,sardine,13.28,11.77,545,retailer,yes,rural
+1842,2024-09-13,Western,Tarkwa,Tamale Central,rice,10.59,9.89,554,aggregator,yes,peri-urban
+1843,2023-04-20,North East,Walewale,Tamale Central,rice,7.25,6.39,529,wholesaler,yes,rural
+1844,2023-01-24,Greater Accra,Kasoa East,Aboabo Market,yam,9.31,8.14,533,retailer,no,peri-urban
+1845,2023-05-26,Central,Kasoa,Aboabo Market,tomato,23.88,20.29,197,aggregator,yes,urban
+1846,2023-06-22,Upper West,Lawra,Kejetia,palm oil,14.68,12.21,348,retailer,no,rural
+1847,2022-08-01,Bono,Berekum,Tamale Central,palm oil,14.5,12.84,590,retailer,yes,rural
+1848,2024-06-15,Bono,Wenchi,Techiman Market,sardine,12.2,10.46,191,retailer,no,urban
+1849,2025-07-12,Upper West,Jirapa,Tamale Central,plantain,13.22,11.67,415,wholesaler,no,urban
+1850,2025-09-28,Eastern,Koforidua,Aboabo Market,yam,11.58,9.78,54,wholesaler,no,urban
+1851,2024-11-27,Oti,Jasikan,Takoradi Market,maize,16.19,14.9,316,wholesaler,yes,rural
+1852,2022-08-21,Savannah,Salaga,Makola,plantain,13.95,13.11,488,wholesaler,no,urban
+1853,2022-09-17,Bono East,Kintampo,Takoradi Market,yam,8.94,7.68,514,aggregator,yes,urban
+1854,2022-11-04,Bono,Sunyani,Tamale Central,palm oil,14.71,13.55,254,wholesaler,yes,peri-urban
+1855,2023-02-07,Bono East,Atebubu,Kejetia,tomato,5.69,5.26,58,retailer,no,peri-urban
+1856,2024-09-23,Bono,Dormaa,Makola,rice,15.56,14.62,238,aggregator,no,rural
+1857,2025-07-08,Upper West,Lawra,Ho Main Market,cassava,8.22,7.08,236,retailer,no,urban
+1858,2024-01-20,Western,Sekondi-Takoradi,Agbogbloshie,plantain,13.02,11.86,439,wholesaler,no,urban
+1859,2025-02-03,Upper East,Navrongo,Keta Market,onion,8.86,7.51,193,retailer,yes,peri-urban
+1860,2025-06-24,Western North,Juaboso,Aboabo Market,plantain,13.48,12.06,132,retailer,yes,rural
+1861,2022-10-31,Western,Shama,Tamale Central,cassava,16.48,14.91,193,retailer,yes,urban
+1862,2022-12-09,Western,Shama,Techiman Market,palm oil,22.78,20.71,93,retailer,no,rural
+1863,2024-11-27,Oti,Kadjebi,Makola,yam,7.85,6.63,555,wholesaler,no,peri-urban
+1864,2024-05-04,Savannah,Damongo,Techiman Market,tomato,18.94,17.46,51,retailer,no,urban
+1865,2024-12-05,Savannah,Damongo,Tamale Central,onion,14.1,12.27,273,retailer,no,peri-urban
+1866,2025-05-28,Upper West,Jirapa,Keta Market,palm oil,11.5,9.73,516,retailer,yes,peri-urban
+1867,2022-09-13,Upper East,Bolgatanga,Keta Market,maize,17.57,15.55,132,retailer,yes,peri-urban
+1868,2022-05-17,Eastern,Akim Oda,Takoradi Market,rice,12.4,11.45,214,wholesaler,yes,urban
+1869,2025-06-08,Upper West,Jirapa,Techiman Market,sardine,17.31,16.2,547,retailer,no,rural
+1870,2024-03-28,Greater Accra,Tema,Tamale Central,tomato,9.51,8.65,460,aggregator,no,urban
+1871,2024-08-30,Bono East,Nkoranza,Agbogbloshie,rice,10.79,8.86,508,aggregator,no,peri-urban
+1872,2022-02-07,Bono,Wenchi,Ho Main Market,onion,18.73,15.66,516,retailer,no,rural
+1873,2025-03-24,Bono,Dormaa,Techiman Market,plantain,22.64,18.77,43,retailer,no,peri-urban
+1874,2022-04-15,Savannah,Damongo,Agbogbloshie,yam,13.3,11.07,309,wholesaler,yes,urban
+1875,2022-09-12,Bono,Dormaa,Makola,pepper,5.08,4.4,327,aggregator,no,rural
+1876,2025-11-28,Western North,Bodi,Kejetia,cassava,12.56,10.81,323,wholesaler,yes,urban
+1877,2023-05-03,Northern,Yendi,Techiman Market,tomato,13.62,11.35,57,retailer,no,rural
+1878,2023-04-03,Savannah,Salaga,Kotokuraba,onion,12.41,11.49,405,aggregator,yes,peri-urban
+1879,2023-06-12,Savannah,Sawla,Aboabo Market,pepper,15.15,13.54,101,aggregator,no,peri-urban
+1880,2023-08-14,Volta,Kpando,Techiman Market,rice,11.39,10.43,137,wholesaler,no,peri-urban
+1881,2023-06-09,Volta,Hohoe,Kotokuraba,yam,18.06,15.61,69,retailer,yes,urban
+1882,2023-01-05,Upper East,Paga,Takoradi Market,plantain,8.95,7.78,93,aggregator,no,urban
+1883,2022-04-12,Western,Sekondi-Takoradi,Techiman Market,plantain,20.76,17.81,125,wholesaler,no,peri-urban
+1884,2024-07-04,Bono,Berekum,Kotokuraba,maize,23.16,20.21,345,aggregator,no,peri-urban
+1885,2023-10-26,Bono,Wenchi,Kejetia,yam,9.78,8.74,375,retailer,yes,rural
+1886,2023-11-21,North East,Walewale,Kotokuraba,sardine,9.78,8.6,487,retailer,no,rural
+1887,2023-08-22,Bono East,Kintampo,Kejetia,pepper,15.55,14.31,303,retailer,no,urban
+1888,2023-08-23,Greater Accra,Accra,Ho Main Market,palm oil,8.89,8.25,204,wholesaler,no,rural
+1889,2023-06-25,Bono,Dormaa,Ho Main Market,maize,11.33,9.93,173,retailer,no,urban
+1890,2023-01-24,North East,Walewale,Makola,yam,19.8,16.81,137,wholesaler,no,urban
+1891,2022-12-29,Bono,Berekum,Makola,onion,17.43,16.27,286,aggregator,yes,rural
+1892,2024-07-19,Central,Kasoa,Ho Main Market,yam,26.93,24.46,404,retailer,yes,rural
+1893,2023-09-04,Ahafo,Asunafo North,Kejetia,sardine,14.29,12.82,274,wholesaler,yes,rural
+1894,2025-02-12,Upper East,Bawku,Tamale Central,yam,10.87,9.89,260,wholesaler,yes,peri-urban
+1895,2023-12-23,Central,Cape Coast,Ho Main Market,pepper,13.71,11.37,190,wholesaler,no,peri-urban
+1896,2022-12-09,Eastern,Nsawam,Tamale Central,yam,12.77,10.58,567,retailer,no,rural
+1897,2025-01-02,Greater Accra,Kasoa East,Keta Market,yam,12.84,10.76,597,wholesaler,yes,peri-urban
+1898,2022-05-15,Ashanti,Obuasi,Techiman Market,rice,13.35,11.18,204,retailer,yes,urban
+1899,2024-07-28,Ashanti,Kumasi,Agbogbloshie,palm oil,9.72,8.46,429,retailer,yes,peri-urban
+1900,2024-09-04,Volta,Hohoe,Techiman Market,cassava,14.86,12.47,165,aggregator,yes,peri-urban
+1901,2023-01-15,Northern,Tolon,Takoradi Market,pepper,8.22,7.58,57,aggregator,yes,peri-urban
+1902,2025-02-22,Western,Shama,Takoradi Market,cassava,10.48,9.32,509,retailer,no,urban
+1903,2022-02-07,Western,Tarkwa,Agbogbloshie,rice,12.92,11.17,281,aggregator,yes,urban
+1904,2024-02-20,Western North,Bibiani,Takoradi Market,maize,6.11,5.06,145,wholesaler,no,rural
+1905,2022-11-06,Oti,Kadjebi,Agbogbloshie,sardine,17.62,15.7,364,retailer,no,peri-urban
+1906,2022-04-16,Ahafo,Goaso,Agbogbloshie,palm oil,6.56,5.47,280,aggregator,yes,peri-urban
+1907,2023-07-10,Ashanti,Ejisu,Takoradi Market,sardine,17.02,15.47,462,wholesaler,no,urban
+1908,2025-06-02,Ashanti,Kumasi,Kotokuraba,rice,8.56,7.84,127,retailer,no,peri-urban
+1909,2025-06-19,Western,Tarkwa,Agbogbloshie,pepper,11.68,10.34,576,wholesaler,no,urban
+1910,2023-02-01,Western North,Bibiani,Kejetia,tomato,16.15,13.53,456,retailer,no,peri-urban
+1911,2022-06-02,Upper West,Lawra,Kejetia,palm oil,29.06,26.57,533,aggregator,yes,rural
+1912,2023-06-20,Western,Sekondi-Takoradi,Takoradi Market,palm oil,14.02,12.01,109,wholesaler,no,urban
+1913,2024-09-22,Oti,Jasikan,Agbogbloshie,rice,6.73,5.7,234,aggregator,no,urban
+1914,2024-08-23,Greater Accra,Accra,Aboabo Market,maize,18.8,16.48,338,wholesaler,yes,urban
+1915,2025-11-26,Eastern,Nsawam,Techiman Market,onion,12.41,11.55,76,wholesaler,yes,peri-urban
+1916,2025-03-15,Northern,Savelugu,Ho Main Market,yam,13.8,11.81,578,wholesaler,yes,rural
+1917,2025-04-29,Savannah,Bole,Aboabo Market,plantain,16.37,15.2,421,wholesaler,no,urban
+1918,2024-06-11,Western,Shama,Agbogbloshie,plantain,6.18,5.11,241,aggregator,yes,rural
+1919,2023-08-06,Greater Accra,Accra,Agbogbloshie,sardine,13.49,11.2,494,wholesaler,no,urban
+1920,2022-07-20,Bono,Dormaa,Tamale Central,yam,11.67,10.55,127,aggregator,yes,rural
+1921,2022-01-12,Bono,Sunyani,Kejetia,onion,20.65,17.41,199,wholesaler,no,peri-urban
+1922,2024-12-11,Ahafo,Asunafo North,Keta Market,tomato,17.37,14.9,196,retailer,yes,peri-urban
+1923,2024-02-07,North East,Chereponi,Ho Main Market,sardine,7.62,6.37,506,retailer,yes,rural
+1924,2025-08-18,Ahafo,Asutifi South,Makola,palm oil,20.95,18.01,433,wholesaler,no,rural
+1925,2025-08-16,Savannah,Salaga,Agbogbloshie,cassava,15.76,13.45,56,retailer,yes,peri-urban
+1926,2024-07-08,Volta,Keta,Keta Market,plantain,7.83,7.11,594,wholesaler,yes,rural
+1927,2023-06-05,Ashanti,Ejisu,Techiman Market,sardine,13.73,12.42,287,aggregator,no,rural
+1928,2025-03-09,Savannah,Salaga,Agbogbloshie,plantain,19.34,18.07,407,retailer,yes,rural
+1929,2022-04-10,Upper East,Navrongo,Aboabo Market,rice,8.8,7.98,373,wholesaler,yes,urban
+1930,2025-03-06,Greater Accra,Tema,Kejetia,tomato,21.81,19.7,289,wholesaler,no,rural
+1931,2024-05-20,Ahafo,Tano North,Ho Main Market,tomato,7.93,7.16,288,aggregator,no,urban
+1932,2023-01-01,Upper East,Navrongo,Kejetia,cassava,10.21,9.45,461,aggregator,yes,peri-urban
+1933,2023-10-19,Bono East,Atebubu,Techiman Market,pepper,9.68,8.28,324,wholesaler,yes,peri-urban
+1934,2022-06-10,Northern,Tolon,Techiman Market,tomato,21.8,18.66,265,wholesaler,no,peri-urban
+1935,2024-01-31,North East,Nalerigu,Keta Market,palm oil,11.34,10.31,197,wholesaler,no,rural
+1936,2022-06-24,Western,Tarkwa,Kejetia,rice,8.96,7.59,86,wholesaler,yes,peri-urban
+1937,2025-01-16,Savannah,Salaga,Makola,maize,15.73,14.62,296,wholesaler,no,urban
+1938,2025-11-23,Volta,Hohoe,Makola,sardine,16.97,15.0,227,wholesaler,yes,urban
+1939,2023-06-29,Upper West,Lawra,Agbogbloshie,palm oil,17.01,14.56,326,aggregator,yes,rural
+1940,2023-04-22,North East,Nalerigu,Tamale Central,yam,12.24,11.18,569,retailer,no,urban
+1941,2022-10-10,Western North,Sefwi Wiawso,Tamale Central,maize,14.72,12.62,557,wholesaler,no,urban
+1942,2024-08-14,Upper East,Navrongo,Ho Main Market,palm oil,10.72,10.03,537,wholesaler,no,peri-urban
+1943,2023-03-28,Bono,Wenchi,Techiman Market,yam,24.2,22.7,293,aggregator,no,urban
+1944,2022-03-23,Central,Kasoa,Keta Market,plantain,20.1,18.09,252,retailer,yes,peri-urban
+1945,2025-05-21,Western,Sekondi-Takoradi,Tamale Central,plantain,19.67,16.4,133,aggregator,no,peri-urban
+1946,2024-03-26,Bono East,Kintampo,Kotokuraba,plantain,17.78,15.14,153,aggregator,yes,urban
+1947,2023-06-04,Savannah,Salaga,Makola,cassava,16.15,14.24,444,wholesaler,yes,urban
+1948,2022-05-14,Upper East,Bolgatanga,Tamale Central,rice,8.71,8.03,44,wholesaler,yes,rural
+1949,2023-03-23,North East,Nalerigu,Techiman Market,sardine,16.8,14.15,579,aggregator,yes,rural
+1950,2022-04-28,Savannah,Damongo,Tamale Central,cassava,14.01,11.66,299,wholesaler,yes,urban
+1951,2025-06-20,Western North,Bodi,Keta Market,tomato,20.95,17.37,362,wholesaler,no,peri-urban
+1952,2024-01-19,Greater Accra,Tema,Keta Market,tomato,17.86,15.73,91,wholesaler,no,peri-urban
+1953,2025-03-19,Volta,Ho,Makola,tomato,16.32,15.11,220,retailer,yes,rural
+1954,2023-10-08,Greater Accra,Kasoa East,Takoradi Market,rice,7.47,6.16,345,retailer,no,peri-urban
+1955,2023-01-14,Oti,Kadjebi,Aboabo Market,cassava,13.05,11.03,52,wholesaler,no,rural
+1956,2023-08-31,Oti,Nkwanta South,Agbogbloshie,cassava,11.08,10.01,116,aggregator,yes,peri-urban
+1957,2024-08-23,Greater Accra,Accra,Agbogbloshie,maize,14.71,13.52,576,retailer,yes,urban
+1958,2023-06-09,Ahafo,Asutifi South,Agbogbloshie,cassava,11.64,10.67,282,aggregator,no,urban
+1959,2025-02-14,Upper West,Lawra,Tamale Central,yam,12.22,11.17,89,wholesaler,yes,peri-urban
+1960,2023-07-30,Western,Shama,Aboabo Market,tomato,15.81,13.21,312,aggregator,no,rural
+1961,2024-07-25,Greater Accra,Kasoa East,Kotokuraba,cassava,11.57,10.04,226,aggregator,no,urban
+1962,2023-10-24,Bono East,Atebubu,Techiman Market,rice,14.05,13.18,191,retailer,yes,rural
+1963,2025-09-02,Upper East,Bolgatanga,Techiman Market,sardine,7.91,7.42,414,aggregator,no,urban
+1964,2024-05-25,Bono,Wenchi,Aboabo Market,tomato,10.06,8.98,275,aggregator,no,peri-urban
+1965,2022-01-12,Upper West,Lawra,Tamale Central,pepper,16.94,15.33,283,retailer,yes,urban
+1966,2025-01-18,Western North,Juaboso,Takoradi Market,yam,8.75,8.17,283,wholesaler,yes,peri-urban
+1967,2023-01-23,Upper East,Paga,Ho Main Market,pepper,20.82,18.2,536,aggregator,no,rural
+1968,2022-03-24,Upper West,Lawra,Takoradi Market,tomato,18.94,15.84,29,wholesaler,yes,urban
+1969,2024-09-02,Western,Sekondi-Takoradi,Techiman Market,maize,12.26,11.04,290,wholesaler,no,rural
+1970,2023-01-31,Central,Mfantsiman,Kotokuraba,rice,38.46,35.97,331,wholesaler,yes,rural
+1971,2023-06-29,Ashanti,Mampong,Ho Main Market,sardine,20.8,18.8,389,retailer,yes,peri-urban
+1972,2023-10-23,North East,Bunkpurugu,Takoradi Market,sardine,9.66,8.85,586,wholesaler,no,rural
+1973,2023-10-02,Upper East,Navrongo,Aboabo Market,tomato,17.48,15.22,572,aggregator,no,urban
+1974,2022-04-10,Upper East,Bolgatanga,Makola,cassava,13.78,11.46,410,wholesaler,no,peri-urban
+1975,2023-04-02,Northern,Tamale,Agbogbloshie,maize,10.26,8.62,134,wholesaler,yes,peri-urban
+1976,2024-05-23,Central,Cape Coast,Kejetia,rice,9.26,8.69,594,wholesaler,no,peri-urban
+1977,2022-11-24,Bono,Sunyani,Makola,tomato,19.07,16.77,363,aggregator,yes,rural
+1978,2023-12-25,Western North,Bodi,Agbogbloshie,cassava,10.92,8.97,429,wholesaler,yes,urban
+1979,2022-03-15,Oti,Jasikan,Kotokuraba,tomato,12.99,12.14,565,wholesaler,no,urban
+1980,2025-01-24,Greater Accra,Madina,Aboabo Market,maize,9.75,8.58,397,wholesaler,no,urban
+1981,2022-04-02,Ahafo,Asutifi South,Takoradi Market,rice,10.36,9.53,475,retailer,yes,peri-urban
+1982,2022-11-26,Oti,Nkwanta South,Aboabo Market,yam,12.88,11.41,442,aggregator,no,peri-urban
+1983,2022-06-24,Bono,Sunyani,Ho Main Market,tomato,15.42,12.83,463,retailer,yes,urban
+1984,2022-11-11,Northern,Yendi,Makola,cassava,5.44,4.86,216,aggregator,yes,rural
+1985,2023-05-12,Ashanti,Mampong,Keta Market,onion,13.54,12.72,382,wholesaler,yes,peri-urban
+1986,2025-07-16,Savannah,Sawla,Agbogbloshie,onion,10.37,8.55,429,aggregator,no,urban
+1987,2023-03-04,Volta,Kpando,Aboabo Market,onion,22.0,20.26,593,aggregator,yes,rural
+1988,2022-02-04,Northern,Tolon,Agbogbloshie,cassava,37.71,31.99,413,aggregator,yes,peri-urban
+1989,2022-04-29,Savannah,Sawla,Agbogbloshie,maize,11.87,10.29,528,aggregator,no,peri-urban
+1990,2025-10-26,Ahafo,Tano North,Kotokuraba,maize,7.37,6.37,585,retailer,no,peri-urban
+1991,2024-07-13,Bono East,Nkoranza,Ho Main Market,rice,14.03,13.02,313,aggregator,no,urban
+1992,2025-08-25,Upper East,Navrongo,Kotokuraba,plantain,12.53,11.03,44,retailer,yes,peri-urban
+1993,2025-10-12,Oti,Kadjebi,Kotokuraba,onion,26.84,23.45,256,retailer,no,peri-urban
+1994,2025-10-31,Western North,Bodi,Kotokuraba,sardine,24.13,22.16,480,wholesaler,yes,rural
+1995,2024-04-07,Upper West,Lawra,Takoradi Market,plantain,18.23,15.06,340,aggregator,yes,urban
+1996,2025-02-02,Eastern,Akim Oda,Ho Main Market,palm oil,10.96,9.1,119,wholesaler,yes,rural
+1997,2023-01-25,Western,Shama,Agbogbloshie,onion,17.07,14.04,427,aggregator,no,peri-urban
+1998,2022-06-25,Upper West,Jirapa,Agbogbloshie,sardine,14.77,13.33,174,retailer,yes,urban
+1999,2022-04-16,Greater Accra,Madina,Ho Main Market,maize,14.65,12.94,453,retailer,yes,urban
+2000,2023-08-15,Western,Axim,Ho Main Market,sardine,7.8,7.22,453,retailer,no,peri-urban

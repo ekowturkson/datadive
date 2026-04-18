@@ -1,0 +1,2001 @@
+respondent_id,region,district,age,age_group,gender,education_level,monthly_income_ghs,smartphone_skill_score,mobile_money_transactions_monthly,average_transaction_value_ghs,data_usage_gb_monthly,digital_confidence_score,savings_behaviour_score
+1,Eastern,Koforidua,18,18-24,Male,postgraduate,1201.24,7,23.0,68.99,11.2,7.5,3.6
+2,Oti,Dambai,37,35-44,Female,postgraduate,826.64,5,24.0,117.59,6.3,7.0,2.6
+3,North East,Walewale,37,35-44,Female,postgraduate,738.45,3,8.0,89.69,5.0,2.3,3.8
+4,Upper East,Bolgatanga,29,25-34,Female,tertiary,760.01,7,20.0,95.98,9.9,8.6,4.6
+5,Northern,Tolon,18,18-24,Male,basic,755.16,3,25.0,76.7,2.5,2.9,6.1
+6,North East,Bunkpurugu,38,35-44,Male,secondary,1758.64,5,31.0,77.64,8.2,6.0,4.2
+7,North East,Chereponi,39,35-44,Male,tertiary,1620.84,2,20.0,120.39,4.9,1.5,3.7
+8,Eastern,Suhum,44,35-44,Female,basic,1598.85,1,12.0,89.17,4.3,1.6,5.6
+9,Western North,Juaboso,34,25-34,Male,postgraduate,883.04,7,18.0,177.92,10.3,6.0,2.7
+10,Upper West,Tumu,36,35-44,Female,tertiary,764.89,8,16.0,131.45,11.8,9.0,7.7
+11,Western,Axim,18,18-24,Female,secondary,1261.82,9,23.0,83.25,13.4,9.1,6.4
+12,Upper West,Jirapa,32,25-34,Female,tertiary,1119.49,10,22.0,105.14,15.0,10.0,4.9
+13,Ahafo,Tano North,25,25-34,Female,tertiary,1648.37,4,26.0,215.13,7.2,5.5,8.9
+14,Bono,Dormaa,18,18-24,Male,basic,919.93,7,17.0,108.85,7.4,7.6,8.2
+15,Upper West,Lawra,29,25-34,Male,basic,913.06,8,23.0,79.88,10.3,7.6,5.0
+16,Central,Mfantsiman,24,18-24,Male,tertiary,1574.27,6,14.0,81.79,8.8,6.2,5.8
+17,Oti,Kadjebi,23,18-24,Female,secondary,1174.73,7,14.0,41.42,8.5,7.2,2.6
+18,Ahafo,Asutifi South,49,45-54,Female,tertiary,508.99,7,22.0,76.15,8.4,5.2,5.6
+19,Upper West,Wa,18,18-24,Female,secondary,1880.64,4,28.0,78.5,6.8,3.4,4.2
+20,Ahafo,Tano North,23,18-24,Male,tertiary,2471.87,3,14.0,156.87,7.2,1.0,3.5
+21,Greater Accra,Madina,28,25-34,Male,tertiary,1480.46,6,19.0,100.69,8.3,6.3,4.3
+22,Savannah,Damongo,26,25-34,Female,postgraduate,1289.14,7,33.0,103.66,8.8,6.8,5.2
+23,Ashanti,Kumasi,18,18-24,Male,basic,1652.28,4,31.0,81.08,5.0,5.4,6.5
+24,Central,Komenda,35,35-44,Male,postgraduate,1470.61,10,23.0,63.07,15.4,10.0,7.3
+25,Volta,Hohoe,24,18-24,Male,secondary,1581.07,3,15.0,145.19,7.6,4.4,5.3
+26,Bono East,Kintampo,47,45-54,Female,basic,856.9,7,51.0,173.92,11.1,7.1,6.7
+27,North East,Nalerigu,18,18-24,Male,basic,318.33,5,15.0,82.62,9.3,3.7,7.3
+28,Savannah,Damongo,24,18-24,Female,basic,1133.79,7,24.0,174.27,7.4,7.2,6.1
+29,Upper East,Bawku,23,18-24,Female,secondary,726.77,5,16.0,82.82,8.9,7.5,4.6
+30,Western,Tarkwa,42,35-44,Male,secondary,870.35,8,27.0,166.68,11.4,7.7,4.5
+31,Western North,Juaboso,41,35-44,Male,secondary,2263.22,7,19.0,105.57,9.9,8.4,3.6
+32,Savannah,Salaga,24,18-24,Male,postgraduate,840.66,7,14.0,101.79,9.9,6.6,3.4
+33,Ahafo,Asutifi South,19,18-24,Male,secondary,900.87,4,24.0,176.76,6.4,3.9,5.0
+34,Northern,Tolon,30,25-34,Male,postgraduate,1731.2,5,28.0,82.11,8.9,3.8,4.7
+35,Northern,Yendi,33,25-34,Female,secondary,1320.16,3,14.0,129.03,6.4,5.7,3.8
+36,Bono East,Techiman,35,35-44,Female,secondary,952.05,4,17.0,97.53,5.4,1.9,4.7
+37,Ashanti,Obuasi,25,25-34,Male,tertiary,759.71,7,20.0,66.37,10.7,8.2,6.1
+38,Greater Accra,Accra,24,18-24,Male,postgraduate,1083.69,6,3.0,90.54,9.0,5.3,4.9
+39,Western North,Juaboso,34,25-34,Male,secondary,979.31,8,20.0,125.0,14.9,8.0,2.1
+40,Central,Cape Coast,41,35-44,Female,tertiary,772.81,6,13.0,92.14,11.6,5.8,6.1
+41,Ashanti,Obuasi,42,35-44,Female,postgraduate,900.77,5,35.0,57.23,6.9,4.5,5.9
+42,Upper East,Paga,26,25-34,Male,tertiary,1267.01,8,29.0,123.69,10.6,5.5,5.0
+43,Western North,Bibiani,20,18-24,Female,tertiary,590.58,4,0.0,225.64,4.0,2.8,6.6
+44,Upper West,Tumu,18,18-24,Male,tertiary,912.38,8,33.0,56.94,10.0,6.4,3.6
+45,Eastern,Suhum,26,25-34,Male,secondary,1324.4,8,29.0,80.57,9.9,7.8,4.4
+46,North East,Nalerigu,26,25-34,Female,tertiary,796.31,4,21.0,101.78,4.8,2.7,2.0
+47,Eastern,Akim Oda,32,25-34,Male,secondary,1436.57,6,28.0,55.13,5.5,6.4,4.1
+48,Western,Shama,25,25-34,Female,basic,1433.13,6,29.0,132.48,10.8,7.1,7.3
+49,Greater Accra,Kasoa East,20,18-24,Female,postgraduate,712.98,9,26.0,94.28,7.5,10.0,4.4
+50,Northern,Tamale,21,18-24,Female,secondary,1549.77,9,11.0,127.9,11.3,8.8,5.7
+51,Upper West,Tumu,37,35-44,Male,secondary,830.02,8,30.0,130.48,10.7,9.3,2.7
+52,Bono,Dormaa,18,18-24,Male,tertiary,808.99,6,21.0,91.43,8.5,5.6,2.9
+53,Northern,Yendi,30,25-34,Female,tertiary,663.36,6,34.0,170.61,11.2,7.6,1.7
+54,Oti,Jasikan,37,35-44,Female,secondary,1119.33,9,38.0,93.33,15.0,9.1,5.7
+55,Western North,Sefwi Wiawso,18,18-24,Female,tertiary,1647.35,10,28.0,196.41,16.8,10.0,5.4
+56,Bono East,Kintampo,33,25-34,Female,secondary,1476.7,7,35.0,173.82,12.5,8.9,3.9
+57,Savannah,Salaga,42,35-44,Female,tertiary,2264.19,5,33.0,55.38,8.7,3.0,5.2
+58,Western North,Sefwi Wiawso,21,18-24,Male,tertiary,1519.03,7,23.0,88.69,14.6,6.5,4.5
+59,Greater Accra,Madina,29,25-34,Female,tertiary,1033.02,9,30.0,133.49,12.8,10.0,2.6
+60,Bono,Wenchi,24,18-24,Male,secondary,591.32,4,24.0,100.59,2.4,1.7,4.0
+61,Central,Kasoa,30,25-34,Male,tertiary,1368.32,9,16.0,108.95,9.2,8.5,2.2
+62,Western North,Bodi,18,18-24,Female,postgraduate,1765.39,2,22.0,103.18,5.4,2.8,5.5
+63,Central,Cape Coast,20,18-24,Female,postgraduate,810.58,5,15.0,61.82,6.7,3.7,4.2
+64,North East,Chereponi,40,35-44,Female,basic,890.46,6,14.0,220.48,4.0,6.0,3.1
+65,Savannah,Bole,23,18-24,Male,basic,1200.42,7,18.0,112.39,12.2,6.8,5.5
+66,Central,Kasoa,28,25-34,Female,secondary,921.11,6,31.0,105.97,10.2,9.7,9.9
+67,Western North,Bibiani,25,25-34,Male,secondary,988.79,1,19.0,109.76,3.9,1.0,5.9
+68,Western,Tarkwa,48,45-54,Male,postgraduate,628.63,3,9.0,143.83,3.3,4.7,6.5
+69,Greater Accra,Accra,18,18-24,Female,secondary,2561.37,7,41.0,97.64,15.0,8.8,2.8
+70,Bono East,Techiman,33,25-34,Female,basic,1342.93,6,34.0,93.76,11.5,4.2,3.4
+71,Eastern,Suhum,19,18-24,Male,secondary,1843.54,5,21.0,64.01,5.8,6.7,5.2
+72,Volta,Ho,27,25-34,Female,secondary,1823.06,3,14.0,79.73,7.4,2.4,4.0
+73,Oti,Jasikan,31,25-34,Female,postgraduate,1694.17,7,30.0,106.0,13.9,8.8,5.4
+74,Savannah,Sawla,26,25-34,Male,postgraduate,1434.77,8,22.0,102.89,10.3,10.0,6.8
+75,Volta,Hohoe,31,25-34,Male,basic,792.26,6,13.0,125.62,9.4,4.6,5.3
+76,Bono East,Atebubu,23,18-24,Female,postgraduate,1172.99,4,4.0,99.95,9.8,2.6,8.8
+77,Central,Kasoa,18,18-24,Male,tertiary,553.38,4,5.0,252.41,7.0,3.7,3.0
+78,Upper East,Bawku,27,25-34,Male,secondary,673.67,6,22.0,153.67,8.4,9.3,5.1
+79,Western,Shama,30,25-34,Female,postgraduate,1115.31,5,19.0,99.33,8.9,7.7,5.0
+80,Western,Sekondi-Takoradi,18,18-24,Male,postgraduate,1021.81,6,18.0,67.79,11.8,7.1,5.8
+81,Greater Accra,Tema,24,18-24,Female,basic,1080.25,7,18.0,109.82,9.3,4.3,5.7
+82,Savannah,Salaga,31,25-34,Female,postgraduate,578.94,6,20.0,134.96,9.9,5.2,3.6
+83,Eastern,Koforidua,28,25-34,Female,secondary,1019.71,3,18.0,63.81,6.7,5.2,3.2
+84,Volta,Kpando,37,35-44,Male,tertiary,1288.26,4,26.0,130.91,7.2,7.3,3.9
+85,Savannah,Bole,24,18-24,Male,postgraduate,1336.95,5,7.0,81.52,6.6,5.0,3.5
+86,Western,Sekondi-Takoradi,42,35-44,Male,tertiary,935.03,7,26.0,91.12,9.0,6.7,6.4
+87,Savannah,Sawla,24,18-24,Male,tertiary,724.29,7,17.0,100.09,12.0,7.8,5.1
+88,Western,Shama,29,25-34,Female,postgraduate,2646.69,6,28.0,101.56,13.8,8.1,4.4
+89,Western North,Bodi,18,18-24,Male,tertiary,820.72,9,12.0,92.73,11.1,8.0,8.9
+90,Western North,Bodi,22,18-24,Female,secondary,1097.61,8,28.0,143.84,11.1,9.1,4.9
+91,Western North,Bibiani,23,18-24,Male,basic,2277.42,4,31.0,102.33,7.6,2.5,3.2
+92,Bono East,Kintampo,37,35-44,Female,basic,879.22,6,29.0,64.92,8.9,6.1,8.3
+93,Western,Axim,18,18-24,Male,tertiary,991.91,8,23.0,123.03,10.1,7.5,3.8
+94,Oti,Dambai,49,45-54,Male,postgraduate,1141.94,7,37.0,136.77,9.6,6.8,8.5
+95,Western,Axim,34,25-34,Female,tertiary,1419.3,5,30.0,171.37,11.4,3.8,3.4
+96,Upper West,Wa,31,25-34,Female,tertiary,1032.82,7,10.0,86.3,10.2,7.2,5.3
+97,Savannah,Damongo,18,18-24,Female,basic,979.74,4,18.0,93.47,2.8,3.7,5.3
+98,Savannah,Damongo,61,55-65,Male,secondary,1399.81,6,17.0,98.87,5.3,7.3,3.8
+99,Eastern,Akim Oda,36,35-44,Female,tertiary,2461.97,4,49.0,96.98,10.5,4.0,6.3
+100,Central,Kasoa,51,45-54,Female,postgraduate,1306.79,6,40.0,120.23,11.4,7.7,6.9
+101,Western North,Sefwi Wiawso,33,25-34,Female,secondary,1936.48,5,23.0,143.23,12.7,4.2,4.6
+102,Upper East,Bawku,26,25-34,Male,postgraduate,1451.72,1,9.0,46.89,4.6,1.0,7.0
+103,Oti,Jasikan,39,35-44,Female,postgraduate,909.85,2,19.0,80.61,0.9,1.0,4.2
+104,Ahafo,Tano North,18,18-24,Female,basic,675.43,10,28.0,144.46,10.6,10.0,7.9
+105,Upper West,Tumu,19,18-24,Male,tertiary,954.54,6,25.0,118.17,11.4,6.3,2.9
+106,Greater Accra,Accra,18,18-24,Female,secondary,1110.04,3,0.0,81.47,7.4,1.0,2.6
+107,Volta,Kpando,44,35-44,Male,postgraduate,1203.6,7,26.0,142.88,9.5,6.9,5.5
+108,Oti,Dambai,18,18-24,Male,postgraduate,260.87,7,20.0,122.3,9.2,7.0,4.8
+109,Savannah,Bole,33,25-34,Male,basic,3169.94,3,25.0,103.35,6.9,5.0,3.4
+110,Volta,Hohoe,42,35-44,Female,postgraduate,918.38,5,29.0,62.94,5.3,6.7,3.6
+111,Western North,Bodi,37,35-44,Male,postgraduate,1690.17,5,30.0,143.54,6.0,4.8,4.0
+112,Savannah,Sawla,48,45-54,Male,basic,2018.9,5,21.0,63.59,9.2,3.0,5.3
+113,Western North,Juaboso,28,25-34,Male,basic,2452.37,8,39.0,113.78,13.5,6.5,4.5
+114,Western,Tarkwa,43,35-44,Male,basic,1100.46,5,20.0,82.32,7.3,2.6,5.3
+115,Upper West,Lawra,38,35-44,Female,basic,1073.49,7,20.0,233.6,10.9,8.9,3.9
+116,North East,Nalerigu,18,18-24,Male,secondary,1317.36,7,17.0,90.71,8.5,6.3,6.1
+117,Upper West,Tumu,20,18-24,Male,postgraduate,1121.86,7,14.0,62.52,11.3,9.0,6.2
+118,Bono,Sunyani,18,18-24,Male,tertiary,648.23,5,26.0,100.99,7.8,4.9,5.6
+119,Central,Komenda,18,18-24,Female,secondary,646.27,6,13.0,155.92,9.4,8.4,3.5
+120,Western,Axim,35,35-44,Male,secondary,618.86,10,43.0,160.62,13.5,9.2,6.5
+121,Ashanti,Ejisu,23,18-24,Female,secondary,658.64,7,0.0,87.04,7.6,9.7,4.7
+122,Ahafo,Tano North,18,18-24,Male,secondary,1056.71,9,30.0,139.35,12.1,9.3,5.3
+123,Ahafo,Asunafo North,29,25-34,Male,postgraduate,1178.29,5,20.0,120.66,10.3,5.0,5.1
+124,Savannah,Salaga,36,35-44,Male,postgraduate,808.22,7,40.0,52.81,10.5,10.0,8.4
+125,Eastern,Suhum,50,45-54,Female,basic,1713.28,9,38.0,75.46,13.1,9.2,3.5
+126,North East,Walewale,34,25-34,Female,secondary,704.33,5,30.0,66.08,8.4,3.8,5.1
+127,Ahafo,Tano North,52,45-54,Female,tertiary,1792.24,4,28.0,123.9,7.3,3.2,5.5
+128,Northern,Yendi,31,25-34,Female,postgraduate,1486.53,8,38.0,79.05,10.6,7.0,6.4
+129,North East,Nalerigu,24,18-24,Male,tertiary,1081.98,3,0.0,107.36,3.6,3.3,6.7
+130,Bono,Dormaa,28,25-34,Male,secondary,943.04,5,22.0,153.38,7.2,4.6,1.0
+131,Upper East,Bawku,35,35-44,Female,secondary,1238.3,6,37.0,139.95,7.1,3.7,6.4
+132,Eastern,Koforidua,18,18-24,Male,secondary,962.84,6,32.0,133.77,3.9,7.4,8.2
+133,Western,Axim,32,25-34,Male,secondary,560.18,10,26.0,120.86,11.2,7.4,3.6
+134,Central,Komenda,31,25-34,Male,tertiary,1377.13,5,14.0,140.17,9.1,3.9,4.2
+135,Eastern,Nsawam,37,35-44,Female,basic,1849.42,7,18.0,81.24,9.4,4.9,5.7
+136,Greater Accra,Kasoa East,46,45-54,Female,basic,1424.42,6,20.0,187.81,8.2,8.4,2.6
+137,Eastern,Akim Oda,22,18-24,Male,secondary,1179.38,6,26.0,142.34,5.1,7.3,4.0
+138,Bono,Wenchi,25,25-34,Female,tertiary,1246.56,8,24.0,140.08,12.3,7.6,6.1
+139,Ahafo,Goaso,31,25-34,Female,postgraduate,612.78,9,32.0,127.67,13.1,9.0,5.1
+140,North East,Bunkpurugu,29,25-34,Female,basic,1483.17,4,15.0,91.97,8.4,2.5,10.0
+141,Bono East,Kintampo,36,35-44,Female,tertiary,1108.6,7,44.0,124.64,10.7,6.9,2.5
+142,Greater Accra,Tema,20,18-24,Female,secondary,1168.51,5,26.0,80.67,7.5,2.6,4.3
+143,Central,Kasoa,37,35-44,Female,postgraduate,540.0,7,37.0,70.63,9.6,8.7,8.3
+144,Western North,Sefwi Wiawso,23,18-24,Male,secondary,635.62,4,12.0,122.56,3.9,4.8,7.5
+145,Upper West,Lawra,37,35-44,Male,basic,1037.4,7,13.0,65.86,13.4,7.8,6.0
+146,Western,Shama,49,45-54,Male,basic,2817.71,6,40.0,106.58,14.9,7.3,1.4
+147,Oti,Kadjebi,33,25-34,Female,secondary,792.63,7,19.0,88.82,14.1,2.0,6.9
+148,Central,Mfantsiman,31,25-34,Female,basic,879.13,8,33.0,113.56,11.2,8.1,9.8
+149,Bono,Berekum,33,25-34,Male,postgraduate,696.04,8,31.0,59.3,8.5,7.7,7.9
+150,Eastern,Koforidua,18,18-24,Male,basic,1768.46,6,23.0,114.49,10.6,4.1,5.1
+151,Volta,Hohoe,19,18-24,Male,postgraduate,725.36,9,25.0,174.64,14.1,9.8,6.5
+152,Eastern,Akim Oda,32,25-34,Female,tertiary,1936.89,6,38.0,255.73,10.3,7.7,4.0
+153,Savannah,Salaga,35,35-44,Male,postgraduate,1472.95,6,20.0,69.62,10.2,4.7,6.2
+154,Western,Shama,19,18-24,Male,tertiary,1511.3,4,32.0,85.06,4.9,1.2,6.4
+155,Western North,Juaboso,33,25-34,Female,basic,1612.66,1,24.0,168.73,4.7,1.2,3.4
+156,North East,Chereponi,29,25-34,Male,secondary,599.41,4,13.0,113.22,7.7,4.0,7.2
+157,Bono East,Nkoranza,28,25-34,Female,tertiary,551.65,5,12.0,129.74,7.3,4.0,6.0
+158,Eastern,Koforidua,18,18-24,Female,secondary,538.88,5,22.0,84.27,4.0,6.0,4.2
+159,Western,Axim,29,25-34,Male,basic,1996.12,6,38.0,151.39,10.0,7.2,2.8
+160,Eastern,Akim Oda,65,55-65,Female,postgraduate,335.69,8,23.0,69.24,10.3,6.9,5.4
+161,Ashanti,Ejisu,22,18-24,Male,tertiary,1007.61,6,8.0,136.94,11.7,4.8,4.3
+162,Ashanti,Mampong,38,35-44,Male,secondary,3048.37,5,28.0,228.49,12.4,5.7,3.7
+163,Ahafo,Goaso,42,35-44,Male,secondary,711.79,7,8.0,188.03,5.6,5.8,6.9
+164,Oti,Jasikan,41,35-44,Female,postgraduate,1321.02,3,18.0,238.91,9.4,4.0,6.3
+165,Volta,Kpando,25,25-34,Female,basic,735.59,4,26.0,45.41,5.0,3.8,8.8
+166,Ahafo,Goaso,18,18-24,Female,tertiary,676.75,4,21.0,87.53,6.0,3.9,5.6
+167,Western,Axim,18,18-24,Female,secondary,1107.21,4,9.0,65.46,4.4,1.1,4.5
+168,Oti,Kadjebi,37,35-44,Female,secondary,796.28,6,19.0,104.88,8.1,8.6,2.8
+169,North East,Walewale,33,25-34,Male,secondary,525.63,8,17.0,76.73,11.8,8.5,5.8
+170,Savannah,Bole,41,35-44,Male,secondary,612.6,4,20.0,103.58,6.6,3.4,8.4
+171,Western,Shama,34,25-34,Male,basic,1125.2,8,17.0,76.38,10.8,9.5,8.3
+172,Volta,Hohoe,38,35-44,Male,tertiary,1045.51,5,17.0,74.53,11.6,3.7,4.0
+173,Ahafo,Tano North,42,35-44,Female,basic,965.02,5,42.0,117.56,7.4,5.6,8.0
+174,Savannah,Bole,24,18-24,Male,secondary,1166.39,2,22.0,94.99,2.8,2.8,6.3
+175,Ashanti,Ejisu,18,18-24,Female,postgraduate,1171.18,8,19.0,122.62,11.4,7.0,4.3
+176,Bono,Berekum,28,25-34,Male,postgraduate,630.93,2,29.0,90.07,3.7,1.0,8.0
+177,Northern,Yendi,38,35-44,Female,postgraduate,553.8,7,24.0,101.58,8.0,4.9,5.9
+178,Savannah,Damongo,47,45-54,Male,basic,2049.9,4,7.0,145.7,10.3,2.8,5.5
+179,Central,Mfantsiman,46,45-54,Male,postgraduate,1277.45,5,28.0,95.2,8.5,7.8,5.8
+180,Western North,Sefwi Wiawso,51,45-54,Male,basic,1081.69,9,32.0,79.14,13.4,5.7,5.1
+181,Ashanti,Ejisu,37,35-44,Female,secondary,608.82,5,21.0,204.09,6.1,6.3,4.4
+182,Bono,Wenchi,29,25-34,Female,basic,742.12,9,32.0,91.25,11.9,8.7,5.6
+183,Upper West,Tumu,43,35-44,Male,secondary,541.1,8,17.0,64.56,11.1,10.0,5.9
+184,Bono,Berekum,36,35-44,Female,secondary,2131.44,7,11.0,96.27,11.0,7.9,5.1
+185,North East,Nalerigu,25,25-34,Male,secondary,1678.62,4,38.0,66.48,8.0,3.6,5.2
+186,Bono,Sunyani,37,35-44,Male,secondary,992.27,9,19.0,70.49,13.8,10.0,8.7
+187,Savannah,Sawla,37,35-44,Female,secondary,867.33,6,21.0,115.65,7.2,5.6,7.7
+188,Western,Shama,28,25-34,Male,postgraduate,2416.0,5,19.0,170.35,8.4,4.7,7.6
+189,Ahafo,Asunafo North,37,35-44,Male,postgraduate,511.57,8,29.0,58.49,7.1,8.8,5.1
+190,Bono,Sunyani,26,25-34,Male,tertiary,565.33,5,5.0,116.19,3.8,5.6,6.9
+191,Eastern,Koforidua,48,45-54,Male,tertiary,1116.57,5,22.0,150.32,6.6,6.5,7.6
+192,Greater Accra,Madina,37,35-44,Female,secondary,1248.11,8,14.0,62.95,10.3,6.8,5.2
+193,Ashanti,Mampong,44,35-44,Female,basic,826.09,1,0.0,111.2,3.3,1.0,7.1
+194,Bono East,Kintampo,45,45-54,Female,basic,1645.24,6,29.0,92.58,11.6,4.8,7.8
+195,Greater Accra,Kasoa East,22,18-24,Male,tertiary,1727.71,6,20.0,91.02,6.8,4.6,6.3
+196,Eastern,Nsawam,36,35-44,Male,tertiary,1775.17,7,30.0,103.52,9.3,6.7,5.3
+197,North East,Nalerigu,43,35-44,Female,secondary,1053.33,6,22.0,156.99,6.2,6.7,5.5
+198,North East,Nalerigu,36,35-44,Female,secondary,5691.07,8,41.0,44.03,16.4,10.0,7.5
+199,Savannah,Bole,27,25-34,Female,secondary,933.29,5,18.0,53.91,6.8,7.1,7.9
+200,Bono,Wenchi,27,25-34,Male,secondary,1421.32,4,11.0,57.54,11.2,4.8,9.2
+201,Western,Shama,18,18-24,Male,postgraduate,1393.25,1,13.0,104.93,4.4,1.0,3.7
+202,Upper West,Jirapa,42,35-44,Male,basic,1031.12,9,17.0,84.68,13.4,8.6,5.4
+203,Volta,Keta,23,18-24,Male,tertiary,1024.58,8,28.0,186.38,9.4,8.4,4.4
+204,Eastern,Suhum,53,45-54,Female,basic,1006.42,7,30.0,42.48,12.8,9.4,6.3
+205,North East,Nalerigu,18,18-24,Male,secondary,464.33,8,19.0,132.51,10.6,8.2,4.2
+206,Oti,Kadjebi,18,18-24,Female,postgraduate,478.0,7,36.0,73.47,4.7,8.5,5.8
+207,Eastern,Suhum,21,18-24,Female,postgraduate,363.57,6,24.0,120.72,7.9,6.4,2.4
+208,Upper West,Jirapa,18,18-24,Male,basic,1564.27,5,23.0,140.37,9.4,5.3,3.4
+209,Ahafo,Asutifi South,30,25-34,Male,tertiary,2051.22,5,19.0,80.53,8.2,6.5,4.7
+210,Ahafo,Tano North,29,25-34,Female,secondary,1175.96,10,36.0,80.99,13.3,10.0,5.2
+211,Oti,Dambai,37,35-44,Female,tertiary,801.72,9,31.0,98.96,13.1,8.7,6.6
+212,Volta,Ho,18,18-24,Male,secondary,1059.48,2,16.0,178.49,10.1,1.0,5.9
+213,Upper East,Bolgatanga,21,18-24,Female,secondary,813.38,7,14.0,143.01,7.3,6.5,4.6
+214,Bono East,Techiman,50,45-54,Male,basic,901.14,8,26.0,97.01,5.6,7.5,5.0
+215,Bono East,Techiman,33,25-34,Male,secondary,1841.74,5,21.0,82.49,7.9,4.0,2.6
+216,Volta,Hohoe,43,35-44,Female,tertiary,713.86,4,17.0,113.63,3.6,2.8,7.8
+217,Greater Accra,Tema,43,35-44,Male,postgraduate,1149.15,5,23.0,77.48,6.7,4.9,8.4
+218,Upper West,Wa,28,25-34,Male,tertiary,1620.55,3,7.0,98.21,6.3,1.7,5.8
+219,Central,Komenda,35,35-44,Male,basic,1295.87,5,22.0,99.55,9.0,4.6,7.0
+220,Western,Axim,43,35-44,Female,basic,932.49,10,17.0,148.12,10.8,10.0,4.1
+221,Northern,Tamale,41,35-44,Female,basic,717.84,5,35.0,112.46,6.6,4.8,4.1
+222,Bono East,Kintampo,18,18-24,Male,basic,887.36,6,11.0,76.83,10.2,7.4,2.6
+223,Central,Komenda,18,18-24,Male,postgraduate,923.83,8,18.0,53.5,10.4,9.6,3.9
+224,Oti,Kadjebi,23,18-24,Male,secondary,2150.2,5,21.0,63.71,8.6,5.8,4.1
+225,Savannah,Salaga,32,25-34,Female,secondary,573.12,9,32.0,107.9,10.5,9.0,5.0
+226,Upper West,Jirapa,32,25-34,Female,postgraduate,1512.79,8,35.0,132.6,13.2,10.0,7.1
+227,Western North,Bibiani,29,25-34,Male,secondary,1042.88,7,17.0,116.78,10.6,7.1,4.4
+228,Eastern,Koforidua,32,25-34,Male,tertiary,888.75,4,16.0,74.78,7.4,2.5,4.7
+229,Bono,Dormaa,36,35-44,Female,secondary,1096.4,6,31.0,84.7,12.5,8.8,4.3
+230,Western,Sekondi-Takoradi,43,35-44,Male,secondary,1713.21,8,27.0,84.94,8.6,6.4,6.7
+231,Upper West,Lawra,33,25-34,Female,tertiary,1599.0,6,12.0,72.35,13.2,5.4,4.7
+232,Volta,Hohoe,26,25-34,Female,basic,1674.17,5,27.0,90.46,7.4,4.9,8.9
+233,Central,Cape Coast,23,18-24,Male,basic,1440.92,5,16.0,100.02,7.7,2.4,6.9
+234,Greater Accra,Kasoa East,22,18-24,Male,tertiary,1078.64,9,14.0,112.19,11.8,9.0,5.0
+235,Upper East,Paga,28,25-34,Male,postgraduate,988.78,8,36.0,90.29,10.9,6.4,6.8
+236,Bono,Sunyani,38,35-44,Male,postgraduate,3123.68,5,16.0,115.57,14.2,3.9,7.1
+237,Greater Accra,Accra,26,25-34,Female,basic,1897.92,6,34.0,118.9,9.6,6.0,5.4
+238,Eastern,Nsawam,41,35-44,Female,basic,1186.39,7,25.0,115.3,11.9,8.4,4.4
+239,Oti,Dambai,24,18-24,Male,tertiary,941.42,9,37.0,84.41,13.9,8.2,6.3
+240,Ashanti,Ejisu,24,18-24,Female,secondary,1436.74,8,19.0,77.46,11.6,8.5,6.0
+241,North East,Walewale,18,18-24,Female,tertiary,852.31,2,4.0,114.58,4.3,3.3,5.4
+242,Ashanti,Kumasi,18,18-24,Male,postgraduate,2013.52,3,19.0,87.73,2.9,3.4,4.8
+243,Ashanti,Mampong,22,18-24,Male,secondary,1444.49,2,21.0,92.52,2.6,1.0,3.4
+244,Oti,Nkwanta South,18,18-24,Female,basic,2702.36,7,27.0,152.13,11.2,4.9,9.3
+245,Northern,Tamale,32,25-34,Female,postgraduate,1052.98,7,18.0,80.26,9.0,7.5,4.8
+246,Bono East,Techiman,30,25-34,Female,postgraduate,399.16,4,4.0,114.87,2.4,4.2,9.6
+247,Ashanti,Ejisu,21,18-24,Male,basic,1640.61,8,20.0,80.3,14.2,8.5,7.3
+248,Eastern,Nsawam,21,18-24,Male,tertiary,1399.47,6,8.0,63.96,10.4,7.8,3.2
+249,Upper West,Lawra,35,35-44,Male,secondary,988.05,5,29.0,96.65,8.0,5.5,4.8
+250,Western,Sekondi-Takoradi,32,25-34,Female,basic,1546.74,3,25.0,71.9,7.1,2.6,3.8
+251,Savannah,Sawla,30,25-34,Male,tertiary,1194.09,5,18.0,107.38,6.7,5.8,3.2
+252,Savannah,Damongo,26,25-34,Male,tertiary,729.72,5,12.0,104.25,10.2,5.4,5.9
+253,Greater Accra,Accra,41,35-44,Male,secondary,1315.36,6,20.0,124.2,8.2,7.2,7.7
+254,Bono East,Techiman,24,18-24,Male,basic,926.37,6,2.0,167.33,10.7,6.6,7.8
+255,Ashanti,Obuasi,26,25-34,Female,basic,873.78,6,19.0,136.05,12.4,5.2,6.0
+256,Eastern,Akim Oda,18,18-24,Female,secondary,1741.08,7,21.0,72.74,12.5,7.9,7.8
+257,Ahafo,Asunafo North,41,35-44,Male,tertiary,1133.83,4,29.0,110.04,6.3,3.8,4.1
+258,Western,Shama,40,35-44,Male,postgraduate,905.85,7,21.0,68.14,10.2,5.2,6.3
+259,Volta,Ho,33,25-34,Female,tertiary,1408.19,5,29.0,46.53,9.4,4.0,3.9
+260,North East,Walewale,35,35-44,Female,basic,1997.62,2,6.0,119.22,4.4,1.0,6.3
+261,Northern,Savelugu,19,18-24,Female,secondary,914.36,4,37.0,115.73,7.6,2.2,8.2
+262,North East,Nalerigu,18,18-24,Female,basic,1315.34,4,7.0,108.05,9.5,4.9,4.6
+263,Volta,Kpando,30,25-34,Male,postgraduate,544.94,7,23.0,95.4,6.1,4.9,4.6
+264,Ashanti,Mampong,53,45-54,Female,secondary,1460.0,3,8.0,81.75,3.8,5.0,4.6
+265,Bono East,Kintampo,28,25-34,Male,basic,891.36,9,35.0,118.76,12.6,9.2,3.2
+266,Savannah,Salaga,18,18-24,Male,tertiary,1289.92,4,15.0,48.46,7.8,3.8,7.0
+267,North East,Bunkpurugu,59,55-65,Female,tertiary,1626.36,3,25.0,78.39,5.0,1.3,2.4
+268,Western North,Juaboso,38,35-44,Male,postgraduate,704.74,3,29.0,94.74,6.6,2.7,4.5
+269,Oti,Jasikan,26,25-34,Female,tertiary,1060.22,5,17.0,105.57,6.8,4.6,2.3
+270,Volta,Ho,23,18-24,Male,basic,995.83,8,20.0,106.1,10.5,6.8,4.0
+271,Savannah,Damongo,31,25-34,Male,postgraduate,921.62,7,12.0,56.85,5.9,7.5,5.3
+272,Western North,Bibiani,18,18-24,Male,tertiary,787.03,7,18.0,133.91,8.8,7.8,6.8
+273,Bono,Sunyani,36,35-44,Male,tertiary,1095.94,4,1.0,204.23,9.4,4.4,5.3
+274,Volta,Keta,25,25-34,Female,secondary,1703.23,8,23.0,86.23,13.6,10.0,6.6
+275,Upper East,Navrongo,42,35-44,Female,postgraduate,922.23,5,32.0,76.66,8.0,3.9,4.4
+276,Greater Accra,Madina,33,25-34,Female,basic,1238.61,6,36.0,147.13,10.3,4.9,2.2
+277,North East,Walewale,18,18-24,Male,secondary,323.63,9,27.0,124.16,11.1,8.3,6.9
+278,Volta,Keta,18,18-24,Female,basic,940.38,6,5.0,91.82,8.1,6.9,3.8
+279,Bono East,Kintampo,20,18-24,Male,postgraduate,1197.97,4,18.0,126.75,7.0,4.5,7.0
+280,Western,Axim,18,18-24,Female,tertiary,1043.99,10,31.0,65.53,15.3,7.6,5.5
+281,Volta,Kpando,23,18-24,Female,postgraduate,1187.06,6,22.0,107.07,13.3,6.4,7.1
+282,Upper East,Navrongo,39,35-44,Male,secondary,627.49,6,16.0,122.15,9.8,3.8,6.2
+283,Central,Komenda,39,35-44,Female,postgraduate,822.61,3,7.0,68.7,7.0,4.1,4.5
+284,Savannah,Damongo,30,25-34,Female,basic,1077.09,4,10.0,69.26,4.2,5.4,6.0
+285,Upper West,Jirapa,45,45-54,Male,postgraduate,935.09,7,19.0,62.31,8.9,5.5,4.2
+286,Ashanti,Obuasi,24,18-24,Female,postgraduate,1858.48,6,17.0,145.82,12.0,5.0,8.2
+287,Volta,Hohoe,21,18-24,Male,basic,2379.52,6,28.0,128.09,10.7,4.6,5.0
+288,Greater Accra,Tema,18,18-24,Female,secondary,770.71,5,17.0,129.75,8.1,7.0,4.3
+289,Western,Shama,51,45-54,Female,secondary,833.81,6,42.0,136.38,9.5,4.9,7.1
+290,Western North,Bodi,20,18-24,Male,tertiary,1580.05,8,25.0,69.19,12.6,9.2,4.9
+291,Upper West,Wa,23,18-24,Male,postgraduate,1093.02,3,23.0,124.88,8.3,3.7,3.2
+292,Western North,Juaboso,37,35-44,Female,postgraduate,1029.23,3,18.0,116.82,2.3,3.8,6.2
+293,Northern,Tolon,29,25-34,Female,tertiary,1453.91,6,22.0,81.29,12.8,5.3,5.4
+294,Savannah,Bole,18,18-24,Female,basic,684.33,5,15.0,156.49,6.3,2.5,4.3
+295,Greater Accra,Tema,36,35-44,Male,tertiary,3396.83,7,51.0,127.28,13.7,4.2,8.4
+296,Savannah,Damongo,26,25-34,Male,secondary,1330.65,7,13.0,95.57,13.1,6.5,6.2
+297,Volta,Kpando,39,35-44,Male,tertiary,2235.41,8,36.0,69.03,12.9,6.0,4.7
+298,Central,Kasoa,18,18-24,Male,basic,2169.52,5,14.0,47.23,13.3,3.5,6.0
+299,Volta,Kpando,29,25-34,Male,tertiary,817.09,6,18.0,73.71,10.5,5.1,4.9
+300,Savannah,Bole,21,18-24,Male,basic,673.31,5,15.0,87.2,7.8,4.6,6.2
+301,Ashanti,Mampong,30,25-34,Female,basic,768.18,7,30.0,97.77,11.9,5.3,4.5
+302,North East,Walewale,24,18-24,Male,secondary,485.72,7,5.0,129.54,9.9,7.5,5.5
+303,Bono East,Atebubu,27,25-34,Male,basic,1527.26,6,21.0,73.24,9.7,5.3,5.9
+304,Upper West,Tumu,30,25-34,Female,secondary,786.95,5,9.0,69.51,4.4,6.4,4.1
+305,Bono,Wenchi,24,18-24,Male,basic,1389.68,1,24.0,103.52,4.0,1.5,5.2
+306,Bono East,Techiman,39,35-44,Male,postgraduate,859.28,9,16.0,133.32,12.0,10.0,9.7
+307,Western,Tarkwa,30,25-34,Male,basic,555.82,4,0.0,72.84,7.4,1.0,8.1
+308,Ahafo,Goaso,20,18-24,Male,secondary,3118.9,7,33.0,104.09,14.4,8.6,6.7
+309,Northern,Savelugu,33,25-34,Male,secondary,762.08,3,16.0,135.56,4.9,4.4,7.2
+310,Volta,Ho,32,25-34,Male,tertiary,935.75,9,25.0,56.88,12.2,10.0,7.2
+311,Greater Accra,Accra,34,25-34,Female,basic,1090.3,8,28.0,108.68,13.1,7.5,7.0
+312,North East,Chereponi,44,35-44,Female,secondary,2065.62,6,30.0,68.29,9.5,5.7,3.8
+313,Central,Cape Coast,29,25-34,Female,tertiary,895.53,3,15.0,99.73,4.0,2.7,5.2
+314,Western,Axim,38,35-44,Male,postgraduate,670.57,5,23.0,65.0,10.7,4.8,8.4
+315,Bono East,Techiman,19,18-24,Male,postgraduate,730.6,5,16.0,56.53,9.0,7.4,5.0
+316,Volta,Kpando,38,35-44,Female,basic,858.62,7,29.0,85.72,13.3,6.2,5.4
+317,Northern,Savelugu,18,18-24,Male,basic,985.16,8,23.0,169.89,11.8,6.3,5.7
+318,Central,Mfantsiman,18,18-24,Female,basic,1119.27,3,16.0,81.08,4.8,1.6,7.3
+319,Greater Accra,Tema,18,18-24,Male,tertiary,1394.31,5,13.0,73.68,8.3,7.0,8.2
+320,Greater Accra,Tema,18,18-24,Male,basic,1619.42,2,17.0,56.13,5.1,4.5,5.9
+321,Central,Mfantsiman,50,45-54,Female,secondary,1474.83,6,26.0,151.86,8.2,7.0,1.0
+322,North East,Nalerigu,29,25-34,Female,tertiary,869.22,5,10.0,115.87,6.2,4.1,6.6
+323,Ahafo,Goaso,19,18-24,Female,basic,1252.22,9,19.0,69.94,13.1,10.0,5.5
+324,Savannah,Salaga,24,18-24,Female,basic,1373.55,6,20.0,81.87,13.8,4.9,5.4
+325,Ashanti,Ejisu,45,45-54,Male,secondary,1071.25,3,21.0,56.11,5.4,2.4,6.7
+326,Western,Shama,29,25-34,Male,tertiary,824.75,5,18.0,170.58,10.8,4.2,5.3
+327,Savannah,Damongo,34,25-34,Male,basic,1173.05,6,11.0,99.03,6.3,6.2,7.1
+328,Ashanti,Kumasi,23,18-24,Female,postgraduate,1048.91,7,7.0,92.52,8.5,9.6,7.9
+329,Bono East,Kintampo,18,18-24,Female,basic,1833.24,6,15.0,151.54,9.1,8.1,8.4
+330,Volta,Kpando,29,25-34,Female,tertiary,903.45,6,15.0,116.21,9.7,5.1,5.2
+331,Western,Shama,28,25-34,Male,secondary,936.28,6,30.0,123.31,6.3,5.5,6.2
+332,Northern,Tamale,46,45-54,Female,basic,1532.87,4,19.0,91.38,8.1,5.4,7.4
+333,Central,Mfantsiman,18,18-24,Female,postgraduate,1225.63,7,27.0,100.83,11.9,5.7,6.6
+334,Volta,Kpando,31,25-34,Female,basic,1626.11,7,28.0,105.76,9.2,5.2,4.9
+335,Western,Axim,35,35-44,Male,basic,1234.53,7,37.0,93.54,9.7,6.6,4.7
+336,Bono,Sunyani,33,25-34,Female,secondary,902.53,10,30.0,179.36,14.5,8.3,3.9
+337,Western,Sekondi-Takoradi,28,25-34,Male,basic,2581.63,3,28.0,117.84,5.1,3.7,2.3
+338,Eastern,Nsawam,26,25-34,Female,tertiary,606.62,6,16.0,200.56,8.8,7.5,5.7
+339,Eastern,Akim Oda,28,25-34,Male,secondary,1314.58,7,35.0,161.16,10.6,6.2,3.6
+340,Upper East,Paga,23,18-24,Female,basic,1090.49,7,20.0,53.54,11.7,7.2,3.6
+341,Western,Tarkwa,24,18-24,Female,basic,700.41,5,12.0,63.92,6.5,4.9,9.3
+342,Eastern,Akim Oda,31,25-34,Male,secondary,1512.02,5,24.0,85.04,7.9,6.7,6.7
+343,Bono,Wenchi,37,35-44,Male,tertiary,1471.68,7,30.0,93.46,10.2,6.2,4.0
+344,Volta,Hohoe,18,18-24,Female,secondary,1755.69,9,28.0,130.89,13.1,6.9,6.2
+345,Upper West,Lawra,36,35-44,Female,tertiary,1444.25,6,19.0,85.15,10.3,8.1,3.9
+346,Central,Mfantsiman,30,25-34,Male,secondary,1110.61,9,25.0,76.87,14.0,8.0,5.5
+347,Western North,Sefwi Wiawso,31,25-34,Male,basic,3679.35,6,25.0,131.41,12.4,7.3,6.5
+348,Western North,Bibiani,18,18-24,Male,tertiary,636.16,8,33.0,126.05,10.2,8.7,5.7
+349,Upper West,Lawra,41,35-44,Male,basic,1469.96,7,36.0,182.88,10.1,8.2,4.0
+350,Upper East,Navrongo,34,25-34,Male,basic,1390.12,7,28.0,110.69,13.0,6.8,5.4
+351,Western North,Bodi,31,25-34,Female,postgraduate,1938.39,8,30.0,116.94,12.1,9.1,5.7
+352,Eastern,Akim Oda,25,25-34,Male,postgraduate,1504.2,3,7.0,138.16,7.6,3.8,3.8
+353,North East,Nalerigu,18,18-24,Male,secondary,1365.25,7,24.0,133.41,8.0,5.8,4.9
+354,Bono East,Atebubu,33,25-34,Male,postgraduate,1306.23,2,8.0,209.1,4.4,3.6,4.5
+355,Bono East,Kintampo,28,25-34,Male,secondary,1488.57,8,31.0,63.5,14.5,10.0,5.4
+356,Northern,Tolon,22,18-24,Male,basic,2319.54,7,34.0,215.58,10.1,4.6,5.4
+357,Ahafo,Asutifi South,36,35-44,Female,basic,691.91,7,28.0,59.32,12.3,7.2,3.7
+358,Northern,Yendi,41,35-44,Female,secondary,684.54,6,15.0,139.29,9.1,5.7,4.5
+359,Greater Accra,Kasoa East,27,25-34,Male,tertiary,835.37,4,0.0,82.88,4.3,6.4,3.5
+360,Oti,Nkwanta South,19,18-24,Male,tertiary,726.5,2,6.0,75.14,2.3,1.7,7.0
+361,Northern,Tolon,37,35-44,Female,postgraduate,1471.72,10,28.0,66.73,14.2,10.0,5.4
+362,Western North,Juaboso,22,18-24,Male,postgraduate,1678.69,8,20.0,139.22,14.0,7.4,2.0
+363,Savannah,Sawla,20,18-24,Male,secondary,711.86,2,16.0,94.15,0.2,1.0,6.6
+364,Bono,Wenchi,33,25-34,Female,secondary,651.29,6,19.0,76.3,9.2,9.0,5.9
+365,North East,Walewale,36,35-44,Female,postgraduate,882.16,7,26.0,115.59,10.9,5.3,7.5
+366,Central,Mfantsiman,45,45-54,Female,secondary,617.04,4,22.0,157.84,5.7,3.6,6.0
+367,North East,Nalerigu,23,18-24,Male,postgraduate,730.17,3,22.0,72.3,5.8,3.9,4.2
+368,Western,Axim,36,35-44,Female,tertiary,1982.9,7,31.0,89.26,13.4,7.0,6.0
+369,Ahafo,Asutifi South,29,25-34,Female,secondary,949.5,6,23.0,106.01,12.1,3.8,4.5
+370,Volta,Kpando,18,18-24,Female,basic,1865.3,7,19.0,69.99,10.5,3.1,5.5
+371,Northern,Tamale,31,25-34,Female,basic,824.58,7,18.0,91.66,9.5,6.0,10.0
+372,Greater Accra,Accra,27,25-34,Female,tertiary,577.1,5,24.0,111.88,7.3,7.3,7.7
+373,Upper West,Wa,18,18-24,Male,postgraduate,1304.75,10,34.0,97.94,13.8,10.0,7.9
+374,Ashanti,Ejisu,35,35-44,Female,secondary,806.79,7,27.0,134.43,10.9,6.1,4.1
+375,Bono,Sunyani,34,25-34,Male,tertiary,1292.53,5,33.0,196.42,8.1,5.3,7.5
+376,Greater Accra,Tema,42,35-44,Female,postgraduate,1666.55,4,12.0,68.08,7.6,7.3,5.2
+377,Northern,Tamale,29,25-34,Female,secondary,2311.73,7,36.0,97.63,11.0,7.8,7.6
+378,Upper East,Bolgatanga,18,18-24,Female,secondary,1207.61,6,19.0,129.71,4.5,5.8,7.9
+379,Central,Mfantsiman,47,45-54,Male,tertiary,3252.1,4,24.0,118.8,10.8,4.1,3.3
+380,Savannah,Salaga,44,35-44,Male,secondary,1538.5,9,25.0,103.78,12.9,10.0,4.4
+381,Savannah,Damongo,22,18-24,Male,secondary,1158.78,6,13.0,80.06,10.3,4.0,3.7
+382,Western North,Bodi,18,18-24,Male,postgraduate,1587.08,6,14.0,130.18,11.2,5.2,7.0
+383,Ashanti,Ejisu,27,25-34,Female,secondary,498.73,6,20.0,75.82,6.7,6.1,4.0
+384,Central,Komenda,23,18-24,Female,secondary,1059.31,5,34.0,95.4,11.4,4.6,5.5
+385,Eastern,Suhum,18,18-24,Female,postgraduate,629.09,6,17.0,100.06,11.4,6.9,4.8
+386,Savannah,Damongo,18,18-24,Female,postgraduate,1739.7,7,19.0,101.3,11.7,8.6,9.0
+387,Ahafo,Asutifi South,18,18-24,Female,postgraduate,1347.06,3,19.0,82.29,7.9,4.7,5.3
+388,Savannah,Damongo,18,18-24,Male,postgraduate,713.14,6,28.0,98.51,9.2,6.9,6.0
+389,Western North,Bibiani,25,25-34,Male,basic,449.42,4,6.0,71.08,3.9,2.3,6.0
+390,Greater Accra,Accra,25,25-34,Female,tertiary,1342.26,5,17.0,116.73,11.0,3.8,4.1
+391,Bono,Wenchi,35,35-44,Female,tertiary,583.91,9,21.0,107.31,11.3,10.0,3.9
+392,Eastern,Akim Oda,25,25-34,Female,tertiary,1127.87,5,22.0,118.99,8.5,4.5,5.5
+393,Upper East,Navrongo,29,25-34,Male,secondary,2524.45,2,16.0,85.15,5.4,2.5,4.8
+394,North East,Nalerigu,25,25-34,Male,postgraduate,1463.3,5,26.0,93.08,3.6,3.8,8.4
+395,Eastern,Suhum,30,25-34,Female,postgraduate,631.23,6,24.0,117.02,8.0,7.1,7.7
+396,Bono,Berekum,38,35-44,Male,basic,1048.67,2,17.0,128.81,4.9,1.0,8.1
+397,Bono East,Kintampo,29,25-34,Male,tertiary,1323.03,4,24.0,158.67,1.5,7.7,5.0
+398,Upper West,Lawra,23,18-24,Female,basic,1083.36,6,30.0,127.11,9.2,4.2,8.0
+399,Bono East,Techiman,31,25-34,Male,postgraduate,1333.32,4,21.0,84.32,3.7,6.0,8.1
+400,Volta,Kpando,26,25-34,Female,secondary,1167.13,6,34.0,94.94,14.3,7.6,2.9
+401,Savannah,Bole,28,25-34,Female,postgraduate,1050.62,6,20.0,73.42,12.5,7.4,4.8
+402,Western,Axim,24,18-24,Female,postgraduate,600.66,2,11.0,70.54,0.2,1.0,6.8
+403,Bono,Sunyani,37,35-44,Female,postgraduate,1065.28,5,23.0,111.94,6.8,4.6,5.3
+404,Bono East,Nkoranza,45,45-54,Female,tertiary,1244.09,6,19.0,144.89,11.3,7.1,5.1
+405,Western,Shama,25,25-34,Male,secondary,702.62,4,32.0,94.57,8.0,3.0,3.7
+406,Ashanti,Mampong,28,25-34,Female,secondary,1425.54,3,28.0,71.5,5.8,2.7,5.1
+407,Eastern,Nsawam,32,25-34,Female,secondary,900.7,9,33.0,52.84,14.0,7.8,7.6
+408,Bono,Dormaa,37,35-44,Male,basic,1475.52,6,25.0,93.23,10.3,7.8,6.0
+409,Volta,Ho,33,25-34,Female,tertiary,1185.96,6,13.0,104.61,8.3,3.3,6.5
+410,Upper East,Bawku,35,35-44,Female,secondary,643.25,5,11.0,127.0,5.1,6.9,9.7
+411,Oti,Jasikan,38,35-44,Male,secondary,1576.36,4,12.0,120.75,7.6,6.3,5.9
+412,Upper West,Wa,28,25-34,Female,tertiary,776.07,8,20.0,112.25,11.5,8.2,7.0
+413,Savannah,Sawla,35,35-44,Female,postgraduate,1131.87,7,18.0,87.23,12.8,4.4,6.5
+414,Central,Mfantsiman,32,25-34,Female,postgraduate,1919.1,2,28.0,164.87,8.7,3.9,7.4
+415,Bono East,Nkoranza,25,25-34,Male,tertiary,1067.76,1,9.0,101.33,1.2,2.4,6.5
+416,Volta,Kpando,40,35-44,Male,secondary,976.62,6,25.0,73.86,9.7,6.3,3.8
+417,Eastern,Akim Oda,28,25-34,Female,secondary,854.66,5,15.0,92.11,6.7,7.6,6.5
+418,Upper East,Navrongo,22,18-24,Male,basic,495.7,6,8.0,96.48,8.4,6.2,6.3
+419,Bono East,Techiman,35,35-44,Female,basic,674.37,4,13.0,116.12,7.5,3.3,3.8
+420,Western,Shama,36,35-44,Female,secondary,1093.29,6,19.0,92.67,7.4,7.4,5.2
+421,Eastern,Nsawam,29,25-34,Female,basic,855.61,6,2.0,101.29,3.9,7.9,4.8
+422,Oti,Nkwanta South,24,18-24,Female,basic,1582.56,6,16.0,68.82,10.9,5.5,4.3
+423,Eastern,Koforidua,18,18-24,Female,basic,856.53,5,12.0,91.74,7.7,1.0,3.5
+424,Savannah,Salaga,23,18-24,Male,tertiary,759.88,6,26.0,90.45,8.5,4.8,7.8
+425,Western,Shama,31,25-34,Male,secondary,1497.64,7,23.0,165.04,12.7,7.7,6.0
+426,Volta,Ho,21,18-24,Male,secondary,1151.94,7,19.0,91.13,9.4,7.6,6.2
+427,Eastern,Akim Oda,55,55-65,Male,postgraduate,922.48,8,37.0,97.52,13.7,8.9,5.9
+428,Oti,Dambai,27,25-34,Female,secondary,427.65,6,5.0,62.49,9.7,7.6,7.6
+429,Western North,Bodi,18,18-24,Female,secondary,872.49,6,9.0,148.12,7.9,5.9,5.1
+430,Upper West,Jirapa,35,35-44,Male,basic,1501.34,5,19.0,52.58,11.5,4.7,6.6
+431,Eastern,Akim Oda,44,35-44,Male,postgraduate,754.08,7,27.0,57.18,11.8,4.3,9.7
+432,Western,Axim,42,35-44,Male,basic,1349.73,7,20.0,141.27,8.5,7.6,4.9
+433,Eastern,Koforidua,37,35-44,Female,basic,1682.3,6,12.0,89.66,10.8,4.6,6.5
+434,Ashanti,Kumasi,40,35-44,Male,postgraduate,561.95,5,30.0,124.76,6.9,4.7,6.1
+435,Bono,Dormaa,20,18-24,Male,secondary,1011.25,6,24.0,89.27,8.1,6.1,6.5
+436,Upper West,Lawra,57,55-65,Male,tertiary,888.06,5,27.0,78.3,3.9,4.3,3.0
+437,Ashanti,Mampong,30,25-34,Male,basic,806.72,7,9.0,89.53,9.0,7.4,6.2
+438,Bono East,Atebubu,30,25-34,Male,postgraduate,947.29,6,27.0,45.47,7.6,8.6,5.0
+439,Western,Sekondi-Takoradi,32,25-34,Female,secondary,2078.02,6,23.0,95.78,7.0,6.6,3.7
+440,Eastern,Koforidua,28,25-34,Female,secondary,646.82,2,8.0,115.96,2.0,1.8,9.2
+441,Ashanti,Mampong,41,35-44,Male,secondary,831.08,5,31.0,87.01,4.6,5.2,8.0
+442,Oti,Kadjebi,31,25-34,Male,postgraduate,1738.66,4,22.0,88.69,8.8,1.7,7.5
+443,Upper East,Navrongo,22,18-24,Male,basic,796.83,7,21.0,53.35,6.7,8.1,5.0
+444,Greater Accra,Accra,18,18-24,Female,secondary,1195.66,5,26.0,121.88,9.5,5.1,4.1
+445,Volta,Keta,18,18-24,Female,postgraduate,1128.39,3,13.0,139.7,3.4,4.0,4.8
+446,Savannah,Salaga,33,25-34,Female,tertiary,2943.4,4,16.0,60.71,7.8,5.7,5.1
+447,Upper East,Bolgatanga,30,25-34,Female,secondary,2392.68,5,17.0,115.89,8.8,6.0,6.3
+448,Bono East,Nkoranza,30,25-34,Female,basic,1533.52,8,17.0,104.28,11.2,8.8,6.2
+449,Eastern,Koforidua,32,25-34,Female,postgraduate,1152.27,9,35.0,90.3,12.2,10.0,6.6
+450,Savannah,Bole,31,25-34,Male,tertiary,1002.0,4,19.0,69.9,5.4,2.5,6.2
+451,Ahafo,Tano North,48,45-54,Male,basic,528.56,10,9.0,158.31,11.1,10.0,6.9
+452,Ashanti,Ejisu,20,18-24,Female,secondary,1770.04,7,21.0,131.24,9.3,6.6,5.4
+453,North East,Chereponi,35,35-44,Female,basic,1250.75,6,17.0,79.74,7.2,6.2,9.8
+454,Greater Accra,Kasoa East,59,55-65,Female,tertiary,2310.52,5,34.0,110.23,8.4,5.9,7.4
+455,Western North,Juaboso,33,25-34,Female,postgraduate,2755.96,8,48.0,102.78,13.3,7.3,6.5
+456,Bono East,Atebubu,31,25-34,Female,basic,1396.64,9,29.0,96.84,11.9,7.9,3.6
+457,Eastern,Akim Oda,48,45-54,Female,postgraduate,877.16,6,37.0,91.74,8.7,8.0,5.9
+458,Bono,Wenchi,41,35-44,Female,postgraduate,1518.77,4,27.0,59.11,9.3,3.9,2.4
+459,North East,Walewale,31,25-34,Female,tertiary,1867.28,7,26.0,73.54,12.0,7.8,3.1
+460,Savannah,Sawla,18,18-24,Female,postgraduate,1214.29,3,22.0,173.27,6.7,3.8,7.9
+461,Greater Accra,Accra,28,25-34,Male,secondary,622.48,7,17.0,86.09,4.3,8.7,6.6
+462,Northern,Tolon,38,35-44,Male,tertiary,1044.68,2,28.0,64.04,4.4,1.8,7.5
+463,Central,Komenda,34,25-34,Female,basic,1282.54,5,20.0,84.95,8.3,6.5,5.5
+464,Ashanti,Ejisu,29,25-34,Female,basic,720.57,9,35.0,87.61,14.2,8.2,5.1
+465,Bono,Berekum,40,35-44,Female,postgraduate,1478.96,8,39.0,181.42,16.5,8.0,5.2
+466,Eastern,Akim Oda,31,25-34,Female,tertiary,509.95,7,5.0,112.57,10.8,8.1,4.8
+467,Ahafo,Asutifi South,20,18-24,Male,tertiary,1305.48,6,13.0,156.91,11.5,6.0,3.4
+468,Ashanti,Kumasi,20,18-24,Female,basic,852.7,3,17.0,44.86,5.7,1.8,6.9
+469,Ahafo,Tano North,33,25-34,Female,basic,765.62,9,38.0,124.64,15.1,9.6,5.0
+470,Upper West,Lawra,41,35-44,Female,secondary,1505.18,9,38.0,122.95,13.5,6.5,4.0
+471,Western North,Sefwi Wiawso,20,18-24,Male,secondary,1251.73,3,8.0,106.78,5.0,1.0,4.0
+472,Upper East,Navrongo,30,25-34,Male,tertiary,369.94,5,7.0,100.21,7.0,7.7,5.0
+473,Oti,Nkwanta South,30,25-34,Female,basic,664.9,6,20.0,246.21,6.5,5.8,4.4
+474,Western North,Sefwi Wiawso,45,45-54,Male,tertiary,2018.56,4,26.0,130.91,2.4,6.9,6.1
+475,Bono,Berekum,21,18-24,Male,secondary,379.56,8,33.0,82.0,8.4,7.3,6.8
+476,North East,Chereponi,29,25-34,Male,postgraduate,1615.83,6,18.0,49.3,12.3,6.5,8.3
+477,Bono East,Nkoranza,23,18-24,Male,tertiary,419.54,7,20.0,112.78,9.9,7.6,4.1
+478,Savannah,Sawla,24,18-24,Male,basic,535.27,5,6.0,91.06,9.4,7.2,8.1
+479,Upper East,Bolgatanga,30,25-34,Female,tertiary,985.75,7,24.0,180.93,10.1,6.7,3.9
+480,Greater Accra,Tema,47,45-54,Female,secondary,1333.28,5,25.0,78.91,6.4,4.6,8.3
+481,Northern,Yendi,36,35-44,Male,secondary,2758.68,5,32.0,111.05,10.8,5.3,7.2
+482,Volta,Hohoe,18,18-24,Female,basic,837.22,5,5.0,204.81,6.1,4.7,7.2
+483,Savannah,Sawla,27,25-34,Male,tertiary,1116.84,8,32.0,108.86,10.5,6.8,5.0
+484,Central,Cape Coast,27,25-34,Male,secondary,1280.34,7,20.0,120.5,13.0,8.8,5.0
+485,Bono East,Nkoranza,45,45-54,Male,tertiary,820.96,6,27.0,129.65,11.2,6.3,5.9
+486,Western,Shama,26,25-34,Male,postgraduate,1249.07,6,38.0,104.36,8.3,6.4,7.7
+487,Northern,Tolon,25,25-34,Female,secondary,916.24,8,28.0,92.78,11.3,8.1,3.2
+488,Oti,Jasikan,22,18-24,Female,secondary,1649.96,5,14.0,125.45,9.4,6.1,4.5
+489,Central,Mfantsiman,41,35-44,Female,secondary,1658.13,6,26.0,155.27,11.0,6.5,8.1
+490,Northern,Tolon,25,25-34,Female,tertiary,1163.9,7,18.0,108.67,11.5,10.0,5.2
+491,Oti,Kadjebi,42,35-44,Male,basic,883.58,4,28.0,101.47,6.9,2.0,6.2
+492,Bono East,Kintampo,40,35-44,Male,secondary,741.9,6,13.0,177.16,10.4,5.6,9.3
+493,Oti,Dambai,24,18-24,Female,tertiary,1897.04,7,36.0,94.39,12.2,6.2,5.8
+494,Oti,Dambai,20,18-24,Female,secondary,1610.2,5,27.0,126.37,6.3,5.5,6.3
+495,Northern,Tamale,21,18-24,Male,tertiary,1265.49,9,22.0,106.98,15.1,10.0,6.1
+496,Oti,Jasikan,34,25-34,Female,secondary,1195.51,5,27.0,160.38,6.6,6.8,3.8
+497,Upper West,Lawra,39,35-44,Male,secondary,1702.67,7,19.0,100.22,9.5,5.2,6.9
+498,Greater Accra,Madina,38,35-44,Female,postgraduate,778.72,6,28.0,109.65,9.2,6.6,5.8
+499,Savannah,Damongo,29,25-34,Female,secondary,3596.42,8,29.0,64.28,15.9,8.3,8.2
+500,Volta,Keta,18,18-24,Female,basic,2231.98,5,44.0,108.21,12.3,8.1,6.4
+501,Northern,Tamale,22,18-24,Female,secondary,1302.01,9,22.0,88.73,10.5,10.0,6.1
+502,Bono East,Atebubu,33,25-34,Male,basic,1463.97,5,31.0,73.35,9.8,3.0,6.2
+503,Oti,Kadjebi,18,18-24,Female,postgraduate,1188.95,7,22.0,98.16,7.5,9.3,3.7
+504,Western North,Sefwi Wiawso,27,25-34,Female,postgraduate,700.04,7,19.0,162.91,10.8,7.6,5.3
+505,Upper West,Tumu,37,35-44,Female,postgraduate,1107.02,7,24.0,82.12,6.4,7.1,4.2
+506,Greater Accra,Kasoa East,29,25-34,Female,postgraduate,1289.18,10,41.0,131.84,20.4,7.7,4.6
+507,Bono,Dormaa,29,25-34,Male,secondary,1073.06,4,14.0,81.06,5.8,3.5,8.7
+508,Oti,Nkwanta South,41,35-44,Female,basic,728.6,5,27.0,66.98,7.7,7.8,5.1
+509,Savannah,Salaga,18,18-24,Female,basic,1175.03,3,8.0,118.66,5.7,3.1,5.6
+510,Bono,Sunyani,32,25-34,Male,secondary,471.85,9,19.0,133.14,9.7,9.0,5.0
+511,Western North,Bodi,36,35-44,Male,secondary,1087.29,7,28.0,140.16,10.5,8.7,5.5
+512,Oti,Jasikan,19,18-24,Male,secondary,2354.37,4,35.0,158.98,8.4,1.4,3.5
+513,Oti,Jasikan,39,35-44,Female,basic,1297.78,2,10.0,122.86,3.7,1.3,5.8
+514,Bono,Berekum,27,25-34,Female,secondary,866.56,3,27.0,87.36,6.5,3.7,8.5
+515,Bono,Berekum,34,25-34,Female,postgraduate,1315.45,7,16.0,56.27,7.5,10.0,7.5
+516,Oti,Nkwanta South,34,25-34,Male,tertiary,715.32,6,1.0,89.39,10.9,7.3,5.4
+517,Upper West,Wa,40,35-44,Male,basic,753.51,5,6.0,175.13,6.9,3.6,5.8
+518,Bono East,Atebubu,27,25-34,Male,basic,500.01,6,19.0,75.87,6.3,6.4,6.1
+519,Oti,Jasikan,42,35-44,Female,postgraduate,795.56,5,25.0,78.69,9.6,4.8,6.4
+520,Oti,Kadjebi,18,18-24,Male,secondary,1159.58,7,38.0,67.39,12.5,6.7,6.6
+521,Upper East,Navrongo,40,35-44,Male,basic,1004.06,7,20.0,99.1,7.7,6.7,4.9
+522,Ashanti,Mampong,25,25-34,Female,postgraduate,1429.98,2,17.0,142.68,5.2,2.1,3.6
+523,Eastern,Koforidua,36,35-44,Male,tertiary,814.49,6,20.0,253.05,7.6,4.1,5.7
+524,Northern,Yendi,28,25-34,Female,tertiary,1043.04,7,16.0,52.39,11.9,8.2,5.0
+525,Greater Accra,Tema,35,35-44,Male,tertiary,885.63,7,13.0,63.76,8.1,6.6,6.1
+526,Upper East,Navrongo,40,35-44,Female,postgraduate,776.71,4,26.0,180.16,4.4,2.7,7.1
+527,Central,Kasoa,34,25-34,Female,postgraduate,757.27,5,23.0,99.63,6.7,2.5,7.8
+528,Ashanti,Kumasi,25,25-34,Male,postgraduate,679.45,4,11.0,87.51,5.9,3.6,5.5
+529,Oti,Jasikan,35,35-44,Female,postgraduate,1826.54,4,27.0,49.13,9.6,3.7,3.8
+530,Upper West,Tumu,34,25-34,Male,basic,727.92,4,27.0,133.36,3.0,6.0,3.9
+531,Central,Cape Coast,28,25-34,Male,secondary,1035.24,7,31.0,90.26,7.5,7.7,6.2
+532,Western,Axim,18,18-24,Male,basic,811.96,5,3.0,120.6,7.5,4.7,5.6
+533,Upper West,Lawra,33,25-34,Male,secondary,1251.55,6,31.0,81.0,10.8,4.8,1.0
+534,Northern,Yendi,22,18-24,Male,tertiary,924.98,7,17.0,82.55,10.8,5.8,4.9
+535,Ahafo,Asutifi South,33,25-34,Male,tertiary,4311.97,8,53.0,102.59,19.3,8.2,4.8
+536,Oti,Dambai,45,45-54,Female,secondary,804.0,7,23.0,101.21,10.4,5.8,5.4
+537,Eastern,Nsawam,47,45-54,Female,secondary,972.23,8,32.0,88.54,11.2,5.4,7.4
+538,Bono East,Techiman,29,25-34,Male,basic,745.22,8,26.0,103.63,11.5,8.3,1.4
+539,Eastern,Koforidua,42,35-44,Female,tertiary,2345.97,7,32.0,137.79,13.1,7.3,3.5
+540,Bono East,Nkoranza,35,35-44,Female,secondary,476.09,3,22.0,56.77,0.7,4.0,4.9
+541,Western,Shama,40,35-44,Male,secondary,1161.37,6,39.0,73.18,8.5,6.1,4.7
+542,Savannah,Sawla,20,18-24,Male,tertiary,1388.79,5,27.0,99.45,10.2,5.0,5.9
+543,Bono,Berekum,34,25-34,Female,secondary,1243.37,8,27.0,112.17,11.8,7.6,7.6
+544,Ashanti,Ejisu,26,25-34,Male,secondary,1851.45,7,33.0,104.64,8.4,9.3,3.4
+545,Upper West,Jirapa,38,35-44,Female,tertiary,1685.45,3,40.0,93.52,8.3,1.0,5.7
+546,Savannah,Salaga,42,35-44,Female,postgraduate,1068.83,6,18.0,101.54,3.7,7.7,7.7
+547,Savannah,Salaga,20,18-24,Female,basic,1128.15,7,30.0,85.99,8.1,5.8,3.4
+548,Northern,Tamale,21,18-24,Male,secondary,995.19,6,28.0,181.84,8.5,6.0,5.3
+549,Upper West,Tumu,29,25-34,Male,tertiary,839.57,9,16.0,130.86,11.8,8.5,7.3
+550,Ashanti,Kumasi,40,35-44,Male,tertiary,1523.75,5,31.0,64.1,7.8,4.9,4.0
+551,Central,Mfantsiman,26,25-34,Male,tertiary,848.18,6,38.0,103.45,7.1,6.7,4.3
+552,Greater Accra,Accra,31,25-34,Male,postgraduate,1383.81,5,36.0,192.32,7.8,6.9,5.1
+553,Greater Accra,Madina,18,18-24,Female,basic,1005.68,7,15.0,79.62,6.3,6.8,7.3
+554,Ashanti,Obuasi,32,25-34,Male,secondary,570.95,7,22.0,128.16,6.4,6.0,8.1
+555,Ashanti,Obuasi,18,18-24,Male,secondary,1162.83,9,24.0,152.08,12.2,9.5,4.1
+556,Ahafo,Tano North,32,25-34,Male,tertiary,1064.37,4,25.0,62.0,10.5,5.7,8.0
+557,Volta,Hohoe,43,35-44,Female,secondary,780.13,9,41.0,74.45,12.2,7.3,5.6
+558,Savannah,Bole,47,45-54,Male,secondary,966.86,5,35.0,97.83,10.8,8.5,8.0
+559,North East,Bunkpurugu,19,18-24,Female,basic,762.15,6,14.0,110.96,9.1,7.4,7.7
+560,Ashanti,Kumasi,26,25-34,Female,tertiary,824.18,5,17.0,85.86,8.7,4.9,3.0
+561,Oti,Jasikan,27,25-34,Female,secondary,573.06,6,19.0,130.74,6.8,7.2,5.1
+562,Oti,Dambai,31,25-34,Male,basic,799.55,8,26.0,122.6,12.2,8.3,9.1
+563,Ashanti,Kumasi,36,35-44,Male,secondary,1400.69,6,31.0,88.21,11.6,7.0,7.0
+564,Upper West,Wa,47,45-54,Male,postgraduate,1237.35,4,14.0,76.1,9.9,5.0,3.8
+565,Western North,Juaboso,38,35-44,Female,tertiary,1908.31,3,28.0,77.12,6.0,3.4,2.6
+566,Upper West,Lawra,32,25-34,Female,secondary,1471.57,4,16.0,137.14,3.4,4.4,3.2
+567,Northern,Savelugu,46,45-54,Male,basic,944.96,6,26.0,104.47,9.9,5.8,6.4
+568,Greater Accra,Kasoa East,22,18-24,Male,postgraduate,1257.77,8,35.0,46.27,15.0,7.7,6.3
+569,Bono East,Atebubu,27,25-34,Female,basic,1343.79,6,42.0,93.76,8.3,4.3,2.9
+570,Savannah,Damongo,50,45-54,Male,tertiary,2844.56,6,47.0,87.97,11.2,2.9,6.1
+571,Volta,Hohoe,18,18-24,Female,basic,1265.99,6,20.0,70.51,8.8,5.8,3.5
+572,Greater Accra,Tema,32,25-34,Female,postgraduate,1706.44,7,27.0,163.48,9.1,6.2,6.6
+573,Oti,Nkwanta South,31,25-34,Female,tertiary,1612.52,2,6.0,68.27,1.3,3.4,3.8
+574,North East,Chereponi,36,35-44,Female,postgraduate,2531.4,7,27.0,86.09,16.3,7.1,4.6
+575,Bono East,Atebubu,18,18-24,Female,postgraduate,1333.53,9,31.0,98.64,13.4,10.0,7.2
+576,Eastern,Akim Oda,18,18-24,Male,secondary,516.05,9,34.0,87.91,10.2,7.8,5.9
+577,Bono East,Atebubu,35,35-44,Female,basic,1109.7,5,0.0,226.87,9.9,4.5,8.3
+578,Bono East,Techiman,34,25-34,Male,tertiary,1145.18,2,10.0,78.97,2.9,2.9,5.3
+579,Oti,Dambai,20,18-24,Female,postgraduate,1121.06,6,17.0,135.43,10.1,9.1,5.5
+580,Western North,Sefwi Wiawso,44,35-44,Female,basic,1814.24,7,34.0,111.97,11.7,7.7,7.6
+581,Bono,Berekum,50,45-54,Male,basic,515.04,8,41.0,128.31,10.6,5.4,6.5
+582,North East,Bunkpurugu,22,18-24,Female,tertiary,867.11,7,8.0,104.69,7.7,7.6,5.3
+583,Savannah,Sawla,40,35-44,Male,postgraduate,2996.04,8,34.0,72.16,14.5,7.5,6.5
+584,Oti,Nkwanta South,34,25-34,Female,postgraduate,973.83,8,16.0,120.23,12.6,8.0,6.5
+585,Western North,Juaboso,30,25-34,Female,postgraduate,1651.35,2,11.0,53.47,6.9,2.0,4.9
+586,Ahafo,Asunafo North,31,25-34,Female,basic,542.69,4,31.0,106.52,4.8,5.5,5.7
+587,Ahafo,Tano North,18,18-24,Female,basic,820.87,6,21.0,61.99,8.9,6.9,7.3
+588,Western North,Bibiani,39,35-44,Male,basic,2176.62,6,21.0,159.1,9.8,6.1,6.5
+589,Upper East,Paga,27,25-34,Male,secondary,1406.01,9,25.0,99.22,11.8,8.6,5.1
+590,Ashanti,Kumasi,53,45-54,Male,secondary,1341.51,7,23.0,143.87,9.7,9.0,7.4
+591,Volta,Ho,18,18-24,Male,secondary,1135.32,7,22.0,169.07,10.5,7.5,5.8
+592,Ahafo,Asunafo North,35,35-44,Female,postgraduate,1083.61,4,14.0,63.67,8.7,2.1,6.5
+593,Central,Cape Coast,19,18-24,Male,basic,1510.49,5,32.0,117.96,9.5,4.6,5.8
+594,North East,Nalerigu,27,25-34,Male,postgraduate,548.99,3,10.0,107.27,1.4,5.4,5.2
+595,North East,Walewale,19,18-24,Male,tertiary,1430.19,6,23.0,125.37,9.3,7.7,2.9
+596,Savannah,Bole,24,18-24,Female,postgraduate,682.19,5,19.0,103.06,9.0,4.1,7.5
+597,Upper West,Tumu,27,25-34,Female,tertiary,1159.69,4,15.0,95.34,4.8,3.0,4.6
+598,Volta,Ho,34,25-34,Female,tertiary,906.47,10,25.0,189.6,8.3,10.0,3.7
+599,North East,Nalerigu,34,25-34,Male,tertiary,1046.99,7,29.0,64.98,10.6,5.6,4.6
+600,Central,Mfantsiman,22,18-24,Male,secondary,1272.38,9,29.0,104.71,15.2,9.6,6.8
+601,Ahafo,Tano North,30,25-34,Female,tertiary,847.2,7,28.0,94.56,10.9,5.8,3.6
+602,Bono,Wenchi,44,35-44,Female,postgraduate,1457.87,8,4.0,132.71,15.0,9.6,5.6
+603,North East,Walewale,32,25-34,Male,tertiary,635.84,7,10.0,145.99,10.1,6.1,6.5
+604,Greater Accra,Tema,41,35-44,Male,basic,1263.96,5,18.0,195.67,6.7,4.7,6.5
+605,Upper West,Wa,41,35-44,Male,tertiary,1496.18,5,16.0,65.59,7.7,5.1,3.5
+606,Bono,Berekum,28,25-34,Male,basic,1608.28,4,12.0,68.31,7.0,3.1,4.5
+607,Central,Kasoa,20,18-24,Male,basic,1074.41,6,14.0,87.86,9.9,5.5,7.3
+608,Western North,Bodi,40,35-44,Male,tertiary,1733.96,8,12.0,55.85,10.3,9.0,5.2
+609,Savannah,Sawla,30,25-34,Female,secondary,1094.88,6,24.0,60.08,7.7,4.3,7.1
+610,Oti,Nkwanta South,27,25-34,Male,tertiary,1626.12,8,21.0,101.75,14.5,8.3,5.2
+611,Eastern,Akim Oda,29,25-34,Male,postgraduate,694.69,2,9.0,89.88,0.2,2.6,5.7
+612,Volta,Hohoe,18,18-24,Male,basic,1035.83,8,25.0,102.19,8.5,8.2,5.8
+613,Northern,Tamale,53,45-54,Male,secondary,976.09,8,41.0,110.2,6.4,8.6,9.2
+614,Oti,Kadjebi,26,25-34,Male,basic,950.44,6,15.0,102.57,4.4,2.8,5.8
+615,Savannah,Damongo,30,25-34,Female,secondary,671.78,7,28.0,102.71,12.5,6.3,4.6
+616,Ahafo,Asutifi South,18,18-24,Female,postgraduate,831.75,5,14.0,103.95,5.6,2.2,3.6
+617,Northern,Tolon,18,18-24,Male,tertiary,629.79,2,1.0,82.34,4.5,4.6,3.3
+618,Western North,Sefwi Wiawso,36,35-44,Female,secondary,1178.84,3,20.0,68.48,7.6,2.3,5.2
+619,Eastern,Nsawam,22,18-24,Female,basic,3676.48,5,31.0,61.4,14.7,5.6,5.3
+620,Bono East,Atebubu,39,35-44,Male,secondary,639.43,7,24.0,93.09,9.1,7.5,5.9
+621,Western,Tarkwa,43,35-44,Male,basic,1629.67,4,22.0,88.2,8.6,2.9,3.9
+622,Ashanti,Obuasi,27,25-34,Male,postgraduate,679.01,6,15.0,286.39,8.4,4.8,5.0
+623,Upper West,Wa,33,25-34,Male,basic,1525.92,4,22.0,167.89,7.3,4.5,4.2
+624,Western North,Sefwi Wiawso,31,25-34,Male,postgraduate,1198.65,7,25.0,120.56,9.1,7.0,4.7
+625,Northern,Yendi,45,45-54,Female,basic,1092.18,3,18.0,50.45,6.4,3.2,8.3
+626,Central,Komenda,22,18-24,Female,basic,857.26,10,28.0,74.17,16.3,9.9,8.8
+627,Western North,Bodi,18,18-24,Female,basic,1997.67,6,8.0,130.21,10.8,2.9,6.0
+628,Eastern,Koforidua,29,25-34,Male,secondary,2504.84,8,37.0,99.92,16.8,4.6,8.1
+629,Ashanti,Ejisu,31,25-34,Female,basic,1176.65,6,18.0,141.16,12.8,6.4,8.2
+630,Bono East,Nkoranza,27,25-34,Female,tertiary,1990.31,5,27.0,99.49,9.6,6.7,2.6
+631,Ahafo,Asutifi South,32,25-34,Male,basic,1169.16,5,15.0,110.48,9.6,5.8,8.4
+632,Upper East,Paga,19,18-24,Male,tertiary,1347.19,3,26.0,86.48,5.4,1.0,6.3
+633,North East,Chereponi,26,25-34,Female,tertiary,613.57,8,24.0,71.49,11.7,5.3,7.7
+634,Western,Axim,31,25-34,Female,basic,884.68,10,32.0,72.51,11.6,10.0,5.1
+635,Eastern,Nsawam,34,25-34,Female,secondary,1439.23,10,22.0,70.64,15.2,10.0,7.8
+636,Upper East,Navrongo,45,45-54,Male,tertiary,2500.95,3,15.0,71.86,7.7,1.1,5.3
+637,North East,Nalerigu,18,18-24,Male,postgraduate,946.39,6,26.0,99.42,6.6,6.7,3.8
+638,Bono,Berekum,23,18-24,Female,postgraduate,1717.68,3,22.0,86.62,7.8,4.8,5.8
+639,Bono East,Kintampo,35,35-44,Female,postgraduate,1033.18,7,31.0,118.53,10.7,8.8,6.0
+640,Greater Accra,Accra,35,35-44,Male,secondary,1028.68,9,30.0,87.84,8.1,9.2,5.8
+641,Eastern,Suhum,38,35-44,Female,tertiary,637.39,4,3.0,95.44,5.9,1.0,4.3
+642,Western,Axim,37,35-44,Male,postgraduate,2599.17,5,27.0,81.65,12.5,2.9,4.5
+643,Central,Mfantsiman,22,18-24,Female,basic,1876.61,7,32.0,156.36,9.4,5.4,4.1
+644,Bono East,Kintampo,30,25-34,Female,basic,913.07,7,31.0,136.04,9.7,9.2,5.6
+645,Savannah,Sawla,31,25-34,Male,tertiary,1330.21,10,27.0,112.28,10.8,10.0,6.7
+646,Ashanti,Obuasi,22,18-24,Male,basic,882.6,3,6.0,107.78,3.6,2.7,3.9
+647,North East,Nalerigu,39,35-44,Male,secondary,1358.95,4,10.0,104.75,8.2,4.2,6.6
+648,North East,Walewale,18,18-24,Male,basic,1185.86,6,15.0,112.07,12.0,5.1,3.1
+649,Greater Accra,Tema,21,18-24,Male,basic,562.85,4,14.0,115.01,4.1,6.1,8.5
+650,Ahafo,Goaso,37,35-44,Male,tertiary,1850.23,8,38.0,203.94,11.7,8.8,5.3
+651,Western,Tarkwa,20,18-24,Female,basic,1073.46,10,28.0,115.4,13.6,7.8,5.1
+652,Oti,Nkwanta South,39,35-44,Male,postgraduate,1583.2,3,28.0,97.47,6.2,4.1,5.4
+653,Savannah,Damongo,21,18-24,Male,postgraduate,999.6,6,4.0,145.88,8.6,2.9,5.8
+654,Western,Tarkwa,33,25-34,Male,basic,929.87,7,22.0,174.53,10.0,4.9,4.3
+655,Western North,Juaboso,22,18-24,Male,tertiary,688.22,7,7.0,73.51,7.9,6.2,5.1
+656,Central,Kasoa,23,18-24,Male,secondary,1782.48,2,15.0,58.96,4.3,2.9,4.0
+657,Northern,Savelugu,33,25-34,Male,tertiary,1436.07,9,21.0,97.78,14.6,7.0,2.6
+658,Upper West,Wa,24,18-24,Male,secondary,807.38,6,22.0,54.85,10.3,4.9,7.5
+659,Western North,Bibiani,18,18-24,Male,tertiary,1250.54,5,15.0,135.83,7.5,3.3,7.3
+660,Oti,Jasikan,43,35-44,Female,postgraduate,1228.06,7,31.0,89.18,10.9,7.1,5.1
+661,Ahafo,Goaso,18,18-24,Female,postgraduate,1403.05,7,10.0,111.14,12.1,8.3,5.8
+662,Upper West,Wa,35,35-44,Male,basic,1944.49,5,25.0,99.54,10.2,4.5,6.0
+663,Eastern,Akim Oda,28,25-34,Female,basic,776.59,9,24.0,84.35,13.3,9.9,2.2
+664,Northern,Savelugu,38,35-44,Male,postgraduate,1574.24,7,32.0,112.26,8.0,6.7,2.8
+665,Oti,Nkwanta South,18,18-24,Male,tertiary,1591.92,7,25.0,55.85,7.9,10.0,10.0
+666,Western North,Sefwi Wiawso,39,35-44,Male,basic,1279.5,3,9.0,89.52,6.4,1.7,7.2
+667,Central,Mfantsiman,18,18-24,Female,secondary,734.56,4,7.0,99.61,3.1,2.4,2.9
+668,Western North,Bibiani,31,25-34,Male,basic,1132.4,6,25.0,53.01,13.6,5.6,3.3
+669,Greater Accra,Kasoa East,18,18-24,Female,tertiary,440.63,9,27.0,77.97,12.4,9.8,5.4
+670,Eastern,Akim Oda,19,18-24,Male,secondary,959.93,6,10.0,103.31,10.2,5.6,5.0
+671,Northern,Savelugu,31,25-34,Female,postgraduate,715.77,6,26.0,69.43,8.4,3.7,6.9
+672,Ahafo,Goaso,18,18-24,Male,basic,1628.55,7,18.0,181.19,8.5,5.5,9.8
+673,Upper West,Wa,34,25-34,Female,postgraduate,1287.83,6,24.0,94.48,12.1,6.6,7.7
+674,Oti,Nkwanta South,31,25-34,Male,basic,709.58,8,32.0,85.41,12.6,8.4,3.3
+675,Savannah,Bole,29,25-34,Male,tertiary,2538.38,5,30.0,145.83,9.3,3.6,6.4
+676,Ahafo,Tano North,18,18-24,Female,postgraduate,2202.86,6,20.0,176.22,15.7,6.5,4.1
+677,Central,Kasoa,34,25-34,Male,secondary,1283.36,8,10.0,210.69,9.6,9.6,6.0
+678,Upper West,Jirapa,49,45-54,Female,basic,599.66,2,11.0,103.48,8.0,1.6,5.4
+679,North East,Nalerigu,36,35-44,Female,basic,1343.2,10,28.0,87.62,15.5,10.0,6.4
+680,Volta,Ho,45,45-54,Male,basic,1130.11,10,40.0,120.69,16.7,9.9,5.7
+681,Central,Komenda,46,45-54,Female,postgraduate,2113.77,4,24.0,190.05,9.2,6.6,4.2
+682,Savannah,Sawla,18,18-24,Male,secondary,611.63,5,13.0,106.87,4.8,3.5,6.1
+683,Bono East,Kintampo,31,25-34,Male,tertiary,942.74,5,21.0,142.43,7.9,6.3,7.9
+684,Volta,Hohoe,20,18-24,Male,tertiary,1899.66,7,27.0,152.69,11.1,10.0,6.9
+685,Central,Kasoa,38,35-44,Female,basic,1529.88,6,25.0,124.36,9.8,8.6,4.0
+686,Western,Axim,18,18-24,Male,tertiary,861.9,8,34.0,171.9,11.8,5.9,7.1
+687,North East,Bunkpurugu,45,45-54,Female,tertiary,1589.03,6,21.0,97.98,8.7,8.1,2.8
+688,Bono,Berekum,18,18-24,Male,postgraduate,967.57,5,14.0,73.89,7.3,4.8,5.2
+689,Bono East,Nkoranza,36,35-44,Female,basic,780.59,4,17.0,93.7,5.7,5.3,5.7
+690,Savannah,Bole,37,35-44,Female,secondary,1610.23,7,21.0,75.05,10.8,7.7,5.5
+691,Central,Komenda,30,25-34,Female,tertiary,1607.36,6,29.0,87.03,10.3,7.0,2.7
+692,Northern,Yendi,20,18-24,Male,secondary,959.02,10,30.0,59.27,15.0,8.5,1.3
+693,Central,Komenda,30,25-34,Male,secondary,744.92,2,20.0,49.96,3.7,3.2,6.5
+694,Western,Axim,50,45-54,Male,tertiary,868.13,7,25.0,54.8,8.1,6.8,3.7
+695,Western,Tarkwa,33,25-34,Female,tertiary,1225.77,9,33.0,52.27,12.8,7.7,3.6
+696,Greater Accra,Kasoa East,45,45-54,Male,tertiary,565.44,4,25.0,70.66,10.2,3.2,4.8
+697,Eastern,Koforidua,38,35-44,Male,tertiary,1400.6,7,23.0,80.55,8.5,7.7,4.2
+698,Savannah,Salaga,37,35-44,Male,secondary,1137.52,5,23.0,132.74,9.7,5.1,6.4
+699,Central,Kasoa,24,18-24,Male,tertiary,1136.5,10,40.0,114.86,11.9,10.0,9.4
+700,Ashanti,Mampong,25,25-34,Female,basic,1473.93,9,28.0,97.03,14.2,8.9,4.6
+701,Volta,Keta,49,45-54,Female,postgraduate,593.72,8,27.0,149.43,11.4,7.1,3.2
+702,Savannah,Bole,29,25-34,Male,tertiary,850.05,1,19.0,150.33,2.5,1.0,3.4
+703,Eastern,Nsawam,33,25-34,Female,secondary,1228.17,5,30.0,89.94,6.1,2.1,8.2
+704,Western,Shama,47,45-54,Female,postgraduate,1207.27,5,26.0,90.36,10.0,2.6,3.9
+705,Savannah,Bole,42,35-44,Female,basic,1129.06,9,50.0,120.17,13.7,10.0,5.5
+706,North East,Bunkpurugu,35,35-44,Female,postgraduate,1133.2,7,20.0,103.2,12.1,6.3,6.4
+707,Upper West,Wa,30,25-34,Female,postgraduate,700.64,6,24.0,62.49,6.8,7.2,5.7
+708,North East,Bunkpurugu,41,35-44,Female,tertiary,1589.66,9,36.0,82.38,13.5,10.0,3.9
+709,Western North,Bibiani,35,35-44,Female,basic,927.03,7,34.0,78.92,8.0,4.9,6.5
+710,Bono,Berekum,21,18-24,Female,basic,965.76,2,10.0,147.65,4.5,1.5,7.8
+711,Bono,Wenchi,25,25-34,Male,postgraduate,1043.67,3,15.0,65.15,4.8,1.5,4.3
+712,Bono,Berekum,24,18-24,Male,tertiary,625.22,9,28.0,62.73,12.4,8.1,7.1
+713,Western North,Sefwi Wiawso,29,25-34,Female,secondary,2035.75,6,28.0,144.41,8.8,5.9,5.3
+714,Central,Kasoa,45,45-54,Male,postgraduate,707.5,5,25.0,129.11,4.9,2.9,3.3
+715,Central,Cape Coast,18,18-24,Female,basic,1179.05,6,26.0,68.88,8.5,3.5,5.8
+716,Central,Komenda,18,18-24,Male,postgraduate,603.49,7,19.0,90.47,12.4,7.7,5.2
+717,North East,Walewale,25,25-34,Male,postgraduate,725.35,7,9.0,55.84,8.8,7.1,7.7
+718,Eastern,Suhum,44,35-44,Female,secondary,1746.99,6,22.0,74.73,12.1,6.7,3.8
+719,Greater Accra,Kasoa East,18,18-24,Male,postgraduate,782.32,7,15.0,77.89,10.7,7.6,4.7
+720,Western,Sekondi-Takoradi,26,25-34,Female,basic,1122.36,5,23.0,150.21,7.3,3.8,5.0
+721,Upper West,Lawra,46,45-54,Female,basic,1214.2,7,21.0,137.68,11.5,6.2,7.9
+722,Volta,Ho,35,35-44,Female,basic,1839.81,5,25.0,75.21,10.7,2.9,6.0
+723,Upper East,Bolgatanga,38,35-44,Female,tertiary,1059.3,5,22.0,138.02,6.8,3.2,1.8
+724,Ahafo,Asutifi South,26,25-34,Male,basic,712.25,5,5.0,104.98,6.0,6.0,4.2
+725,Western,Shama,37,35-44,Female,tertiary,408.1,7,0.0,60.27,8.8,8.4,3.7
+726,Greater Accra,Accra,26,25-34,Male,basic,434.78,2,12.0,55.2,4.1,2.1,5.2
+727,Upper West,Wa,24,18-24,Female,basic,1988.32,7,37.0,84.03,9.2,6.4,5.6
+728,Savannah,Damongo,28,25-34,Female,basic,1294.81,8,19.0,107.07,13.9,8.6,5.9
+729,Eastern,Koforidua,18,18-24,Female,tertiary,2514.07,7,28.0,115.81,9.8,7.7,5.4
+730,Western North,Bibiani,40,35-44,Female,tertiary,1342.11,6,31.0,90.26,7.3,4.8,6.6
+731,Greater Accra,Tema,33,25-34,Female,postgraduate,1175.74,4,23.0,83.89,7.5,2.8,7.4
+732,Savannah,Damongo,20,18-24,Female,basic,599.91,5,25.0,150.14,8.2,5.3,3.6
+733,Ashanti,Obuasi,29,25-34,Male,postgraduate,794.48,6,20.0,57.38,10.0,3.3,6.5
+734,Central,Kasoa,21,18-24,Female,secondary,2088.27,7,35.0,40.85,12.1,7.6,4.6
+735,Ahafo,Goaso,30,25-34,Male,tertiary,1400.62,6,28.0,132.36,10.5,4.9,5.3
+736,Western,Sekondi-Takoradi,35,35-44,Female,basic,726.3,6,26.0,170.04,9.1,7.1,6.3
+737,Bono East,Techiman,25,25-34,Female,tertiary,3057.49,7,31.0,51.13,14.1,5.9,3.5
+738,Ahafo,Tano North,30,25-34,Male,secondary,1450.77,1,14.0,78.1,4.0,3.1,5.2
+739,Oti,Dambai,18,18-24,Female,tertiary,1006.07,7,32.0,81.23,13.0,9.4,5.0
+740,Western North,Bibiani,42,35-44,Female,tertiary,1512.48,5,26.0,111.33,12.3,4.5,7.5
+741,North East,Walewale,41,35-44,Male,basic,785.47,7,19.0,75.37,12.7,6.7,3.1
+742,Northern,Tolon,21,18-24,Female,postgraduate,876.78,3,11.0,84.06,5.5,2.2,4.5
+743,Greater Accra,Kasoa East,41,35-44,Female,tertiary,2069.62,6,25.0,84.67,12.4,6.8,5.6
+744,Upper West,Lawra,39,35-44,Male,secondary,754.03,4,5.0,76.68,5.3,6.1,6.2
+745,Eastern,Akim Oda,25,25-34,Male,secondary,1337.08,4,22.0,133.08,13.8,2.5,4.9
+746,Ashanti,Obuasi,35,35-44,Female,basic,799.21,6,31.0,99.4,7.9,4.2,7.7
+747,Greater Accra,Kasoa East,39,35-44,Male,secondary,588.95,10,25.0,53.04,13.0,10.0,3.9
+748,Eastern,Nsawam,49,45-54,Male,tertiary,659.05,7,21.0,120.21,12.3,8.5,5.7
+749,Bono,Berekum,23,18-24,Male,basic,1438.58,4,23.0,77.79,6.0,3.7,1.8
+750,Upper West,Wa,20,18-24,Male,postgraduate,1641.03,8,35.0,67.95,11.9,10.0,5.3
+751,Upper West,Jirapa,32,25-34,Female,tertiary,1747.79,8,33.0,85.01,12.7,8.8,3.8
+752,Oti,Dambai,18,18-24,Female,tertiary,1897.06,6,14.0,77.22,10.6,5.2,4.9
+753,Eastern,Koforidua,22,18-24,Female,basic,622.1,10,28.0,120.07,15.8,9.9,4.1
+754,Upper East,Bolgatanga,39,35-44,Male,tertiary,1189.2,5,29.0,145.4,9.4,4.8,6.1
+755,Upper West,Wa,29,25-34,Male,basic,1360.13,4,21.0,87.34,6.4,3.4,5.2
+756,Central,Mfantsiman,30,25-34,Male,tertiary,538.54,4,13.0,78.32,6.1,4.2,6.4
+757,Bono East,Techiman,41,35-44,Male,tertiary,1439.51,5,25.0,63.76,8.7,1.9,7.5
+758,Ahafo,Asutifi South,28,25-34,Female,secondary,1897.82,8,35.0,109.78,10.8,7.3,9.4
+759,Eastern,Nsawam,25,25-34,Male,secondary,2264.73,8,37.0,120.7,11.6,8.3,4.7
+760,Western,Sekondi-Takoradi,22,18-24,Male,postgraduate,586.92,5,18.0,61.83,9.1,5.5,1.0
+761,Ashanti,Ejisu,18,18-24,Male,basic,1647.8,9,21.0,122.24,12.6,8.4,6.2
+762,Upper East,Bolgatanga,49,45-54,Female,postgraduate,508.28,9,19.0,119.93,12.4,9.7,6.7
+763,Northern,Yendi,19,18-24,Female,secondary,851.39,6,9.0,52.91,7.8,6.4,4.6
+764,Upper East,Paga,21,18-24,Female,postgraduate,1342.87,5,12.0,116.39,5.3,8.1,2.7
+765,Western North,Bodi,44,35-44,Male,postgraduate,1022.66,6,27.0,109.37,5.3,7.5,4.7
+766,Central,Kasoa,21,18-24,Female,postgraduate,807.26,1,2.0,113.03,2.3,1.7,4.1
+767,Northern,Savelugu,31,25-34,Male,basic,876.29,5,3.0,159.16,8.0,5.3,4.9
+768,Northern,Savelugu,36,35-44,Female,postgraduate,1269.89,6,20.0,186.57,11.3,4.0,7.9
+769,Upper West,Lawra,22,18-24,Female,secondary,777.25,6,21.0,87.98,7.5,6.5,7.5
+770,Bono,Wenchi,32,25-34,Female,basic,2209.09,8,33.0,121.89,16.3,9.2,3.7
+771,Savannah,Damongo,42,35-44,Male,secondary,875.74,9,22.0,88.84,10.3,8.4,5.3
+772,Oti,Kadjebi,45,45-54,Male,secondary,1792.48,7,25.0,65.56,13.3,6.0,8.0
+773,Bono,Berekum,31,25-34,Male,postgraduate,773.8,5,29.0,98.64,8.3,5.1,6.0
+774,Upper East,Bolgatanga,27,25-34,Male,basic,1064.62,7,13.0,73.76,8.7,5.0,9.5
+775,Upper West,Lawra,38,35-44,Male,postgraduate,1127.38,3,15.0,85.21,4.8,1.3,2.4
+776,Bono East,Techiman,23,18-24,Male,tertiary,1227.89,7,20.0,61.19,11.4,5.9,5.5
+777,Western North,Juaboso,37,35-44,Female,secondary,1466.44,8,24.0,92.36,13.2,3.1,8.7
+778,Ahafo,Tano North,40,35-44,Male,tertiary,601.4,4,27.0,100.77,8.5,5.2,5.8
+779,Greater Accra,Accra,40,35-44,Female,tertiary,1514.74,4,0.0,116.11,10.0,2.7,3.8
+780,Ashanti,Obuasi,29,25-34,Female,secondary,1529.84,6,29.0,124.01,12.4,5.1,5.9
+781,Bono East,Techiman,27,25-34,Male,secondary,2002.56,6,24.0,98.6,9.4,4.8,7.3
+782,Bono,Dormaa,46,45-54,Female,basic,1145.82,5,11.0,40.5,6.0,2.7,7.9
+783,Central,Cape Coast,30,25-34,Male,tertiary,823.97,3,14.0,123.79,3.6,3.3,8.0
+784,Savannah,Damongo,39,35-44,Female,postgraduate,744.87,3,0.0,149.22,4.4,1.2,4.6
+785,Western,Tarkwa,28,25-34,Female,secondary,1030.32,4,17.0,104.67,4.9,1.7,5.8
+786,Upper West,Lawra,23,18-24,Female,postgraduate,939.41,5,10.0,135.62,5.8,6.0,5.4
+787,Bono,Wenchi,23,18-24,Male,tertiary,625.61,6,23.0,157.53,6.4,5.7,8.7
+788,Volta,Kpando,34,25-34,Female,tertiary,928.97,7,26.0,112.33,11.8,4.5,7.3
+789,Savannah,Bole,43,35-44,Male,tertiary,1460.71,6,33.0,80.28,10.5,4.4,4.2
+790,Ashanti,Mampong,31,25-34,Male,tertiary,1244.89,8,31.0,80.26,11.6,7.6,6.8
+791,Upper East,Navrongo,29,25-34,Male,postgraduate,1048.65,4,20.0,97.67,3.9,3.6,5.4
+792,Upper West,Jirapa,28,25-34,Male,postgraduate,972.48,5,14.0,97.6,9.6,6.0,6.6
+793,Western,Axim,29,25-34,Female,postgraduate,1147.54,7,23.0,83.24,7.8,5.3,2.7
+794,Savannah,Sawla,54,45-54,Female,tertiary,552.93,10,27.0,172.96,14.3,10.0,3.5
+795,Bono,Sunyani,49,45-54,Female,basic,739.07,7,28.0,40.5,8.7,5.3,8.8
+796,North East,Bunkpurugu,26,25-34,Male,secondary,1187.03,9,36.0,60.69,10.3,8.4,3.3
+797,Eastern,Suhum,22,18-24,Female,basic,1543.57,5,7.0,42.69,8.0,5.4,5.0
+798,Eastern,Akim Oda,35,35-44,Female,secondary,1872.13,8,33.0,101.89,10.6,9.7,5.3
+799,Savannah,Sawla,33,25-34,Male,postgraduate,984.65,7,30.0,131.83,9.8,5.4,1.4
+800,Western North,Sefwi Wiawso,23,18-24,Male,basic,2082.97,4,18.0,129.06,10.5,3.8,2.7
+801,Western North,Sefwi Wiawso,45,45-54,Male,secondary,1491.19,9,26.0,98.6,12.1,9.5,1.7
+802,Ahafo,Asunafo North,34,25-34,Male,postgraduate,1281.43,7,21.0,112.06,8.9,6.2,5.7
+803,Western North,Bibiani,33,25-34,Male,basic,1260.05,9,23.0,107.51,13.7,6.5,5.4
+804,Ahafo,Tano North,27,25-34,Female,tertiary,715.44,4,6.0,88.63,0.4,3.4,2.3
+805,Savannah,Bole,40,35-44,Male,secondary,297.48,5,24.0,91.29,8.3,5.2,5.9
+806,Western North,Bodi,18,18-24,Female,secondary,1541.29,9,30.0,103.53,14.2,8.3,4.7
+807,Western,Shama,29,25-34,Male,secondary,819.48,7,19.0,68.03,11.1,5.2,6.9
+808,Eastern,Suhum,18,18-24,Male,tertiary,377.08,8,20.0,107.2,8.8,9.1,7.5
+809,Greater Accra,Accra,24,18-24,Female,postgraduate,1712.76,6,27.0,70.77,7.8,4.6,4.2
+810,Northern,Tamale,18,18-24,Female,postgraduate,3051.71,10,36.0,73.19,20.2,9.4,7.2
+811,Bono East,Nkoranza,18,18-24,Female,secondary,803.46,7,21.0,91.74,10.8,6.9,5.1
+812,Volta,Kpando,33,25-34,Female,secondary,1171.55,6,20.0,98.43,7.8,5.6,5.0
+813,Ashanti,Ejisu,32,25-34,Male,secondary,2102.75,4,14.0,95.45,8.2,4.1,6.3
+814,North East,Nalerigu,44,35-44,Male,basic,1964.21,6,22.0,206.73,7.4,6.3,4.7
+815,Upper East,Bawku,39,35-44,Male,tertiary,1129.02,7,29.0,83.34,13.7,7.3,5.8
+816,Savannah,Bole,18,18-24,Male,basic,1800.74,6,24.0,71.03,9.1,4.4,5.2
+817,Eastern,Nsawam,40,35-44,Male,basic,1106.48,6,15.0,93.55,6.1,6.0,5.4
+818,Upper East,Paga,40,35-44,Female,secondary,494.95,9,31.0,85.2,12.8,5.0,10.0
+819,Bono East,Atebubu,23,18-24,Female,postgraduate,2982.54,8,26.0,101.06,16.2,6.5,5.2
+820,Bono,Dormaa,60,55-65,Female,postgraduate,1134.1,5,26.0,138.3,10.1,6.3,3.9
+821,Upper East,Paga,37,35-44,Male,secondary,352.95,5,15.0,48.22,5.4,3.9,1.3
+822,Bono,Wenchi,28,25-34,Female,basic,1093.29,3,6.0,82.59,5.7,3.0,6.2
+823,Upper West,Tumu,37,35-44,Male,tertiary,2947.17,5,21.0,139.64,9.7,1.8,2.8
+824,Upper East,Paga,46,45-54,Male,basic,1498.69,8,32.0,84.91,13.4,7.5,4.2
+825,Oti,Nkwanta South,32,25-34,Female,postgraduate,1287.63,5,22.0,123.18,8.1,3.4,5.0
+826,Eastern,Nsawam,33,25-34,Female,tertiary,3027.02,9,26.0,68.34,19.2,8.4,6.5
+827,Volta,Keta,20,18-24,Male,secondary,915.99,6,23.0,90.49,8.9,4.7,4.2
+828,Volta,Hohoe,32,25-34,Male,secondary,1395.75,4,24.0,99.53,8.9,1.2,4.2
+829,Northern,Tolon,40,35-44,Female,basic,1956.09,5,20.0,141.11,10.0,2.3,4.3
+830,Upper East,Paga,32,25-34,Male,postgraduate,2119.8,3,19.0,117.26,4.2,4.0,7.6
+831,Ahafo,Asutifi South,25,25-34,Male,tertiary,682.24,6,19.0,62.34,7.1,6.9,5.9
+832,Western North,Bibiani,29,25-34,Female,tertiary,1199.52,2,26.0,91.68,2.7,1.0,8.1
+833,Ashanti,Mampong,30,25-34,Female,tertiary,1710.23,8,30.0,80.99,12.4,7.4,6.7
+834,Upper East,Bolgatanga,36,35-44,Male,tertiary,2960.84,8,20.0,99.76,14.8,7.8,8.3
+835,Volta,Hohoe,24,18-24,Male,postgraduate,797.45,7,8.0,153.67,11.7,8.6,4.8
+836,Northern,Yendi,41,35-44,Female,tertiary,2179.89,6,34.0,184.96,7.6,6.9,6.2
+837,Western North,Sefwi Wiawso,27,25-34,Female,basic,1242.79,6,24.0,154.52,12.5,4.9,9.2
+838,Volta,Keta,20,18-24,Male,basic,2129.59,6,24.0,85.93,10.4,5.4,7.0
+839,Volta,Kpando,18,18-24,Female,basic,784.11,5,27.0,116.26,9.5,4.4,4.7
+840,Eastern,Koforidua,18,18-24,Male,tertiary,572.22,4,17.0,113.31,4.5,7.2,10.0
+841,Upper East,Navrongo,37,35-44,Female,tertiary,596.33,4,22.0,109.76,4.2,1.0,5.9
+842,Bono East,Techiman,24,18-24,Female,secondary,1267.43,6,8.0,163.38,9.6,6.5,4.9
+843,Ashanti,Obuasi,25,25-34,Male,postgraduate,1111.35,7,17.0,69.86,6.8,6.9,5.8
+844,Greater Accra,Kasoa East,32,25-34,Female,postgraduate,1298.34,4,26.0,102.76,10.3,5.0,8.8
+845,Ahafo,Asunafo North,18,18-24,Female,postgraduate,1033.84,4,22.0,85.2,9.8,1.6,4.7
+846,Ahafo,Goaso,18,18-24,Female,tertiary,3560.48,4,33.0,58.25,8.0,3.9,3.2
+847,Ahafo,Goaso,33,25-34,Male,tertiary,2445.09,4,21.0,132.13,10.4,5.1,3.3
+848,Bono,Dormaa,35,35-44,Male,postgraduate,1198.15,4,10.0,78.81,4.3,3.4,10.0
+849,Bono East,Atebubu,31,25-34,Female,basic,1090.24,4,23.0,107.83,7.0,3.9,3.3
+850,Greater Accra,Tema,36,35-44,Male,basic,600.7,7,34.0,70.09,9.8,6.8,3.9
+851,Western,Axim,39,35-44,Female,secondary,945.05,7,6.0,146.14,13.9,5.2,4.2
+852,Upper East,Paga,45,45-54,Male,postgraduate,929.33,1,17.0,135.56,4.0,1.0,3.5
+853,Central,Kasoa,33,25-34,Male,tertiary,554.34,8,21.0,78.97,9.8,8.7,8.6
+854,Ashanti,Mampong,20,18-24,Female,tertiary,981.29,4,0.0,226.92,4.7,5.2,3.8
+855,Oti,Jasikan,26,25-34,Female,postgraduate,1256.38,1,1.0,79.44,3.8,2.1,4.6
+856,Bono,Berekum,22,18-24,Male,postgraduate,1946.45,8,25.0,75.04,12.3,9.5,5.7
+857,Ahafo,Asunafo North,35,35-44,Male,basic,2409.64,6,32.0,95.73,9.2,4.8,6.3
+858,Upper East,Bolgatanga,18,18-24,Female,postgraduate,994.79,6,20.0,75.82,11.2,8.8,6.5
+859,Ahafo,Asunafo North,18,18-24,Male,basic,1173.4,7,11.0,117.27,11.4,9.9,4.2
+860,Ahafo,Goaso,43,35-44,Female,postgraduate,708.57,7,16.0,176.43,11.4,5.1,6.3
+861,Western,Tarkwa,18,18-24,Male,basic,1211.13,6,23.0,74.03,13.0,5.4,7.1
+862,Savannah,Salaga,18,18-24,Male,basic,1615.76,7,23.0,139.45,9.2,6.5,4.2
+863,Oti,Dambai,38,35-44,Male,tertiary,735.48,8,30.0,147.74,10.0,7.4,4.0
+864,Bono,Wenchi,20,18-24,Male,secondary,524.8,7,14.0,130.31,9.6,5.9,1.0
+865,Ahafo,Tano North,32,25-34,Female,basic,1014.01,5,19.0,80.8,8.9,5.3,4.1
+866,Ahafo,Goaso,25,25-34,Female,postgraduate,1137.41,5,27.0,202.58,9.7,2.7,6.5
+867,Savannah,Damongo,30,25-34,Male,secondary,565.65,4,30.0,118.34,6.6,4.5,2.8
+868,Bono East,Techiman,33,25-34,Male,secondary,1765.1,6,22.0,83.89,8.9,5.4,3.8
+869,Savannah,Salaga,18,18-24,Female,postgraduate,546.78,8,29.0,131.9,11.0,8.8,4.7
+870,Oti,Jasikan,36,35-44,Female,postgraduate,793.01,4,18.0,132.37,7.5,5.7,4.1
+871,Greater Accra,Accra,46,45-54,Female,secondary,967.93,7,21.0,92.86,9.8,4.9,4.9
+872,Upper West,Lawra,25,25-34,Male,postgraduate,1797.9,4,31.0,122.66,8.7,3.4,6.8
+873,Ashanti,Obuasi,33,25-34,Female,secondary,1286.34,6,26.0,140.69,11.5,6.5,7.1
+874,Oti,Jasikan,20,18-24,Female,tertiary,742.27,6,2.0,53.43,8.7,4.2,3.3
+875,Central,Cape Coast,32,25-34,Male,tertiary,745.07,7,35.0,70.38,9.9,6.3,6.2
+876,Upper West,Lawra,31,25-34,Female,basic,2435.4,7,38.0,145.28,11.8,7.6,5.1
+877,Upper West,Wa,31,25-34,Male,basic,784.12,8,32.0,91.33,13.2,10.0,6.6
+878,Oti,Dambai,31,25-34,Female,secondary,815.87,5,19.0,75.22,8.5,5.5,8.1
+879,Savannah,Salaga,25,25-34,Male,secondary,576.05,9,30.0,169.4,12.2,10.0,2.7
+880,Oti,Jasikan,38,35-44,Female,secondary,1012.24,2,12.0,87.63,3.5,1.7,4.2
+881,Eastern,Nsawam,27,25-34,Male,tertiary,1039.45,9,35.0,101.72,13.8,7.5,3.2
+882,Volta,Hohoe,37,35-44,Male,postgraduate,1031.59,6,7.0,79.79,10.1,3.0,6.9
+883,Bono,Berekum,29,25-34,Female,secondary,606.98,10,32.0,117.99,13.4,10.0,5.2
+884,Eastern,Akim Oda,27,25-34,Male,secondary,395.61,8,25.0,114.89,12.3,7.6,2.3
+885,Savannah,Salaga,34,25-34,Male,postgraduate,1215.19,8,36.0,74.77,11.7,7.1,3.5
+886,North East,Chereponi,22,18-24,Male,postgraduate,1136.87,6,27.0,171.17,10.2,4.6,1.1
+887,Western,Axim,32,25-34,Male,tertiary,982.57,6,11.0,63.38,7.9,5.2,3.8
+888,Savannah,Salaga,18,18-24,Female,basic,1504.34,7,20.0,108.56,11.8,9.0,1.0
+889,Upper East,Bolgatanga,32,25-34,Male,secondary,1722.49,3,15.0,73.2,3.7,4.5,4.6
+890,Western North,Juaboso,20,18-24,Male,tertiary,2392.47,6,38.0,108.37,7.6,5.6,4.2
+891,Northern,Tamale,43,35-44,Male,postgraduate,426.93,8,17.0,72.04,8.7,10.0,4.8
+892,Ahafo,Asunafo North,50,45-54,Male,tertiary,1286.98,4,19.0,78.62,6.3,3.1,6.2
+893,Upper East,Bolgatanga,31,25-34,Female,postgraduate,567.51,8,34.0,127.24,11.7,9.3,3.8
+894,Western North,Sefwi Wiawso,28,25-34,Female,secondary,2578.8,9,39.0,102.0,14.9,10.0,5.0
+895,Upper East,Navrongo,32,25-34,Male,basic,3084.21,1,16.0,73.03,7.4,1.0,6.8
+896,Bono East,Kintampo,32,25-34,Female,postgraduate,3397.21,4,20.0,93.1,10.6,1.0,5.2
+897,Central,Cape Coast,18,18-24,Male,basic,479.16,6,30.0,134.29,6.5,5.2,6.5
+898,Volta,Hohoe,18,18-24,Female,tertiary,2354.9,6,19.0,109.1,14.5,6.6,6.2
+899,Eastern,Suhum,18,18-24,Male,basic,667.64,4,16.0,73.01,4.6,4.5,7.7
+900,Western North,Bodi,18,18-24,Female,postgraduate,1423.14,5,29.0,105.71,7.8,2.2,3.1
+901,Northern,Savelugu,18,18-24,Male,postgraduate,697.0,8,29.0,89.93,13.3,8.4,2.6
+902,Ashanti,Obuasi,24,18-24,Female,secondary,727.15,9,15.0,102.05,11.7,7.1,4.0
+903,Savannah,Bole,33,25-34,Female,secondary,1195.71,8,29.0,111.58,13.8,9.4,3.2
+904,Upper East,Paga,35,35-44,Female,secondary,3382.13,4,30.0,80.81,12.4,3.7,7.3
+905,North East,Walewale,32,25-34,Male,tertiary,1384.95,7,25.0,114.59,8.0,8.9,5.1
+906,Volta,Kpando,18,18-24,Male,postgraduate,1108.9,8,28.0,153.77,12.6,7.8,6.6
+907,Eastern,Koforidua,35,35-44,Male,secondary,880.17,7,35.0,88.67,10.4,6.9,5.6
+908,Western North,Bodi,20,18-24,Female,tertiary,845.92,8,26.0,99.73,10.8,5.7,2.7
+909,North East,Walewale,35,35-44,Male,postgraduate,1287.15,7,25.0,128.81,6.6,7.2,4.0
+910,Ahafo,Asunafo North,25,25-34,Male,secondary,3703.71,5,25.0,127.65,13.1,6.9,5.9
+911,Bono East,Nkoranza,37,35-44,Female,postgraduate,422.89,5,15.0,115.04,6.6,7.9,4.0
+912,Ashanti,Kumasi,36,35-44,Male,secondary,487.67,8,22.0,171.42,9.8,9.4,4.7
+913,Ashanti,Ejisu,24,18-24,Female,secondary,1931.75,5,13.0,102.7,9.1,4.5,4.8
+914,Savannah,Salaga,32,25-34,Male,postgraduate,1394.49,6,11.0,103.52,9.3,4.4,4.6
+915,Volta,Keta,21,18-24,Male,tertiary,1137.09,8,28.0,91.34,10.9,7.1,5.8
+916,Eastern,Koforidua,28,25-34,Male,postgraduate,374.88,5,24.0,93.03,6.9,5.5,5.2
+917,Eastern,Suhum,39,35-44,Female,basic,871.61,7,31.0,93.55,9.9,5.0,4.3
+918,Bono,Wenchi,28,25-34,Male,tertiary,2269.23,6,37.0,181.33,10.6,7.1,5.2
+919,Volta,Kpando,21,18-24,Female,tertiary,830.66,8,15.0,139.03,8.4,8.7,3.2
+920,Central,Komenda,18,18-24,Male,postgraduate,874.89,9,31.0,123.43,13.2,6.8,5.7
+921,Eastern,Suhum,22,18-24,Female,secondary,1194.96,4,22.0,135.43,5.2,4.8,4.2
+922,North East,Walewale,38,35-44,Female,basic,912.12,5,34.0,88.96,7.1,6.1,8.8
+923,Upper East,Bolgatanga,18,18-24,Female,postgraduate,1237.14,9,22.0,117.2,15.2,10.0,6.6
+924,Western North,Juaboso,29,25-34,Female,tertiary,499.34,6,30.0,159.82,8.1,5.9,5.7
+925,Savannah,Salaga,30,25-34,Female,tertiary,2011.39,8,23.0,67.24,14.5,7.0,4.4
+926,Central,Kasoa,28,25-34,Male,tertiary,1627.81,5,18.0,142.1,6.5,3.8,5.8
+927,Greater Accra,Madina,23,18-24,Male,postgraduate,959.06,4,2.0,79.51,4.9,4.1,6.6
+928,Savannah,Damongo,31,25-34,Male,tertiary,491.83,7,28.0,116.73,13.2,4.2,6.5
+929,Ahafo,Goaso,28,25-34,Male,postgraduate,545.45,5,24.0,115.21,10.7,5.7,5.0
+930,Bono,Sunyani,53,45-54,Female,secondary,1037.2,6,31.0,68.57,3.7,6.3,7.0
+931,Ahafo,Tano North,23,18-24,Male,basic,1298.95,5,24.0,86.75,7.7,2.9,6.0
+932,Western North,Juaboso,33,25-34,Female,secondary,932.16,1,23.0,59.94,1.9,2.6,2.8
+933,Greater Accra,Accra,19,18-24,Female,secondary,642.94,5,15.0,192.11,6.2,5.8,6.5
+934,Western North,Bibiani,38,35-44,Male,basic,1093.38,8,19.0,121.28,9.3,7.2,9.6
+935,Central,Mfantsiman,37,35-44,Female,basic,2011.58,3,25.0,102.72,7.2,1.0,5.6
+936,Central,Kasoa,28,25-34,Female,basic,1029.85,9,36.0,150.31,15.0,10.0,8.5
+937,Savannah,Damongo,18,18-24,Female,basic,710.22,4,25.0,176.09,8.4,1.0,5.3
+938,Eastern,Koforidua,31,25-34,Female,basic,860.68,7,30.0,106.89,8.9,6.9,6.2
+939,Ahafo,Asunafo North,37,35-44,Female,basic,2364.75,7,34.0,105.42,9.1,7.8,5.3
+940,North East,Nalerigu,34,25-34,Male,postgraduate,1412.51,5,16.0,70.18,9.0,6.6,3.7
+941,Eastern,Akim Oda,29,25-34,Male,postgraduate,898.26,3,20.0,104.3,3.0,3.6,4.0
+942,Upper West,Lawra,24,18-24,Male,tertiary,1078.76,5,7.0,31.69,9.3,4.4,4.7
+943,Northern,Yendi,37,35-44,Female,basic,1374.89,3,9.0,114.78,8.2,7.2,1.7
+944,Greater Accra,Accra,24,18-24,Female,tertiary,1594.25,6,26.0,88.41,9.3,7.3,7.0
+945,Central,Kasoa,18,18-24,Male,secondary,1065.2,7,32.0,81.63,7.0,6.9,6.1
+946,Greater Accra,Madina,41,35-44,Female,postgraduate,863.64,7,34.0,74.9,8.3,5.4,3.1
+947,Ashanti,Kumasi,18,18-24,Female,tertiary,1307.93,4,30.0,121.33,7.3,6.7,3.9
+948,Upper East,Bolgatanga,36,35-44,Male,tertiary,1022.44,5,7.0,85.14,8.6,3.6,6.6
+949,North East,Chereponi,20,18-24,Female,tertiary,684.38,2,19.0,113.45,4.1,1.0,5.8
+950,Central,Cape Coast,29,25-34,Female,basic,1055.23,4,15.0,87.9,3.6,4.3,7.1
+951,Volta,Ho,43,35-44,Female,secondary,709.44,7,30.0,100.38,9.7,5.2,5.4
+952,Bono East,Atebubu,34,25-34,Female,secondary,663.65,2,30.0,128.82,5.6,4.4,3.9
+953,Central,Cape Coast,40,35-44,Male,secondary,880.34,6,17.0,81.63,6.6,4.0,5.9
+954,Bono East,Atebubu,35,35-44,Female,secondary,1534.77,6,21.0,89.66,7.8,7.2,4.8
+955,Eastern,Koforidua,18,18-24,Female,postgraduate,777.86,3,13.0,104.27,1.5,1.2,4.0
+956,Oti,Nkwanta South,26,25-34,Male,secondary,4324.7,7,33.0,81.47,10.9,6.3,3.1
+957,Bono,Dormaa,27,25-34,Male,postgraduate,1569.99,4,24.0,82.36,7.1,7.8,3.5
+958,Western,Shama,42,35-44,Male,secondary,509.23,7,21.0,130.31,8.0,9.3,3.2
+959,Greater Accra,Tema,49,45-54,Male,postgraduate,607.27,9,42.0,106.3,10.6,7.2,3.8
+960,Savannah,Sawla,32,25-34,Male,tertiary,1590.22,7,19.0,98.42,12.5,5.8,5.6
+961,North East,Chereponi,23,18-24,Female,secondary,780.68,8,8.0,95.73,10.6,9.5,4.5
+962,Central,Mfantsiman,22,18-24,Male,basic,690.31,8,27.0,56.18,15.9,7.2,7.2
+963,Savannah,Bole,44,35-44,Male,basic,698.6,8,21.0,159.4,13.0,4.9,6.9
+964,Greater Accra,Accra,34,25-34,Female,postgraduate,767.46,5,14.0,138.09,9.9,6.0,7.8
+965,Upper West,Jirapa,24,18-24,Female,tertiary,1066.84,2,9.0,58.07,6.6,1.5,6.6
+966,Eastern,Suhum,34,25-34,Female,secondary,1199.55,5,29.0,90.49,10.7,6.0,8.4
+967,Upper West,Wa,45,45-54,Male,secondary,866.65,5,26.0,82.85,6.8,6.8,4.4
+968,Volta,Keta,25,25-34,Male,secondary,578.52,8,24.0,157.44,7.9,9.6,5.3
+969,Savannah,Damongo,18,18-24,Male,basic,1017.8,6,21.0,92.49,9.3,7.3,5.1
+970,Ahafo,Asutifi South,22,18-24,Female,postgraduate,2515.39,5,23.0,127.65,9.9,5.0,5.4
+971,Savannah,Salaga,32,25-34,Male,tertiary,1256.92,3,9.0,163.82,8.5,3.7,4.3
+972,Upper West,Wa,22,18-24,Female,postgraduate,1172.27,5,24.0,80.72,8.8,5.1,6.8
+973,Bono East,Atebubu,24,18-24,Male,basic,709.37,4,12.0,149.9,7.6,4.0,6.2
+974,Volta,Keta,18,18-24,Male,basic,945.07,5,28.0,66.79,6.5,4.6,8.6
+975,Upper West,Lawra,18,18-24,Male,postgraduate,1327.87,2,20.0,79.4,2.6,1.0,4.3
+976,Greater Accra,Kasoa East,25,25-34,Male,basic,1136.68,9,28.0,153.55,11.1,9.3,6.2
+977,Volta,Ho,45,45-54,Female,tertiary,1721.39,5,31.0,111.81,7.2,6.0,6.9
+978,Upper East,Bolgatanga,18,18-24,Male,basic,1708.68,6,5.0,80.12,8.6,3.9,3.5
+979,Bono East,Kintampo,34,25-34,Female,tertiary,1435.83,9,28.0,135.96,13.8,7.0,6.2
+980,Volta,Keta,18,18-24,Female,basic,539.4,5,2.0,125.91,6.0,4.9,8.0
+981,Ahafo,Asunafo North,18,18-24,Female,tertiary,1559.48,5,25.0,73.69,10.3,5.0,5.1
+982,Western,Tarkwa,40,35-44,Male,secondary,1224.49,8,20.0,74.35,13.5,6.8,5.5
+983,North East,Bunkpurugu,25,25-34,Female,postgraduate,1845.2,6,37.0,149.19,10.0,8.8,5.1
+984,Savannah,Salaga,18,18-24,Male,secondary,1791.97,6,21.0,90.29,14.5,6.6,5.3
+985,Savannah,Bole,29,25-34,Female,secondary,1275.53,5,23.0,179.51,7.3,2.2,5.9
+986,Volta,Kpando,36,35-44,Female,basic,779.66,8,34.0,69.24,11.1,7.0,6.8
+987,Eastern,Akim Oda,26,25-34,Female,secondary,927.5,9,25.0,136.49,14.7,8.6,2.0
+988,Oti,Nkwanta South,24,18-24,Male,tertiary,1449.27,6,14.0,51.14,9.5,7.5,6.1
+989,Volta,Hohoe,35,35-44,Male,basic,1029.08,4,21.0,98.86,7.9,3.6,6.9
+990,Greater Accra,Accra,51,45-54,Male,postgraduate,946.48,5,23.0,89.75,5.7,3.4,4.1
+991,Upper East,Paga,18,18-24,Male,basic,843.69,8,5.0,104.83,9.3,7.6,6.8
+992,Volta,Keta,51,45-54,Female,postgraduate,952.72,6,23.0,66.21,11.0,7.2,3.0
+993,Upper East,Navrongo,26,25-34,Female,tertiary,1820.75,5,22.0,71.66,10.3,5.7,8.8
+994,Ahafo,Goaso,33,25-34,Male,secondary,906.23,3,25.0,136.62,1.2,3.4,3.0
+995,Northern,Yendi,47,45-54,Male,tertiary,1011.43,7,23.0,59.53,10.3,6.8,2.9
+996,Savannah,Salaga,26,25-34,Male,postgraduate,644.69,9,15.0,114.76,8.5,7.9,5.4
+997,Bono,Sunyani,18,18-24,Female,secondary,1126.51,5,10.0,145.41,3.9,4.3,6.3
+998,Eastern,Koforidua,18,18-24,Male,secondary,1870.33,4,29.0,139.08,7.4,1.0,5.0
+999,North East,Walewale,25,25-34,Female,tertiary,680.36,5,14.0,74.62,6.4,6.2,3.3
+1000,Upper East,Bawku,30,25-34,Female,postgraduate,1469.74,7,26.0,68.16,13.7,7.0,1.0
+1001,Ashanti,Kumasi,38,35-44,Male,basic,1158.3,5,27.0,70.78,7.0,4.3,4.9
+1002,Ahafo,Asutifi South,39,35-44,Female,tertiary,1145.81,6,20.0,72.85,9.0,5.5,2.4
+1003,Eastern,Koforidua,28,25-34,Female,postgraduate,2455.52,8,33.0,105.87,16.1,8.3,4.1
+1004,Upper West,Tumu,32,25-34,Male,basic,1291.02,5,14.0,123.08,8.3,1.3,5.9
+1005,Eastern,Akim Oda,37,35-44,Female,tertiary,1028.09,5,19.0,81.62,8.1,4.1,2.6
+1006,Western North,Bibiani,38,35-44,Male,tertiary,1243.29,4,9.0,113.45,6.7,4.9,4.9
+1007,Northern,Savelugu,26,25-34,Female,postgraduate,927.79,7,20.0,136.75,6.2,3.7,7.1
+1008,Western North,Bibiani,42,35-44,Male,tertiary,1886.32,6,42.0,132.54,14.6,5.2,6.0
+1009,Upper West,Wa,36,35-44,Female,secondary,985.19,6,27.0,69.71,4.9,5.2,5.3
+1010,Western,Axim,43,35-44,Male,basic,1200.44,6,25.0,119.98,9.3,7.0,8.0
+1011,Central,Mfantsiman,18,18-24,Female,tertiary,1353.57,5,23.0,82.74,10.3,3.5,5.8
+1012,Bono,Dormaa,28,25-34,Female,postgraduate,687.59,9,17.0,169.85,13.3,5.8,4.5
+1013,Western North,Sefwi Wiawso,32,25-34,Male,basic,1002.29,2,18.0,90.31,6.8,1.0,7.7
+1014,Central,Cape Coast,33,25-34,Male,postgraduate,936.79,8,23.0,126.98,13.6,6.7,4.2
+1015,Western North,Bibiani,18,18-24,Male,basic,1945.69,5,29.0,81.38,10.0,6.9,1.4
+1016,Western,Shama,18,18-24,Female,tertiary,974.47,5,23.0,54.01,7.8,7.2,6.6
+1017,Greater Accra,Madina,20,18-24,Male,tertiary,1504.87,4,11.0,82.4,9.7,3.5,4.0
+1018,Ashanti,Mampong,46,45-54,Female,postgraduate,1418.57,7,36.0,83.74,6.8,9.7,3.5
+1019,Savannah,Sawla,31,25-34,Female,postgraduate,772.69,7,20.0,200.07,7.7,6.5,5.9
+1020,North East,Chereponi,18,18-24,Female,basic,972.55,8,38.0,62.54,12.0,9.5,6.7
+1021,Savannah,Bole,22,18-24,Female,postgraduate,872.49,8,11.0,176.9,10.7,10.0,5.8
+1022,Upper West,Wa,18,18-24,Female,postgraduate,1059.27,9,16.0,100.53,12.1,10.0,1.9
+1023,Bono East,Nkoranza,41,35-44,Female,basic,1582.53,8,35.0,90.52,10.5,9.1,4.0
+1024,Ashanti,Kumasi,35,35-44,Female,basic,1310.68,7,41.0,56.53,7.9,6.6,8.8
+1025,Greater Accra,Madina,29,25-34,Male,basic,1941.4,8,39.0,66.71,12.5,7.6,6.0
+1026,Savannah,Sawla,23,18-24,Male,tertiary,532.49,4,13.0,82.58,4.2,2.3,4.2
+1027,Eastern,Suhum,27,25-34,Female,postgraduate,982.32,7,19.0,72.86,10.4,6.0,6.9
+1028,Upper West,Tumu,33,25-34,Female,tertiary,1068.23,4,22.0,69.35,7.2,1.8,4.6
+1029,Volta,Keta,35,35-44,Female,tertiary,1457.08,8,38.0,70.46,10.4,6.6,7.0
+1030,Western North,Bodi,58,55-65,Male,secondary,990.43,5,20.0,123.19,10.4,3.1,8.0
+1031,Greater Accra,Madina,41,35-44,Male,postgraduate,2593.18,8,27.0,78.81,10.8,7.9,5.6
+1032,Greater Accra,Madina,29,25-34,Female,tertiary,1086.8,5,35.0,93.03,9.2,4.1,7.0
+1033,Bono East,Atebubu,18,18-24,Female,tertiary,956.45,8,42.0,60.92,8.1,9.6,5.5
+1034,Eastern,Koforidua,34,25-34,Female,tertiary,1213.57,6,14.0,183.15,6.3,5.1,3.8
+1035,Ahafo,Asutifi South,35,35-44,Female,postgraduate,1503.19,7,25.0,126.78,11.1,10.0,4.9
+1036,Upper East,Paga,26,25-34,Female,basic,1120.98,6,20.0,66.82,12.1,6.3,7.9
+1037,Ahafo,Tano North,40,35-44,Female,secondary,1456.85,5,16.0,128.94,6.1,6.0,6.1
+1038,Savannah,Damongo,30,25-34,Male,secondary,1470.76,5,27.0,68.5,7.7,6.0,5.1
+1039,Upper East,Bolgatanga,25,25-34,Female,basic,531.29,7,25.0,112.38,8.8,8.3,4.2
+1040,Ashanti,Ejisu,49,45-54,Male,basic,1593.68,3,17.0,99.09,7.6,3.6,4.1
+1041,Upper West,Wa,29,25-34,Female,tertiary,882.43,8,3.0,157.98,8.7,9.8,4.7
+1042,Western North,Bibiani,37,35-44,Male,postgraduate,641.18,6,29.0,70.21,5.4,4.5,6.5
+1043,Central,Cape Coast,23,18-24,Male,secondary,922.25,5,27.0,51.86,8.9,5.6,6.8
+1044,Greater Accra,Madina,24,18-24,Male,secondary,1253.36,3,2.0,74.69,4.7,1.3,1.9
+1045,North East,Chereponi,22,18-24,Female,tertiary,666.11,6,16.0,92.07,10.5,5.9,4.0
+1046,Western,Tarkwa,45,45-54,Male,postgraduate,594.67,5,31.0,96.23,9.2,5.3,6.3
+1047,Ahafo,Asutifi South,18,18-24,Female,secondary,1418.41,5,11.0,123.14,5.4,4.7,5.0
+1048,Upper West,Wa,56,55-65,Male,basic,625.39,7,29.0,66.53,9.5,5.5,8.2
+1049,Savannah,Bole,20,18-24,Male,secondary,1319.02,5,20.0,73.68,10.5,7.9,6.0
+1050,North East,Chereponi,18,18-24,Male,basic,885.74,7,16.0,118.66,9.5,5.1,6.9
+1051,Western,Shama,18,18-24,Female,secondary,2193.52,2,9.0,152.55,6.5,4.4,4.3
+1052,Savannah,Damongo,38,35-44,Female,secondary,795.08,5,21.0,122.57,10.8,4.8,3.3
+1053,Oti,Nkwanta South,30,25-34,Female,secondary,2254.89,8,45.0,57.95,12.9,7.5,4.4
+1054,Western North,Bodi,24,18-24,Female,basic,637.98,8,31.0,119.0,13.4,6.8,7.4
+1055,Ahafo,Asutifi South,19,18-24,Female,postgraduate,1021.49,3,4.0,105.61,5.8,2.2,5.3
+1056,Oti,Kadjebi,33,25-34,Male,secondary,1130.92,4,32.0,191.71,9.4,1.9,6.0
+1057,North East,Nalerigu,25,25-34,Female,secondary,1285.84,6,33.0,90.58,10.9,4.3,7.2
+1058,Volta,Ho,18,18-24,Male,basic,616.64,9,12.0,89.34,8.8,8.8,4.9
+1059,Ahafo,Asunafo North,28,25-34,Male,postgraduate,1266.0,9,38.0,119.19,15.0,8.6,6.0
+1060,Volta,Ho,22,18-24,Male,tertiary,1336.03,6,8.0,72.92,11.7,7.5,5.5
+1061,Western,Shama,39,35-44,Male,secondary,1856.5,4,25.0,74.49,9.0,3.7,4.4
+1062,Greater Accra,Kasoa East,28,25-34,Female,basic,1018.04,7,30.0,56.06,10.7,9.2,3.6
+1063,Upper East,Navrongo,34,25-34,Female,postgraduate,1171.67,5,28.0,82.84,8.9,4.8,4.8
+1064,Ashanti,Mampong,30,25-34,Female,secondary,1054.65,5,25.0,112.86,6.1,4.5,7.6
+1065,Ashanti,Obuasi,22,18-24,Male,postgraduate,1081.85,3,2.0,142.04,4.7,1.0,5.2
+1066,Upper East,Bolgatanga,32,25-34,Female,tertiary,1050.18,4,2.0,103.58,8.5,3.6,3.6
+1067,Western,Axim,18,18-24,Female,basic,923.24,5,20.0,85.45,5.1,6.8,3.0
+1068,Ashanti,Obuasi,44,35-44,Female,tertiary,1708.84,6,21.0,142.23,9.3,9.3,5.7
+1069,Eastern,Suhum,21,18-24,Male,basic,1009.22,4,31.0,95.53,7.7,3.8,3.6
+1070,Upper East,Navrongo,44,35-44,Male,postgraduate,1522.65,6,14.0,42.36,9.9,6.8,6.9
+1071,Bono,Wenchi,42,35-44,Female,secondary,1667.64,5,16.0,199.82,9.9,6.2,6.6
+1072,Ashanti,Kumasi,18,18-24,Male,postgraduate,847.28,8,21.0,146.19,9.9,5.9,5.9
+1073,Bono East,Atebubu,28,25-34,Female,postgraduate,1171.41,5,25.0,109.43,7.0,4.7,6.9
+1074,Upper East,Paga,30,25-34,Female,postgraduate,1130.51,8,26.0,69.32,10.7,8.0,5.8
+1075,Western,Sekondi-Takoradi,33,25-34,Female,tertiary,1297.96,6,23.0,87.63,12.9,7.8,7.6
+1076,North East,Walewale,18,18-24,Male,secondary,611.0,6,14.0,99.49,10.6,8.4,6.6
+1077,Ashanti,Mampong,22,18-24,Female,basic,713.51,7,28.0,117.94,10.2,6.4,9.4
+1078,Oti,Jasikan,44,35-44,Female,secondary,955.99,7,38.0,52.65,13.0,5.6,4.1
+1079,Western,Tarkwa,18,18-24,Male,tertiary,948.06,4,10.0,81.82,4.2,4.3,5.6
+1080,Central,Mfantsiman,23,18-24,Male,basic,794.57,3,6.0,129.9,4.4,4.8,3.5
+1081,Ahafo,Goaso,19,18-24,Female,tertiary,678.88,4,16.0,103.51,9.0,5.5,6.3
+1082,Upper West,Tumu,30,25-34,Female,basic,643.86,7,23.0,89.93,8.9,8.2,6.3
+1083,Northern,Tamale,29,25-34,Male,basic,990.63,8,27.0,93.99,11.6,9.0,5.3
+1084,Northern,Savelugu,40,35-44,Male,secondary,1862.78,7,18.0,67.02,12.4,9.3,5.8
+1085,Eastern,Suhum,46,45-54,Female,tertiary,2088.65,3,40.0,95.06,8.3,3.9,2.6
+1086,Eastern,Suhum,31,25-34,Female,secondary,767.28,8,38.0,65.34,12.8,8.5,2.7
+1087,North East,Walewale,38,35-44,Female,postgraduate,1936.63,8,25.0,111.49,14.0,10.0,6.3
+1088,Western North,Sefwi Wiawso,18,18-24,Male,basic,903.6,7,27.0,102.67,9.0,5.6,7.9
+1089,Bono East,Kintampo,30,25-34,Male,basic,1079.62,7,12.0,99.81,8.7,6.7,2.7
+1090,Central,Cape Coast,22,18-24,Female,secondary,2350.7,5,25.0,57.09,11.3,5.6,6.9
+1091,Oti,Kadjebi,24,18-24,Female,basic,1052.75,5,32.0,81.06,9.3,3.8,6.6
+1092,Oti,Nkwanta South,18,18-24,Male,tertiary,753.52,9,4.0,86.71,12.1,8.4,7.4
+1093,Central,Mfantsiman,23,18-24,Female,postgraduate,1113.33,10,30.0,94.49,15.2,8.6,5.2
+1094,Savannah,Bole,31,25-34,Female,secondary,1035.21,5,12.0,97.0,8.3,4.8,3.5
+1095,Ahafo,Goaso,28,25-34,Female,basic,667.9,4,9.0,100.92,7.4,6.2,6.6
+1096,Bono East,Kintampo,22,18-24,Male,secondary,1162.63,5,30.0,88.79,6.9,5.6,5.2
+1097,Bono,Sunyani,43,35-44,Female,basic,1183.56,4,22.0,108.72,7.8,1.0,3.4
+1098,Greater Accra,Madina,40,35-44,Male,tertiary,1753.27,5,28.0,176.55,7.7,6.1,5.6
+1099,Bono East,Nkoranza,36,35-44,Male,basic,1378.8,7,33.0,136.08,12.8,5.5,2.9
+1100,North East,Nalerigu,26,25-34,Female,tertiary,1290.47,4,26.0,124.81,8.1,4.6,8.5
+1101,Bono,Dormaa,27,25-34,Female,tertiary,597.39,6,19.0,40.5,7.8,5.1,4.8
+1102,Western,Shama,18,18-24,Male,basic,778.98,4,26.0,54.87,9.3,4.9,3.8
+1103,Western North,Bodi,35,35-44,Female,postgraduate,987.77,5,9.0,117.01,7.2,4.2,5.6
+1104,Western North,Bibiani,32,25-34,Male,secondary,1239.0,2,19.0,71.67,6.1,2.0,3.8
+1105,Upper East,Bawku,32,25-34,Male,secondary,1658.72,4,17.0,122.1,10.6,3.3,6.3
+1106,Western,Tarkwa,38,35-44,Female,secondary,971.46,7,27.0,64.95,9.2,6.9,7.8
+1107,Upper West,Wa,37,35-44,Female,secondary,1641.73,6,28.0,90.73,8.8,6.8,5.2
+1108,Oti,Dambai,33,25-34,Female,postgraduate,1194.4,5,35.0,164.98,10.1,6.3,9.7
+1109,Ashanti,Mampong,18,18-24,Male,tertiary,1321.0,5,23.0,62.16,5.4,4.8,6.2
+1110,Bono East,Atebubu,35,35-44,Male,basic,632.31,6,37.0,119.61,8.6,7.0,4.6
+1111,Volta,Kpando,31,25-34,Male,basic,1372.84,3,22.0,111.64,5.5,3.5,7.8
+1112,Western,Tarkwa,24,18-24,Female,basic,1444.34,2,21.0,138.5,3.5,2.5,3.9
+1113,Northern,Yendi,38,35-44,Female,secondary,1462.24,7,25.0,249.29,11.1,6.0,6.4
+1114,Greater Accra,Madina,40,35-44,Female,tertiary,858.34,9,35.0,197.82,11.5,7.2,6.1
+1115,Western North,Bodi,26,25-34,Female,postgraduate,953.12,9,26.0,184.83,15.2,7.4,5.0
+1116,Bono,Wenchi,56,55-65,Female,postgraduate,1116.42,2,26.0,155.54,2.8,2.9,8.2
+1117,Bono East,Nkoranza,25,25-34,Male,secondary,771.74,5,17.0,173.15,9.0,4.8,5.0
+1118,Savannah,Bole,32,25-34,Female,basic,1014.82,5,25.0,138.32,5.6,7.0,5.4
+1119,Bono,Wenchi,18,18-24,Male,basic,1959.43,10,37.0,72.52,15.2,10.0,5.6
+1120,Western,Axim,31,25-34,Male,secondary,1257.51,9,33.0,129.76,15.2,10.0,6.1
+1121,Bono East,Nkoranza,28,25-34,Male,basic,1034.86,6,32.0,121.91,5.1,7.8,3.9
+1122,Western,Sekondi-Takoradi,31,25-34,Male,tertiary,2443.57,4,6.0,123.02,7.5,3.8,6.8
+1123,Ahafo,Asunafo North,31,25-34,Female,tertiary,804.67,5,15.0,94.99,5.7,3.3,7.2
+1124,Ahafo,Goaso,42,35-44,Male,secondary,1785.32,6,29.0,70.63,12.8,4.0,6.0
+1125,Eastern,Nsawam,38,35-44,Male,basic,844.44,6,12.0,83.25,10.1,3.5,6.0
+1126,Oti,Nkwanta South,29,25-34,Male,secondary,1124.6,4,17.0,105.08,9.1,2.8,3.5
+1127,Greater Accra,Madina,22,18-24,Female,tertiary,1551.71,6,27.0,87.74,9.1,7.6,6.7
+1128,Western North,Sefwi Wiawso,23,18-24,Male,basic,776.66,3,15.0,121.92,4.5,4.4,3.0
+1129,Northern,Yendi,28,25-34,Male,tertiary,302.73,6,11.0,141.66,5.8,5.2,7.1
+1130,Ahafo,Asutifi South,18,18-24,Female,secondary,1386.72,5,6.0,75.64,9.0,6.6,4.7
+1131,North East,Walewale,25,25-34,Female,basic,1323.06,7,28.0,81.05,13.5,7.2,3.5
+1132,Northern,Tolon,34,25-34,Male,tertiary,574.2,6,26.0,43.51,5.9,6.0,7.0
+1133,Oti,Nkwanta South,27,25-34,Male,basic,829.5,4,20.0,120.36,5.7,6.7,5.3
+1134,Upper West,Wa,18,18-24,Female,secondary,1691.3,7,30.0,117.85,8.5,7.5,4.2
+1135,Eastern,Suhum,18,18-24,Female,tertiary,515.73,6,2.0,231.12,6.0,7.1,5.1
+1136,Bono East,Atebubu,33,25-34,Male,tertiary,1071.65,8,27.0,100.29,14.5,9.0,7.8
+1137,Upper East,Bolgatanga,31,25-34,Female,postgraduate,551.67,10,30.0,94.53,11.9,10.0,2.7
+1138,Western North,Bodi,41,35-44,Male,basic,2155.45,6,33.0,116.46,11.0,6.6,6.7
+1139,Western,Tarkwa,18,18-24,Male,tertiary,966.1,5,32.0,192.62,3.9,5.0,7.3
+1140,Western North,Bodi,43,35-44,Female,tertiary,501.97,5,8.0,136.89,7.1,4.9,5.5
+1141,Central,Cape Coast,37,35-44,Female,basic,1610.93,9,28.0,107.0,13.6,7.5,7.2
+1142,Volta,Ho,22,18-24,Female,postgraduate,2462.85,7,33.0,95.98,14.1,8.1,5.5
+1143,Upper East,Navrongo,39,35-44,Male,secondary,2476.74,7,34.0,191.45,10.1,6.6,7.2
+1144,Ahafo,Asunafo North,31,25-34,Male,postgraduate,546.02,5,30.0,145.71,5.2,5.8,7.7
+1145,Ahafo,Asutifi South,23,18-24,Female,tertiary,326.78,5,26.0,59.6,6.9,6.5,5.1
+1146,Upper East,Navrongo,24,18-24,Female,basic,438.65,3,19.0,122.04,2.7,4.7,6.0
+1147,Upper East,Paga,48,45-54,Female,tertiary,1070.43,6,37.0,148.98,8.9,8.3,4.8
+1148,Ahafo,Asunafo North,31,25-34,Female,basic,1396.05,5,9.0,96.81,9.7,5.6,6.4
+1149,Central,Mfantsiman,18,18-24,Female,basic,464.73,6,17.0,122.68,5.7,8.1,4.4
+1150,Upper West,Lawra,31,25-34,Female,tertiary,1859.32,8,47.0,82.29,8.9,8.1,7.1
+1151,Central,Kasoa,49,45-54,Male,basic,814.12,7,29.0,164.46,10.9,9.2,5.5
+1152,Greater Accra,Accra,25,25-34,Female,secondary,953.03,8,21.0,120.25,10.7,5.3,7.4
+1153,Upper East,Bawku,31,25-34,Female,secondary,1216.16,5,25.0,84.12,7.7,4.6,6.0
+1154,Savannah,Sawla,32,25-34,Female,secondary,1787.49,9,27.0,97.49,14.9,8.7,4.5
+1155,Bono East,Techiman,39,35-44,Female,postgraduate,1155.26,4,25.0,77.24,7.3,5.4,8.3
+1156,Upper East,Bawku,32,25-34,Male,basic,1474.06,5,25.0,69.89,10.3,2.8,5.2
+1157,Oti,Nkwanta South,36,35-44,Female,secondary,508.14,6,8.0,62.41,8.2,8.9,6.3
+1158,Oti,Dambai,44,35-44,Female,postgraduate,1455.89,6,26.0,173.14,12.1,7.9,4.0
+1159,Northern,Tolon,25,25-34,Female,tertiary,814.89,10,13.0,132.12,13.0,10.0,3.9
+1160,North East,Chereponi,41,35-44,Female,basic,1090.14,10,26.0,156.9,11.8,9.5,8.0
+1161,Upper West,Tumu,42,35-44,Male,tertiary,628.01,3,10.0,94.44,8.4,1.0,5.2
+1162,Bono East,Nkoranza,19,18-24,Male,postgraduate,750.09,5,19.0,68.01,7.4,6.1,3.7
+1163,Volta,Kpando,23,18-24,Male,tertiary,424.09,6,36.0,137.08,7.2,6.0,8.1
+1164,Western North,Juaboso,50,45-54,Male,tertiary,854.29,7,33.0,41.44,10.3,4.5,7.3
+1165,Volta,Hohoe,32,25-34,Female,secondary,1780.82,5,21.0,84.62,8.9,6.0,1.7
+1166,Upper West,Jirapa,30,25-34,Male,tertiary,1248.78,4,18.0,129.98,11.3,5.7,6.1
+1167,Northern,Tamale,25,25-34,Male,tertiary,803.38,6,24.0,45.14,5.9,6.9,4.5
+1168,Oti,Jasikan,28,25-34,Male,tertiary,1155.13,3,0.0,124.25,5.9,1.1,4.3
+1169,North East,Chereponi,30,25-34,Male,postgraduate,903.07,4,19.0,90.1,5.7,6.1,6.4
+1170,Ahafo,Asutifi South,31,25-34,Male,postgraduate,876.05,4,13.0,115.79,5.0,2.1,6.5
+1171,Savannah,Sawla,18,18-24,Female,secondary,2129.75,6,19.0,91.02,8.7,7.0,7.9
+1172,Savannah,Bole,24,18-24,Male,secondary,742.41,4,27.0,50.13,3.8,4.2,5.6
+1173,Upper West,Lawra,18,18-24,Female,basic,987.51,4,36.0,148.6,6.5,3.0,7.3
+1174,Upper West,Tumu,22,18-24,Male,secondary,706.05,5,30.0,77.08,7.4,3.4,4.0
+1175,Savannah,Salaga,43,35-44,Female,tertiary,1005.33,6,28.0,102.31,9.4,5.1,4.2
+1176,Bono,Dormaa,23,18-24,Female,tertiary,670.6,4,17.0,150.18,7.3,2.6,7.8
+1177,Upper West,Tumu,48,45-54,Female,postgraduate,1159.07,9,31.0,148.53,12.4,9.9,4.7
+1178,Bono,Dormaa,22,18-24,Male,postgraduate,1022.43,5,19.0,62.49,6.1,3.4,5.0
+1179,Western,Sekondi-Takoradi,43,35-44,Female,tertiary,1224.04,7,26.0,195.23,13.6,9.9,5.7
+1180,Greater Accra,Accra,43,35-44,Female,postgraduate,1594.64,6,23.0,63.46,10.8,7.5,5.3
+1181,Greater Accra,Accra,37,35-44,Female,secondary,2573.28,8,31.0,146.51,16.0,7.1,7.9
+1182,Ahafo,Goaso,39,35-44,Male,secondary,844.98,1,14.0,128.59,3.5,1.7,7.1
+1183,North East,Nalerigu,18,18-24,Female,basic,1588.24,4,31.0,164.95,7.9,3.9,5.9
+1184,North East,Chereponi,25,25-34,Male,postgraduate,720.86,5,16.0,169.77,6.1,5.7,4.0
+1185,Upper West,Wa,18,18-24,Female,basic,2902.71,9,32.0,53.57,12.8,8.5,4.8
+1186,Central,Komenda,35,35-44,Female,secondary,1027.54,6,19.0,92.93,9.6,5.8,6.1
+1187,Greater Accra,Accra,25,25-34,Male,secondary,1252.82,3,6.0,103.87,4.1,1.0,7.1
+1188,Bono,Wenchi,18,18-24,Male,basic,469.43,3,16.0,89.76,1.6,1.0,5.2
+1189,Savannah,Damongo,18,18-24,Female,secondary,1095.88,8,27.0,63.46,11.3,5.6,4.3
+1190,Oti,Nkwanta South,30,25-34,Female,postgraduate,963.53,7,11.0,146.37,11.2,7.7,3.3
+1191,Oti,Kadjebi,25,25-34,Male,secondary,463.78,5,10.0,82.24,5.2,4.3,5.4
+1192,Northern,Yendi,34,25-34,Male,tertiary,888.04,2,30.0,98.37,5.0,2.7,2.6
+1193,Bono East,Kintampo,25,25-34,Male,tertiary,909.61,8,23.0,64.4,12.5,5.8,3.7
+1194,Bono,Wenchi,35,35-44,Male,tertiary,621.77,7,18.0,98.61,8.9,7.1,5.6
+1195,Oti,Kadjebi,19,18-24,Female,tertiary,1210.63,7,12.0,72.31,10.2,9.3,8.1
+1196,Bono East,Techiman,32,25-34,Male,postgraduate,888.39,3,26.0,113.16,4.6,3.5,4.1
+1197,Volta,Keta,39,35-44,Male,secondary,568.78,8,32.0,152.66,11.8,8.0,6.2
+1198,Northern,Tolon,42,35-44,Female,basic,1212.36,6,22.0,98.01,6.1,9.5,6.1
+1199,Bono,Sunyani,44,35-44,Male,tertiary,2412.06,6,40.0,145.38,9.9,6.7,6.5
+1200,Eastern,Akim Oda,28,25-34,Female,tertiary,2263.23,5,23.0,171.2,8.5,4.6,5.2
+1201,Central,Komenda,18,18-24,Female,tertiary,1337.15,8,22.0,126.98,13.0,9.4,4.2
+1202,Western North,Bodi,21,18-24,Male,tertiary,796.73,5,29.0,123.15,7.6,7.4,5.0
+1203,Western North,Bodi,25,25-34,Male,postgraduate,521.22,7,22.0,166.23,7.2,7.1,6.0
+1204,Bono,Sunyani,18,18-24,Female,postgraduate,1242.15,4,7.0,129.97,5.7,3.8,4.6
+1205,Western North,Juaboso,18,18-24,Male,secondary,992.59,5,8.0,136.45,9.3,4.6,4.6
+1206,Central,Kasoa,25,25-34,Female,basic,2431.19,6,24.0,68.87,11.5,5.7,5.0
+1207,Ashanti,Obuasi,22,18-24,Male,secondary,1061.99,1,6.0,100.07,4.8,1.0,5.6
+1208,Savannah,Sawla,43,35-44,Male,tertiary,1091.69,10,38.0,69.5,16.8,10.0,3.1
+1209,Volta,Kpando,18,18-24,Female,tertiary,3166.98,6,8.0,93.56,12.0,6.2,5.7
+1210,Central,Mfantsiman,34,25-34,Female,tertiary,1049.37,8,28.0,149.28,9.0,8.0,6.4
+1211,North East,Chereponi,20,18-24,Male,basic,1431.61,1,15.0,132.2,6.3,2.8,4.6
+1212,Eastern,Nsawam,31,25-34,Female,secondary,887.63,4,24.0,58.5,6.4,3.4,6.8
+1213,Upper East,Bolgatanga,34,25-34,Male,postgraduate,1271.49,3,8.0,84.82,6.4,1.4,2.6
+1214,Volta,Hohoe,18,18-24,Male,basic,830.29,8,33.0,80.85,11.5,6.8,4.3
+1215,North East,Nalerigu,43,35-44,Male,secondary,2817.96,4,20.0,77.32,10.0,5.3,4.5
+1216,Savannah,Damongo,30,25-34,Female,secondary,727.55,7,32.0,62.22,10.1,6.3,3.2
+1217,Volta,Ho,28,25-34,Male,tertiary,1277.72,6,5.0,155.34,9.2,5.4,5.8
+1218,Savannah,Bole,30,25-34,Female,basic,1265.75,6,27.0,90.16,7.4,5.5,5.3
+1219,Upper West,Jirapa,36,35-44,Female,secondary,1419.51,8,24.0,113.35,8.2,6.1,5.1
+1220,North East,Bunkpurugu,37,35-44,Female,postgraduate,530.09,5,16.0,54.16,3.8,5.2,1.0
+1221,Upper West,Jirapa,39,35-44,Male,basic,1480.42,6,19.0,73.32,9.0,4.7,6.8
+1222,Bono East,Kintampo,29,25-34,Male,tertiary,1404.47,5,24.0,73.98,5.5,3.4,6.4
+1223,Western,Shama,18,18-24,Female,secondary,587.98,4,16.0,91.5,6.4,5.1,6.5
+1224,Upper East,Navrongo,49,45-54,Female,postgraduate,470.5,6,29.0,97.44,7.1,8.8,7.9
+1225,Western,Shama,41,35-44,Female,basic,616.88,4,28.0,63.98,6.7,1.0,2.4
+1226,Upper West,Lawra,18,18-24,Female,postgraduate,1384.18,8,31.0,73.93,12.7,7.1,2.6
+1227,Northern,Tolon,23,18-24,Female,postgraduate,2565.7,5,23.0,126.35,7.2,5.2,6.8
+1228,Western,Sekondi-Takoradi,21,18-24,Female,secondary,1531.47,8,42.0,80.62,13.0,8.6,10.0
+1229,Upper East,Paga,20,18-24,Male,tertiary,1169.65,5,14.0,121.16,10.3,6.2,5.4
+1230,Bono,Berekum,26,25-34,Female,tertiary,822.29,5,12.0,78.33,6.7,3.8,10.0
+1231,Bono East,Nkoranza,38,35-44,Male,basic,1073.59,8,35.0,164.55,12.2,8.0,4.7
+1232,Bono East,Kintampo,22,18-24,Female,secondary,1707.42,7,18.0,125.33,10.7,7.1,5.1
+1233,Western North,Bodi,35,35-44,Male,secondary,1814.69,6,21.0,110.6,8.7,7.2,3.3
+1234,Oti,Nkwanta South,39,35-44,Male,basic,1778.12,4,15.0,92.98,10.1,3.9,6.4
+1235,Upper West,Lawra,40,35-44,Female,postgraduate,973.68,7,21.0,96.19,7.8,4.9,8.4
+1236,Western,Shama,38,35-44,Female,basic,2081.66,4,25.0,96.56,6.3,2.0,7.2
+1237,Ashanti,Ejisu,32,25-34,Male,tertiary,872.75,8,32.0,110.04,12.3,6.1,7.6
+1238,Bono,Sunyani,18,18-24,Female,tertiary,1221.06,6,34.0,117.23,7.7,5.3,2.3
+1239,Upper West,Lawra,46,45-54,Female,secondary,1858.06,10,32.0,167.7,16.6,10.0,4.8
+1240,Western North,Sefwi Wiawso,19,18-24,Female,secondary,1087.73,4,15.0,124.38,9.1,4.1,4.9
+1241,Upper West,Tumu,20,18-24,Male,secondary,1072.54,5,12.0,100.27,6.3,5.9,3.1
+1242,Eastern,Akim Oda,32,25-34,Male,tertiary,1895.28,6,18.0,79.22,10.7,5.2,6.4
+1243,Savannah,Bole,23,18-24,Female,secondary,1587.12,6,20.0,86.06,10.3,6.6,5.8
+1244,Upper West,Jirapa,18,18-24,Female,secondary,1638.33,8,20.0,54.81,10.7,8.3,4.8
+1245,Eastern,Nsawam,39,35-44,Female,postgraduate,1677.5,5,33.0,154.22,7.5,4.3,6.1
+1246,Northern,Tamale,18,18-24,Male,tertiary,1199.85,10,24.0,95.98,14.8,7.9,3.6
+1247,Eastern,Koforidua,30,25-34,Male,postgraduate,914.11,4,12.0,66.02,6.4,2.9,8.4
+1248,Volta,Ho,25,25-34,Female,tertiary,1494.24,10,32.0,114.97,11.2,9.6,6.1
+1249,Central,Komenda,41,35-44,Female,basic,587.57,4,18.0,93.03,5.5,2.7,4.9
+1250,Savannah,Damongo,32,25-34,Female,secondary,1797.04,7,25.0,112.19,11.1,9.6,8.1
+1251,Ahafo,Asunafo North,23,18-24,Female,secondary,1046.19,8,30.0,50.83,10.7,7.7,1.9
+1252,Upper East,Bolgatanga,33,25-34,Female,basic,1389.47,7,42.0,74.29,11.6,8.7,6.2
+1253,Central,Cape Coast,38,35-44,Male,tertiary,833.19,6,23.0,150.22,8.0,7.0,4.8
+1254,Western,Shama,29,25-34,Female,postgraduate,704.43,5,8.0,86.95,9.0,5.5,6.0
+1255,Ashanti,Kumasi,18,18-24,Female,secondary,3656.32,6,27.0,131.19,11.1,6.1,2.8
+1256,Volta,Keta,39,35-44,Female,secondary,1046.82,5,26.0,91.49,6.6,3.9,7.3
+1257,Western North,Bodi,27,25-34,Female,postgraduate,1264.33,7,30.0,94.89,8.6,8.9,3.7
+1258,Eastern,Akim Oda,19,18-24,Female,postgraduate,672.98,6,20.0,78.9,4.1,7.8,5.9
+1259,Bono,Berekum,32,25-34,Male,tertiary,2387.81,5,33.0,148.08,9.4,3.8,4.7
+1260,Western North,Bibiani,18,18-24,Female,basic,958.35,4,17.0,72.79,5.6,5.4,5.6
+1261,Savannah,Bole,25,25-34,Female,postgraduate,1171.82,4,15.0,42.34,3.8,3.0,2.2
+1262,Upper West,Jirapa,36,35-44,Female,tertiary,1018.06,6,12.0,83.44,6.1,6.1,7.0
+1263,Northern,Yendi,18,18-24,Male,secondary,1456.15,9,20.0,85.64,13.1,7.6,6.8
+1264,North East,Walewale,25,25-34,Male,tertiary,1371.84,2,16.0,101.5,2.4,1.0,3.0
+1265,Upper West,Tumu,25,25-34,Male,postgraduate,1495.56,4,17.0,78.05,6.8,4.5,7.0
+1266,Volta,Kpando,36,35-44,Male,secondary,856.13,4,41.0,147.17,6.4,5.3,7.5
+1267,Western North,Sefwi Wiawso,48,45-54,Female,tertiary,959.75,3,32.0,127.83,3.3,3.0,6.4
+1268,Ashanti,Obuasi,27,25-34,Male,basic,562.19,5,20.0,99.71,6.3,5.3,5.2
+1269,Central,Cape Coast,28,25-34,Male,secondary,2433.49,4,22.0,102.4,9.7,2.0,5.7
+1270,Upper East,Navrongo,34,25-34,Female,secondary,513.58,9,14.0,104.26,10.8,7.8,5.5
+1271,Oti,Dambai,35,35-44,Female,tertiary,588.51,5,33.0,260.77,8.2,2.3,4.5
+1272,Western,Sekondi-Takoradi,38,35-44,Female,tertiary,690.04,5,20.0,90.62,8.5,4.4,7.3
+1273,Upper West,Wa,18,18-24,Female,postgraduate,809.39,7,28.0,118.02,8.2,6.5,4.4
+1274,North East,Chereponi,29,25-34,Female,tertiary,1143.36,10,33.0,79.22,12.5,10.0,5.8
+1275,Eastern,Koforidua,19,18-24,Male,postgraduate,1996.08,7,32.0,106.82,13.9,7.0,6.7
+1276,Volta,Ho,27,25-34,Male,basic,1387.38,5,17.0,157.48,4.6,6.4,4.9
+1277,Oti,Jasikan,25,25-34,Female,secondary,934.82,9,20.0,127.15,13.0,10.0,6.6
+1278,Upper East,Bawku,31,25-34,Female,tertiary,933.32,7,29.0,215.63,10.3,6.5,6.1
+1279,Oti,Nkwanta South,33,25-34,Female,postgraduate,2894.19,5,20.0,125.62,11.0,8.0,3.9
+1280,Central,Kasoa,19,18-24,Male,secondary,497.58,9,28.0,117.83,10.3,8.2,4.8
+1281,Savannah,Damongo,24,18-24,Female,basic,593.52,7,29.0,98.51,9.0,4.4,5.6
+1282,Oti,Dambai,51,45-54,Male,secondary,768.3,6,16.0,84.91,9.2,6.8,9.1
+1283,Northern,Tolon,24,18-24,Male,tertiary,643.85,3,12.0,148.65,5.7,2.0,4.8
+1284,Bono,Dormaa,22,18-24,Female,secondary,1279.89,5,19.0,93.13,6.2,5.0,7.5
+1285,Ashanti,Ejisu,21,18-24,Male,secondary,1257.51,10,40.0,88.08,11.4,10.0,4.4
+1286,Bono,Wenchi,20,18-24,Female,basic,1424.15,8,14.0,122.64,11.8,7.1,6.5
+1287,Bono East,Techiman,25,25-34,Female,postgraduate,1621.79,4,24.0,84.33,9.8,2.0,4.4
+1288,Bono,Wenchi,18,18-24,Female,basic,727.44,3,8.0,113.26,7.3,1.5,5.8
+1289,North East,Nalerigu,36,35-44,Male,basic,1395.66,8,32.0,236.5,14.7,7.1,5.3
+1290,Ahafo,Asutifi South,30,25-34,Male,basic,1134.93,6,17.0,106.6,10.2,6.4,2.1
+1291,Central,Cape Coast,36,35-44,Female,secondary,1358.04,7,32.0,35.07,12.9,6.7,4.9
+1292,Ashanti,Mampong,22,18-24,Male,postgraduate,764.45,8,8.0,153.15,7.2,6.5,2.1
+1293,Volta,Ho,33,25-34,Female,secondary,660.31,9,18.0,87.99,11.1,10.0,8.3
+1294,Volta,Keta,25,25-34,Male,secondary,1027.1,10,30.0,83.62,11.5,10.0,6.0
+1295,North East,Chereponi,49,45-54,Male,postgraduate,864.61,4,25.0,76.22,6.4,1.6,8.2
+1296,Bono,Wenchi,21,18-24,Female,tertiary,804.25,4,21.0,124.88,6.7,5.2,3.5
+1297,Ahafo,Tano North,33,25-34,Female,tertiary,2321.04,6,12.0,72.21,7.3,8.1,4.4
+1298,Oti,Kadjebi,35,35-44,Female,tertiary,2098.13,8,33.0,100.54,11.0,5.9,4.3
+1299,Volta,Keta,39,35-44,Female,basic,3723.61,5,16.0,192.88,10.5,4.5,3.6
+1300,Oti,Jasikan,35,35-44,Male,postgraduate,682.6,4,14.0,86.08,1.0,3.7,4.0
+1301,Savannah,Sawla,18,18-24,Female,secondary,1138.1,5,25.0,80.9,5.8,5.8,8.1
+1302,Ashanti,Kumasi,18,18-24,Male,tertiary,1292.83,2,20.0,90.11,3.5,1.4,8.1
+1303,Greater Accra,Tema,45,45-54,Male,postgraduate,1734.42,9,44.0,57.74,13.9,10.0,4.9
+1304,Volta,Ho,29,25-34,Female,basic,895.32,7,24.0,110.31,7.6,6.6,6.3
+1305,Upper East,Bolgatanga,29,25-34,Male,tertiary,452.32,4,17.0,148.61,6.4,3.4,4.0
+1306,Upper West,Jirapa,40,35-44,Female,postgraduate,716.63,4,22.0,79.3,5.4,5.4,7.9
+1307,Ashanti,Obuasi,42,35-44,Male,tertiary,2091.37,7,22.0,68.8,11.4,5.8,1.7
+1308,Western North,Bodi,37,35-44,Male,postgraduate,967.29,9,24.0,101.56,13.7,10.0,6.6
+1309,Western,Sekondi-Takoradi,18,18-24,Female,tertiary,1735.41,8,27.0,92.67,13.5,5.3,7.3
+1310,Western North,Bibiani,19,18-24,Female,secondary,885.02,8,24.0,85.64,9.9,8.1,7.5
+1311,Bono East,Atebubu,27,25-34,Female,basic,827.17,7,53.0,130.43,7.0,7.2,3.9
+1312,Western North,Sefwi Wiawso,31,25-34,Female,postgraduate,2208.56,3,18.0,107.8,6.1,3.5,6.6
+1313,Volta,Keta,24,18-24,Male,tertiary,959.14,6,19.0,76.14,9.6,7.0,7.1
+1314,Bono,Sunyani,35,35-44,Female,tertiary,2005.1,5,13.0,130.93,11.3,5.5,4.7
+1315,Savannah,Damongo,19,18-24,Male,secondary,1004.88,5,6.0,72.06,5.6,2.1,7.1
+1316,Oti,Jasikan,24,18-24,Female,secondary,3230.9,10,49.0,108.19,16.1,10.0,3.3
+1317,Greater Accra,Tema,36,35-44,Male,tertiary,1315.96,4,11.0,207.0,9.3,1.2,8.5
+1318,Western,Axim,27,25-34,Female,basic,2179.94,6,29.0,87.54,8.2,6.6,7.6
+1319,Savannah,Damongo,27,25-34,Female,basic,909.71,3,26.0,174.27,4.9,3.4,5.6
+1320,Eastern,Nsawam,20,18-24,Male,secondary,1246.67,5,19.0,133.37,4.6,3.3,5.9
+1321,Volta,Ho,30,25-34,Female,postgraduate,1004.08,5,11.0,48.44,5.9,4.4,6.3
+1322,Bono East,Atebubu,25,25-34,Male,postgraduate,1260.02,9,35.0,98.82,13.8,7.6,7.2
+1323,Bono East,Kintampo,32,25-34,Female,tertiary,1415.98,4,37.0,63.03,5.5,2.3,4.3
+1324,Western North,Bibiani,18,18-24,Male,secondary,1135.86,7,30.0,143.93,7.9,8.1,4.9
+1325,Western North,Sefwi Wiawso,28,25-34,Female,secondary,1800.74,6,16.0,118.78,10.7,3.9,4.7
+1326,Northern,Yendi,19,18-24,Male,secondary,1113.04,4,14.0,143.9,8.1,2.4,5.9
+1327,Eastern,Akim Oda,24,18-24,Female,tertiary,1124.14,7,26.0,184.55,10.8,7.1,7.1
+1328,Bono East,Atebubu,44,35-44,Female,secondary,1194.49,7,30.0,92.64,7.6,7.6,7.3
+1329,Volta,Hohoe,28,25-34,Female,basic,701.75,5,11.0,88.21,8.7,3.3,8.1
+1330,Eastern,Nsawam,32,25-34,Male,secondary,744.61,7,37.0,102.99,11.0,9.4,5.6
+1331,Savannah,Damongo,24,18-24,Female,basic,634.32,8,24.0,66.16,13.5,9.8,4.8
+1332,Northern,Savelugu,28,25-34,Male,secondary,1521.82,6,22.0,108.13,12.0,3.4,5.3
+1333,Western North,Juaboso,31,25-34,Female,secondary,1505.96,5,16.0,95.36,7.0,6.0,6.6
+1334,Western North,Bodi,23,18-24,Female,postgraduate,642.34,5,13.0,197.95,6.1,6.9,5.4
+1335,Western North,Bodi,32,25-34,Female,secondary,1408.4,2,29.0,109.11,2.5,1.0,7.5
+1336,Volta,Hohoe,31,25-34,Female,tertiary,1206.01,5,13.0,94.19,5.9,4.5,5.5
+1337,Upper East,Paga,43,35-44,Male,basic,612.33,6,34.0,149.36,7.0,6.5,7.2
+1338,North East,Walewale,22,18-24,Male,postgraduate,1048.15,5,37.0,84.69,9.0,4.7,4.6
+1339,Ahafo,Tano North,44,35-44,Male,secondary,726.93,6,15.0,85.47,7.0,5.0,5.6
+1340,Central,Kasoa,28,25-34,Female,postgraduate,1298.75,8,28.0,140.85,12.7,6.5,6.7
+1341,Savannah,Bole,36,35-44,Female,secondary,1427.01,4,25.0,76.51,4.8,4.2,5.0
+1342,Oti,Nkwanta South,28,25-34,Female,basic,804.72,8,20.0,128.18,10.3,8.1,7.0
+1343,Western North,Bodi,30,25-34,Female,basic,930.04,8,33.0,66.88,10.5,9.0,4.8
+1344,Upper West,Wa,49,45-54,Male,tertiary,1264.58,6,16.0,137.57,5.0,6.3,6.7
+1345,Ashanti,Obuasi,48,45-54,Female,secondary,773.38,4,23.0,164.22,6.4,5.4,3.4
+1346,North East,Walewale,48,45-54,Female,tertiary,1445.1,3,16.0,110.24,3.0,5.5,4.1
+1347,Eastern,Nsawam,43,35-44,Female,basic,1625.46,5,21.0,207.01,7.1,7.8,8.2
+1348,Eastern,Suhum,36,35-44,Male,postgraduate,1139.32,3,27.0,63.89,2.0,2.4,6.9
+1349,Upper East,Paga,28,25-34,Female,basic,890.86,10,38.0,62.85,16.1,6.7,4.6
+1350,Bono East,Nkoranza,46,45-54,Female,basic,672.03,1,9.0,43.84,1.6,2.7,5.6
+1351,Savannah,Salaga,53,45-54,Female,secondary,1152.25,9,41.0,109.43,9.5,8.1,6.8
+1352,Upper West,Jirapa,18,18-24,Male,basic,2425.35,8,36.0,99.72,15.8,8.8,1.0
+1353,Oti,Nkwanta South,34,25-34,Female,postgraduate,934.17,3,13.0,64.87,4.0,5.6,5.1
+1354,Upper West,Wa,18,18-24,Male,tertiary,938.25,7,12.0,189.96,11.5,5.8,2.6
+1355,Upper West,Tumu,25,25-34,Male,basic,1043.1,8,33.0,85.98,9.0,8.8,7.0
+1356,Greater Accra,Kasoa East,41,35-44,Female,tertiary,731.75,1,11.0,101.14,4.3,1.9,8.5
+1357,Upper East,Navrongo,45,45-54,Female,tertiary,564.96,5,18.0,70.95,8.5,5.6,5.6
+1358,Savannah,Sawla,18,18-24,Male,tertiary,1340.24,6,13.0,91.52,9.1,8.5,6.1
+1359,Savannah,Sawla,18,18-24,Female,secondary,1184.54,5,12.0,49.08,4.9,6.3,4.4
+1360,Eastern,Koforidua,27,25-34,Female,tertiary,505.75,6,18.0,90.59,7.6,5.8,5.1
+1361,Western North,Bodi,32,25-34,Female,postgraduate,725.18,6,25.0,119.0,10.3,7.7,8.5
+1362,Greater Accra,Tema,21,18-24,Male,basic,774.37,4,17.0,107.23,7.8,4.1,5.7
+1363,Volta,Ho,43,35-44,Female,postgraduate,2243.17,7,28.0,110.36,10.4,5.9,5.7
+1364,Central,Mfantsiman,26,25-34,Female,basic,392.79,10,30.0,93.8,11.4,8.6,7.1
+1365,North East,Chereponi,35,35-44,Female,postgraduate,1271.15,8,28.0,116.88,13.2,10.0,4.2
+1366,Volta,Kpando,33,25-34,Female,basic,805.2,7,10.0,76.67,9.9,8.9,5.3
+1367,Savannah,Sawla,18,18-24,Female,secondary,826.95,10,28.0,70.11,10.3,10.0,6.9
+1368,Eastern,Suhum,32,25-34,Male,postgraduate,545.56,4,9.0,97.77,6.5,3.4,7.7
+1369,Upper West,Wa,33,25-34,Female,tertiary,1088.68,4,10.0,96.57,9.4,7.2,7.0
+1370,Greater Accra,Accra,28,25-34,Female,basic,490.37,6,18.0,103.36,7.0,8.1,8.5
+1371,Upper East,Navrongo,28,25-34,Female,postgraduate,1648.06,4,9.0,186.5,4.6,4.0,7.4
+1372,Western North,Juaboso,18,18-24,Female,tertiary,1950.47,5,8.0,93.69,9.3,3.9,4.9
+1373,Eastern,Suhum,39,35-44,Female,postgraduate,1553.83,4,10.0,134.25,9.6,6.5,3.9
+1374,North East,Walewale,28,25-34,Female,tertiary,428.62,5,23.0,104.06,8.9,3.9,8.3
+1375,Ashanti,Obuasi,26,25-34,Male,secondary,1315.22,9,24.0,109.49,12.2,7.4,3.8
+1376,Savannah,Bole,18,18-24,Female,tertiary,1467.53,4,26.0,53.34,11.9,2.4,8.3
+1377,Ashanti,Kumasi,28,25-34,Female,postgraduate,850.15,6,19.0,99.45,8.4,5.6,3.5
+1378,Ashanti,Ejisu,24,18-24,Female,postgraduate,1449.27,2,6.0,182.17,3.8,1.0,7.8
+1379,Bono East,Atebubu,41,35-44,Female,tertiary,2527.6,6,25.0,97.63,12.8,6.8,6.8
+1380,Ahafo,Tano North,27,25-34,Female,tertiary,1231.1,8,30.0,66.78,11.7,9.4,5.5
+1381,Ahafo,Asunafo North,29,25-34,Male,secondary,545.45,4,7.0,96.08,10.3,5.0,7.4
+1382,Western,Axim,33,25-34,Male,postgraduate,828.91,8,35.0,34.52,13.1,7.9,4.9
+1383,Bono,Sunyani,37,35-44,Female,postgraduate,734.52,5,17.0,94.18,8.6,5.2,8.1
+1384,Bono East,Techiman,31,25-34,Male,postgraduate,1999.72,7,15.0,93.79,12.2,8.4,4.2
+1385,Western North,Juaboso,18,18-24,Male,basic,1676.2,8,9.0,68.59,13.9,8.8,5.5
+1386,North East,Nalerigu,27,25-34,Male,basic,482.71,6,29.0,135.84,7.6,5.9,7.2
+1387,Eastern,Akim Oda,32,25-34,Male,secondary,1631.87,5,18.0,81.45,7.5,4.3,6.0
+1388,Upper West,Lawra,21,18-24,Male,tertiary,792.57,8,13.0,59.0,11.2,6.9,7.5
+1389,Bono East,Nkoranza,23,18-24,Female,secondary,2270.38,8,22.0,145.81,11.8,8.8,6.7
+1390,Northern,Savelugu,52,45-54,Female,postgraduate,1574.37,7,43.0,134.41,10.7,7.5,5.7
+1391,North East,Walewale,30,25-34,Male,tertiary,635.71,10,18.0,194.62,11.9,10.0,7.1
+1392,Upper West,Wa,49,45-54,Male,basic,1121.19,7,22.0,62.41,7.9,7.2,4.2
+1393,North East,Chereponi,24,18-24,Male,postgraduate,1117.3,8,9.0,119.6,11.6,9.8,2.0
+1394,Ahafo,Tano North,34,25-34,Female,tertiary,815.41,6,19.0,108.22,9.5,5.3,6.8
+1395,Eastern,Nsawam,32,25-34,Female,postgraduate,2381.09,5,32.0,124.22,11.1,6.0,5.5
+1396,Western,Tarkwa,27,25-34,Male,tertiary,915.16,5,28.0,121.67,11.5,4.9,4.5
+1397,Western,Sekondi-Takoradi,25,25-34,Male,postgraduate,1459.31,5,18.0,147.87,10.0,5.7,4.9
+1398,Upper East,Bawku,36,35-44,Female,basic,659.02,6,34.0,101.33,7.9,5.9,5.6
+1399,North East,Nalerigu,33,25-34,Female,postgraduate,1563.33,3,18.0,118.35,1.5,4.2,4.1
+1400,Eastern,Suhum,18,18-24,Female,postgraduate,822.69,3,25.0,135.47,3.7,3.4,6.9
+1401,Upper West,Tumu,40,35-44,Female,secondary,1285.86,3,29.0,107.93,7.3,3.6,2.2
+1402,Bono,Dormaa,34,25-34,Male,tertiary,1685.87,7,36.0,101.99,9.5,6.0,3.2
+1403,Upper East,Bawku,32,25-34,Male,postgraduate,881.79,9,26.0,99.95,9.5,9.1,6.1
+1404,Bono East,Kintampo,32,25-34,Male,secondary,2537.84,4,39.0,92.8,10.2,1.9,5.6
+1405,Northern,Yendi,33,25-34,Female,postgraduate,1138.6,5,31.0,84.86,6.5,3.8,7.0
+1406,North East,Nalerigu,18,18-24,Female,tertiary,770.67,3,17.0,107.46,8.4,5.8,4.6
+1407,Western North,Bodi,25,25-34,Female,tertiary,825.15,7,15.0,167.52,10.3,5.2,2.7
+1408,Volta,Hohoe,53,45-54,Female,tertiary,1344.45,7,29.0,75.24,13.5,8.9,6.1
+1409,Northern,Tamale,29,25-34,Female,secondary,1000.52,3,5.0,62.03,5.4,4.6,6.3
+1410,Volta,Kpando,28,25-34,Male,postgraduate,1676.78,8,16.0,94.63,12.1,9.3,6.9
+1411,Ashanti,Mampong,33,25-34,Male,basic,1716.18,7,28.0,77.74,9.7,6.2,7.0
+1412,Eastern,Koforidua,26,25-34,Female,basic,713.02,9,28.0,99.31,14.0,7.1,7.3
+1413,Oti,Dambai,33,25-34,Male,postgraduate,1501.77,6,16.0,74.22,7.6,6.4,5.9
+1414,Volta,Hohoe,50,45-54,Female,tertiary,1207.75,9,50.0,101.65,10.4,8.9,6.6
+1415,North East,Walewale,27,25-34,Male,secondary,705.6,3,22.0,133.46,2.6,2.4,6.0
+1416,Bono East,Atebubu,42,35-44,Male,postgraduate,1445.11,8,28.0,95.45,13.4,8.8,7.1
+1417,Bono East,Nkoranza,23,18-24,Female,postgraduate,1194.26,1,0.0,85.7,1.9,2.0,3.8
+1418,Western,Tarkwa,18,18-24,Female,basic,575.57,6,13.0,94.93,8.8,5.3,4.4
+1419,Ashanti,Kumasi,34,25-34,Female,basic,1140.25,7,19.0,175.96,13.6,8.2,7.6
+1420,Upper West,Jirapa,21,18-24,Female,tertiary,802.33,5,11.0,105.94,7.5,5.4,3.0
+1421,Ashanti,Kumasi,35,35-44,Male,basic,416.42,5,15.0,78.43,8.9,2.7,6.1
+1422,Western,Sekondi-Takoradi,30,25-34,Female,basic,694.52,3,12.0,58.0,7.8,3.1,6.7
+1423,Central,Komenda,43,35-44,Male,secondary,484.5,3,24.0,104.0,3.2,2.7,2.6
+1424,Bono,Dormaa,42,35-44,Male,postgraduate,333.3,6,17.0,108.88,8.5,7.5,8.5
+1425,Ahafo,Asunafo North,22,18-24,Male,postgraduate,2365.9,7,38.0,99.72,15.0,5.6,6.9
+1426,Greater Accra,Kasoa East,34,25-34,Female,secondary,1192.11,7,27.0,88.34,10.6,5.9,6.1
+1427,Western,Sekondi-Takoradi,28,25-34,Female,tertiary,616.28,6,12.0,105.09,5.2,6.6,3.5
+1428,Western,Sekondi-Takoradi,38,35-44,Female,basic,1522.92,7,20.0,87.48,10.3,8.4,5.4
+1429,Oti,Nkwanta South,38,35-44,Female,secondary,757.73,3,23.0,83.86,5.2,4.0,6.2
+1430,Bono,Sunyani,44,35-44,Male,postgraduate,1086.22,4,39.0,104.57,7.8,6.4,3.5
+1431,Ahafo,Goaso,18,18-24,Female,tertiary,1012.97,10,17.0,110.19,10.1,10.0,4.5
+1432,Upper West,Tumu,18,18-24,Male,tertiary,1167.18,6,26.0,104.16,9.5,6.3,4.2
+1433,Bono East,Techiman,22,18-24,Female,basic,1047.58,9,14.0,106.28,11.8,9.4,4.9
+1434,North East,Chereponi,32,25-34,Male,secondary,1639.67,5,14.0,150.82,6.3,4.2,5.7
+1435,Upper West,Jirapa,19,18-24,Female,postgraduate,1207.22,9,26.0,133.26,13.4,6.5,8.2
+1436,Upper East,Bawku,18,18-24,Male,secondary,615.48,3,17.0,89.38,2.3,5.7,6.7
+1437,Oti,Nkwanta South,44,35-44,Male,secondary,2006.34,2,23.0,120.91,5.5,3.4,7.8
+1438,Volta,Kpando,29,25-34,Female,basic,1901.68,10,38.0,100.03,14.7,7.5,3.6
+1439,Western North,Bodi,33,25-34,Male,tertiary,1284.36,7,24.0,80.19,12.7,8.4,3.9
+1440,Western North,Sefwi Wiawso,41,35-44,Female,postgraduate,1880.49,7,33.0,161.88,9.9,9.4,4.3
+1441,Ashanti,Obuasi,44,35-44,Female,basic,965.19,3,14.0,72.96,5.9,1.9,3.2
+1442,Northern,Tolon,18,18-24,Female,tertiary,584.13,6,25.0,176.03,7.3,5.5,6.8
+1443,Central,Cape Coast,23,18-24,Female,basic,957.11,5,16.0,75.02,11.0,6.3,5.8
+1444,Ashanti,Mampong,26,25-34,Male,postgraduate,2049.84,9,21.0,44.53,14.0,10.0,5.7
+1445,Ahafo,Tano North,38,35-44,Female,postgraduate,442.71,10,20.0,111.88,10.1,10.0,6.9
+1446,Central,Komenda,21,18-24,Female,secondary,841.38,8,23.0,117.72,10.9,10.0,5.7
+1447,Bono East,Nkoranza,25,25-34,Male,basic,1324.68,6,13.0,88.47,8.7,5.7,6.7
+1448,Western North,Sefwi Wiawso,38,35-44,Female,secondary,701.32,4,33.0,82.43,5.1,1.3,5.9
+1449,Northern,Savelugu,34,25-34,Male,basic,1552.02,6,20.0,78.81,8.7,5.6,8.9
+1450,Bono East,Techiman,40,35-44,Male,postgraduate,953.54,4,11.0,57.56,0.2,5.3,1.7
+1451,Ashanti,Kumasi,33,25-34,Male,postgraduate,490.04,8,25.0,146.4,15.4,9.7,4.6
+1452,Greater Accra,Tema,26,25-34,Female,secondary,910.5,8,32.0,130.24,10.6,7.4,5.5
+1453,Bono,Sunyani,32,25-34,Male,secondary,1189.15,9,33.0,121.69,13.4,6.9,4.8
+1454,Bono,Sunyani,31,25-34,Male,basic,732.37,6,19.0,96.66,10.4,4.3,5.4
+1455,Eastern,Nsawam,28,25-34,Female,postgraduate,521.26,10,24.0,59.87,11.9,10.0,4.9
+1456,Western,Sekondi-Takoradi,42,35-44,Female,basic,1107.88,9,35.0,195.34,13.7,7.4,4.3
+1457,Central,Mfantsiman,30,25-34,Male,basic,1077.46,6,35.0,200.1,6.8,6.5,4.9
+1458,Bono,Wenchi,24,18-24,Male,tertiary,1392.01,3,15.0,105.45,5.9,3.7,3.3
+1459,Bono East,Kintampo,26,25-34,Female,postgraduate,2262.49,5,24.0,43.27,10.4,2.9,3.1
+1460,Upper East,Navrongo,32,25-34,Female,basic,638.69,4,9.0,67.57,5.9,5.6,7.3
+1461,Volta,Ho,37,35-44,Female,secondary,457.33,3,21.0,76.44,3.3,3.1,7.6
+1462,Central,Kasoa,39,35-44,Male,secondary,1174.77,6,8.0,76.05,8.1,3.5,5.5
+1463,Greater Accra,Madina,29,25-34,Female,basic,870.72,6,9.0,226.95,7.9,5.8,6.2
+1464,Upper West,Wa,20,18-24,Female,secondary,3464.52,5,28.0,94.57,14.3,3.7,6.9
+1465,Upper West,Wa,29,25-34,Female,secondary,449.67,5,13.0,86.06,5.1,6.6,6.0
+1466,Western,Axim,18,18-24,Male,secondary,828.87,9,27.0,60.87,10.9,9.5,9.1
+1467,Ashanti,Kumasi,29,25-34,Female,secondary,783.03,5,11.0,150.71,9.2,3.1,4.3
+1468,Eastern,Koforidua,28,25-34,Male,tertiary,854.2,6,13.0,78.87,13.8,5.2,7.1
+1469,Bono East,Techiman,41,35-44,Female,basic,1081.89,8,32.0,74.64,11.3,5.0,6.7
+1470,Volta,Kpando,47,45-54,Female,basic,956.8,2,7.0,105.0,5.7,5.6,6.6
+1471,Central,Cape Coast,39,35-44,Female,postgraduate,597.54,7,21.0,109.03,8.3,5.6,6.2
+1472,Central,Mfantsiman,37,35-44,Male,tertiary,1523.64,2,22.0,101.0,10.1,1.4,7.8
+1473,Oti,Nkwanta South,30,25-34,Male,basic,1117.96,3,17.0,86.39,7.6,1.7,3.8
+1474,North East,Chereponi,28,25-34,Male,postgraduate,626.01,7,28.0,67.98,9.1,8.4,3.4
+1475,Oti,Nkwanta South,31,25-34,Female,postgraduate,468.75,5,0.0,129.13,8.5,3.0,7.1
+1476,Central,Kasoa,32,25-34,Male,basic,1072.83,4,24.0,67.84,5.1,4.2,3.2
+1477,Oti,Jasikan,27,25-34,Male,secondary,994.35,8,29.0,138.89,7.9,7.4,7.7
+1478,Central,Komenda,39,35-44,Female,basic,628.55,8,37.0,70.92,13.9,10.0,3.8
+1479,Ashanti,Kumasi,34,25-34,Male,basic,653.87,7,14.0,60.74,8.1,4.7,6.5
+1480,Central,Kasoa,29,25-34,Female,postgraduate,1034.3,3,16.0,90.86,6.8,5.2,5.2
+1481,Ahafo,Tano North,49,45-54,Male,tertiary,616.13,4,31.0,114.36,3.9,3.7,3.9
+1482,Oti,Jasikan,49,45-54,Male,postgraduate,1070.77,5,37.0,159.87,7.3,3.2,3.7
+1483,Ahafo,Asutifi South,49,45-54,Male,basic,717.26,3,7.0,44.91,4.9,2.2,6.5
+1484,Bono East,Nkoranza,18,18-24,Male,basic,950.55,4,14.0,70.44,3.7,5.0,5.3
+1485,Ashanti,Kumasi,35,35-44,Male,postgraduate,889.83,6,14.0,85.77,7.5,4.2,5.5
+1486,Central,Kasoa,18,18-24,Female,secondary,1817.67,5,14.0,139.45,8.2,5.9,3.6
+1487,Bono,Wenchi,33,25-34,Male,secondary,640.89,6,11.0,258.98,5.8,5.3,8.6
+1488,Savannah,Salaga,41,35-44,Female,tertiary,524.47,4,4.0,92.41,5.2,3.4,5.2
+1489,Northern,Savelugu,18,18-24,Female,tertiary,635.02,7,21.0,78.84,10.3,3.3,3.3
+1490,Northern,Savelugu,41,35-44,Male,postgraduate,580.74,8,16.0,71.24,7.5,7.8,3.3
+1491,Eastern,Suhum,44,35-44,Female,postgraduate,1778.89,8,26.0,56.68,10.8,7.4,6.6
+1492,Ashanti,Ejisu,26,25-34,Male,postgraduate,797.59,5,24.0,99.09,6.2,3.4,1.0
+1493,Upper East,Bolgatanga,26,25-34,Male,basic,609.29,7,29.0,106.44,7.6,6.5,6.3
+1494,Central,Mfantsiman,18,18-24,Female,tertiary,1370.14,5,28.0,159.16,5.9,3.4,3.0
+1495,Upper East,Bawku,53,45-54,Male,tertiary,742.31,4,13.0,61.74,3.7,5.0,5.4
+1496,Volta,Ho,25,25-34,Male,tertiary,1677.09,7,26.0,61.01,10.9,7.4,3.9
+1497,Ashanti,Obuasi,20,18-24,Female,basic,991.34,7,15.0,74.84,9.7,5.3,7.4
+1498,Western,Tarkwa,27,25-34,Male,postgraduate,587.63,7,13.0,329.17,8.0,5.9,4.7
+1499,North East,Walewale,32,25-34,Male,basic,1154.92,6,26.0,65.49,11.7,4.2,6.9
+1500,Northern,Tamale,42,35-44,Female,tertiary,2330.67,5,16.0,66.56,10.5,2.6,4.1
+1501,Central,Cape Coast,22,18-24,Female,postgraduate,2097.76,4,9.0,67.64,12.2,1.0,7.2
+1502,Upper East,Paga,32,25-34,Male,postgraduate,407.86,3,12.0,53.42,4.2,2.0,5.4
+1503,North East,Nalerigu,37,35-44,Male,tertiary,1198.86,9,40.0,59.51,13.6,8.7,8.5
+1504,Greater Accra,Tema,21,18-24,Male,postgraduate,1271.0,6,24.0,86.49,11.0,7.0,4.9
+1505,Western North,Sefwi Wiawso,33,25-34,Male,secondary,2174.09,8,30.0,123.39,14.2,10.0,4.1
+1506,Eastern,Nsawam,31,25-34,Female,basic,3562.51,7,43.0,109.97,12.1,5.5,6.5
+1507,Greater Accra,Kasoa East,34,25-34,Female,postgraduate,1301.07,5,20.0,174.31,10.2,6.6,5.4
+1508,Northern,Tolon,18,18-24,Male,postgraduate,1138.17,8,3.0,95.28,11.7,8.5,1.8
+1509,Ahafo,Asunafo North,33,25-34,Male,tertiary,1856.33,8,18.0,51.26,10.5,6.8,4.8
+1510,Upper West,Tumu,31,25-34,Female,postgraduate,1289.31,4,16.0,69.66,7.9,5.0,6.7
+1511,Ahafo,Goaso,29,25-34,Female,tertiary,1546.49,5,18.0,151.83,10.2,4.9,2.2
+1512,Bono East,Atebubu,18,18-24,Female,basic,1073.01,4,18.0,74.99,8.7,6.0,6.7
+1513,Bono,Berekum,32,25-34,Male,postgraduate,739.2,7,36.0,74.11,8.7,5.7,7.2
+1514,Savannah,Sawla,19,18-24,Male,postgraduate,2824.37,6,40.0,87.79,12.5,3.4,3.8
+1515,Upper East,Bawku,24,18-24,Male,postgraduate,1071.86,7,18.0,107.83,10.7,6.5,2.0
+1516,Northern,Tolon,35,35-44,Female,tertiary,774.04,7,19.0,100.18,11.4,5.4,1.2
+1517,Oti,Jasikan,22,18-24,Female,tertiary,974.76,5,23.0,150.48,6.8,4.2,8.4
+1518,Northern,Tamale,18,18-24,Male,postgraduate,879.88,8,29.0,122.08,10.7,8.3,6.0
+1519,Northern,Yendi,44,35-44,Female,basic,2722.86,6,12.0,163.99,13.2,5.5,2.9
+1520,Greater Accra,Tema,43,35-44,Male,secondary,699.96,5,16.0,163.2,9.6,2.9,5.6
+1521,Upper West,Jirapa,24,18-24,Male,tertiary,797.74,8,28.0,71.68,10.0,6.0,6.4
+1522,Western,Shama,31,25-34,Female,secondary,1224.95,4,22.0,135.31,10.9,7.7,5.8
+1523,Oti,Kadjebi,25,25-34,Female,postgraduate,886.26,8,18.0,194.86,13.9,7.4,1.8
+1524,Ahafo,Asunafo North,30,25-34,Male,secondary,1655.19,4,24.0,122.88,8.2,5.7,5.5
+1525,Greater Accra,Kasoa East,35,35-44,Female,postgraduate,2503.73,7,25.0,64.57,13.9,7.3,4.6
+1526,Oti,Jasikan,37,35-44,Male,secondary,1422.48,1,13.0,99.66,5.7,6.5,3.4
+1527,Oti,Dambai,52,45-54,Female,tertiary,1021.5,7,23.0,94.46,7.0,6.2,6.3
+1528,Northern,Savelugu,18,18-24,Male,secondary,1027.9,9,37.0,78.13,9.4,7.2,8.4
+1529,North East,Chereponi,44,35-44,Male,tertiary,444.73,8,29.0,99.6,13.2,7.9,3.1
+1530,Volta,Keta,24,18-24,Female,basic,1084.56,9,24.0,203.08,10.2,10.0,6.0
+1531,Central,Mfantsiman,19,18-24,Female,tertiary,619.87,6,40.0,183.58,11.7,6.4,4.5
+1532,Volta,Ho,29,25-34,Female,secondary,1055.07,7,21.0,78.48,7.6,5.6,4.8
+1533,Eastern,Nsawam,35,35-44,Female,basic,389.69,8,24.0,81.85,10.6,10.0,3.9
+1534,Northern,Tolon,18,18-24,Male,basic,515.3,5,10.0,69.17,9.4,3.4,4.8
+1535,Greater Accra,Accra,31,25-34,Female,basic,843.87,6,23.0,107.56,7.7,6.1,7.5
+1536,Western,Sekondi-Takoradi,26,25-34,Male,tertiary,1057.91,5,8.0,106.1,7.6,6.0,4.3
+1537,Eastern,Nsawam,20,18-24,Female,secondary,750.83,6,16.0,90.06,11.5,6.2,4.8
+1538,Western,Sekondi-Takoradi,24,18-24,Female,tertiary,1640.67,7,45.0,117.87,8.1,9.2,6.7
+1539,Savannah,Salaga,26,25-34,Male,postgraduate,614.87,4,4.0,88.77,5.0,6.2,5.2
+1540,Western,Tarkwa,59,55-65,Male,postgraduate,2020.84,9,45.0,124.77,15.5,9.1,3.8
+1541,Ashanti,Obuasi,18,18-24,Female,secondary,1425.55,5,28.0,142.33,5.8,4.8,6.3
+1542,Central,Cape Coast,23,18-24,Female,secondary,1302.63,6,28.0,72.04,6.1,2.7,2.4
+1543,Volta,Hohoe,18,18-24,Male,basic,822.83,8,10.0,68.92,12.4,8.7,6.0
+1544,Greater Accra,Kasoa East,23,18-24,Female,postgraduate,1078.81,10,34.0,196.37,15.7,10.0,9.5
+1545,Bono,Dormaa,36,35-44,Female,basic,803.46,9,27.0,26.79,11.6,10.0,2.2
+1546,Volta,Kpando,18,18-24,Male,tertiary,2376.74,7,29.0,63.54,11.2,10.0,6.4
+1547,Savannah,Damongo,22,18-24,Male,tertiary,1234.09,6,28.0,89.24,9.8,5.0,4.7
+1548,Western North,Sefwi Wiawso,26,25-34,Male,secondary,922.54,2,15.0,43.83,5.0,1.0,10.0
+1549,Ashanti,Obuasi,34,25-34,Male,basic,628.61,5,32.0,68.72,7.9,6.7,4.2
+1550,Savannah,Salaga,28,25-34,Male,postgraduate,1684.5,6,25.0,77.48,12.1,4.6,5.4
+1551,Central,Kasoa,37,35-44,Male,tertiary,1196.43,7,17.0,135.51,11.5,5.5,3.6
+1552,Western,Tarkwa,38,35-44,Male,secondary,1034.02,5,28.0,113.12,9.2,6.3,6.2
+1553,Eastern,Suhum,28,25-34,Male,postgraduate,1190.5,10,17.0,76.63,13.7,10.0,2.2
+1554,Eastern,Suhum,25,25-34,Male,postgraduate,659.86,7,26.0,86.29,12.7,9.1,5.0
+1555,Savannah,Sawla,39,35-44,Male,postgraduate,723.86,7,23.0,73.18,13.1,8.5,6.0
+1556,Western North,Sefwi Wiawso,32,25-34,Male,secondary,721.6,7,21.0,76.06,11.5,6.3,6.8
+1557,Upper East,Paga,31,25-34,Male,secondary,1013.12,8,24.0,80.71,9.1,9.7,6.1
+1558,Eastern,Akim Oda,18,18-24,Female,secondary,1002.85,6,11.0,86.18,7.0,4.9,5.2
+1559,Greater Accra,Madina,20,18-24,Male,postgraduate,714.32,7,26.0,135.56,13.5,8.6,1.9
+1560,Northern,Tamale,34,25-34,Female,postgraduate,1028.66,10,35.0,112.49,13.3,10.0,8.4
+1561,Western,Sekondi-Takoradi,52,45-54,Male,postgraduate,1359.76,7,22.0,124.2,11.2,5.5,4.5
+1562,Greater Accra,Kasoa East,23,18-24,Male,secondary,941.5,6,23.0,183.01,13.5,4.9,3.7
+1563,Ahafo,Asutifi South,28,25-34,Male,basic,1090.3,8,26.0,92.88,12.9,5.7,5.4
+1564,Ahafo,Asunafo North,27,25-34,Male,basic,1002.31,6,14.0,63.87,9.2,7.4,4.5
+1565,Northern,Savelugu,32,25-34,Female,basic,746.65,6,19.0,64.69,8.1,6.3,4.4
+1566,Western North,Bibiani,22,18-24,Male,secondary,1930.55,3,20.0,83.76,4.6,3.2,3.7
+1567,Bono,Wenchi,27,25-34,Female,tertiary,1268.12,8,22.0,91.35,11.7,10.0,4.8
+1568,North East,Walewale,41,35-44,Female,tertiary,1348.16,4,11.0,57.68,5.6,1.9,7.1
+1569,Western,Axim,37,35-44,Male,secondary,1745.19,6,38.0,75.38,10.4,6.9,6.0
+1570,Ahafo,Asutifi South,31,25-34,Male,basic,1441.14,5,27.0,109.35,9.0,3.1,5.9
+1571,Bono East,Nkoranza,31,25-34,Female,tertiary,1804.71,10,14.0,114.2,14.6,10.0,6.3
+1572,Western,Sekondi-Takoradi,35,35-44,Male,secondary,1164.34,8,35.0,45.52,11.5,4.9,5.4
+1573,Bono,Sunyani,36,35-44,Male,secondary,359.77,5,12.0,53.18,8.3,5.1,7.8
+1574,Savannah,Bole,54,45-54,Female,postgraduate,1148.95,5,24.0,113.84,8.0,7.2,4.8
+1575,Greater Accra,Accra,19,18-24,Male,basic,1362.36,5,37.0,59.57,5.9,6.5,7.7
+1576,Bono,Berekum,24,18-24,Male,tertiary,1109.48,5,13.0,137.78,8.2,3.0,4.3
+1577,Central,Cape Coast,35,35-44,Male,secondary,709.56,4,15.0,112.55,4.9,5.4,6.0
+1578,Upper West,Wa,29,25-34,Female,secondary,1379.03,7,40.0,97.48,13.7,8.0,6.0
+1579,Ashanti,Kumasi,18,18-24,Female,basic,2355.61,6,26.0,90.7,11.1,5.3,4.1
+1580,Western,Axim,28,25-34,Male,postgraduate,871.46,7,15.0,68.95,11.4,7.9,7.6
+1581,Bono,Berekum,41,35-44,Male,postgraduate,2441.96,8,30.0,128.38,11.6,7.1,6.0
+1582,Western North,Sefwi Wiawso,47,45-54,Male,basic,754.03,6,19.0,243.46,7.9,5.0,7.9
+1583,Ahafo,Goaso,53,45-54,Male,secondary,1047.35,8,28.0,109.27,12.8,8.2,4.5
+1584,Volta,Kpando,21,18-24,Female,basic,886.19,8,14.0,94.08,9.1,5.6,4.5
+1585,Upper East,Navrongo,41,35-44,Female,basic,1621.41,4,39.0,152.15,9.8,5.8,4.5
+1586,Upper East,Paga,37,35-44,Female,secondary,537.87,5,12.0,101.47,3.9,5.2,4.6
+1587,Bono,Wenchi,24,18-24,Female,basic,1040.91,9,24.0,81.99,11.3,7.5,7.4
+1588,Western,Shama,28,25-34,Female,tertiary,710.67,6,15.0,167.97,8.5,4.8,3.9
+1589,North East,Nalerigu,29,25-34,Male,postgraduate,764.36,4,20.0,76.03,4.9,3.5,5.4
+1590,Western North,Bibiani,33,25-34,Female,basic,1198.17,7,28.0,112.34,11.4,6.8,5.7
+1591,Upper West,Jirapa,52,45-54,Female,secondary,2332.87,7,42.0,103.96,12.5,6.7,4.1
+1592,Upper West,Tumu,43,35-44,Male,basic,1174.43,5,26.0,117.67,5.1,4.3,5.8
+1593,Bono,Berekum,33,25-34,Female,basic,856.74,3,9.0,85.18,5.3,3.7,8.0
+1594,Ahafo,Asunafo North,25,25-34,Male,postgraduate,1140.02,6,20.0,156.71,6.0,8.4,5.9
+1595,Eastern,Nsawam,35,35-44,Male,basic,513.24,4,26.0,88.34,6.7,5.1,7.0
+1596,Ahafo,Tano North,23,18-24,Male,secondary,1165.99,5,26.0,69.81,6.2,3.9,9.1
+1597,Upper West,Jirapa,25,25-34,Female,secondary,1232.14,7,17.0,140.72,7.9,8.7,3.5
+1598,Bono,Dormaa,21,18-24,Male,secondary,1714.68,4,4.0,110.56,7.5,3.6,7.9
+1599,Ashanti,Kumasi,38,35-44,Male,postgraduate,1298.24,7,39.0,78.91,9.0,6.9,4.4
+1600,Savannah,Damongo,26,25-34,Female,basic,700.36,3,6.0,59.97,6.4,3.3,5.8
+1601,Bono,Berekum,35,35-44,Male,secondary,852.32,6,17.0,41.41,8.7,6.3,4.1
+1602,Upper West,Tumu,19,18-24,Female,basic,1151.85,4,23.0,121.53,5.7,4.8,4.6
+1603,Oti,Nkwanta South,18,18-24,Male,basic,2368.14,6,18.0,138.09,9.2,6.7,4.9
+1604,Volta,Keta,25,25-34,Female,secondary,913.4,8,21.0,118.57,9.4,6.6,6.0
+1605,Oti,Jasikan,18,18-24,Female,basic,609.09,5,11.0,122.05,4.6,5.3,3.9
+1606,Ashanti,Obuasi,28,25-34,Female,postgraduate,471.9,6,10.0,73.29,9.4,7.1,8.1
+1607,Ahafo,Goaso,31,25-34,Female,basic,1056.74,7,19.0,126.09,13.0,7.5,8.8
+1608,Savannah,Bole,23,18-24,Male,tertiary,1010.7,6,20.0,133.24,7.1,6.3,4.4
+1609,Central,Kasoa,39,35-44,Female,postgraduate,991.76,6,23.0,118.16,13.1,7.2,4.7
+1610,Western,Axim,18,18-24,Female,postgraduate,884.57,3,15.0,106.8,5.0,3.3,7.5
+1611,Bono East,Nkoranza,35,35-44,Female,basic,762.67,9,31.0,76.85,11.4,8.3,6.1
+1612,Ahafo,Asunafo North,38,35-44,Female,postgraduate,1163.41,8,26.0,178.95,11.6,8.8,3.6
+1613,Upper West,Wa,26,25-34,Female,secondary,1789.86,10,18.0,99.33,17.7,8.0,4.3
+1614,Upper West,Tumu,34,25-34,Female,secondary,1757.22,9,33.0,81.22,12.2,9.9,5.4
+1615,Bono,Wenchi,39,35-44,Male,postgraduate,2419.5,5,30.0,58.14,8.9,6.9,6.3
+1616,Oti,Nkwanta South,31,25-34,Male,secondary,1417.78,5,22.0,74.82,4.1,2.0,2.9
+1617,Upper East,Bolgatanga,30,25-34,Female,secondary,1452.28,5,19.0,129.92,7.4,3.3,3.5
+1618,Central,Kasoa,29,25-34,Female,secondary,985.86,4,22.0,73.65,5.1,3.7,6.6
+1619,Greater Accra,Madina,32,25-34,Female,secondary,1079.7,5,22.0,77.27,7.9,5.2,6.0
+1620,Western,Sekondi-Takoradi,27,25-34,Male,secondary,714.18,4,9.0,64.18,5.0,2.7,6.4
+1621,Volta,Keta,31,25-34,Female,basic,2097.84,9,22.0,106.38,12.2,6.4,3.7
+1622,Ahafo,Goaso,28,25-34,Female,postgraduate,698.25,8,30.0,170.47,11.2,8.9,6.2
+1623,Northern,Savelugu,37,35-44,Male,secondary,2152.81,3,33.0,111.12,6.3,3.6,7.8
+1624,Greater Accra,Kasoa East,38,35-44,Female,secondary,1439.45,6,44.0,113.52,5.5,5.4,5.0
+1625,Bono,Sunyani,46,45-54,Male,basic,1257.53,8,35.0,105.12,11.6,8.9,6.9
+1626,Oti,Kadjebi,37,35-44,Male,secondary,1453.95,7,30.0,79.35,11.3,8.3,3.9
+1627,Central,Kasoa,19,18-24,Female,secondary,899.89,5,19.0,84.85,8.1,5.4,3.6
+1628,Central,Komenda,34,25-34,Male,secondary,1209.1,6,15.0,86.39,5.5,7.1,1.7
+1629,Greater Accra,Accra,19,18-24,Female,secondary,964.04,6,21.0,176.5,8.7,3.9,8.4
+1630,Western,Sekondi-Takoradi,18,18-24,Female,postgraduate,746.06,4,39.0,91.7,10.5,5.3,4.6
+1631,Ashanti,Kumasi,48,45-54,Female,tertiary,650.92,4,27.0,70.37,9.6,3.4,8.0
+1632,Bono East,Atebubu,18,18-24,Female,tertiary,974.81,8,31.0,84.29,7.9,8.1,4.1
+1633,Central,Kasoa,30,25-34,Female,secondary,985.41,5,16.0,183.21,3.8,1.5,5.4
+1634,Bono,Berekum,21,18-24,Male,secondary,683.07,3,15.0,62.29,5.6,4.6,6.7
+1635,Western North,Bibiani,51,45-54,Male,basic,1971.7,6,29.0,51.24,6.8,5.0,7.7
+1636,Northern,Tamale,37,35-44,Male,postgraduate,958.92,3,16.0,111.91,3.5,2.0,6.5
+1637,Western,Sekondi-Takoradi,51,45-54,Male,secondary,1752.93,4,15.0,129.58,10.1,6.3,4.5
+1638,Greater Accra,Madina,22,18-24,Male,basic,706.94,7,10.0,84.8,9.3,8.0,3.4
+1639,North East,Bunkpurugu,18,18-24,Female,basic,872.27,5,16.0,186.51,2.9,3.7,7.2
+1640,Western,Shama,32,25-34,Female,tertiary,2074.6,9,19.0,75.94,14.7,10.0,4.6
+1641,Oti,Kadjebi,30,25-34,Male,tertiary,856.38,1,5.0,131.48,2.0,1.3,5.0
+1642,Ashanti,Obuasi,28,25-34,Male,postgraduate,2732.8,5,33.0,87.52,11.9,4.8,5.4
+1643,Eastern,Akim Oda,42,35-44,Male,secondary,528.09,7,33.0,108.03,8.5,8.1,3.4
+1644,Ashanti,Mampong,28,25-34,Male,secondary,720.91,7,34.0,112.72,15.5,8.2,2.7
+1645,Central,Mfantsiman,18,18-24,Female,secondary,819.02,8,20.0,116.37,10.6,5.1,5.7
+1646,Western,Axim,27,25-34,Male,postgraduate,2129.98,5,25.0,89.15,10.7,1.0,7.6
+1647,Western,Shama,36,35-44,Male,postgraduate,3275.87,5,38.0,166.87,13.4,4.4,4.6
+1648,Eastern,Koforidua,39,35-44,Male,basic,1127.37,6,22.0,114.92,11.8,7.1,4.8
+1649,Bono East,Atebubu,18,18-24,Female,basic,841.59,6,26.0,86.25,5.5,4.9,8.3
+1650,Greater Accra,Madina,18,18-24,Female,tertiary,1269.82,6,27.0,87.54,12.3,8.5,7.0
+1651,North East,Bunkpurugu,20,18-24,Male,tertiary,1298.66,7,24.0,93.64,9.9,7.9,6.3
+1652,Volta,Hohoe,29,25-34,Male,postgraduate,3482.8,6,28.0,130.74,13.7,4.6,5.4
+1653,Greater Accra,Accra,32,25-34,Female,basic,822.06,6,17.0,210.65,4.9,8.2,3.4
+1654,Western North,Juaboso,51,45-54,Male,secondary,1677.31,6,24.0,77.56,5.8,6.9,1.0
+1655,Upper East,Bolgatanga,25,25-34,Female,tertiary,1457.42,7,27.0,72.72,11.3,7.0,6.6
+1656,Oti,Jasikan,38,35-44,Female,basic,1540.99,5,16.0,189.62,11.1,6.4,6.5
+1657,Northern,Tolon,18,18-24,Male,basic,929.16,4,1.0,114.15,3.5,4.3,3.3
+1658,Central,Kasoa,22,18-24,Male,postgraduate,1305.16,7,24.0,130.24,7.0,7.3,2.7
+1659,Central,Kasoa,31,25-34,Male,basic,1024.23,3,13.0,96.94,5.4,4.3,5.8
+1660,Volta,Kpando,18,18-24,Male,basic,1738.84,8,46.0,83.89,10.7,8.7,6.5
+1661,Bono,Wenchi,44,35-44,Male,postgraduate,554.77,5,6.0,92.06,8.2,4.6,5.4
+1662,Greater Accra,Accra,18,18-24,Female,secondary,1084.58,4,18.0,80.61,4.7,5.0,6.0
+1663,Volta,Keta,28,25-34,Male,basic,920.28,6,28.0,100.35,8.5,4.5,4.5
+1664,North East,Chereponi,41,35-44,Male,secondary,1364.03,7,30.0,135.98,13.6,7.7,6.8
+1665,Oti,Nkwanta South,28,25-34,Male,postgraduate,574.5,9,29.0,55.41,13.7,10.0,5.9
+1666,Bono,Berekum,18,18-24,Male,tertiary,1221.89,7,26.0,134.91,7.2,8.2,4.7
+1667,Upper West,Wa,38,35-44,Female,postgraduate,1734.34,9,38.0,84.49,13.7,6.7,9.2
+1668,Eastern,Nsawam,43,35-44,Female,basic,966.73,2,12.0,129.28,3.7,1.6,5.9
+1669,Central,Komenda,28,25-34,Male,basic,1129.65,6,30.0,84.72,6.9,4.3,5.2
+1670,Volta,Ho,27,25-34,Female,secondary,912.78,3,20.0,135.83,6.7,2.0,5.6
+1671,Oti,Nkwanta South,40,35-44,Male,secondary,837.97,7,24.0,109.28,11.0,6.2,4.8
+1672,Central,Komenda,18,18-24,Male,basic,1776.37,8,33.0,74.83,15.0,7.3,7.0
+1673,Greater Accra,Tema,41,35-44,Male,secondary,615.08,7,30.0,172.16,8.4,6.7,4.8
+1674,Savannah,Sawla,40,35-44,Female,secondary,1603.56,9,40.0,101.57,13.4,9.6,5.2
+1675,Bono East,Atebubu,18,18-24,Male,postgraduate,959.65,8,29.0,144.52,14.6,6.8,2.5
+1676,Western North,Juaboso,22,18-24,Male,secondary,1371.36,9,29.0,154.94,15.9,6.6,8.5
+1677,Bono East,Nkoranza,18,18-24,Female,postgraduate,675.87,4,22.0,185.52,5.4,3.1,3.9
+1678,Northern,Tolon,18,18-24,Male,basic,1296.85,8,39.0,70.81,11.9,8.0,3.9
+1679,Eastern,Akim Oda,47,45-54,Male,basic,859.06,5,37.0,74.15,4.9,3.8,6.0
+1680,Oti,Nkwanta South,32,25-34,Female,secondary,1699.28,6,37.0,46.24,13.1,5.9,7.4
+1681,Central,Kasoa,32,25-34,Female,tertiary,816.77,9,25.0,91.21,14.5,10.0,7.8
+1682,Upper West,Wa,36,35-44,Male,postgraduate,2434.07,4,29.0,90.73,9.6,1.0,3.8
+1683,Savannah,Sawla,29,25-34,Male,postgraduate,504.34,6,12.0,71.21,10.2,7.8,7.2
+1684,Greater Accra,Accra,18,18-24,Male,basic,799.63,6,24.0,85.9,4.7,6.2,6.4
+1685,Volta,Hohoe,30,25-34,Male,tertiary,754.59,10,36.0,182.44,14.8,10.0,7.0
+1686,Western North,Bodi,42,35-44,Male,basic,1334.08,6,16.0,85.8,11.3,5.0,7.6
+1687,Western,Axim,18,18-24,Female,secondary,2463.63,7,35.0,145.36,12.4,7.2,6.3
+1688,Ahafo,Tano North,18,18-24,Male,tertiary,722.04,7,21.0,94.0,8.9,7.1,9.8
+1689,Greater Accra,Accra,31,25-34,Male,secondary,1288.43,9,21.0,50.75,11.8,7.6,4.9
+1690,North East,Nalerigu,26,25-34,Male,secondary,837.14,7,36.0,151.13,11.0,7.0,3.6
+1691,Northern,Tolon,27,25-34,Female,tertiary,1301.8,6,45.0,105.4,9.2,6.0,4.4
+1692,Savannah,Bole,32,25-34,Female,secondary,775.59,6,21.0,52.21,10.3,6.4,5.6
+1693,Ashanti,Mampong,27,25-34,Female,tertiary,1024.26,8,4.0,93.76,11.9,6.3,5.2
+1694,Western,Tarkwa,40,35-44,Female,tertiary,947.97,10,26.0,84.4,14.2,10.0,8.7
+1695,Bono,Dormaa,21,18-24,Male,postgraduate,2153.91,6,7.0,171.15,9.8,4.2,5.5
+1696,Upper West,Lawra,24,18-24,Female,postgraduate,1709.85,9,39.0,110.82,16.6,10.0,6.5
+1697,Upper West,Jirapa,38,35-44,Male,basic,1274.98,8,26.0,114.64,13.0,6.1,3.8
+1698,Bono East,Nkoranza,33,25-34,Male,secondary,1260.27,7,19.0,62.76,9.8,9.7,5.2
+1699,Ahafo,Tano North,37,35-44,Male,basic,1267.76,4,19.0,58.17,7.8,3.5,6.7
+1700,Bono East,Techiman,20,18-24,Male,tertiary,871.99,4,12.0,70.92,6.8,5.5,5.4
+1701,Ashanti,Obuasi,24,18-24,Female,postgraduate,1538.2,8,27.0,75.78,13.2,8.3,2.7
+1702,Oti,Dambai,38,35-44,Female,postgraduate,1392.99,8,22.0,108.7,12.3,7.7,5.2
+1703,Greater Accra,Kasoa East,33,25-34,Female,basic,1434.46,6,26.0,82.03,12.2,4.8,1.0
+1704,Ahafo,Goaso,29,25-34,Male,postgraduate,794.2,7,28.0,73.3,9.3,8.2,2.8
+1705,Greater Accra,Tema,39,35-44,Female,basic,351.19,8,2.0,62.47,11.3,8.9,5.6
+1706,Northern,Savelugu,32,25-34,Female,secondary,1256.72,7,19.0,64.84,10.1,6.5,2.1
+1707,Western,Sekondi-Takoradi,18,18-24,Female,postgraduate,1539.77,10,25.0,103.34,14.1,9.7,2.5
+1708,Volta,Ho,25,25-34,Male,secondary,1199.6,3,25.0,136.69,5.3,7.2,6.1
+1709,Northern,Tolon,35,35-44,Female,postgraduate,592.19,7,25.0,79.16,9.3,6.8,6.3
+1710,Ashanti,Obuasi,41,35-44,Male,tertiary,688.92,3,2.0,155.21,3.7,4.4,5.9
+1711,Oti,Dambai,21,18-24,Male,basic,750.84,4,26.0,56.41,6.7,3.0,5.0
+1712,Upper East,Paga,18,18-24,Male,basic,492.63,7,18.0,59.02,7.1,7.2,5.0
+1713,Volta,Kpando,39,35-44,Female,postgraduate,543.76,3,19.0,92.84,6.5,3.3,7.7
+1714,Bono East,Techiman,42,35-44,Male,tertiary,659.56,6,34.0,44.77,11.0,3.8,4.8
+1715,Bono East,Techiman,55,55-65,Male,secondary,1152.84,7,19.0,93.26,5.4,8.7,4.2
+1716,Bono East,Atebubu,27,25-34,Female,basic,799.73,7,27.0,90.21,9.6,5.7,9.3
+1717,Bono East,Kintampo,32,25-34,Female,secondary,2521.61,10,29.0,190.16,16.6,8.3,9.1
+1718,Greater Accra,Madina,26,25-34,Male,tertiary,612.88,9,29.0,84.12,12.3,7.4,2.9
+1719,North East,Bunkpurugu,28,25-34,Female,basic,2858.05,6,25.0,79.09,13.0,3.5,6.8
+1720,North East,Walewale,29,25-34,Female,secondary,437.53,8,31.0,77.3,10.4,9.7,4.5
+1721,Western,Sekondi-Takoradi,43,35-44,Male,secondary,656.29,7,19.0,137.96,8.8,7.4,7.0
+1722,Western North,Juaboso,40,35-44,Male,basic,681.79,5,11.0,46.91,5.7,5.7,2.4
+1723,Upper East,Navrongo,52,45-54,Female,basic,757.41,6,30.0,121.47,9.5,6.1,5.3
+1724,Western,Tarkwa,40,35-44,Male,secondary,1056.95,8,40.0,157.51,12.4,7.2,4.7
+1725,North East,Chereponi,32,25-34,Female,basic,1090.48,7,27.0,78.95,12.5,6.3,4.3
+1726,Oti,Dambai,19,18-24,Female,secondary,1311.07,7,33.0,57.33,12.0,6.1,6.1
+1727,Bono,Dormaa,41,35-44,Female,basic,1386.65,10,26.0,74.56,13.5,9.3,4.2
+1728,Bono East,Kintampo,27,25-34,Male,tertiary,1064.85,9,17.0,280.78,13.8,9.0,7.0
+1729,Ashanti,Kumasi,33,25-34,Female,basic,1924.19,7,23.0,86.39,11.6,7.5,5.1
+1730,Greater Accra,Kasoa East,42,35-44,Male,secondary,1003.15,4,19.0,78.63,3.8,3.5,7.0
+1731,Ashanti,Obuasi,27,25-34,Female,basic,1406.28,5,13.0,108.52,10.8,3.5,6.4
+1732,Western North,Bibiani,19,18-24,Female,tertiary,1105.65,8,16.0,138.58,13.3,6.2,8.0
+1733,North East,Chereponi,37,35-44,Female,basic,759.01,8,28.0,90.38,10.8,7.8,2.5
+1734,Upper East,Paga,43,35-44,Female,postgraduate,1400.26,5,23.0,142.61,6.8,6.7,2.2
+1735,Ashanti,Mampong,28,25-34,Female,basic,1087.28,9,29.0,82.96,11.2,9.9,4.7
+1736,Upper West,Wa,18,18-24,Female,postgraduate,1464.65,7,26.0,103.43,10.7,5.8,6.5
+1737,Northern,Savelugu,25,25-34,Female,secondary,1167.11,8,24.0,141.76,12.5,7.3,6.5
+1738,Oti,Nkwanta South,18,18-24,Female,secondary,2676.23,5,16.0,94.7,10.3,7.4,6.8
+1739,Volta,Kpando,23,18-24,Male,basic,2215.96,8,43.0,82.76,12.8,4.0,4.4
+1740,Bono East,Kintampo,30,25-34,Male,basic,920.78,5,37.0,83.19,4.1,3.5,4.7
+1741,Central,Komenda,41,35-44,Male,postgraduate,2798.08,5,30.0,96.92,7.1,4.9,5.9
+1742,Greater Accra,Madina,31,25-34,Male,tertiary,1694.35,7,41.0,156.98,5.1,6.4,6.1
+1743,Savannah,Bole,26,25-34,Male,tertiary,1563.8,4,13.0,106.88,8.6,1.0,4.0
+1744,Central,Kasoa,37,35-44,Male,postgraduate,955.76,4,10.0,88.92,7.8,3.0,2.1
+1745,Bono,Dormaa,26,25-34,Female,tertiary,1501.07,3,12.0,166.53,6.8,2.4,6.4
+1746,North East,Walewale,44,35-44,Female,tertiary,1198.94,4,15.0,93.77,9.8,1.0,5.7
+1747,Oti,Kadjebi,36,35-44,Male,tertiary,1052.67,4,15.0,126.05,5.1,5.8,1.8
+1748,Ahafo,Asunafo North,34,25-34,Female,secondary,506.43,3,10.0,91.3,4.9,1.2,1.0
+1749,Western North,Juaboso,18,18-24,Female,basic,1631.84,9,24.0,94.48,11.0,9.9,6.5
+1750,Oti,Nkwanta South,46,45-54,Male,basic,1083.76,4,28.0,174.72,7.7,3.6,6.1
+1751,Oti,Dambai,32,25-34,Male,tertiary,753.35,5,22.0,98.15,8.1,4.0,7.1
+1752,Northern,Savelugu,38,35-44,Male,basic,600.92,5,15.0,117.04,7.2,6.4,4.6
+1753,North East,Chereponi,46,45-54,Female,postgraduate,1220.99,8,21.0,85.13,11.0,8.8,4.4
+1754,Western North,Bibiani,31,25-34,Female,tertiary,1544.83,3,8.0,128.45,6.2,4.2,8.7
+1755,North East,Chereponi,18,18-24,Female,basic,595.4,5,7.0,114.32,6.0,6.8,5.2
+1756,Oti,Kadjebi,28,25-34,Female,tertiary,1584.02,6,24.0,149.79,10.1,6.3,7.6
+1757,Upper West,Wa,32,25-34,Male,secondary,1193.31,3,14.0,59.43,3.8,1.0,5.6
+1758,Central,Kasoa,25,25-34,Female,basic,353.58,6,15.0,150.59,7.8,6.3,5.6
+1759,Oti,Kadjebi,36,35-44,Female,tertiary,953.92,9,36.0,48.6,16.1,5.8,7.9
+1760,Upper West,Jirapa,20,18-24,Female,tertiary,887.37,10,41.0,98.78,11.9,10.0,7.1
+1761,Central,Mfantsiman,35,35-44,Female,postgraduate,2009.3,7,19.0,36.54,13.0,6.4,6.8
+1762,Bono East,Nkoranza,21,18-24,Female,basic,969.28,6,24.0,76.56,11.9,5.8,6.5
+1763,Ahafo,Tano North,29,25-34,Male,postgraduate,649.2,2,22.0,62.54,4.1,1.0,6.8
+1764,Upper West,Tumu,38,35-44,Male,basic,844.66,7,22.0,92.06,11.0,7.0,5.0
+1765,North East,Chereponi,30,25-34,Female,postgraduate,930.92,6,27.0,140.44,10.9,5.5,6.0
+1766,North East,Chereponi,18,18-24,Female,secondary,621.42,5,4.0,169.21,6.0,3.8,6.2
+1767,Savannah,Salaga,29,25-34,Male,basic,1159.28,5,19.0,89.08,4.2,4.9,5.9
+1768,Bono East,Nkoranza,21,18-24,Male,tertiary,979.73,7,8.0,57.45,9.9,7.3,6.0
+1769,Volta,Ho,18,18-24,Male,basic,992.82,6,16.0,60.21,7.7,4.6,4.9
+1770,Western North,Sefwi Wiawso,27,25-34,Male,secondary,1893.11,8,41.0,57.51,15.5,7.9,4.3
+1771,Bono,Wenchi,26,25-34,Male,postgraduate,949.93,10,23.0,69.41,11.6,9.6,5.3
+1772,Upper West,Wa,33,25-34,Male,basic,1280.65,4,27.0,63.63,9.0,4.4,4.9
+1773,Savannah,Bole,35,35-44,Male,postgraduate,1743.16,4,8.0,121.75,7.4,4.1,4.2
+1774,North East,Bunkpurugu,20,18-24,Male,basic,849.9,9,21.0,91.3,13.4,10.0,6.9
+1775,Western North,Bibiani,29,25-34,Male,basic,1039.33,6,16.0,190.87,7.2,7.4,8.5
+1776,Oti,Nkwanta South,47,45-54,Female,basic,662.02,6,19.0,57.53,5.4,8.1,6.8
+1777,Oti,Jasikan,23,18-24,Male,secondary,926.82,5,9.0,92.84,7.8,5.3,5.3
+1778,Greater Accra,Madina,31,25-34,Male,basic,864.57,6,26.0,78.78,8.7,6.8,4.5
+1779,Western,Sekondi-Takoradi,40,35-44,Male,basic,2101.79,5,16.0,126.97,8.7,3.7,7.0
+1780,Northern,Tolon,44,35-44,Male,basic,1624.28,5,18.0,125.02,10.9,4.1,5.9
+1781,Bono,Berekum,32,25-34,Male,tertiary,1606.49,6,28.0,102.14,11.2,4.6,6.3
+1782,Bono East,Nkoranza,18,18-24,Male,tertiary,679.33,5,12.0,155.25,8.1,3.5,4.1
+1783,Volta,Ho,37,35-44,Female,tertiary,1045.18,8,20.0,55.31,9.4,8.8,6.3
+1784,Northern,Tolon,31,25-34,Female,postgraduate,886.02,6,33.0,118.49,8.7,6.4,2.6
+1785,Western North,Bodi,30,25-34,Female,basic,534.98,4,12.0,61.99,2.9,5.9,6.4
+1786,Ahafo,Goaso,26,25-34,Female,tertiary,1231.94,7,35.0,58.42,13.0,6.9,4.0
+1787,Bono East,Techiman,22,18-24,Male,secondary,2433.92,7,25.0,150.68,13.5,5.9,6.5
+1788,Upper West,Wa,25,25-34,Male,tertiary,880.16,4,22.0,104.31,3.9,3.6,4.6
+1789,Upper East,Bawku,21,18-24,Male,basic,1197.8,9,32.0,102.55,7.7,8.7,6.9
+1790,Western North,Sefwi Wiawso,32,25-34,Male,secondary,1489.5,2,0.0,144.14,5.8,2.9,6.4
+1791,Upper West,Jirapa,38,35-44,Male,basic,1629.52,5,27.0,141.81,7.2,3.0,7.3
+1792,Savannah,Damongo,32,25-34,Male,postgraduate,1301.77,7,30.0,121.03,10.0,9.3,7.5
+1793,Volta,Kpando,18,18-24,Male,postgraduate,1039.8,6,14.0,117.54,9.7,4.8,5.0
+1794,Ahafo,Asutifi South,34,25-34,Female,basic,1263.75,9,35.0,154.9,10.9,8.9,7.6
+1795,Upper West,Jirapa,23,18-24,Male,postgraduate,931.65,7,34.0,101.47,10.0,9.1,4.1
+1796,Upper West,Wa,18,18-24,Female,tertiary,2733.64,2,13.0,85.41,6.0,1.0,7.0
+1797,Oti,Dambai,32,25-34,Male,basic,1107.48,5,20.0,96.3,6.7,2.2,2.1
+1798,Bono East,Techiman,25,25-34,Female,secondary,2680.76,6,29.0,85.1,12.0,4.8,2.7
+1799,Western North,Bibiani,27,25-34,Male,secondary,2108.47,10,34.0,95.76,15.3,8.7,9.1
+1800,Upper East,Navrongo,30,25-34,Male,basic,3082.68,8,40.0,77.56,19.9,8.8,6.0
+1801,Savannah,Salaga,22,18-24,Female,secondary,1135.08,6,24.0,123.95,9.1,5.3,3.0
+1802,Upper East,Navrongo,41,35-44,Female,postgraduate,1160.42,6,16.0,89.53,7.3,8.3,7.7
+1803,Eastern,Nsawam,18,18-24,Male,secondary,1143.29,7,14.0,86.83,8.9,8.1,6.8
+1804,Eastern,Nsawam,18,18-24,Female,postgraduate,825.22,6,19.0,127.94,5.3,4.5,3.8
+1805,Northern,Savelugu,33,25-34,Female,secondary,658.91,5,24.0,59.07,6.1,6.7,6.1
+1806,North East,Bunkpurugu,37,35-44,Male,tertiary,751.96,7,14.0,126.27,9.6,5.0,6.6
+1807,North East,Nalerigu,21,18-24,Female,basic,1449.62,4,17.0,82.84,9.0,4.4,4.4
+1808,Bono,Wenchi,24,18-24,Male,tertiary,1532.22,4,20.0,91.82,10.2,3.5,4.4
+1809,Eastern,Nsawam,29,25-34,Male,postgraduate,887.31,8,27.0,68.93,10.4,6.6,1.9
+1810,Ahafo,Goaso,32,25-34,Female,tertiary,645.2,7,23.0,71.67,8.5,4.8,4.6
+1811,Savannah,Damongo,37,35-44,Male,tertiary,1545.9,5,14.0,56.23,8.3,3.4,3.1
+1812,Western,Sekondi-Takoradi,22,18-24,Female,basic,1226.2,8,24.0,106.25,10.8,4.6,4.5
+1813,Bono,Berekum,35,35-44,Female,basic,1570.25,5,23.0,60.9,8.6,7.1,6.7
+1814,Oti,Dambai,33,25-34,Female,postgraduate,740.54,7,20.0,72.42,13.2,7.0,7.5
+1815,Greater Accra,Accra,27,25-34,Male,basic,1188.61,7,24.0,86.24,8.0,4.7,7.0
+1816,Northern,Yendi,26,25-34,Male,tertiary,686.02,10,32.0,75.15,17.2,6.5,6.1
+1817,Ashanti,Ejisu,35,35-44,Male,secondary,923.83,7,14.0,118.16,5.5,8.8,4.3
+1818,Northern,Tamale,37,35-44,Male,secondary,894.17,5,25.0,111.44,8.9,4.4,4.7
+1819,Northern,Tolon,39,35-44,Female,postgraduate,1465.49,9,36.0,71.88,13.4,10.0,7.1
+1820,Oti,Dambai,45,45-54,Male,basic,3328.36,8,53.0,82.42,16.2,10.0,5.6
+1821,North East,Chereponi,27,25-34,Male,basic,1453.8,4,34.0,76.35,7.4,5.5,2.7
+1822,Western,Shama,38,35-44,Male,basic,1738.67,5,36.0,131.16,11.1,6.6,4.2
+1823,Volta,Ho,24,18-24,Female,tertiary,828.3,10,31.0,193.27,11.7,10.0,3.6
+1824,Western North,Sefwi Wiawso,42,35-44,Female,secondary,562.01,10,39.0,74.59,15.3,10.0,5.8
+1825,Ahafo,Tano North,26,25-34,Female,postgraduate,1743.63,3,22.0,76.42,10.9,1.8,4.4
+1826,Ashanti,Mampong,34,25-34,Male,postgraduate,1472.71,6,35.0,74.73,12.0,6.4,7.3
+1827,Central,Komenda,18,18-24,Female,basic,1012.77,8,26.0,101.24,9.3,7.9,5.5
+1828,Western,Tarkwa,37,35-44,Female,basic,1766.06,9,25.0,215.05,13.0,7.9,5.3
+1829,Volta,Keta,33,25-34,Male,tertiary,436.84,5,23.0,69.67,8.5,3.3,6.7
+1830,Eastern,Akim Oda,36,35-44,Female,tertiary,551.92,10,19.0,135.8,8.3,9.7,6.6
+1831,North East,Chereponi,33,25-34,Male,postgraduate,1325.92,5,25.0,74.32,9.0,5.1,6.8
+1832,Ashanti,Kumasi,34,25-34,Male,secondary,1027.51,4,36.0,114.45,6.6,5.3,5.4
+1833,North East,Chereponi,45,45-54,Female,secondary,901.79,6,15.0,53.56,7.0,8.0,5.6
+1834,Bono,Berekum,23,18-24,Male,basic,1412.28,9,30.0,121.94,12.4,8.0,4.5
+1835,Volta,Ho,33,25-34,Female,postgraduate,1148.68,4,17.0,80.75,6.4,4.1,4.6
+1836,Northern,Yendi,25,25-34,Male,secondary,583.83,1,22.0,77.43,2.0,1.0,5.7
+1837,Volta,Keta,32,25-34,Female,basic,635.18,7,22.0,124.37,10.5,8.4,8.1
+1838,Eastern,Nsawam,18,18-24,Male,basic,763.21,7,9.0,65.08,11.6,5.2,3.7
+1839,Bono,Berekum,34,25-34,Male,basic,2903.94,4,23.0,65.18,5.6,1.7,3.1
+1840,Western North,Bibiani,20,18-24,Male,postgraduate,1988.6,5,28.0,108.52,8.9,2.1,3.1
+1841,Bono,Wenchi,29,25-34,Female,secondary,1711.48,7,38.0,56.99,11.4,7.3,5.4
+1842,Northern,Tolon,18,18-24,Male,basic,1395.7,8,19.0,129.93,11.9,5.9,5.1
+1843,Ahafo,Tano North,28,25-34,Female,tertiary,803.55,10,27.0,63.13,14.7,10.0,3.2
+1844,Volta,Kpando,26,25-34,Male,basic,1049.02,6,22.0,89.68,7.8,4.5,3.2
+1845,Northern,Tamale,36,35-44,Female,basic,2370.52,4,22.0,133.3,9.0,1.0,6.1
+1846,Eastern,Suhum,32,25-34,Male,basic,1104.64,5,19.0,86.72,7.2,5.8,4.5
+1847,Greater Accra,Madina,18,18-24,Female,postgraduate,1193.67,5,22.0,146.52,8.5,3.8,8.7
+1848,Northern,Savelugu,49,45-54,Female,postgraduate,967.1,5,35.0,82.86,7.3,3.7,5.6
+1849,North East,Chereponi,30,25-34,Female,postgraduate,1187.37,6,24.0,88.22,8.7,6.8,4.4
+1850,Northern,Tolon,43,35-44,Female,tertiary,1014.59,3,20.0,82.66,2.3,4.0,5.3
+1851,North East,Nalerigu,33,25-34,Male,postgraduate,1064.56,6,7.0,74.81,8.7,5.8,4.7
+1852,Bono East,Nkoranza,38,35-44,Female,basic,893.69,7,35.0,107.36,9.6,7.7,4.1
+1853,Northern,Tolon,31,25-34,Female,tertiary,1103.19,4,25.0,168.98,4.6,2.6,2.0
+1854,Western,Shama,25,25-34,Female,basic,576.99,6,7.0,83.43,7.2,5.5,6.1
+1855,Ahafo,Asunafo North,33,25-34,Male,basic,1892.7,9,29.0,93.54,10.1,7.0,6.8
+1856,Upper West,Wa,18,18-24,Male,tertiary,2278.58,5,8.0,105.23,7.5,5.4,9.3
+1857,North East,Bunkpurugu,42,35-44,Male,basic,1184.41,8,38.0,168.18,14.9,8.8,4.2
+1858,Northern,Tolon,35,35-44,Male,tertiary,1121.3,3,12.0,162.55,5.1,2.9,6.0
+1859,Central,Cape Coast,25,25-34,Male,basic,868.72,5,16.0,93.94,6.9,6.3,5.2
+1860,Western North,Bodi,18,18-24,Female,postgraduate,958.67,6,12.0,151.99,7.8,5.6,6.6
+1861,Volta,Ho,30,25-34,Male,tertiary,1478.39,8,25.0,107.13,11.6,7.3,6.1
+1862,Greater Accra,Madina,19,18-24,Female,tertiary,1151.25,9,9.0,97.33,8.6,7.8,7.7
+1863,Central,Cape Coast,24,18-24,Male,postgraduate,1141.39,5,31.0,104.07,10.6,2.6,3.5
+1864,Ahafo,Asutifi South,31,25-34,Male,postgraduate,1142.52,5,33.0,85.9,7.8,4.0,4.1
+1865,Upper East,Bolgatanga,18,18-24,Female,basic,1213.1,2,9.0,79.89,7.7,2.4,5.6
+1866,Bono East,Atebubu,27,25-34,Female,basic,1634.6,9,13.0,111.36,14.4,6.7,6.2
+1867,Volta,Keta,52,45-54,Female,tertiary,1360.39,7,22.0,76.52,7.6,5.4,7.6
+1868,Upper West,Tumu,38,35-44,Female,tertiary,1134.41,6,17.0,83.43,9.9,4.8,4.1
+1869,Savannah,Salaga,28,25-34,Male,secondary,1742.14,4,19.0,113.01,10.8,6.5,1.7
+1870,Volta,Kpando,18,18-24,Female,postgraduate,600.51,5,10.0,95.13,2.8,4.6,7.7
+1871,Ahafo,Goaso,26,25-34,Male,basic,1564.57,8,18.0,220.79,11.4,9.4,4.9
+1872,Northern,Yendi,32,25-34,Male,tertiary,813.21,8,20.0,66.21,10.9,8.1,4.4
+1873,Western,Axim,28,25-34,Male,basic,663.77,3,13.0,74.08,6.3,2.0,5.2
+1874,Western,Tarkwa,26,25-34,Male,secondary,984.52,9,9.0,143.14,11.8,9.7,6.3
+1875,Northern,Savelugu,24,18-24,Female,postgraduate,1054.55,6,29.0,211.8,5.3,7.2,5.9
+1876,Volta,Hohoe,29,25-34,Male,postgraduate,2052.68,4,31.0,126.28,9.9,2.8,4.8
+1877,Bono,Sunyani,32,25-34,Male,postgraduate,1460.53,8,34.0,75.74,9.3,5.9,4.4
+1878,Western North,Bibiani,29,25-34,Female,secondary,1590.66,8,33.0,84.77,13.3,7.4,7.2
+1879,Greater Accra,Tema,39,35-44,Male,postgraduate,526.98,8,12.0,61.83,12.4,7.7,4.7
+1880,North East,Bunkpurugu,30,25-34,Male,tertiary,814.99,6,16.0,123.95,6.1,6.8,6.1
+1881,North East,Bunkpurugu,24,18-24,Male,secondary,1687.29,3,14.0,96.96,7.7,3.3,7.9
+1882,Greater Accra,Kasoa East,35,35-44,Female,secondary,2025.99,4,19.0,35.18,6.2,6.9,7.9
+1883,Volta,Keta,27,25-34,Male,basic,1481.08,9,33.0,98.31,12.4,10.0,3.5
+1884,Bono East,Atebubu,44,35-44,Female,postgraduate,1189.47,5,23.0,93.79,5.9,8.8,6.0
+1885,Ahafo,Tano North,18,18-24,Female,postgraduate,1208.7,3,18.0,63.5,5.8,4.5,2.4
+1886,Western North,Bodi,18,18-24,Male,basic,1318.28,8,45.0,83.68,10.3,6.3,5.7
+1887,Ashanti,Kumasi,44,35-44,Male,tertiary,844.64,1,13.0,91.11,0.7,1.0,7.2
+1888,Western,Shama,19,18-24,Male,tertiary,996.85,7,22.0,108.67,12.0,10.0,4.9
+1889,Eastern,Suhum,29,25-34,Female,basic,1014.63,6,25.0,79.52,7.5,7.3,4.1
+1890,Western,Shama,36,35-44,Female,basic,2075.32,7,20.0,121.39,14.5,6.1,4.0
+1891,Oti,Jasikan,40,35-44,Male,postgraduate,715.53,6,35.0,231.34,3.5,8.0,2.7
+1892,Savannah,Sawla,33,25-34,Female,secondary,1877.7,4,36.0,139.96,8.1,1.0,4.8
+1893,North East,Walewale,22,18-24,Female,basic,1024.13,5,12.0,83.87,11.2,4.9,5.2
+1894,Volta,Kpando,25,25-34,Male,basic,920.15,3,7.0,109.35,5.2,4.2,9.7
+1895,Ashanti,Obuasi,40,35-44,Male,postgraduate,1205.14,5,13.0,175.17,11.4,5.0,6.6
+1896,Ahafo,Asutifi South,18,18-24,Female,secondary,807.13,4,16.0,149.07,6.3,3.5,6.4
+1897,Volta,Ho,18,18-24,Female,tertiary,2222.98,5,29.0,93.57,12.9,5.2,1.2
+1898,Upper West,Wa,33,25-34,Male,secondary,963.15,7,19.0,118.93,10.1,7.9,7.3
+1899,Oti,Dambai,32,25-34,Male,secondary,2031.04,5,30.0,154.33,8.8,6.4,6.2
+1900,Upper East,Navrongo,42,35-44,Female,postgraduate,764.42,10,20.0,120.12,9.1,10.0,9.9
+1901,Upper East,Navrongo,47,45-54,Female,tertiary,743.83,8,33.0,82.63,8.7,7.8,3.7
+1902,Bono,Sunyani,31,25-34,Female,secondary,529.16,1,11.0,135.24,1.6,3.6,2.0
+1903,Savannah,Damongo,42,35-44,Female,postgraduate,691.81,6,7.0,146.47,6.1,7.5,6.2
+1904,Ahafo,Asutifi South,27,25-34,Female,postgraduate,894.59,6,39.0,79.73,5.8,5.3,7.3
+1905,Ashanti,Mampong,29,25-34,Male,postgraduate,1626.45,5,14.0,74.4,10.0,5.7,8.0
+1906,Western North,Juaboso,29,25-34,Female,basic,441.65,7,17.0,105.53,7.3,5.8,7.1
+1907,Northern,Yendi,18,18-24,Female,tertiary,1453.52,7,22.0,138.97,10.7,7.6,5.5
+1908,Central,Kasoa,44,35-44,Female,postgraduate,661.57,5,19.0,63.37,6.9,8.2,5.9
+1909,Northern,Tamale,34,25-34,Female,secondary,1021.36,5,16.0,171.32,10.5,4.2,4.4
+1910,Northern,Yendi,23,18-24,Female,secondary,688.93,7,32.0,62.3,6.2,3.7,9.7
+1911,Greater Accra,Kasoa East,30,25-34,Male,tertiary,1242.77,5,14.0,85.87,9.5,6.8,7.8
+1912,Upper West,Tumu,28,25-34,Female,basic,723.59,10,17.0,89.79,8.3,10.0,3.5
+1913,Savannah,Damongo,18,18-24,Male,basic,2011.15,10,36.0,67.69,15.1,9.8,6.8
+1914,Northern,Tamale,30,25-34,Male,secondary,1047.17,7,14.0,85.4,10.2,6.0,8.6
+1915,Ashanti,Obuasi,35,35-44,Male,basic,1781.12,5,10.0,83.78,13.0,5.5,5.3
+1916,Oti,Dambai,56,55-65,Female,tertiary,374.63,10,41.0,122.61,11.3,8.7,5.6
+1917,Greater Accra,Accra,42,35-44,Male,basic,1134.88,7,26.0,210.32,11.3,8.2,3.1
+1918,Northern,Tamale,30,25-34,Male,postgraduate,1559.77,7,26.0,81.03,9.4,8.6,4.5
+1919,Central,Komenda,44,35-44,Male,basic,762.43,5,32.0,141.86,6.9,4.8,4.8
+1920,Northern,Savelugu,18,18-24,Male,secondary,959.93,8,24.0,88.07,8.8,6.7,6.1
+1921,Savannah,Damongo,22,18-24,Female,tertiary,776.43,9,35.0,52.59,10.2,10.0,6.8
+1922,North East,Walewale,19,18-24,Male,basic,995.89,4,16.0,139.63,9.7,2.9,5.3
+1923,Greater Accra,Madina,21,18-24,Female,basic,2442.86,6,33.0,87.6,12.3,5.4,5.7
+1924,Oti,Dambai,32,25-34,Female,postgraduate,2219.95,9,22.0,111.72,14.8,10.0,6.7
+1925,Oti,Kadjebi,24,18-24,Male,secondary,1698.89,7,32.0,125.12,14.2,8.6,5.4
+1926,Upper West,Tumu,28,25-34,Female,tertiary,1759.06,7,22.0,114.13,11.2,6.6,5.6
+1927,Western North,Bibiani,31,25-34,Male,postgraduate,1293.23,6,25.0,104.14,11.9,6.2,6.3
+1928,North East,Walewale,40,35-44,Male,secondary,1205.91,8,30.0,119.39,13.6,7.8,6.4
+1929,Ashanti,Ejisu,47,45-54,Female,basic,1249.11,9,42.0,114.01,12.8,10.0,8.5
+1930,Volta,Kpando,32,25-34,Male,secondary,970.17,4,8.0,97.82,6.9,4.0,1.8
+1931,Volta,Hohoe,25,25-34,Male,basic,1030.9,6,16.0,105.79,12.2,5.1,6.0
+1932,Volta,Hohoe,21,18-24,Male,secondary,1792.31,6,15.0,100.77,6.4,6.5,1.3
+1933,Northern,Savelugu,30,25-34,Female,tertiary,1113.47,3,5.0,115.62,4.2,1.8,5.6
+1934,Bono East,Kintampo,19,18-24,Female,basic,3027.67,8,50.0,90.59,14.3,10.0,4.7
+1935,Volta,Keta,24,18-24,Female,basic,1445.55,9,28.0,58.08,11.9,8.8,1.8
+1936,Volta,Keta,25,25-34,Female,basic,1378.97,8,28.0,92.49,12.0,7.9,7.2
+1937,Ahafo,Asutifi South,34,25-34,Male,postgraduate,981.29,6,13.0,84.34,7.1,6.7,6.3
+1938,Bono East,Kintampo,18,18-24,Male,secondary,847.16,8,35.0,112.2,11.0,9.7,7.7
+1939,Bono East,Techiman,22,18-24,Female,basic,615.16,7,16.0,82.2,8.2,7.1,1.6
+1940,Bono East,Techiman,29,25-34,Male,secondary,385.02,6,17.0,127.06,9.5,7.5,4.5
+1941,Eastern,Koforidua,18,18-24,Female,tertiary,1063.38,4,11.0,248.13,8.9,7.4,7.1
+1942,Ahafo,Asunafo North,24,18-24,Female,secondary,937.98,8,38.0,112.29,13.8,9.5,4.3
+1943,Bono,Sunyani,21,18-24,Female,basic,892.39,2,16.0,70.79,3.7,3.0,3.3
+1944,Oti,Jasikan,27,25-34,Female,basic,1027.68,7,28.0,141.09,6.1,6.7,6.1
+1945,North East,Nalerigu,32,25-34,Female,tertiary,1487.16,9,18.0,73.32,13.5,10.0,6.4
+1946,Northern,Savelugu,25,25-34,Male,secondary,672.29,7,18.0,59.36,6.3,5.3,3.2
+1947,Western North,Bodi,32,25-34,Male,basic,1777.37,5,35.0,90.33,11.1,4.6,6.1
+1948,North East,Nalerigu,27,25-34,Male,secondary,841.86,4,13.0,113.53,6.7,3.1,4.0
+1949,Volta,Kpando,38,35-44,Male,postgraduate,1115.76,5,22.0,70.23,7.3,6.0,8.6
+1950,Upper East,Navrongo,32,25-34,Male,basic,548.49,5,8.0,94.32,6.2,4.0,3.4
+1951,Ahafo,Asutifi South,29,25-34,Male,basic,1063.69,7,17.0,92.95,11.4,3.7,3.1
+1952,Western North,Bibiani,34,25-34,Female,secondary,2007.93,4,30.0,160.29,6.4,5.0,7.2
+1953,Western North,Bibiani,46,45-54,Female,postgraduate,1464.38,6,23.0,84.4,9.2,5.0,4.6
+1954,Upper West,Tumu,20,18-24,Female,basic,762.07,4,27.0,127.09,3.8,3.1,8.4
+1955,Volta,Kpando,22,18-24,Female,tertiary,2290.47,7,28.0,140.19,12.8,6.1,10.0
+1956,Eastern,Akim Oda,40,35-44,Male,secondary,2022.46,9,31.0,107.02,14.2,10.0,7.0
+1957,Central,Kasoa,35,35-44,Female,postgraduate,611.25,7,15.0,70.83,8.4,6.6,5.3
+1958,Greater Accra,Accra,34,25-34,Male,postgraduate,761.27,4,21.0,108.09,3.7,1.7,5.2
+1959,Northern,Tolon,18,18-24,Female,tertiary,841.07,6,32.0,114.68,9.3,9.3,4.4
+1960,Bono East,Nkoranza,28,25-34,Female,tertiary,989.73,7,24.0,60.64,13.1,9.2,5.8
+1961,Oti,Kadjebi,36,35-44,Female,secondary,587.18,2,16.0,71.36,4.5,1.6,8.5
+1962,Oti,Dambai,25,25-34,Female,postgraduate,953.13,5,18.0,64.03,7.5,4.2,5.9
+1963,Upper West,Wa,43,35-44,Male,basic,800.8,8,32.0,59.64,12.8,5.9,7.8
+1964,North East,Walewale,26,25-34,Female,tertiary,1979.28,8,35.0,48.35,11.6,7.6,5.2
+1965,Upper East,Bawku,31,25-34,Female,postgraduate,2130.96,3,21.0,129.94,5.3,2.3,7.7
+1966,Western North,Sefwi Wiawso,40,35-44,Female,tertiary,1271.42,7,17.0,75.01,8.5,5.8,6.8
+1967,Western,Sekondi-Takoradi,38,35-44,Male,basic,636.92,7,33.0,56.51,8.0,6.0,6.4
+1968,Ahafo,Asutifi South,34,25-34,Female,basic,702.08,3,11.0,73.43,4.7,2.4,10.0
+1969,Volta,Keta,26,25-34,Female,postgraduate,2946.28,10,47.0,123.06,21.0,10.0,7.2
+1970,Eastern,Koforidua,39,35-44,Female,tertiary,2230.56,8,24.0,119.06,17.0,8.4,4.8
+1971,Greater Accra,Madina,22,18-24,Male,secondary,548.43,5,29.0,153.58,7.9,7.4,4.5
+1972,Upper West,Wa,22,18-24,Male,postgraduate,696.86,6,17.0,99.31,8.9,6.8,6.4
+1973,Oti,Jasikan,18,18-24,Female,secondary,1443.52,9,23.0,98.08,14.5,7.0,4.5
+1974,Northern,Savelugu,35,35-44,Male,basic,788.33,8,19.0,110.3,12.4,9.2,4.3
+1975,Ashanti,Obuasi,23,18-24,Female,postgraduate,1492.39,7,26.0,120.64,9.4,6.7,8.0
+1976,North East,Chereponi,18,18-24,Male,secondary,720.79,8,14.0,77.96,8.4,9.1,5.6
+1977,Bono East,Atebubu,19,18-24,Female,basic,1155.94,9,36.0,131.57,12.2,10.0,3.9
+1978,Volta,Ho,47,45-54,Female,basic,1215.75,5,20.0,138.14,6.2,4.2,1.9
+1979,Central,Kasoa,25,25-34,Male,tertiary,1422.94,5,26.0,119.72,9.2,1.7,9.6
+1980,North East,Bunkpurugu,46,45-54,Female,tertiary,1444.23,5,13.0,59.4,2.5,5.6,4.7
+1981,Greater Accra,Accra,28,25-34,Female,basic,660.8,1,25.0,127.82,2.5,1.6,5.0
+1982,Bono,Berekum,44,35-44,Female,postgraduate,951.01,5,25.0,89.3,9.8,5.3,4.8
+1983,Upper East,Bawku,34,25-34,Female,basic,998.77,8,30.0,116.57,8.2,3.3,4.9
+1984,Central,Komenda,34,25-34,Female,secondary,801.46,9,30.0,68.21,8.7,10.0,5.8
+1985,Savannah,Damongo,32,25-34,Male,postgraduate,663.06,6,34.0,100.96,8.3,9.4,8.2
+1986,Bono East,Techiman,45,45-54,Male,tertiary,1330.78,5,30.0,150.0,8.2,6.8,5.7
+1987,Volta,Hohoe,29,25-34,Female,basic,1269.38,8,27.0,80.09,12.0,9.6,4.1
+1988,Upper East,Bawku,30,25-34,Female,secondary,701.89,4,18.0,52.43,5.1,5.8,3.2
+1989,Ahafo,Goaso,23,18-24,Male,postgraduate,1834.31,10,20.0,69.87,13.5,9.4,3.1
+1990,Western North,Sefwi Wiawso,18,18-24,Female,postgraduate,1705.27,5,31.0,154.72,9.2,4.7,3.9
+1991,Western North,Juaboso,22,18-24,Male,secondary,1022.3,3,10.0,57.05,3.1,4.9,8.1
+1992,Oti,Kadjebi,24,18-24,Male,tertiary,1446.04,9,30.0,111.0,12.3,7.7,6.8
+1993,Ahafo,Tano North,18,18-24,Male,postgraduate,1960.04,10,54.0,170.97,13.1,10.0,7.2
+1994,Northern,Yendi,21,18-24,Male,secondary,808.76,10,10.0,115.39,11.6,10.0,8.7
+1995,Central,Mfantsiman,18,18-24,Male,postgraduate,745.53,5,24.0,159.31,3.0,4.3,3.8
+1996,Volta,Ho,22,18-24,Female,tertiary,2079.78,9,31.0,118.4,14.7,7.8,4.7
+1997,Oti,Jasikan,38,35-44,Female,secondary,1166.77,9,19.0,76.15,15.7,7.0,4.3
+1998,Bono,Berekum,44,35-44,Male,tertiary,890.22,10,30.0,139.32,16.6,10.0,4.6
+1999,Upper West,Jirapa,18,18-24,Female,tertiary,1663.96,5,15.0,97.51,7.7,4.2,5.2
+2000,Upper East,Bolgatanga,31,25-34,Female,basic,1226.45,4,13.0,95.76,6.8,4.2,5.2
